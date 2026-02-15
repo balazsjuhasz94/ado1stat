@@ -211,6 +211,27 @@
         .footer a {
             color: #0969da;
         }
+
+        .viz-embed {
+            width: 100%;
+            height: 800px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            overflow: hidden;
+            margin: 16px 0;
+        }
+
+        .viz-embed iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        @media (max-width: 768px) {
+            .viz-embed {
+                height: 600px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -225,12 +246,10 @@
         </div>
     </nav>
 
-    <div class="hero">
-        <h2>Civil Szervezetek ADÓ 1% Elemzése</h2>
-        <p>5000 magyar civil szervezet támogatásának részletes vizualizációja</p>
-    </div>
-
     <div class="container">
+        <h1>Civil Szervezetek ADÓ 1% Elemzése</h1>
+        <p>5000 magyar civil szervezet támogatásának részletes vizualizációja</p>
+
         <div class="stats-summary">
             <div class="stat-card">
                 <h3>5,000</h3>
@@ -280,30 +299,29 @@
         </div>
 
         <div class="content-section">
-            <h2>Vizualizációk</h2>
-            <p>Az interaktív diagramok segítenek megérteni a civil szervezetek eloszlását, támogatási arányait és földrajzi megoszlását.</p>
+            <h2>Szervezetek Kategorizálása</h2>
+            <p>Hierarchikus sunburst diagram - Kattints a kategóriákra a részletek kibontásához. Használd a gombokat különböző színezési módok között váltáshoz.</p>
 
-            <div class="visualizations">
-                <div class="viz-card">
-                    <div class="viz-card-header">
-                        <h3>Szervezetek Kategorizálása</h3>
-                        <p>Hierarchikus nézet kategóriák szerint</p>
-                    </div>
-                    <div class="viz-card-body">
-                        <a href="sunburst_chart_ALL_5000_go_interactive.html">Megnyitás →</a>
-                    </div>
-                </div>
-
-                <div class="viz-card">
-                    <div class="viz-card-header">
-                        <h3>Térkép Nézet</h3>
-                        <p>Földrajzi eloszlás Magyarországon</p>
-                    </div>
-                    <div class="viz-card-body">
-                        <a href="map_visualization_ALL_5000_interactive.html">Megnyitás →</a>
-                    </div>
-                </div>
+            <div class="viz-embed">
+                <iframe src="sunburst_chart_ALL_5000_go_interactive.html" frameborder="0"></iframe>
             </div>
+
+            <p style="text-align: center; margin-top: 16px; font-size: 14px; color: #57606a;">
+                <a href="sunburst_chart_ALL_5000_go_interactive.html" target="_blank">Megnyitás teljes képernyőn →</a>
+            </p>
+        </div>
+
+        <div class="content-section">
+            <h2>Térkép Nézet</h2>
+            <p>Földrajzi eloszlás Magyarországon - Használd a lenyíló menüket kategóriák szerinti szűréshez. Az egérkerékkel zoomolhatsz.</p>
+
+            <div class="viz-embed">
+                <iframe src="map_visualization_ALL_5000_interactive.html" frameborder="0"></iframe>
+            </div>
+
+            <p style="text-align: center; margin-top: 16px; font-size: 14px; color: #57606a;">
+                <a href="map_visualization_ALL_5000_interactive.html" target="_blank">Megnyitás teljes képernyőn →</a>
+            </p>
         </div>
     </div>
 
