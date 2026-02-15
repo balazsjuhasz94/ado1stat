@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+organizations_by_adoszam/
+*.txt
+!requirements.txt
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API keys
+api.txt
+
+# Keep only HTML visualizations
+!index.html
+!sunburst_chart_ALL_5000_go.html
+!sunburst_chart_ALL_5000_go_salary.html
+!sunburst_chart_ALL_5000_go_interactive.html
+!map_visualization_ALL_5000_interactive.html
