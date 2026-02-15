@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vizualizációk - ADÓ 1% Statisztikák</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f7fa;
+            color: #2c3e50;
+            line-height: 1.6;
+        }
+
+        nav {
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav h1 {
+            font-size: 1.5em;
+            color: #2c3e50;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 30px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #34495e;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #3498db;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #3498db 0%, #2c3e50 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .hero h2 {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+
+        .hero p {
+            font-size: 1.2em;
+            opacity: 0.95;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .visualizations {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .viz-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .viz-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 25px rgba(0,0,0,0.15);
+        }
+
+        .viz-card-header {
+            background: linear-gradient(135deg, #3498db 0%, #2c3e50 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .viz-card-header h3 {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+        }
+
+        .viz-card-header p {
+            opacity: 0.9;
+            font-size: 1em;
+            line-height: 1.6;
+        }
+
+        .viz-card-body {
+            padding: 30px;
+            text-align: center;
+        }
+
+        .viz-card-body ul {
+            list-style: none;
+            margin-bottom: 25px;
+            text-align: left;
+        }
+
+        .viz-card-body ul li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+            color: #555;
+        }
+
+        .viz-card-body ul li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #3498db;
+            font-weight: bold;
+        }
+
+        .viz-card a {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            padding: 14px 40px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1em;
+            transition: background 0.3s;
+        }
+
+        .viz-card a:hover {
+            background: #2980b9;
+        }
+
+        .footer {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            margin-top: 60px;
+        }
+
+        .footer p {
+            opacity: 0.9;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <h1>ADÓ 1% Statisztikák</h1>
+            <ul>
+                <li><a href="index.html">Kezdőlap</a></li>
+                <li><a href="visualizations.html">Vizualizációk</a></li>
+                <li><a href="analyses.html">Elemzések</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="hero">
+        <h2>Interaktív Vizualizációk</h2>
+        <p>Fedezd fel a civil szervezetek kategorizálását és földrajzi eloszlását</p>
+    </div>
+
+    <div class="container">
+        <div class="visualizations">
+            <div class="viz-card">
+                <div class="viz-card-header">
+                    <h3>Szervezetek Kategorizálása</h3>
+                    <p>Hierarchikus sunburst diagram - Kategóriák szerinti megoszlás és támogatási arányok</p>
+                </div>
+                <div class="viz-card-body">
+                    <ul>
+                        <li>9 fő kategória, 49 alkategória</li>
+                        <li>Interaktív színezés: kategória vagy támogatás alapján</li>
+                        <li>Kattintható szegmensek részletes információkkal</li>
+                        <li>Historikus adatok évenkénti bontásban</li>
+                    </ul>
+                    <a href="sunburst_chart_ALL_5000_go_interactive.html">Megnyitás →</a>
+                </div>
+            </div>
+
+            <div class="viz-card">
+                <div class="viz-card-header">
+                    <h3>Térkép Nézet</h3>
+                    <p>Földrajzi eloszlás - Szervezetek földrajzi megoszlása Magyarországon</p>
+                </div>
+                <div class="viz-card-body">
+                    <ul>
+                        <li>4,634 szervezet koordinátái</li>
+                        <li>Szűrés fő- és alkategóriák szerint</li>
+                        <li>Pontméret = támogatás nagysága</li>
+                        <li>Interaktív zoom és pan funkciók</li>
+                    </ul>
+                    <a href="map_visualization_ALL_5000_interactive.html">Megnyitás →</a>
+                </div>
+            </div>
+        </div>
+
+        <div style="background: white; padding: 30px; border-radius: 10px; margin-top: 40px; box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
+            <h2 style="color: #2c3e50; margin-bottom: 20px;">Használati útmutató</h2>
+            <p style="color: #555; line-height: 1.9; margin-bottom: 15px;">
+                <strong>Sunburst diagram:</strong> Kattints a kategóriákra a felfedezéshez. A belső kör a főkategóriákat, a külső körök az alkategóriákat mutatják. Az egér kurzorával való áthaladás (hover) részletes információkat jelenít meg a szervezetről és támogatási előzményeiről.
+            </p>
+            <p style="color: #555; line-height: 1.9;">
+                <strong>Térkép:</strong> Használd a lenyíló menüket kategóriák szerinti szűréshez. Az egérkerékkel zoomolhatsz, a pontok mérete a támogatás nagyságát jelzi. Kattints egy pontra a szervezet részletes adatainak megtekintéséhez.
+            </p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p><strong>Adatforrás:</strong> <a href="https://civil.info.hu" target="_blank" style="color: #3498db;">civil.info.hu</a> | <a href="https://nav.gov.hu" target="_blank" style="color: #3498db;">NAV (Nemzeti Adó- és Vámhivatal)</a></p>
+        <p><strong>Utolsó frissítés:</strong> 2026 február</p>
+    </div>
+</body>
+</html>

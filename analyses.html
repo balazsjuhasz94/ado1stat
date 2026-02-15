@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elemzések - ADÓ 1% Statisztikák</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f7fa;
+            color: #2c3e50;
+            line-height: 1.6;
+        }
+
+        nav {
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav h1 {
+            font-size: 1.5em;
+            color: #2c3e50;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 30px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #34495e;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #3498db;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #3498db 0%, #2c3e50 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .hero h2 {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+
+        .hero p {
+            font-size: 1.2em;
+            opacity: 0.95;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .content-section {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            margin-bottom: 30px;
+        }
+
+        .content-section h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+
+        .content-section h3 {
+            color: #34495e;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+        }
+
+        .content-section p {
+            color: #555;
+            line-height: 1.9;
+            margin-bottom: 15px;
+        }
+
+        .placeholder {
+            background: #ecf0f1;
+            padding: 60px 40px;
+            border-radius: 10px;
+            text-align: center;
+            color: #7f8c8d;
+        }
+
+        .placeholder h3 {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+        }
+
+        .placeholder p {
+            font-size: 1.1em;
+        }
+
+        .footer {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            margin-top: 60px;
+        }
+
+        .footer p {
+            opacity: 0.9;
+            margin-bottom: 10px;
+        }
+
+        .analysis-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .analysis-card {
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 25px;
+            transition: border-color 0.3s;
+        }
+
+        .analysis-card:hover {
+            border-color: #3498db;
+        }
+
+        .analysis-card h4 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+
+        .analysis-card p {
+            color: #7f8c8d;
+            font-style: italic;
+        }
+
+        .coming-soon {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <h1>ADÓ 1% Statisztikák</h1>
+            <ul>
+                <li><a href="index.html">Kezdőlap</a></li>
+                <li><a href="visualizations.html">Vizualizációk</a></li>
+                <li><a href="analyses.html">Elemzések</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="hero">
+        <h2>Részletes Elemzések</h2>
+        <p>Mélyreható elemzések a civil szervezetek támogatásáról</p>
+    </div>
+
+    <div class="container">
+        <div class="content-section">
+            <h2>Tervezett Elemzések</h2>
+            <p>
+                Ezen az oldalon hamarosan részletes elemzések jelennek meg az ADÓ 1% felajánlásokkal kapcsolatban.
+                Az alábbi témakörök feldolgozása folyamatban van:
+            </p>
+
+            <div class="analysis-grid">
+                <div class="analysis-card">
+                    <h4>Kategóriák Részletes Elemzése</h4>
+                    <p>Mely kategóriák kapják a legtöbb támogatást? Kategóriánkénti részletes statisztikák és trendek.</p>
+                    <span class="coming-soon">Hamarosan</span>
+                </div>
+
+                <div class="analysis-card">
+                    <h4>Földrajzi Eloszlás</h4>
+                    <p>Hogyan oszlanak meg a támogatások Magyarország megyéi és városai között?</p>
+                    <span class="coming-soon">Hamarosan</span>
+                </div>
+
+                <div class="analysis-card">
+                    <h4>Historikus Trendek</h4>
+                    <p>Hogyan változtak a felajánlások az elmúlt években? Növekvő vagy csökkenő trendek.</p>
+                    <span class="coming-soon">Hamarosan</span>
+                </div>
+
+                <div class="analysis-card">
+                    <h4>Top Szervezetek</h4>
+                    <p>Melyek a legtöbb támogatást kapó szervezetek? Részletes profilok és elemzések.</p>
+                    <span class="coming-soon">Hamarosan</span>
+                </div>
+
+                <div class="analysis-card">
+                    <h4>Felajánlók Száma vs. Összeg</h4>
+                    <p>Összefüggés a felajánlók száma és a kapott összeg között. Átlagos felajánlások elemzése.</p>
+                    <span class="coming-soon">Hamarosan</span>
+                </div>
+
+                <div class="analysis-card">
+                    <h4>Kategórián Belüli Verseny</h4>
+                    <p>Hogyan oszlanak meg a támogatások egy kategórián belül? Koncentráció elemzése.</p>
+                    <span class="coming-soon">Hamarosan</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="placeholder">
+            <h3>🔧 Fejlesztés alatt</h3>
+            <p>Az elemzések elkészítése folyamatban van. Hamarosan részletes statisztikák és grafikonok lesznek elérhetők.</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p><strong>Adatforrás:</strong> <a href="https://civil.info.hu" target="_blank" style="color: #3498db;">civil.info.hu</a> | <a href="https://nav.gov.hu" target="_blank" style="color: #3498db;">NAV (Nemzeti Adó- és Vámhivatal)</a></p>
+        <p><strong>Utolsó frissítés:</strong> 2026 február</p>
+    </div>
+</body>
+</html>
