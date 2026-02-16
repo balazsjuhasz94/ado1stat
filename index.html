@@ -330,12 +330,12 @@
         <p><strong>Utolsó frissítés:</strong> 2026 február</p>
         <p>Az adatok nyilvánosan elérhetőek és kizárólag statisztikai célra kerültek feldolgozásra</p>
 
-        <!-- Visitor counter - Replace YOUR-CODE with your GoatCounter code -->
+        <!-- Visitor counter -->
         <div style="margin-top: 16px; padding-top: 16px; border-top: 1px solid #d0d7de;">
             <p style="font-size: 11px;">
                 <strong>Látogatók:</strong>
-                <span id="stats-today">...</span> ma |
-                <span id="stats-total">...</span> összes
+                <span id="stats-unique">...</span> egyedi |
+                <span id="stats-total">...</span> megtekintés
             </p>
         </div>
     </div>
@@ -348,20 +348,23 @@
     <script>
         async function updateStats() {
             try {
-                // Fetch total visits for this site
+                // Fetch stats for this site
                 const response = await fetch('https://balazsjuhaszcounter.goatcounter.com/counter/.json');
                 const data = await response.json();
 
-                if (data && data.count_unique) {
-                    document.getElementById('stats-total').textContent = data.count_unique.toLocaleString('hu-HU');
+                if (data) {
+                    // Total pageviews
+                    if (data.count) {
+                        document.getElementById('stats-total').textContent = data.count.toLocaleString('hu-HU');
+                    }
+                    // Unique visitors
+                    if (data.count_unique) {
+                        document.getElementById('stats-unique').textContent = data.count_unique.toLocaleString('hu-HU');
+                    }
                 }
-
-                // For "today" stats, we'd need a different API endpoint
-                // GoatCounter's public API is limited, so we'll just show total for now
-                document.getElementById('stats-today').textContent = '-';
             } catch (e) {
                 console.log('Stats fetch error:', e);
-                document.getElementById('stats-today').textContent = '-';
+                document.getElementById('stats-unique').textContent = '-';
                 document.getElementById('stats-total').textContent = '-';
             }
         }
