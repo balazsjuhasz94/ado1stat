@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19253615",
+  "scraped_at": "2026-02-21T13:21:06.639965",
+  "organization_id": "301215",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FELELŐSEN A JÖVŐNKÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8500 Pápa, Bástya utca 6. I./1.",
+      "adószám": "19253615-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-10",
+      "statisztikai_számjel": "19253615-9499-569-19",
+      "x_koordináta": "47.3397796",
+      "y_koordináta": "17.4638555"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Kiemelten kezelje a szociális kérdéseket, segítse a nagycsaládosokat, a csonka családokat, a rehabilitációra szoruló gyermekeket és felnőtteket. Ennek érdekében tegyen meg mindent, hogy minél jobb lakhatási körülmények között élhessenek a lakók a lakótelepen. Segítse elő eszközeivel a gyermekek életkörülményeinek javítását, támogassa azon szerveket, intézményeket, amelyek a gyermek korosztályért tesznek és kötelezte el magát. Fordítson hangsúlyt a karitatív célok megvalósítására, istápolja a betegeket, a rászorulókat, az elesetteket, a társadalom perifériájára sodródott embereket. Segítse - egyedi döntés alapján - a szociálisan rászoruló gyermekek beiskolázását, tanulmányi munkáját. Járuljon hozzá a település /illetve / és régió/ szociális céljainak megvalósításához. Fordítson hangsúlyt a rendelkezésére álló eszközeivel a gyermekek, az ifjúság nevelésére. Segítse a magyar oktatást, a kultúrát, a nevelést, a közművelődést, támogassa az itthon élő más nemzetiségek taníttatását. (Az alapítvány további céljait az alapító okirat 5. pontja tartalmazza)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001852",
+      "régi_nyilvántartási_száma": "1852/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-07-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Galyas",
+        "Képviselő keresztneve": "Bertalan",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "296 805 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "419 870 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

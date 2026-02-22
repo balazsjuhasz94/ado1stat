@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18345739",
+  "scraped_at": "2026-02-14T14:03:39.147092",
+  "organization_id": "74133",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hajós Város Önkéntes Tűzoltó Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6344 Hajós, Rákóczi utca 12.",
+      "x_koordináta": "46.4029169",
+      "y_koordináta": "19.1144346",
+      "adószám": "18345739-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-02-28",
+      "statisztikai_számjel": "18345739-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "Tűzvédelmi feladatok helyi megvalósításának elősegítése, ennek ellátásához önként jelentkezők szervezése, egyesítése; tagjainak közösségi életre nevelése; tagjai tűzvédelmi szakismereteinek rendszeres növelése, a helyi tűzmegelőzési és tűzoltási tevékenység biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0000133",
+      "régi_nyilvántartási_száma": "133/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-01-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bányai",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 008 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "628 063 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "837 676 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

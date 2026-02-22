@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19303071",
+  "scraped_at": "2026-02-14T13:52:37.844361",
+  "organization_id": "366306",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Segédkezek Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Verseci utca 1-15.",
+      "adószám": "19303071-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-18",
+      "statisztikai_számjel": "19303071-8899-569-07",
+      "x_koordináta": "47.1944099",
+      "y_koordináta": "18.4342423"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Arconic-Köfém Mill Products Hungary Korlátolt Felelősségű Társaságnál munkaviszonyban lévő, balesetet szenvedett munkavállalók, illetve családjuk megsegítése mindazon az anyagi támogatáson felül, amelyet egyéb esetekbena társaság, illetve más szervezetek egyébként is juttatnak. Kivételesen indokolt esetben az önhibáján kívül anyagilag súlyos helyzetbe került munkavállaló, illetve családja megsegítése. Az Alapítvány az alábbi közhasznú tevékenységeket folytatja: szociális tevékenység, családsegítés. Az Alapítvány közhasznú tevékenységeit egyrészt - a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. tv. 13. § (1) bekezdés 8. pontjában foglalt települési önkormányzati közfeladathoz, valamint a - a családok védelméről szóló 2011. évi CCXI. tv. 2. § (2) bekezdés, 4. § (2) bekezdés, 6. § (1) bekezdéseiben meghatározott állami közfeladathoz kapcsolódóan végzi.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001170",
+      "régi_nyilvántartási_száma": "1170/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-03-23",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-15",
+      "bankszámlaszám": "11736006-21471557",
+      "számlavezető_pénzintézet_neve": "OTP Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Virág",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kishonty",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sebestyén",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "178 655 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "228 308 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "175 740 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "911 938 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Segédkezek Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

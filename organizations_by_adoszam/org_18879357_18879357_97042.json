@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18879357",
+  "scraped_at": "2026-02-14T13:24:01.435156",
+  "organization_id": "97042",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "HELP Mentőkutyás Egyesület",
+      "rövid_név": "HMKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3060 Pásztó, Derkovits út 11.",
+      "x_koordináta": "47.9293933",
+      "y_koordináta": "19.7060253",
+      "adószám": "18879357-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-05",
+      "statisztikai_számjel": "18879357-9312-521-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Egyesület célja, hogy tagjai a speciális felkészültségük és ismereteik felasználásával, különösen a személyek mentése, és katasztrófavédelem területén olyan tevékenységeket folytassanak, amelyek a közösség számára hasznosak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0002076",
+      "régi_nyilvántartási_száma": "2076/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-09-23",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bernát",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2022-08-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "160",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 100 663 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 110 827 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "131",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 230 380 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

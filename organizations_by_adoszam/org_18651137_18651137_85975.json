@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18651137",
+  "scraped_at": "2026-02-14T12:20:51.738497",
+  "organization_id": "85975",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mopszokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1119 Budapest, Andor utca 21/ C. fszt./2.",
+      "x_koordináta": "47.4567388",
+      "y_koordináta": "19.0341588",
+      "adószám": "18651137-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-06-15",
+      "statisztikai_számjel": "18651137-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az Alapítvány célja a Mopsz fajtájú kutyák mentése, közterületről való befogása, átvétele, elhelyezése, megfelelő ellátás biztosítása. A szaporítóknak és az emberi hanyagságnak áldozatul esett mopszok megfelelő hozzáértéssel, orvosi háttérrel történő ellátása, szocializációja ideiglenes befogadók segítségével, majd megfelelő örökbefogadók, családok keresése a kutyák számára. Az alapítvány célja továbbá a tudatos és felelős kutyatartással kapcsolatos alapítói nézetek népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012020",
+      "régi_nyilvántartási_száma": "12020/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-08-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-06-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fadgyas",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "1214",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 214 595 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "1518",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 047 960 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1786",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 175 365 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1718",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 772 194 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1868",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 287 616 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "902",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 316 533 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "816",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 336 019 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOPSZOKÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOPSZOKÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOPSZOKÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOPSZOKÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

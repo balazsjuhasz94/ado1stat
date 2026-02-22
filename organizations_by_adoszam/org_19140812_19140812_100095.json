@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "19140812",
+  "scraped_at": "2026-02-21T12:55:27.508530",
+  "organization_id": "100095",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csipke Lovas Egyesület",
+      "rövid_név": "CsLE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2500 Esztergom, Diósvölgy dűlő 9456.",
+      "x_koordináta": "47.7654517",
+      "y_koordináta": "18.7732834",
+      "adószám": "19140812-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-26",
+      "statisztikai_számjel": "19140812-8551-529-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "- A tagok és érdeklődők számára rendszeres testedzés biztosítása egészségmegőrzés céljából, - A tagok és a lovaik számára biztonságos és szórakoztató időtöltés feltételeinek a megteremtése, - Fejlesztő foglalkozások lebonyolítása; a gyermekek iskolai-óvodai felzárkóztatásának segítése, - Az egyesülettel kapcsolatban lévő oktatási, nevelési intézmények tanulóinak és hátrányos helyzetű, rászoruló fiataljainak lovaglási és állatasszisztált fejlesztő lehetőségek biztosítása, - A gyerekekben a felelős állattartás jelentőségének erősítése, - Lovaglással kapcsolatos oktatási, nevelési, kulturális és sport tevékenység végzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002163",
+      "régi_nyilvántartási_száma": "2163/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-11-19",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Búsné Makovics",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "0125",
+        "Leírás": "Egyéb gyümölcs, héjastermésű termesztése"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 552 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "509 540 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "496 508 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "460 231 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSIPKE LOVAS EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18521054",
+  "scraped_at": "2026-02-21T14:26:33.552735",
+  "organization_id": "109377",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Maros Télisport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6900 Makó, Vásárhelyi utca 65/A.",
+      "x_koordináta": "46.2197249",
+      "y_koordináta": "20.483035",
+      "adószám": "18521054-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-02-24",
+      "statisztikai_számjel": "18521054-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportegyesület célja, hogy az amatőr és hivatásos sportolók, valamint az ifjúság részére rendszeres testedzési és sportolási lehetőséget biztosítson a téli sportok gyakorlására, úgy mint a jégkorong, jégtánc, curling és a hozzá kapcsolódó száraz edzések, inline görhoki sportág tekintetében és a sporttevékenység feltételeinek megteremtése, sportversenyek szervezése útján biztosítsa és népszerűsítse az egészséges életmódot.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0002951",
+      "régi_nyilvántartási_száma": "2951/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-27",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Asztalos",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-26",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gyarmati",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 218 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 012 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "186 038 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "222 025 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 371 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Maros Télisport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Maros Télisport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

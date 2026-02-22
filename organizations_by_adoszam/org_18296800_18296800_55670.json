@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18296800",
+  "scraped_at": "2026-02-21T12:28:50.018343",
+  "organization_id": "55670",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Szépvölgy\" Judo-, Harcművészeti és Kulturális Sportegyesület",
+      "rövid_név": "\"Szépvölgy\" Judo Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1034 Budapest, Nagyszombat utca 27. III. em./10.",
+      "x_koordináta": "47.5400687",
+      "y_koordináta": "19.015977",
+      "adószám": "18296800-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-10-03",
+      "statisztikai_számjel": "18296800-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése. Versenysport, a tehetséggondozás, utánpótlás-nevelés és a szabadidősport tevékenységek szervezés, ezen tevékenységek feltételeinek megteremtése. A judo sport, illetve általában harcművészete és küzdőportok művelése és népszerűsítése. Rendszeres sportolásra, egészséges életmódra nevelés, rekreáció. Oktatás, képzés, képességfejlesztés, ismeretterjesztés, kulturális tevékenység. Együttműködés azonos vagy hasonló célú sportegyesületekkel, más társadalmi szervezetekkel. Versenyek, bemutatók, szemináriumok, edzőtáborok, vizsgafelkészítő képzések szervezése és lebonyolítása, amelyeken az egyesület tagjain kívül más személyek is részt vehetnek. Diáksport és szabadidősport bázisának kiszélesítése, fejlesztése. A fenti közérdekű célok megvalósítása érdekében kiegészítő jellegű gazdasági tevékenység folytatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0014904",
+      "régi_nyilvántartási_száma": "14904/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-03",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kalocsa",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "165 113 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 658 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "149 870 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "468 098 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "432 367 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "558 572 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szépvölgy Judo Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Szépvölgy' Judo Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Szépvölgy\" Judo,-Harcművészeti és Kultúrális S.E."
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

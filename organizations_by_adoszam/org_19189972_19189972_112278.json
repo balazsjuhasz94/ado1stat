@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19189972",
+  "scraped_at": "2026-02-14T12:25:44.536126",
+  "organization_id": "112278",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KOLOSCSODA GYÓGYULÁSÁÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Esthajnal utca 24.",
+      "x_koordináta": "47.9482512",
+      "y_koordináta": "21.6874277",
+      "adószám": "19189972-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-06",
+      "statisztikai_számjel": "19189972-9499-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány célja a Duchenne izomdisztrófia betegségben szenvedő Kardos Kolos (született: Debrecen, 2017. 12. 27., anyja neve: Ledner Nikoletta Edit) kedvezményezett gyógyítása, gyógykezelésének és családjának támogatása, életkörülményének, életminőségének javítása, gyógyulásra való esélyének a növelése. Az alapítvány célja, hogy adomány és támogatásgyűjtési kampányok révén forrást teremtsen a DMD-vel kapcsolatos gyógyító tevékenységekre, valamint a gyógykezelésekkel összefüggő valamennyi járulékos költség: a támogatott személy és kísérői utazási és szállásköltségei biztosítására. Az alapítvány célja, hogy részt vállaljon a kedvezményezett ellátásával kapcsolatban felmerült egyéb egészségügyi, szociális feladatok ellátásában, ezen tevékenységek anyagi támogatásában. Az alapítvány célja a DMD-vel összefüggő minőségi, hatékony rehabilitáció elősegítése. Az alapítvány célja, hogy anyagi eszközökkel hozzájáruljon a DMD gyógyítását célzó szakmai kutatásokhoz.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002554",
+      "régi_nyilvántartási_száma": "2554/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-85120534",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Györki",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "932",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 601 139 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "597",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 878 788 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

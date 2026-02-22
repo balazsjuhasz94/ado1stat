@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19344418",
+  "scraped_at": "2026-02-14T13:57:07.590031",
+  "organization_id": "369035",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kilenc Élet Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5671 Békéscsaba, Erdő sor 13.",
+      "adószám": "19344418-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-05",
+      "statisztikai_számjel": "19344418-9499-569-04",
+      "x_koordináta": "46.7179455",
+      "y_koordináta": "21.0672068"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "a kóbor, kidobott, elárvult macskák mentése, befogadása, nevelése, gondozása, valamint megfelelő gazdához juttatása. Az utcán élő macskák befogadása. Az utcán élő macskák ivartalanítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002792",
+      "régi_nyilvántartási_száma": "2792/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csík-Papp",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "884 110 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

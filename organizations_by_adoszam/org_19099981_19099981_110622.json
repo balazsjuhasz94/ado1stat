@@ -1,0 +1,114 @@
+{
+  "search_adoszam": "19099981",
+  "scraped_at": "2026-02-14T13:01:00.771740",
+  "organization_id": "110622",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "411-es Truman Gőzmozdony Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1185 Budapest, Honvéd utca 1.",
+      "x_koordináta": "47.434889",
+      "y_koordináta": "19.202121",
+      "adószám": "19099981-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-22",
+      "statisztikai_számjel": "19099981-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A 411, 118 pályaszámú gőzmozdony üzemképes állapotba hozása és ezen állapot folyamatos fenntartása. A 411,118 pályaszámú gőzmozdonnyal (magyarországi) közforgalmú vasúti hálózaton történő esetenkénti vonattovábbítás, tolatás. A 411 sorozatú mozdonyok műszaki megoldásainak és történelmi szerepüknek oktatása az érdeklődők és műszaki értelmiség számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003975",
+      "régi_nyilvántartási_száma": "3975/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "1620022310079175",
+      "számlavezető_pénzintézet_neve": "Magnet Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Margay",
+        "Képviselő keresztneve": "Henrik",
+        "Képviselő titulusa": "Ciprián",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Halász",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pöstyéni",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "György",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "315 788 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "736 483 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 008 761 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 595 424 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 694 968 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "411-es Truman Gőzmozdony Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "411-es Truman Gőzmozdony Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18498514",
+  "scraped_at": "2026-02-14T14:40:53.809039",
+  "organization_id": "35529",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dunaújvárosi Vitorlás Sport Egyesület",
+      "rövid_név": "DVSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1118 Budapest, Kelenhegyi út 52. 1./3.",
+      "x_koordináta": "46.9821651",
+      "y_koordináta": "18.927479",
+      "adószám": "18498514-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-05-09",
+      "statisztikai_számjel": "18498514-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület fő céljai: Túra vitorlázás lehetőségének és vitorlás testedzés biztosítása a sporttevékenységre vonatkozó meghatározott szabályok szerint, amely a fizikai erőnlét és a szellemi teljesítőképesség megtartását, fejlesztését szolgálja, valamint a túra vitorlázásra való igény felkeltése. Az egyesület tagjainak a szabadidő egészséges és kulturált eltöltésének biztosítása. A sportegyesület tagjainak nevelése, a vitorlás sport népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0002188",
+      "régi_nyilvántartási_száma": "2188/2006",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-20",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szántó",
+        "Képviselő keresztneve": "Andor",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 956 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 949 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "657 872 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

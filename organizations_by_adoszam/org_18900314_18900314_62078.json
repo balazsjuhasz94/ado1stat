@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18900314",
+  "scraped_at": "2026-02-14T12:44:37.551641",
+  "organization_id": "62078",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Aranyhaj Világa Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2840 Oroszlány, Tópart utca 8. 4/4.",
+      "x_koordináta": "47.4927856",
+      "y_koordináta": "18.3167241",
+      "adószám": "18900314-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-10",
+      "statisztikai_számjel": "18900314-9499-569-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány támogatást nyújt a hypoton, generalizáltan hypoton, mozgásszervi betegségben szenvedő, mozgásában korlátozott, vagy szellemi betegségben szenvedő gyermekek, személyek részére, betegségük kezeléséhez, állapotuk fizikai, mentális, szellemi fejlesztéséhez szükséges költségek viseléséhez, illetve közreműködik az ehhez szükséges eszközök beszerzése iránt. E cél megvalósításának érdekében, az alapítvány széles körben kulturális-, sport, családi és szabadidős tevékenységeket, eseményeket szervez, illetve ezen rendezvények útján egyben adományokat is gyűjt. Az alapítvány a fentieken túl, egyéb támogatást is nyújt, melyek kifejezetten, de nem kizárólagosan: lakhatási támogatás, tanulmányok, egyéb fejlesztő foglalkozások támogatása, foglalkoztatás, szállás biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001077",
+      "régi_nyilvántartási_száma": "1077/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-03-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Laky",
+        "Képviselő keresztneve": "Barbara",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "358",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 984 002 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "447",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 726 016 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "212",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 500 388 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "217",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 754 659 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "300",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 024 478 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "240",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 491 168 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Aranyhaj Világa Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Aranyhaj Világa Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Atranyhaj Világa Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

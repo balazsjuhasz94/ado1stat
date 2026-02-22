@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18634754",
+  "scraped_at": "2026-02-21T13:38:14.103069",
+  "organization_id": "38052",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyöngyösbokréta Hagyományőrző és Turisztikai Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3175 Nagylóc, Béke út 43.",
+      "x_koordináta": "48.0403239",
+      "y_koordináta": "19.529987",
+      "adószám": "18634754-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-08-27",
+      "statisztikai_számjel": "18634754-9499-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "A Nógrád megyében élő emberek kulturális és szabadidős tevékenységének segítése, valamint a térségbe látogatók számára a tartózkodás színvonalának emelése. Az egyesület kiemelt feladatának tekinti a kultúrát, a sportot, szabadidős tevékenységeket, a gasztronómiai hagyományok ápolását., a környezetvédelmet, egészségvédelmet, a társadalmi tudatosságot és a regionális, valamint a határon túli kapcsolatok építését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0000097",
+      "régi_nyilvántartási_száma": "97/1997",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szikora",
+        "Képviselő keresztneve": "Józsefné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 566 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "388 186 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18908707",
+  "scraped_at": "2026-02-21T13:56:02.708224",
+  "organization_id": "71940",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sághegy Íjász és Hagyományőrző Egyesület",
+      "rövid_név": "SIH Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9561 Tokorcs, Szabadság utca 15.",
+      "x_koordináta": "47.268468",
+      "y_koordináta": "17.0976787",
+      "adószám": "18908707-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-20",
+      "statisztikai_számjel": "18908707-9499-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az Egyesület célja a hagyományőrzés és a történelmi íjászat sport népszerűsítése. A rendszeres sportolás, testedzés, felüdülés biztosítása, valamint ősi hagyományaink tisztelete, őrzése, illetve az ilyen igények felkeltése, tagjainak oktatása, nevelése és közösségi élet kibontakoztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200713",
+      "régi_nyilvántartási_száma": "200713/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-04-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Csaba Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "325 626 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 299 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "361 004 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "510 596 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "444 041 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "357 434 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SÁGHEGY ÍJÁSZ ÉS HAGYOMÁNYŐRZŐ EGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SÁGHEGY ÍJÁSZ ÉS HAGYOMÁNYŐRZŐ EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SÁGHEGY ÍJÁSZ ÉS HAGYOMÁNYŐRZŐ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

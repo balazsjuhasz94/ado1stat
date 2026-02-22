@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18647691",
+  "scraped_at": "2026-02-14T13:40:31.596422",
+  "organization_id": "70218",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Megathlon Sportegyesület",
+      "rövid_név": "Megathlon SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1119 Budapest, Fehérvári út 63. II/2.",
+      "x_koordináta": "47.467616",
+      "y_koordináta": "19.043805",
+      "adószám": "18647691-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-05-29",
+      "statisztikai_számjel": "18647691-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A tagjai részére rendszeres testedzés és sportolás lehetőségének biztosítása. Fiatal versenyzők befogadása és fejlődésük, előmenetelük támogatása. Oktatási-nevelési intézmények tanulói, hallgatói részére sportolási, testedzési lehetősége megteremtése. Lakossági szabadidős sport feltételeinek kialakítása. Sportesemények, versenyek, edzőtáborok rendezése, szervezése, támogatása. Együttműködés a hasonló célokkal alakított egyesületekkel és egyéb szervezetekkel. Hazai és nemzetközi sportkapcsolatok létesítése és ápolása, fenntartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015767",
+      "régi_nyilvántartási_száma": "15767/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-10",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schumacherné Szűcs",
+        "Képviselő keresztneve": "Anett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "579 084 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "892 065 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "583 740 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "715 872 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 906 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Megathlon Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Megathlon Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

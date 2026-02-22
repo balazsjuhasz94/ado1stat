@@ -1,0 +1,56 @@
+{
+  "search_adoszam": "18619696",
+  "scraped_at": "2026-02-21T12:34:51.738885",
+  "organization_id": "35721",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Optofit Sport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Vám utca 13.",
+      "x_koordináta": "47.7694513",
+      "y_koordináta": "19.1461857",
+      "adószám": "18619696-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-09-03",
+      "statisztikai_számjel": "18619696-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportegyesület célja az egészségfejlesztés szemléletének és az egészségtudatosságnak az elterjesztése, elsősorban Vác város és vonzáskörzete lakosságának körében. Az egyesület bárki számára biztosítja a rekreációs és szabadidő sport űzésének feltételeit; az egészséges életmód mellett elkötelezett szemléletmódot alakít ki; segíti a szakemberek képzését és az utánpótlás nevelését; egészségterven alapuló programokat valósít meg; biztosítja a versenyzésre való felkészítést, a versenyeztetést, a kiegészítő sportolás és edzés lehetőségét; versenyeket szervez és támogatja a versenyeken való részvételt. Az egyesület célja, hogy a fenti programok megvalósításával a lakosság egészsége javuljon, ezzel hozzájárulva ahhoz, hogy hosszú távon Vác és vonzáskörzete lakosságának sportolási hajlandósága és egészségi állapota mind a környező országokhoz, mind az európai országokhoz viszonyítva is javuljon, csökkentve ezzel az egészségügyi kiadások terheit, áttételesen ezzel is növelve a gazdaság versenyképességét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006388",
+      "régi_nyilvántartási_száma": "6388/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-09",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Verner",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "539 185 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18285707",
+  "scraped_at": "2026-02-14T13:20:17.972815",
+  "organization_id": "116253",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budai Ferences Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1024 Budapest, Margit körút 23.",
+      "x_koordináta": "47.512437",
+      "y_koordináta": "19.0344279",
+      "adószám": "18285707-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-04-05",
+      "statisztikai_számjel": "18285707-8559-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "1.Az alapítvány célja: A Budapesti Országúti Első Vértanú Szt István Plébánia vallásos, illetve lelki életének segítése, támogatása ? a családok összetartó, megerősítő funkciójának elősegítése, megélhetésük segítése, és a gyerekek testi és lelki fejlődése, erkölcsi nevelése, oktatása, valamint egyéb (az alapítótól független) ferences lelkiségű intézmények támogatása útján. Az alapítvány részletezett célja: - A gyermek és ifjúsági nevelés támogatása, az ehhez kapcsolódó kulturált szórakozás és programok felkarolása. - A családok, az egyedülállók és idősek anyagi, fizikai és lelki megsegítése. - A templomunkban működő kórusok támogatása, az ehhez kapcsolódó zenei fejlődés, fejlesztés, ideértve a kulturális és vallási fejlesztést is. - A liturgikus tevékenységek, valamint a művészetek támogatása. - A kulturális örökség megőrzése, növelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0011530",
+      "régi_nyilvántartási_száma": "11530/2011",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-05-23",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lendvai",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "Ottó",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csanády",
+        "Képviselő keresztneve": "Lőrinc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "99",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "863 524 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "139",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 218 379 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "127",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 177 611 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "116",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 283 305 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budai Ferences Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19251400",
+  "scraped_at": "2026-02-21T13:53:42.093660",
+  "organization_id": "301288",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent István Király Oratóriumkórus Egyesület",
+      "rövid_név": "SZIKORE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1155 Budapest , Mézeskalács tér 18.",
+      "adószám": "19251400-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-26",
+      "statisztikai_számjel": "19251400-9020-529-01",
+      "x_koordináta": "47.5424795",
+      "y_koordináta": "19.1140992"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célja: a zenei kulturális örökség megóvása és ápolása, a zuglói zenei kulturális zenei örökség védelme, a helyi több évtizedes kórushagyományok megőrzése és továbbadása a következő generációk részére. Az egyesület és az azonos nevű együttes a zenei, kulturális értékek mércéjévé kíván válni. Az egyesület a tagjai által felhalmozott zenei és énektudás méltó hordozójaként kíván tevékenykedni a zenei világban. Ennek érdekében az egyesület célja zenei kulturális tevékenység, hagyományápolás keretében: a. a magyar-, a zuglói- és az egyetemes zenekultúra terjesztése, b. országos és valamennyi kontinensre kiterjedő zenei hagyományok ápolása és terjesztése, c. hangversenyek, művészeti rendezvények, találkozók, műhelyrendezvények szervezése, mindezeken való részvétel, d. egyházi és világi rendezvényeken, fesztiválokon való közreműködés, e.. koncertek, fellépések szervezése a Szent István Király Oratóriumkórus részvételével, f. a szabadidő hasznos eltöltése érdekében a zuglói kórusélet művelése, önszerveződő közösség fenntartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007858",
+      "régi_nyilvántartási_száma": "7858/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Topor",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "385 065 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 599 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "361 381 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

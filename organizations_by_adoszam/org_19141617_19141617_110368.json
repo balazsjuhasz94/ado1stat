@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "19141617",
+  "scraped_at": "2026-02-14T14:22:28.585001",
+  "organization_id": "110368",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dunaág 7139 Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7133 Fadd-Dombori, Dunasor utca 48.",
+      "x_koordináta": "46.4413321",
+      "y_koordináta": "18.8628067",
+      "adószám": "19141617-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-10",
+      "statisztikai_számjel": "19141617-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdek-képviseleti tevékenység (pl. vállalkozói érdekképviselet, munkavállalói érdekképviselet, szakmai érdekképviselet)",
+      "céljának_leírása": "Az egyesület célja soraiba tömöríteni a Domboriban üdülőtulajdonnal (használattal) rendelkező magánszemélyeket, vállalkozókat, üdülő vendégeket érdekképviseleti, véleménynyilvánító, kezdeményezési tevékenységre. Tervezhetővé tenni az üdülőhely és Dombori öregfalu életével, működésével kapcsolatos teendőket, megfelelő információval ellátni az itt élőket az üdülőhely valamennyi kérdésével kapcsolatban. Aktív közreműködés a település természetvédelmi, zöldfelület védelmi, szennyezés megelőzési és település fejlesztési tevékenységben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002184",
+      "régi_nyilvántartási_száma": "2184/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varga-Takács",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Babarik",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vékony",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "181 420 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "427 597 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "357 677 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "745 650 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dunaág 7139 Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

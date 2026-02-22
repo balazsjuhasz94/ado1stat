@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19212498",
+  "scraped_at": "2026-02-14T12:15:34.047181",
+  "organization_id": "112455",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "HEROSZ Fehérvári Állatotthon Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Takarodó út 5.",
+      "x_koordináta": "47.1830799",
+      "y_koordináta": "18.437311",
+      "adószám": "19212498-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-12",
+      "statisztikai_számjel": "19212498-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "- állatotthon, állatmenhely támogatása, működtetése, üzemeltetése; - együttműködés az önkormányzatokkal, hazai, külföldi és nemzetközi állatvédelmi hatóságokkal, társadalmi szervezetekkel az állat- és természetvédelemre irányuló feladatok, célkitűzések megvalósításában; - a társadalomnak – elsősorban az ifjúságnak – a természet, különösen az élővilág megismerésére, szeretetére való nevelése; - az élővilág korszerű védelmének elősegítése és fejlesztése; - közreműködés az országos környezet-, természet- és állatvédelmi feladatok végrehajtásában; - az állattartási kultúra fejlesztése, az állattartóknak az előírások megtartására és szakmai ismeretek bővítésére való nevelése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001147",
+      "régi_nyilvántartási_száma": "1147/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-08-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Krepsz",
+        "Képviselő keresztneve": "Gyöngyi",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Győriné Dombi",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kőszegi",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2058",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "17 164 287 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "2030",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 197 539 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2334",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "25 103 003 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

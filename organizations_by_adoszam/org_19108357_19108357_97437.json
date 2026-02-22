@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19108357",
+  "scraped_at": "2026-02-21T14:22:11.385769",
+  "organization_id": "97437",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egyboglya a Családi Közösségekért Alapítvány",
+      "rövid_név": "Egyboglya Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1033 Budapest, Apát utca 4. 1. em./6.",
+      "x_koordináta": "47.55948",
+      "y_koordináta": "19.044621",
+      "adószám": "19108357-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-31",
+      "statisztikai_számjel": "19108357-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a) A testi, lelki, szellemi, társas, csoportos egészség és jóllét megszerzése, fenntartása, fejlesztése, b) A jövő nemzedékek életminőségének, lelki egészségének, társadalmi aktivitásának, társadalmi felelősségvállalásának javítása, c) Az egészség és a jóllét romlásának megelőzése, d) A családsegítés, e) A gyermekek napközbeni ellátása, f) Felnőttek és gyermekek lelki egészségének gondozása, idős gondozás, g) A társadalom családbarát, gyermekbarát, emberbarát szemléletének megerősítése, valamint az ilyen közvélemény, közbeszéd, intézményrendszer és jogrend kialakulásának segítése, h) A generációk közötti együttműködés, kommunikáció segítése, munka-, magánélet egyensúlyának segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012734",
+      "régi_nyilvántartási_száma": "12734/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-12-11",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdeiné Csepregi",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "244 199 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "265 497 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "315 518 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYBOGLYA ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

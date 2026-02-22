@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19305217",
+  "scraped_at": "2026-02-21T14:10:40.551699",
+  "organization_id": "366453",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Isa Gábor Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1173 Budapest, Bélavár utca 61.",
+      "adószám": "19305217-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-08",
+      "statisztikai_számjel": "19305217-9499-569-01",
+      "x_koordináta": "47.4777788",
+      "y_koordináta": "19.245374"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Isa Gábor szellemi örökségének megőrzése. A Honvéd FC Kft.-ben (Magyar Futball Akadémia) sportoló labdarúgók közül anyagilag támogatni a kiemelkedő teljesítményt nyújtó, nehéz helyzetben lévő U15-U19 korosztályú sportolókat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013127",
+      "régi_nyilvántartási_száma": "13127/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Isa",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "471 621 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 987 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

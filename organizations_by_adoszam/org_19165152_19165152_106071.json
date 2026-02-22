@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19165152",
+  "scraped_at": "2026-02-14T13:22:44.542671",
+  "organization_id": "106071",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Prader-Willi Szindróma Egyesület",
+      "rövid_név": "MPWS Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8800 Nagykanizsa, Alsó Szabadhegyi út 91",
+      "x_koordináta": "46.4618081",
+      "y_koordináta": "17.0241982",
+      "adószám": "19165152-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-22",
+      "statisztikai_számjel": "19165152-9499-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- Az egyesület tagjai sajátos érdekeinek védelme, képviselete és szolgálata, a Prader-Willi Szindrómás gyermekek, személyek társadalomba történő integrációjának elősegítése. - Az egyesület tagjainak egymást ismerő és segítő közösségekké való szervezése (pl: szülőklubok). - Az egyesület tagjainak folyamatos tájékoztatása, időszakonként kiadványok megjelentetése, összejövetelek és tapasztalatcserék szervezése, a szükséges információk közreadása. - A szükséges komplex orvosi, gyógypedagógiai, mozgásfejlesztési háttér megszervezésének támogatása. - Hiánypótló szolgáltatások szervezése (habilitáció, rehabilitáció, egészségfejlesztés, gyógyító-megelőző ellátás segítése, szabadidős vagy terápiás jellegű sport- és művészeti tevékenység) - Közös kirándulások, üdülések, táborozások (pl: zenei tábor) szervezése a gyermekek számára, együttműködve egyéb társadalmi szervezetekkel. - A szindrómával kapcsolatos kutatások támogatása. - Kapcsolatfelvétel külföldön vagy Magyarországon működő társadalmi vagy öntevékeny szervezetekkel, tapasztalatcsere, csereüdültetés szervezése, együttműködés kölcsönösen előnyös célok érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0003003",
+      "régi_nyilvántartási_száma": "3003/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-06-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "1711600006-00000000-84675385",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Baloghné Liplin",
+        "Képviselő keresztneve": "Tünde",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 004 230 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "118",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "930 063 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "166",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 418 791 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "118",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 242 491 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Prader-Willi Szindróma Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

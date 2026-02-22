@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18337426",
+  "scraped_at": "2026-02-14T12:31:22.000140",
+  "organization_id": "92378",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Berettyóújfalui Kóbor Mancsok Állatvédő Egyesület",
+      "rövid_név": "Berettyóújfalui Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4100 Berettyóújfalu, Kert utca 39.",
+      "x_koordináta": "47.2267754",
+      "y_koordináta": "21.5367156",
+      "adószám": "18337426-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-01-03",
+      "statisztikai_számjel": "18337426-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az egyesület célja, hogy - erre irányuló szerződés alapján - Berettyóújfalu városában, valamint egyéb környező helyeken, településeken önkéntes alapon, vagy szerződés alapján befogott kóbor, vagy gazdátlan ebeket elhelyezze, őket ideiglenes befogadókhoz, vagy örökbefogadás útján gazdához juttassa, vagy egyéb módon gondoskodjon az elhelyezésükről. Az egyesület céljai közé tartozik az állatvédelemmel, a felelős állattartással kapcsolatos szemléletformálás, óvodákban, iskolákban foglalkozások, előadások tartása e témakörben, hiszen már gyermekkorban nagyon fontos az állatok védelmére és tiszteletére történő nevelés elkezdése, valamint az ivartalanítás fontosságának nyomatékosítása. E körben egyesületi cél továbbá, hogy lehetőségeinkhez képest szeretnénk ivartalanítási segítséget nyújtani - így az ivartalanítás költségeihez történő hozzájárulással, vagy adott esetben teljes átvállalásával - azon szociálisan rászoruló berettyóújfalui lakosok részére, akik az ivartalanítás költségeit anyagi helyzetükre tekintettel nem tudják vállalni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004126",
+      "régi_nyilvántartási_száma": "4126/2011",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-07-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-30",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "199",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "991 527 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "303",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 674 919 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "363",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 502 784 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "437",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 203 951 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "419",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 067 272 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Berettyóújfalui Kóbor Mancsok Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Berettyóújfalui Kóbor Mancsok Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18277250",
+  "scraped_at": "2026-02-21T14:01:04.156640",
+  "organization_id": "42215",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rákosmenti Kutyakiképző Iskola Egyesület",
+      "rövid_név": "RKKI",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1172 Budapest, Ősagárd út 65.",
+      "x_koordináta": "47.4914745",
+      "y_koordináta": "19.2659591",
+      "adószám": "18277250-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-01-25",
+      "statisztikai_számjel": "18277250-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "az egyesület tagjainak érdekvédelme és képviselete, a kulturált kutyatartás írott és iratlan szabályainak széles körben való népszerűsítése, az ember és természet kapcsolatának erősítése, a környezet és természet védelmének aktív segítése, kiemelt hangsúllyal az állatvédelmi törvényben meghatározottakra, kynológiai tudományos kutatás végzése és ilyen támogatása, a tenyésztéssel, kiképzéssel foglalkozó személyek képzése és továbbképzése, kynológiával kapcsolatos ismeretterjesztés, fogyatékkal élők segítése, a társadalomba való beilleszkedésük elősegítése, egyéb sport tevékenységek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0014613",
+      "régi_nyilvántartási_száma": "14613/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2011-09-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Andics",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 487 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19337553",
+  "scraped_at": "2026-02-14T13:55:37.069773",
+  "organization_id": "368506",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cicafül Egyesület az állatokért",
+      "rövid_név": "Cicafül Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5667 Magyarbánhegyes, Jókai Mór utca 79.",
+      "adószám": "19337553-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-12",
+      "statisztikai_számjel": "19337553-9499-529-04",
+      "x_koordináta": "46.4548173",
+      "y_koordináta": "20.96252"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A civil szervezet megváltozott célja: Állatvédelmi tevékenység folytatása a dél-alföldi régióban, kiemelten a székhelyen és térségében mentett állatok ellátása, gondozása, gondos gazdához való eljuttatása. Együttműködés más állatvédő és egyéb civil szervezetekkel, az állatvédelem népszerűsítése, fontosságának hangsúlyozása, az önkéntes szerepvállalás erősítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003579",
+      "régi_nyilvántartási_száma": "3579/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-14",
+      "bankszámlaszám": "10402630-50527068-81891008",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dubecz",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "889 348 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

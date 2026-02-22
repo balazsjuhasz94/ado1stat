@@ -1,0 +1,194 @@
+{
+  "search_adoszam": "19384816",
+  "scraped_at": "2026-02-14T12:46:11.397837",
+  "organization_id": "71656",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Padányi Schola Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8200 Veszprém, Szeglethy utca 6.",
+      "x_koordináta": "47.0928993",
+      "y_koordináta": "17.906058",
+      "adószám": "19384816-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-09-07",
+      "statisztikai_számjel": "19384816-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "Oktatás-nevelés támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001540",
+      "régi_nyilvántartási_száma": "1540/2009",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-10-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dr.Hegedüs",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Glück",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "275",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "986 445 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "313",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 119 114 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "242",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "925 027 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "264",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "966 102 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "223",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "970 604 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "190",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "893 707 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "226",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 300 471 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "215",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 343 366 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "217",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 637 107 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "222",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 916 606 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "212",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 086 370 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "197",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 405 833 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Padányi Schola Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

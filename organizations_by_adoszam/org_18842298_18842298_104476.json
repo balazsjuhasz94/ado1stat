@@ -1,0 +1,182 @@
+{
+  "search_adoszam": "18842298",
+  "scraped_at": "2026-02-14T14:29:21.405900",
+  "organization_id": "104476",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KunEbekért és Állatbarát Civilekért Egyesület",
+      "rövid_név": "KunEbekért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5300 Karcag, Kátai Gábor utca 26.",
+      "x_koordináta": "47.3231031",
+      "y_koordináta": "20.9245715",
+      "adószám": "18842298-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-08-22",
+      "statisztikai_számjel": "18842298-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Kulturált, állatbarát állattartás elterjesztése; Az állatvédelmi törvény betartatása; A közvélemény figyelmét tájékoztatással és ismeretterjesztéssel felhívni az állattartás optimális körülményeire; Az állattartás felelősségének tudatosítása; Fellépni az állatkínzás és a sanyarú tartás minden formája ellen; Állattartási gondok esetén egyeztető közvetítés a szomszédok között; Szoros együttműködés kialakítása a hatóságokkal az állattartási problémák megoldásában; Környezetvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002282",
+      "régi_nyilvántartási_száma": "2282/2008",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2017-04-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-14",
+      "bankszámlaszám": "11745073-20110912-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt. Karcagi Fiókja"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Medgyesi",
+        "Képviselő keresztneve": "Tiborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-21",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Juhász",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sánta",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "856",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 253 758 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "696",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 026 394 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "232",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "720 036 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "794 582 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "527 414 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "166",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "782 209 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "667 186 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "554 630 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "718 274 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "632 418 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "705 328 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunkarcagi Állatvédő és Állatbarát Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KUNKARCAGI Állatvédő és Állatbarát Egyesület"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunkarcagi Állatvédő és Állatbarát Egyesület"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunkarcagi Állatvédő és Állatbarát Egyesület"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunkarcagi Állatvédő és Állatbarát Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunkarcagi Állatvédő és Állatbarát Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunkarcagi Állatvédő és Állatbarát Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunebekért és Állatbarát Civilekért Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kunebekért és Állatbarát Civilekért Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KunEbekért és Állatbarát Civilekért Egyesület"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "KUNKARCAGI llatvd s llatbart Egyeslet",
+        "Év": "2016"
+      }
+    ]
+  },
+  "error": null
+}

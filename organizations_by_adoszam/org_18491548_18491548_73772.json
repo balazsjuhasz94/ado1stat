@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18491548",
+  "scraped_at": "2026-02-21T14:25:46.169682",
+  "organization_id": "73772",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PAOK Beloiannisz Egyesület",
+      "rövid_név": "AEK. Beloiannisz",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2455 Beloiannisz, Sportköz 1.",
+      "x_koordináta": "47.184076",
+      "y_koordináta": "18.8256229",
+      "adószám": "18491548-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-02-15",
+      "statisztikai_számjel": "18491548-9312-521-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Beloiannisz község és vonzáskörzet lakossága szabadidős és versenyszerű sportolásának szervezése, sportesemények lebonyolítása. Az egyesület alapcéljainak megvalósításával a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 23. § (5) bekezdésében az önkormányzatokat terhelő közfeladatként előírt sportesemények rendezését, egészséges életmódra nevelését, mint közfeladatokat látja el.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0001565",
+      "régi_nyilvántartási_száma": "1565/1999",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-13",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vass",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 258 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 592 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "279 073 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 129 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "312 321 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "AEK Beloiannisz"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "AEK Beloiannisz"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "AEK BELOIANNISZ",
+        "Év": "2022"
+      }
+    ]
+  },
+  "error": null
+}

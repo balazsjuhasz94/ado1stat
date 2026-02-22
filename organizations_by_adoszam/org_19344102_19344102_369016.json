@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19344102",
+  "scraped_at": "2026-02-21T13:01:29.531189",
+  "organization_id": "369016",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Templomvölgy Budajenőért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1106 Budapest, Fehér út 10. 22/A.",
+      "adószám": "19344102-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-08-23",
+      "statisztikai_számjel": "19344102-9499-529-01",
+      "x_koordináta": "47.4890921",
+      "y_koordináta": "19.1739307"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Településfejlesztési és lakásügyi tevékenység (pl. helyi és regionális településfejlesztés, kommunális és közlekedésfejlesztés, közösségfejlesztés, ingatlantulajdonosok szervezetei, lakásellátás javítása)",
+      "céljának_leírása": "Az egyesület tevékenységével elsődlegesen arra törekszik, hogy közreműködjön egész Budajenő és azon belül különösen a Templomvölgy villapark (Budajenő SZT-1AM3 belterületi szabályozási terven: Szőlődomb) településrész fejlődésében, Budajenő természeti környezetének védelméért, kulturális és nemzetiségi hagyományaiért kiálljon. Elősegítse a lakók életét és érdekeiket, testi-lelki egészségüket pozitívan befolyásoló fejlesztések és szolgáltatások létrejöttét és megvalósulását. Törekszik a kulturált, egészséges lakókörnyezet kialakítására, fejlesztésében, továbbá célul tűzi ki a közbiztonság javítását, valamint a környezet szennyezésének csökkentését, az életminőség környezeti feltételeinek javítását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017903",
+      "régi_nyilvántartási_száma": "17903/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hidasi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "465 438 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

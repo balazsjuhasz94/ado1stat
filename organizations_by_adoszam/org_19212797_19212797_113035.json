@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19212797",
+  "scraped_at": "2026-02-21T13:26:57.972962",
+  "organization_id": "113035",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Roffi Civilek Közössége",
+      "rövid_név": "ROCK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5234 Tiszaroff, Aradi út 51.",
+      "x_koordináta": "47.3910583",
+      "y_koordináta": "20.4410897",
+      "adószám": "19212797-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-06",
+      "statisztikai_számjel": "19212797-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Roffi Civilek Közösségének elsődleges célja, hogy erősítse a tiszaroffi lakosság kötődését lakóhelyéhez és annak környezetéhez, ápolni kívánja a település meglévő értékeit, fejleszteni kívánja a település képet, a falut vonzóvá kívánja tenni az elszármazott tiszaroffiak, és az idelátogató hazai és külföldi emberek számára. Az egyesület célja, hogy őrizze és ápolja a nemzeti és helyi kulturális hagyományokat, helyi kulturális hagyományokat teremtsen, védje a kulturális örökséget, támogassa a helyi közművelődést. Az egyesület további céljai: Családbarát szemlélet kialakítása és támogatása, a családalapítás és a gyermekvállalás ösztönzése. A települési köztisztaság megóvása, valamint a környezet-, természet-, és állatvédelem, a helyi lakosok környezettudatos szemléletének kialakítása, fejlesztése. Az egyesület célja a helyi lakosok testi és lelki egészségének megóvása, a társadalmi felelősségvállalás jegyében a szociálisan rászorulók, fogyatékkal élő, betegek, idősek támogatása, életminőségének javítása, valamint a helyi roma lakosság integrációjának segítése, az esélyegyenlőség, egyenlő bánásmód megvalósulásának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002799",
+      "régi_nyilvántartási_száma": "2799/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-12-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11745059-21449826",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dr. Tóth-Borbély",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2024-12-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Komócsin",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2024-12-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Maróti",
+        "Képviselő keresztneve": "Kinga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2024-12-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 156 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "412 983 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

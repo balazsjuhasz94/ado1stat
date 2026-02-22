@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18624195",
+  "scraped_at": "2026-02-14T15:01:42.468753",
+  "organization_id": "35775",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Felhőalap Sportegyesület",
+      "rövid_név": "Felhőalap SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2071 Páty, Bánya utca 77/1.",
+      "x_koordináta": "47.5129412",
+      "y_koordináta": "18.8444434",
+      "adószám": "18624195-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-12-10",
+      "statisztikai_számjel": "18624195-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A rendszeres testedzés népszerűsítése, versenyek szervezése. Hazai és külföldi sporttúrák szervezése, tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása. Közösségi élet kibontatkoztatása, építése, fenntartása. A lakosság szabadidősportjának segítése. Közös érdekképviselet. A siklóernyős sportág népszerűsítése, sportkapcsolatok létesítése és fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006633",
+      "régi_nyilvántartási_száma": "6633/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2014-03-08",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Beliczay",
+        "Képviselő keresztneve": "Koppány",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 399 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "134 180 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 648 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "191 438 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "158 472 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "503 294 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "593 564 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FELHŐALAP Sportegyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FELHŐALAP Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FELHŐALAP Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FELHŐALAP Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

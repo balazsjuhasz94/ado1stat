@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18337725",
+  "scraped_at": "2026-02-14T12:50:02.028890",
+  "organization_id": "74997",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élménylelő Ifjúsági Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7625 Pécs, Szikla utca 4.",
+      "x_koordináta": "46.081043",
+      "y_koordináta": "18.234091",
+      "adószám": "18337725-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-01-11",
+      "statisztikai_számjel": "18337725-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Ifjúságsegítés, közösségépítés, közösségfejlesztés, tehetségkutatás, tehetséggondozás, a fiatalok életútjának segítése, hátrányos helyzetű fiatalok segítése, integrációjuk elősegítése, a roma/cigány közösségek befogadásának elősegítése, megerősítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003336",
+      "régi_nyilvántartási_száma": "3336/2012",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-02-22",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-14",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tasnádi",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fúrós",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-03-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "151",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 099 851 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "139",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 196 661 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "922 760 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "207",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 147 256 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Élménylelő Ifjúsági Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

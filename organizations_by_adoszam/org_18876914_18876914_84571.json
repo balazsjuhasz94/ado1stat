@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "18876914",
+  "scraped_at": "2026-02-21T14:13:02.705909",
+  "organization_id": "84571",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Békásmegyeri Cserkész Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1039 Budapest, Gulácsy Lajos utca 4. fszt./1.",
+      "x_koordináta": "47.595026",
+      "y_koordináta": "19.05015",
+      "adószám": "18876914-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-21",
+      "statisztikai_számjel": "18876914-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Magyar cserkészszövetség, mint mozgalom fő céljához hasonlóan fő célunk, hogy a társadalmat életrevaló, elkötelezett, felelős, egészséges polgárok alkossák. A békásmegyeri lakótelep gyermekeinek és fiataljainak, köztük számos hátrányos helyzetűnek, a szabadidő tartalmas és értékes eltöltésére lehetőséget biztosítani. A békásmegyeri lakótelepés az Ófalu fitaljai között hidat teremteni létrehozandó kisközösségek révén. A közösség. Mint az ember egyik fő megtartó erejének biztosítása a veszélyeztetett korú fiatalok számára. A gyerekek és a fiatalok számára a cserkészethez kötődő ismeretanyagot kisközösségi, őrsi keretben átadni. A cselekdve tanulás módszerével gyakorlati ismereteket nyújtani a magyar kultúrával kapcsolatosan: kézműves tevékenységek, népi játékok, néptánc, kézműves szakmák alapjai.A természet szeretetére nevelés – kirándulások, táborok, portyák szervezése. A fiatalok felkészítése a családalapításhoz szükséges felelős gondolkodásra, felelősségvállalásra. A fiatalok számára önkéntes munka szervezése a szociális érzékenység elmélyítése és a társadalmi feleősségvállalás érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016410",
+      "régi_nyilvántartási_száma": "16410/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Borosné Gallai",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "122 071 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "86 167 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "172 340 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "206 266 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "258 916 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "330 051 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békásmegyeri Cserkész Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békásmegyeri Cserkész Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békásmegyeri Cserkész Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

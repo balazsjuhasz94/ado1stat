@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "19091213",
+  "scraped_at": "2026-02-14T14:33:57.143610",
+  "organization_id": "91295",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Együtt Gyógyulni Könnyebb Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Bethlen Gábor utca 10 1. I/11.",
+      "x_koordináta": "47.7777025",
+      "y_koordináta": "19.9281195",
+      "adószám": "19091213-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-08",
+      "statisztikai_számjel": "19091213-8899-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- mozgásukban korlátozott gyermekek és felnőttek segítése - hátrányos helyzetű felnőttek és gyermekek életkörülményeinek javítása - kupakgyűjtés beteg gyerekek részére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001174",
+      "régi_nyilvántartási_száma": "1174/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-10-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kis",
+        "Képviselő keresztneve": "Brigitta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "140",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "661 086 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "694 201 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "470 008 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "540 958 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "685 734 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYÜTT GYÓGYULNI KÖNNYEBB ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYÜTT GYÓGYULNI KÖNNYEBB ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

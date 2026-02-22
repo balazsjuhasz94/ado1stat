@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18524150",
+  "scraped_at": "2026-02-14T13:08:07.185255",
+  "organization_id": "99546",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cogito Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1064 Budapest, Rózsa utca 64. I. 1/b",
+      "x_koordináta": "47.5090029",
+      "y_koordináta": "19.0669947",
+      "adószám": "18524150-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-04-09",
+      "statisztikai_számjel": "18524150-8696-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "tevékenységével hozzájárulni a pszichés problémával küzdők rehabilitációjához, társadalmi felzárkózásához, szociális felemelkedéséhez ? ezen belül is különösen a pszichiátriai betegek és családjuk esetében ? csökkentve a társadalmi egyenlőtlenségeket, enyhítve a szegénységet. Az alapítvány elsősorban a pszichés problémával küzdők és a pszichiátriai betegek és családjuk, illetve szakmai szervezetek ( pld. oktatási, egészségügyi, kulturális, szociális stb.) támogatását kívánja elősegíteni - a pszichés problémával küzdők és családtagjaik számára minél hatékonyabb komplex rehabilitációt nyújtani, hozzájárulni ahhoz, hogy új módszerek kerüljenek a szolgáltatást biztosítók eszköztárába, s hogy a társadalmi gondolkodás e csoportról megváltozzon - információval, szolgáltatásokkal segíteni a területen működő intézményeket, hálózatokat, szakembereket",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003618",
+      "régi_nyilvántartási_száma": "3618/2013",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-12-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-22",
+      "alkalmazottak_száma": "9",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Váradi",
+        "Képviselő keresztneve": "Enikő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bödör",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bódy",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "388 031 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "437 915 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 512 838 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

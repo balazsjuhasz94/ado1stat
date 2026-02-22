@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18651773",
+  "scraped_at": "2026-02-21T13:37:36.895474",
+  "organization_id": "112503",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vashosszúfalui Nők Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9674 Vashosszúfalu, Kossuth utca 44.",
+      "x_koordináta": "47.1090425",
+      "y_koordináta": "17.061995",
+      "adószám": "18651773-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-07-08",
+      "statisztikai_számjel": "18651773-9329-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "nevelés, oktatás, képességfejlesztés, ismeretterjesztés településtisztaság védelme, faluszépítés, virágosítás kulturális tevékenység kulturális örökség megóvása Vashosszúfalu település és környéke hagyományainak őrzése, ápolása a település jövőjének szolgálata családsegítés, idősgondozás, egészségmegőrzés egészségre ártalmas gyomnövények irtása egészséges életmódra nevelés művészet pártolása, támogatása, kiállítás rendezés régi szokások, ünnepek felelevenítése, népszerűsítése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200563",
+      "régi_nyilvántartási_száma": "200563/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Imréné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "295 369 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "355 150 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 053 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18657834",
+  "scraped_at": "2026-02-14T15:08:31.041254",
+  "organization_id": "59955",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ecseri Önkéntes Tűzoltó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2233 Ecser, Széchenyi utca 1.",
+      "x_koordináta": "47.4420092",
+      "y_koordináta": "19.322232",
+      "adószám": "18657834-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-05",
+      "statisztikai_számjel": "18657834-8425-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "A székhelye szerinti település tűzvédelmének biztosítása, tűzoltási, kárelhárítás tevékenység végzése, valamint a tűzoltó hagyományok megőrzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006855",
+      "régi_nyilvántartási_száma": "6855/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Hajnalka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 888 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "577 639 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

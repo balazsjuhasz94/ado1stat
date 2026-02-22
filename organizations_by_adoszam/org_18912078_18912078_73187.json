@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18912078",
+  "scraped_at": "2026-02-14T14:58:39.397880",
+  "organization_id": "73187",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Mi megmutatjuk!\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7940 Szentlőrinc, Kodály Zoltán utca 1/b.",
+      "x_koordináta": "46.0354943",
+      "y_koordináta": "17.9884651",
+      "adószám": "18912078-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-06",
+      "statisztikai_számjel": "18912078-9329-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Sajátos Nevelési Igényű (SNI) gyermekek egyéni képességfejlesztésének és tehetséggondozásának elősegítése, támogatása. Szabadidős foglalkozások, sportfoglalkozások, egyéb kulturális rendezvények szervezése. Lehetőség biztosítása ezen rendezvényeken történő részvételére. Egészséges és fogyatékkal élő gyermeke közös tevékenysége kultúr- és sportrendezvények keretében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001849",
+      "régi_nyilvántartási_száma": "1849/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bárány",
+        "Képviselő keresztneve": "Sándor Ferencné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "223 136 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 172 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "299 943 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "398 476 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "601 856 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Mi Megmutatjuk!' Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Mi Megmutatjuk\" Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

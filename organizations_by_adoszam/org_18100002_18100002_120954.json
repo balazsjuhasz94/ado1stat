@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18100002",
+  "scraped_at": "2026-02-14T14:08:26.871016",
+  "organization_id": "120954",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "III. Kerületi Torna és Vívó Egylet",
+      "rövid_név": "III. Ker. TVE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Kalap utca 1.",
+      "x_koordináta": "47.5512786",
+      "y_koordináta": "19.0358362",
+      "adószám": "18100002-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-08-04",
+      "statisztikai_számjel": "18100002-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "a/ tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása, minőségi sporteredmények elérése, mindezek feltételeinek megteremtése és fejlesztése, b/ a társadalmi öntevékenység és közösségi élet kibontakoztatása, c/ az állampolgárok részére a sportolási és testedzési lehetőségek biztosítása, d/ a sportegyesület működési területén található nevelési- oktatási intézmények tanulóinak (hallgatóinak) a sportolási, testedzési lehetőségek megteremtése, a lakosság szabadidősportjának segítése, e/ hazai és nemzetközi sportkapcsolatok létesítése, fenntartása, f/ együttműködés kialakítása a baráti körökkel, szurkolóival, szimpatizánsaival, g/ együttműködés kialakítása utánpótlás bázisokkal, iskolákkal, h/ amatőr- valamint szabadidős sporttevékenysége keretében roma-közösségek és fogyatékkal élők érdekeinek segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0008960",
+      "régi_nyilvántartási_száma": "8960/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-06",
+      "a_nyilvántartott_adatok_verziószáma": "29",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Scheer",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Domokos",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "491 011 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "274 558 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "703 770 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "937 861 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "811 303 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "III. Kerületi Torna és Vívó Egylet"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "III. Kerületi Torna és Vívó Egylet"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

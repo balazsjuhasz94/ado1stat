@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18943571",
+  "scraped_at": "2026-02-14T14:15:46.439642",
+  "organization_id": "76396",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bicskei Önkéntes Tűzoltóság",
+      "rövid_név": "BÖT",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2060 Bicske, Kossuth Lajos utca 46.",
+      "x_koordináta": "47.4960942",
+      "y_koordináta": "18.6312844",
+      "adószám": "18943571-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-11-13",
+      "statisztikai_számjel": "18943571-8425-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az Egyesület célja: Bicske város és a Bicskei Önkormányzati Tűzoltósággal kötött együttműködési megállapodásban vállalt települések közigazgatási területén a lakosság tűzoltási, műszaki mentési és kárelhárítási ellátásának javítása az élet- és vagyonbiztonság növelése érdekében, továbbá részvétel egyéb katasztrófavédelmi feladatok végrehajtásában. - A tűz- és katasztrófavédelmi szervezetek utánpótlásának biztosítása érdekében a gyerekek és ifjúsági tűzoltók nevelése. - Belföldi és nemzetközi szakmai kapcsolatok kiépítése és fenntartása. - A tűz elleni védekezés hagyományainak ápolása. - Az Egyesület gondoskodik a tűzvédelmi és műszaki mentési felszerelések beszerzéséről, rendszeres karbantartásáról, az éves felülvizsgálatok, bevizsgálások elvégeztetéséről. - Az Egyesület szaktevékenysége során tájékoztatja a lakosságot az időszerű tűz- és katasztrófavédelmi feladatokról, a lakosság részére tűz- és katasztrófavédelemmel kapcsolatos más információs tevékenységet végez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003132",
+      "régi_nyilvántartási_száma": "3132/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-06-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gattner",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "457 045 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "429 734 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "834 090 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "611 465 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "769 085 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bicskei Önkéntes Tűzoltóság (Egyesület)"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bicskei Önkéntes Tűzoltóság (Egyesület)"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

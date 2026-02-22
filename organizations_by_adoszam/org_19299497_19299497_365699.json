@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19299497",
+  "scraped_at": "2026-02-21T12:30:42.938543",
+  "organization_id": "365699",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hernádnémeti Óvodásokért és Bölcsődésekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3564 Hernádnémeti, Petőfi Sándor utca 1.",
+      "adószám": "19299497-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-31",
+      "statisztikai_számjel": "19299497-8510-569-05",
+      "x_koordináta": "48.0849531",
+      "y_koordináta": "21.0203995"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Hernádnémeti Napközi Otthonos Óvoda és Bölcsődében folyó oktató — nevelő munka támogatása, így különösen: ⎯ szemléltető eszközök beszerzése, játékok vásárlása, ⎯ környezetvédelemre és a természet szeretetére nevelés, kirándulások költségeinek fedezése, ⎯ óvodai és bölcsődei játszótér állagának megőrzése, a játszótér fejlesztése, ⎯ óvodai és bölcsődei ünnepségek, rendezvények szervezése, költségeinek fedezése, ⎯ az óvoda és bölcsőde tárgyi eszközeinek megóvása, felújítása, tárgyi eszközök beszerzése, ⎯ hátrányos helyzetű gyermekek esélyegyenlőségének biztosítása, ⎯ szakkönyvek beszerzése, továbbképzések támogatása, ⎯ a gyerekek zenei, művészeti, kulturális nevelése, közlekedési ismeretek fejlesztése, ⎯ anyanyelvi nevelés és kultúra ápolása, a sport és egészséges életmódra nevelés, ⎯ a gyermekek egészségének megóvása, egészséges környezet biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064634",
+      "régi_nyilvántartási_száma": "64634/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "12035803-00118869-00200005",
+      "számlavezető_pénzintézet_neve": "Takarékbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kerekes",
+        "Képviselő keresztneve": "Jánosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "359 804 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "552 184 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

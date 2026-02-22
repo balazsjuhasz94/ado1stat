@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18902677",
+  "scraped_at": "2026-02-21T13:22:26.332112",
+  "organization_id": "68950",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Tanulásért és a Sportért Iskolai Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1172 Budapest, Nagyszékes utca 40. B.lph.",
+      "x_koordináta": "47.501225",
+      "y_koordináta": "19.2739911",
+      "adószám": "18902677-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-04",
+      "statisztikai_számjel": "18902677-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Csanádi Árpád Általános Iskola és Gimnázium működésének támogatása, az iskolában tanuló fiatalok képességei kibontakoztatásának segítése a tanulásban és a sportban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012442",
+      "régi_nyilvántartási_száma": "12442/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-03-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11713012-21448863",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rúzsa",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "215 245 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 918 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "463 460 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "451 052 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "417 497 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Tanulásért és a Sportért Iskolai Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Tanulásért és a Sportért Iskolai Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

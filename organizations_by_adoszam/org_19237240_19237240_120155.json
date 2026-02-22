@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19237240",
+  "scraped_at": "2026-02-21T13:27:14.354431",
+  "organization_id": "120155",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egy Hullámhosszon Kulturális Egyesület",
+      "rövid_név": "EHO",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Járfalui út 5/ B. D. I/5.",
+      "x_koordináta": "47.8895328",
+      "y_koordináta": "17.2709683",
+      "adószám": "19237240-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-05",
+      "statisztikai_számjel": "19237240-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "1. Közösségbe szervezni azokat az embereket, akiket érdekel a történelem kultúra, egészséges életmód és a rászorulók segítése. 2. Mosonmagyaróvár kultúrájának, közművelődésének fejlesztése, a színjátszás és a színházlátogatás népszerűsítése. 3. A magyar történelmi korok bemutatása. 4. Fejlesztő, önismereti tréningek, foglalkozások szervezése. 5. Környezetvédelem, állatvédelem, természetvédelem. 6. A magyar szerves múlt megismertetése. 7. Hivatásos és nem hivatásos előadóművészek számára közös bemutatkozási és fellépési lehetőségek biztosítása. 8. Saját túrák, kirándulások, rendezvények rendhagyó történelmi órák szervezése, illetve mások által szervezett hazai és külföldi programokon való megjelenés. 9. Színházlátogatások szervezése. 10. Kulturális szórakoztató és történelmi programok szervezése. 11. Együttműködés más egyesületekkel. 12. A tagok számára rendszeres szervezeti élet, találkozási lehetőség biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063154",
+      "régi_nyilvántartási_száma": "63154/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Czére",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 931 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "422 564 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "407 690 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

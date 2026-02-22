@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19064068",
+  "scraped_at": "2026-02-21T12:32:27.492407",
+  "organization_id": "88429",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Patrónus-Szendehelyi Német Nemzetiségi Általános Iskola Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2640 Szendehely, Szabadság utca 2-4.",
+      "x_koordináta": "47.8558862",
+      "y_koordináta": "19.1048845",
+      "adószám": "19064068-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-05",
+      "statisztikai_számjel": "19064068-8520-569-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Minden olyan kezdeményezés támogatása, amely a Szendehelyi Német Nemzetiségi Általános Iskola oktatási színvonalát emeli, a tanári kar, a tanulók erkölcsi és anyagi megbecsülését növeli, a nevelést, oktatást, képességfejlesztést, ismeretterjesztést elősegíti.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-01-0000760",
+      "régi_nyilvántartási_száma": "760/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-06-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Germanné Várnai",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "189 571 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 870 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "547 376 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

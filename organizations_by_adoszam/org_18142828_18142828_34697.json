@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18142828",
+  "scraped_at": "2026-02-14T14:25:50.375441",
+  "organization_id": "34697",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Special Wiharsarok Airsoft Team Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5900 Orosháza, Ond utca 2. 3./11.",
+      "x_koordináta": "46.562649",
+      "y_koordináta": "20.686413",
+      "adószám": "18142828-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-10-14",
+      "statisztikai_számjel": "18142828-9312-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az airsoft hazai népszerűsítése, megismertetése a szélesebb közönség számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0002953",
+      "régi_nyilvántartási_száma": "2953/2010",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-24",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Nándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "479 339 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "729 508 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "722 668 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,121 @@
+{
+  "search_adoszam": "19340744",
+  "scraped_at": "2026-02-14T12:57:02.134556",
+  "organization_id": "368765",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kabala Foglalkoztató és Fejlesztőház Alapítvány",
+      "rövid_név": "Kabalaház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3360 Heves, Kossuth Lajos utca 48/ b.",
+      "adószám": "19340744-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-29",
+      "statisztikai_számjel": "19340744-9499-569-10",
+      "x_koordináta": "47.5998837",
+      "y_koordináta": "20.2745301"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a sérült, illetve fogyatékkal élő gyermekek, felnőttek életminőségének, testi és mentális állapotának javítása, családjaik segítése, minél teljesebb társadalmi beilleszkedésük, társadalmi részvételük, egyenjogúságuk érvényesítésének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001237",
+      "régi_nyilvántartási_száma": "1237/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-01-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-01",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-30"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kerek",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bártfai",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Borisz",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "193",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 838 038 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

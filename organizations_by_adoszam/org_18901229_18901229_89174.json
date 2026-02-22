@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18901229",
+  "scraped_at": "2026-02-14T12:24:04.228504",
+  "organization_id": "89174",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MancsRanch az Állati Suli Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7634 Pécs, Uzdóc utca 7.",
+      "x_koordináta": "46.0634919",
+      "y_koordináta": "18.1514054",
+      "adószám": "18901229-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-04",
+      "statisztikai_számjel": "18901229-8569-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapító által megvalósított „mancs program” keretében az egészséges és sérült gyermekek számára megelőzési célú, biztonságra oktató ismeretek elsajátítása, valamint sérült gyermekek és felnőttek terápiás célú foglalkoztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001843",
+      "régi_nyilvántartási_száma": "1843/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fejes",
+        "Képviselő keresztneve": "Rózsa",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "404",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 148 059 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "618",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 455 727 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "593",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 853 626 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "608",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 193 336 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "562",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 517 309 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "704",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 751 399 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MancsRanch az Állati Suli Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MancsRanch az Állati Suli Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MancsRanch az Állati Suli Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

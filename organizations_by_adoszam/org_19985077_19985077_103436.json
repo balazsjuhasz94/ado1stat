@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19985077",
+  "scraped_at": "2026-02-21T13:54:09.970644",
+  "organization_id": "103436",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tömörkény István Üdülő Társulat Szeged",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6753 Szeged, Sárga üdülő 19283. helyrajzi szám",
+      "x_koordináta": "46.2605262",
+      "y_koordináta": "20.1964837",
+      "adószám": "19985077-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1982-06-30",
+      "statisztikai_számjel": "19985077-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Tagjai üdülésének és pihenésének biztosítása, a működési terület rendezése, fenntartása, működtetése és tisztántartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0000202",
+      "régi_nyilvántartási_száma": "202/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-09-16",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tőkei",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 634 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18942178",
+  "scraped_at": "2026-02-14T14:39:33.789805",
+  "organization_id": "90143",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Werischwarer Heimatwerk Hagyományőrző Egyesület",
+      "rövid_név": "Werischwarer Heimatwerk",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2085 Pilisvörösvár, Fő út 127.",
+      "x_koordináta": "47.618808",
+      "y_koordináta": "18.9053206",
+      "adószám": "18942178-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-19",
+      "statisztikai_számjel": "18942178-9499-528-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység (pl. természettudomány, társadalomtudomány)",
+      "céljának_leírása": "Pilisvörösvár és környékbeli német nemzetiségi hagyományok felkutatása, ápolása és továbbadása. Mindez magába foglalja: a német nemzetiségi tánckultúra, népdalkincs, zenei hagyományok, néprajzi értékeink, a nemzetiségi dialektus, hagyományaink és szokásaink közösségben való megélését, ápolását, illetve ezek továbbadását, különös tekintettel a fiatal generációk részére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007331",
+      "régi_nyilvántartási_száma": "7331/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Radnai",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 244 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "249 200 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "359 317 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "585 823 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "662 279 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "WERISCHWARER HEIMATWERK HAGYOMÁNYÖRZŐ EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "WERISCHWARER HEIMATWERK HAGYOMÁNYŐRZŐ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

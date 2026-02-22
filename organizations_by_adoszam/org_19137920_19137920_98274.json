@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19137920",
+  "scraped_at": "2026-02-14T12:25:29.663802",
+  "organization_id": "98274",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Spitz Fajtamentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1174 Budapest, Vörösmarty utca 32.",
+      "x_koordináta": "47.4610493",
+      "y_koordináta": "19.2386241",
+      "adószám": "19137920-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-20",
+      "statisztikai_számjel": "19137920-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Átmeneti otthont nyújt azoknak a Spitz és Affenpinscher kutyáknak, akik az utcán egyedül kóborolnak, akikről gazdáik lemondtak, illetve kidobtak és menhelyeken vagy sintértelepeken várják, hogy kimenekítsék őket. Szeretnénk, ha ezek a kutyusok is megismernék milyen is az, ha ők is egy gondoskodó, szerető családban, biztonságban élhetnének. Mindezen tevékenységet hirdetéssel, figyelemfelhívással, az érdeklődők kutyatartási szokásainak és ezen tudásának bővítésével, a Spitz és Affenpinscher fajtának a megismertetésével támogatnánk. Így az új potenciális gazdákat a lehető legtöbb információval látjuk el, hogy a jövendőbeli kedvenceink hosszú távon és végleges családra tehessenek szert. Tehát célunk a fentebb említett fajta mentése, átmeneti elhelyezése, rehabilitációja, megismertetése és felelős tartásának elérése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012732",
+      "régi_nyilvántartási_száma": "12732/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-10-12",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Koncz",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "536",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 869 956 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "677",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 447 878 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "661",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 123 950 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "572",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 962 591 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Spitz Fajtamentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

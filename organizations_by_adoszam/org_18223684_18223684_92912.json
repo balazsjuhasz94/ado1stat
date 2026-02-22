@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18223684",
+  "scraped_at": "2026-02-14T15:07:51.681785",
+  "organization_id": "92912",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "HÉV Dolgozókért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2143 Kistarcsca, Eperjesi út 13. I 3/3",
+      "x_koordináta": "47.6343844",
+      "y_koordináta": "19.1397121",
+      "adószám": "18223684-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-07-27",
+      "statisztikai_számjel": "18223684-9420-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A budapesti elővárosi közlekedésben a HÉV keretén belül dolgozókat képviselő Budapesti Közlekedési Vállalat Részvénytársaság HÉV Dolgozók Szakszervezete - a továbbiakban: BKV HDSZ - rászoruló tagjainak és közeli hozzátgartozóiknak a segélyezése, valamint a BKV HDSZ tagjai és más HÉV dolgozók egészségének, kulturális és szociális helyzetének javítása. Az alapítvány a céljainak elérése érdekében - anyagi lehetőségei szerint é a segélyért fordulók rászorultságának függvényében - segélyeket folyósít az arra rászoruló BKV HDSZ tagoknak és azok közlei hozzátartozóinak. Emellett az alapítvány az egészséges és környezettudatos életmódot, a rendszeres sportolást, szakszervezeti tevékenységet népszerűsítő képzéseket, előadásokat, oktatásokat és programokat szervez, illetve kulurális rendezvények szervezésével előmozdítja a BKV HDSZ tagok és más HÉV dolgozók kikapcsolódását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003437",
+      "régi_nyilvántartási_száma": "3437/2010",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Török",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9420",
+        "Leírás": "Szakszervezeti tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "95 872 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "140 824 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 142 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "524 548 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "633 292 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HÉV Dolgozókért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HÉV Dolgozókért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

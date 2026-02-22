@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19290618",
+  "scraped_at": "2026-02-14T13:13:11.964907",
+  "organization_id": "365363",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "673-as Cserkészcsapatért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8312 Balatonederics, hrsz. 28/43.",
+      "adószám": "19290618-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-18",
+      "statisztikai_számjel": "19290618-9499-569-19",
+      "x_koordináta": "46.7916424",
+      "y_koordináta": "17.3863728"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A 673-as számú cserkészcsapat segítése. A csapatban tevékenykedő fiatalok fejlődésének előmozdítása, környezettudatos életre, felelősségre nevelése, hogy a társadalom hasznos tagjaivá váljanak. Kiemelkedően fontos feladatnak tekintjük, hogy a magyar népi kultúrát megőrizzük, e mellett megismerkedjenek a különböző vallásokkal, mindezt sokszínű programokon keresztül valósítjuk meg, többek között kirándulásokkal, táborokkal. Célunk, hogy minél többen felelősséget vállaljanak az épített és a természeti környezet kincseiért. Aktívan segítjük a fiatalokat a számukra megfelelő életpálya kiválasztásában. Fontosnak tartjuk azon fiatalok támogatását, akik hátrányos családi helyzettel rendelkeznek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001861",
+      "régi_nyilvántartási_száma": "1861/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Éger",
+        "Képviselő keresztneve": "Kincső",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "Csilla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Domonkos",
+        "Képviselő keresztneve": "Bódog",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "279 762 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "288 530 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 399 099 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

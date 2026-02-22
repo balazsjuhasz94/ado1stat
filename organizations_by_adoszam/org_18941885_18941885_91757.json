@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18941885",
+  "scraped_at": "2026-02-21T13:35:23.379315",
+  "organization_id": "91757",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Orosházi Birkózó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5900 Orosháza, Zombai utca 7.",
+      "x_koordináta": "46.5635755",
+      "y_koordináta": "20.6744265",
+      "adószám": "18941885-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-17",
+      "statisztikai_számjel": "18941885-8551-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Orosháza városában hagyományos módon évtizedek óta művelik ezt a még az eredeti görög olimpiai játékok kultúrájából származó sportágat, melynek továbbfolytatása az egyesület célja. Az egyesület szerepet vállal a sport népszerűsítése és megismertetése, a fiatalok sportkultúrájának megalapozása terén. Közreműködik a sportszerető, tehetséges illetve a társadalmi szociális és egyéb szempontból hátrányos helyzetű, vagy különleges bánásmódú gyerekek közösségbe szervezésébe, szocializációjába, integrációjába, az esélyegyenlőség előmozdításában. Aktívan közreműködik az egészségmegőrzés, a betegségmegelőzés, az ifjúságsegítés, a sportkapcsolatok kialakítása terén, amelyeket információátadással, közösségi-, sport-, egyéb tematikus és egészségügyi prevenciós programok szervezésével, közösségi kapcsolatrendszerével, belföldi és külföldi kialakításával és ápolásával valósít meg.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003420",
+      "régi_nyilvántartási_száma": "3420/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-01",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ambruzs",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "304 461 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "231 971 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "393 792 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

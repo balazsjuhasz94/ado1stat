@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "19188081",
+  "scraped_at": "2026-02-21T12:58:21.117196",
+  "organization_id": "111610",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Szegedi Arcsebészetért\" ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6725 Szeged, Szabad sajtó utca 44.",
+      "x_koordináta": "46.238669",
+      "y_koordináta": "20.1326189",
+      "adószám": "19188081-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-15",
+      "statisztikai_számjel": "19188081-8559-561-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az SZTE SZAKK ÁOK Arc-, Állcsont- és Szájsebészeti Klinika szakmai tevékenységének fejlesztése, az SZTE SZAKK ÁOK Arc-, Állcsont- és Szájsebészeti Klinikai betegellátás színvonalának folyamatos fenntartása és emelése az osztály dolgozóinak továbbképzése, szakmai felkészülésének fejlesztése, saját szervezésű konferenciák, rendezvények támogatása, idegennyelvi képzéshez, idegennyelvi szakmai fejlődéshez való hozzájárulás és támogatásnyújtás útján.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001716",
+      "régi_nyilvántartási_száma": "1716/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-20",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10402805-50526854-82851005",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Piffkó",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Paczona",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vereb",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vetró",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "409 024 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "383 380 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "544 283 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "473 398 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Szegedi Arcsebészetért \" Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

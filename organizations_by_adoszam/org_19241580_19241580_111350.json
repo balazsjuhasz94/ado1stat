@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19241580",
+  "scraped_at": "2026-02-21T14:11:42.255709",
+  "organization_id": "111350",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kerekhegyen is túl- Borsodgeszti Gyermekekért Egyesület",
+      "rövid_név": "Kerekhegyen is túl Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3426 Borsodgeszt, Fő út 56.",
+      "x_koordináta": "47.958405",
+      "y_koordináta": "20.692405",
+      "adószám": "19241580-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-27",
+      "statisztikai_számjel": "19241580-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Borsodgeszt településen élő gyermekek testi, szellemi fejlődésének elősegítése, lelki (mentális) egészségük megőrzése, fejlesztése; esélyegyenlőségük növelése. Közművelődési tevékenységek végzése, támogatása, különös tekintettel a helyi művelődési szokások gazdagítására. A természetes és épített környezeti értékek megismertetése a gyermekekkel, kulturális és természeti örökségünk védelmének elősegítése. Környezettudatos szemléletmód elsajátításának előmozdítása, annak érdekében, hogy a jövő generációja a fenntartható fejlődés alapelvét a sajátjának tekintse. Közreműködés a gyermekek és családok szabadidejének egészséges és kulturált eltöltésének lehetőségeinek biztosításában. Továbbá fórumot teremt a célokkal azonosulni kívánó személyek számára, erősíti és fejleszti a közösségi és baráti összetartozást, amellett, hogy lehetőséget teremt tagjai számára, hogy ezen célok megvalósítása érdekében saját elgondolásaikat megoszthassák a közösséggel és személyes közreműködésük útján a célok megvalósítását aktívan segítsék.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065931",
+      "régi_nyilvántartási_száma": "65931/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Anett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "175 475 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "292 754 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "332 353 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

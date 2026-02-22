@@ -1,0 +1,159 @@
+{
+  "search_adoszam": "19159803",
+  "scraped_at": "2026-02-14T13:48:25.846091",
+  "organization_id": "64460",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bolyai János Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3100 Salgótarján, Kissomlyó út 1.",
+      "x_koordináta": "48.102919",
+      "y_koordináta": "19.80927",
+      "adószám": "19159803-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-10-30",
+      "statisztikai_számjel": "19159803-9499-569-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Ösztönözze és jutalmazza az oktató-nevelő munkában kiemelkedő tevékenységet folytató tanárokat. Iskolánk hírnevét öregbítő tanulói teljesítményeket. Az iskolát hosszú időn keresztül segítő személyeket és szervezeteket. Pályázat útján támogassa a tehetséges tanulók képességeinek fejlődését, az alkotó pedagógusok szakmai fejlődését, az iskolai innovációt. Kiemelten kívánjuk támogatni az idegennyelv tanulást. A külföldi diákcsere kapcsolatokat és szakmai táborokat. A Bolyai szellemiség, valamint az iskolai hagyományok ápolását, a Bolyai nevet viselő iskolákkal való kapcsolattartást.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-01-0000026",
+      "régi_nyilvántartási_száma": "26/1990",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kuborczikné Tóth",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "176",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "685 810 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "179",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "689 796 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "142",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "584 341 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "525 481 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "584 165 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "581 926 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "610 667 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "422 500 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "586 754 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "769 398 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "930 609 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "944 317 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALLAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bolyai János Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BOLYAI JÁNOS ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bolyai János Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19303772",
+  "scraped_at": "2026-02-14T13:36:19.945280",
+  "organization_id": "366362",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ZENIT Oktatási Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2131 Göd, Madách utca 40.",
+      "adószám": "19303772-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-26",
+      "statisztikai_számjel": "19303772-9499-569-13",
+      "x_koordináta": "47.6789027",
+      "y_koordináta": "19.1572094"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Nevelés és oktatás, képességfejlesztése, ismeretterjesztés, tehetséggondozás, és a sajátos nevelési igényű gyermekek normáli intézményi integrációja, illetve mindehhez megfelelő intézményi háttér biztosítása. Az alapítvány célja elsődlegesen, hogy olyan gyermekeknek is biztosítson minődési oktatást, akik az állami rendszerbe nem illeszthetők be, vagy számukra nem elegendőek az ott tanultak, illetve mindezekkel együtt felmerülő magatartási problémák kezelése. Nemzetközi tehetséggondozás és magatartási problémák kezelési nyári tábor formájában. Nyári tehetséggondozó táborok szervezése és más szervezetekkel való együttműködés a tehetséggondozás terén. Magyarországon élő és külföldi diákok oktatása, multikulturális környezet kialakítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004193",
+      "régi_nyilvántartási_száma": "4193/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fodor",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-04-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "802 588 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 108 642 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

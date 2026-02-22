@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18447446",
+  "scraped_at": "2026-02-14T12:51:28.959554",
+  "organization_id": "59192",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Spider Mentőcsoport Támogatói Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3531 Miskolc, Hold utca 4.",
+      "x_koordináta": "48.094291",
+      "y_koordináta": "20.698888",
+      "adószám": "18447446-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-06-20",
+      "statisztikai_számjel": "18447446-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_altípusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "a Miskolci Speciális Felderítő és Mentőcsoport (Spider) mentőcsoport támogatása. Ennek keretében a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvényben, valamint ennek végrehajtásáról szóló 234/2011(XI.10.) Korm. rendeletben meghatározott mentési feladatok magas szintű ellátásának folyamatos biztosítása. Ezen belül: közigazgatási szervek, fegyveres szervezetek, egyházak, egyéb társadalmi, illetve karitatív szervezetek, jogi, illetve természetes személyek katasztrófa- és veszélyhelyzetekben kifejtett élet- és vagyonmentést, valamint a hátrányos következmények elhárítását és enyhítését célzó tevékenységeinek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0063872",
+      "régi_nyilvántartási_száma": "63872/2005",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-01-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Orbánné Dr. Tóth",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Titanilla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Attila Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Bence",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 546 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 106 166 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "722",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 938 694 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "299",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 830 943 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "187",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 065 614 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagycsaládosok Miskolci Szivárvány Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Spider Mentőcsoport Támogatói Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

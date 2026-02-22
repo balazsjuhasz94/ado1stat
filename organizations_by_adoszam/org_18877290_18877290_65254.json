@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18877290",
+  "scraped_at": "2026-02-14T12:49:15.570786",
+  "organization_id": "65254",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kis-Pingvin Úszó-, és Vízilabda Előkészítő Sportegyesület",
+      "rövid_név": "Kis-Pingvin Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1188 Budapest, Nemes utca 38.",
+      "x_koordináta": "47.407495",
+      "y_koordináta": "19.191469",
+      "adószám": "18877290-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-13",
+      "statisztikai_számjel": "18877290-8551-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "céljának_leírása": "Az egyesület tagjainak szakmai továbbképzése, erkölcsi anyagi és jogi érdekvédelme. Az úszás és vízilabda sportág népszerűsítése és folyamatos utánpótlásának biztosítása, Szervezett keretek közötti sportolás biztosítása, megszervezése. Biztosítja tagjainak a szabadidő egészséges és kulturált eltöltését, az ifjúság fizikai képességének, edzettségének, az úszásban és a vízilabdában történő kitartásának fejlesztésével. Tagjai és az érdeklődök számára különféle rendezvényeket (tanfolyamok, bemutatók, versenyek) szervez, mindezek lebonyolításával biztosítani törekszik az egészséges és kulturált időtöltést. Ennek érdekében kapcsolatot épít hasonló célkitűzéssel tevékenységet folytató társadalmi és sport szervezetekkel. Pályázatok írásával, versenyek rendezésével forrásokat kíván teremteni az előző pontokban megfogalmazott céljai eléréséhez. Tájékoztatja tagságát az estleges támogatási lehetőségekről a támogatók személyéről. Kapcsolatot tart az egyes oktatási intézményekkel a tanulók testnevelés és sporttevékenységének segítése érdekében, közreműködik az egészséges életmódra nevelésben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016448",
+      "régi_nyilvántartási_száma": "16448/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-02-01",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Menczinger",
+        "Képviselő keresztneve": "Melinda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "548 619 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "127",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "842 928 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "834 950 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 228 748 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "158",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 613 147 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "164",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 444 724 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kis-Pingvin SE"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kis-Pingvin SE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kis-Pingvin SE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

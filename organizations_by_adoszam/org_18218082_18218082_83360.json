@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18218082",
+  "scraped_at": "2026-02-14T12:35:01.366698",
+  "organization_id": "83360",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Azonosságtudat\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Tóvárosi lakónegyed 19. 1/2.",
+      "x_koordináta": "47.1815586",
+      "y_koordináta": "18.4111251",
+      "adószám": "18218082-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-07-26",
+      "statisztikai_számjel": "18218082-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Az \"Azonosságtudat\" Közhasznú alapítvány célja, hogy mindazon közösségi rendezvényeket támogassa, amelyek a magyar nemzeti hagyományokat, a magyar azonosságtudatot ápolják, erősítik. A magyar szellemi, művészeti értékek és nemzeti hagyományaink feltárása, megismertetése. Határon túli magyarok kulturális önazonosságának megőrzésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001001",
+      "régi_nyilvántartási_száma": "1001/2010",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-04-07",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kelemen",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "343 391 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "185",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "929 508 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "251",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 420 943 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "263",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 732 933 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "243",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 809 330 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "368",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 021 333 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "346",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 427 221 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Azonosságtudat Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Azonosságtudat Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Azonosságtudat Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Azonosságtudat Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

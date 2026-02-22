@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19806172",
+  "scraped_at": "2026-02-21T13:12:48.128367",
+  "organization_id": "95805",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budapesti Elektromos Sportegyesület",
+      "rövid_név": "Budapesti Elektromos SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Kunigunda útja 47.",
+      "x_koordináta": "47.5330392",
+      "y_koordináta": "19.0586699",
+      "adószám": "19806172-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19806172-9319-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A tagjai részére sportolási lehetőségek biztosításával segítse elő egészségük megóvását, a közösségi munkában való részvételt. Az egyesület szervezetén belül biztosítsa a sportoláshoz, tömegsporthoz szükséges feltételeket, aktívan segítse elő az alapító Budapesti Elektromos Művek Rt. munkavállalóinak, és nyugdíjasainak, valamint az egyesület jogi személyiségű tagjainak tömegsport tevékenységét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0000757",
+      "régi_nyilvántartási_száma": "757/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-28",
+      "a_nyilvántartott_adatok_verziószáma": "27",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nemesházi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "323 998 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "438 740 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

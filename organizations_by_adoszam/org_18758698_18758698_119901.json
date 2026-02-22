@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18758698",
+  "scraped_at": "2026-02-14T12:28:37.601384",
+  "organization_id": "119901",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mini Mancsok Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5600 Békéscsaba, Barackos köz 23",
+      "x_koordináta": "46.670095",
+      "y_koordináta": "21.131106",
+      "adószám": "18758698-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-19",
+      "statisztikai_számjel": "18758698-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem. Az egyesület célja a kóbor, kidobott, beteg és/vagy sérült kutyák mentése, befogadása, felnevelése, gondozása, szocializációja és rehabilitációja, valamint megfelelő gazdához juttatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003329",
+      "régi_nyilvántartási_száma": "3329/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fekete",
+        "Képviselő keresztneve": "Rita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "698",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 230 289 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "1272",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 327 309 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1034",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 290 400 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "786",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 272 882 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "757",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 593 870 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "505",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 230 276 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "495",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 655 051 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mini Mancsok Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mini Mancsok Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mini Mancsok Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mini Mancsok Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

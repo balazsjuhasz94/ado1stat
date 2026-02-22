@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19349114",
+  "scraped_at": "2026-02-14T12:17:45.956931",
+  "organization_id": "369240",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rókales Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1144 Budapest, Szentmihályi út 13. 7. em./30.",
+      "adószám": "19349114-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-21",
+      "statisztikai_számjel": "19349114-9499-569-01",
+      "x_koordináta": "47.5121572",
+      "y_koordináta": "19.1465024"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Magyarországi rókák helyzetének javítása. Sérült, beteg rókák rehabilitációja, kis rókák mentése, természetbe vissza nem helyezhető rókák számára róka rezervátum létrehozása. Hattyúnyak csapda, valamint a kotorékozás betiltása Magyarországon. Ismeretterjesztés, felvilágosítás fiatalok számára a rókák megismerésének céljából. Rókákkal kapcsolatos társadalmi megítélés megváltoztatása, például a dúvad besorolás megváltoztatása, valamint időszakos kilövési tilalmak létrehozása (szaporodási időszakban).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013358",
+      "régi_nyilvántartási_száma": "13358/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-05",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11702043-21463419",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kurunczi",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1452",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 857 958 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

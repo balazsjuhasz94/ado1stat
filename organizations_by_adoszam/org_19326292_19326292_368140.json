@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19326292",
+  "scraped_at": "2026-02-21T13:37:49.568630",
+  "organization_id": "368140",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Menthal Studio Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Kossuth Lajos utca 18/1.",
+      "adószám": "19326292-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-18",
+      "statisztikai_számjel": "19326292-8559-569-10",
+      "x_koordináta": "47.7779594",
+      "y_koordináta": "19.9256706"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány célja a lakosság széles rétegei számára segítséget nyújtani mind lelki, mind fizikai téren, valamint a hátrányos helyzetű személyek, rétegek, vallási, etnikai kisebbségek társadalmi integrációjának elősegítése és a hazai lelki egészségvédelem fejlődésének, a mentálhigiénés kultúra terjedésének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001234",
+      "régi_nyilvántartási_száma": "1234/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Besenyei",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "388 644 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

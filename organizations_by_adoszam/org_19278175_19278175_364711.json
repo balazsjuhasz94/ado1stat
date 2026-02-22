@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19278175",
+  "scraped_at": "2026-02-21T13:48:15.479100",
+  "organization_id": "364711",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ózdi József Attila Gimnázium Alapítványa",
+      "rövid_név": "Ózdi JAG Alapítványa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3600 Ózd, Bem út 14",
+      "adószám": "19278175-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-01",
+      "statisztikai_számjel": "19278175-9499-569-05",
+      "x_koordináta": "48.231118",
+      "y_koordináta": "20.2950174"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja az Ózdi József Attila Gimnázium tanulóinak, pedagógusainak, valamint iskolai rendezvényeinek és közösségi életének támogatása. Az alapítvány tevékenységével elősegíti a Gimnáziumba járó tanulók közösséggé formálódását, ösztönzi a tanulókat mind egyéni, mind csapatszinten kiváló tanulmányi és sport eredmények elérésére. Az Alapítvány célja továbbá, hogy a pedagógusok munkáját elismerje, valamint elősegítse a tanár-tanuló és közösségi kapcsolatok kiépítését, erősítését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064612",
+      "régi_nyilvántartási_száma": "64612/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-08-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ambrus",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "267 970 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "377 205 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

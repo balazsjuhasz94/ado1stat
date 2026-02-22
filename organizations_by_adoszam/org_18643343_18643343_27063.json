@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18643343",
+  "scraped_at": "2026-02-21T13:01:19.812814",
+  "organization_id": "27063",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szurdokpüspöki Kertbarátok Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3064 Szurdokpüspöki, Mátrahegyi út 4066.",
+      "x_koordináta": "47.8711845",
+      "y_koordináta": "19.7221033",
+      "adószám": "18643343-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-06-29",
+      "statisztikai_számjel": "18643343-9499-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdekképviseleti tevékenység",
+      "céljának_leírása": "Az egyesület tagjai érdekeinek képviselete, kedvező üdülési lehetőségek biztosítása. Az üdülőterület fejlesztésében, igy különösen az utak karbantartásában, az üdülő ingatlanok közművesítésében, illetőleg villamosításában, csatornázásában, az egyesület tagjainak, mint az üdülő ingatlanok tulajdonosainak érdekképviselete. Ennek keretében az egyesület jár el a hatóságok, a helyi önkormányzat, valamint a közszolgáltató társaságok, és vállalkozók előtt annak érdekében, hogy a fent megnevezett beruházások gazdasági és jogi feltételeiről tájékozódjon és azok szervezésében közreműködjön. A környezet védelmének biztosítása, megóvása, fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0000033",
+      "régi_nyilvántartási_száma": "33/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Somogyi",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-07-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 140 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 600 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "465 706 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

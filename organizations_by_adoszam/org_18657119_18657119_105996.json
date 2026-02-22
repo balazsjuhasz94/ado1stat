@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "18657119",
+  "scraped_at": "2026-02-14T13:24:59.986481",
+  "organization_id": "105996",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MMAGE Magyar Mid-Amatőr Golf Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1118 Budapest, Számadó utca 10/4.",
+      "x_koordináta": "47.515504",
+      "y_koordináta": "18.983351",
+      "adószám": "18657119-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-05",
+      "statisztikai_számjel": "18657119-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A 25 év feletti, a golfot amatőr státuszban játszó korosztály összefogása,a megfelelő kommunikációs csatornák kiépítése, a korosztály információkkal történő ellátása, a golfozók egyéni aktivitásának növelése. A golf népszerűsítése és ezen keresztül tömegbázisának, az ifjúsági golfozók számának növelése. Erős és egységes válogatott létrehozása és versenyeztetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015897",
+      "régi_nyilvántartási_száma": "15897/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-12-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-27",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szépfy",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "170 809 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "432 905 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 993 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 208 486 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MMAGE Magyar Mid-Amatőr Golf Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

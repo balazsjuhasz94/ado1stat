@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19944616",
+  "scraped_at": "2026-02-21T13:38:31.747636",
+  "organization_id": "63270",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Herman Ottó Horgász Egyesület Pécs",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "762l Pécs, Széchenyi tér 9.",
+      "x_koordináta": "46.0760956",
+      "y_koordináta": "18.2275889",
+      "adószám": "19944616-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19944616-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "sportszerű eszközökkel és módszerekkel történő halfogás, a horgász sport népszerűsítése. Kedvező horgászlehetőségek biztosítása tagjai számára. A természet védelmére és szeretetére való nevelés, a szabadidősport feltételeinek biztosítása. Tagjai érdekképviseletének és érdekvédelmének biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0000068",
+      "régi_nyilvántartási_száma": "68/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-24",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bíró",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "88 207 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 406 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "169 804 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 740 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HERMAN OTTÓ HORGÁSZ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

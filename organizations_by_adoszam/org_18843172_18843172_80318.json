@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18843172",
+  "scraped_at": "2026-02-21T13:44:16.079977",
+  "organization_id": "80318",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Biatorbágy Pecatóért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2051 Biatorbágy, Tó sétány 53",
+      "x_koordináta": "47.3775462",
+      "y_koordináta": "18.9339545",
+      "adószám": "18843172-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-22",
+      "statisztikai_számjel": "18843172-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Településfejlesztési és lakásügyi tevékenység (pl. helyi és regionális településfejlesztés, kommunális és közlekedésfejlesztés, közösségfejlesztés, ingatlantulajdonosok szervezetei, lakásellátás javítása)",
+      "céljának_leírása": "Biatorbágy város Önkormányzatával, illetve döntéshozatalban eljáró magasabb szintű közigazgatási szervekkel történő folyamatos kapcsolattartás során megismerni és érdemben befolyásolni a pecatavi ingatlanokra és tájegységre vonatkozó önkormányzati és magasabb szintű, rövid- és hosszútávú területfejlesztési terveket, célkitűzéseket. Partnerként közreműködni, illetve átvállalni olyan közfeladatokat, amellyel a pecatavi egyének és közösség életminősége érdemben javítható. A pecatavi utak tevékeny javítása, hiányos közvilágítás pótlásának szorgalmazása és tevékeny pótlása. A Biatorbágy Pecatóért Egyesület, mint szervezet közvetlen politikai tevékenységet nem folytat, szervezete politikai pártoktól független és azoknak anyagi támogatást nem nyújt. A Biatorbágy Pecatóért Egyesület közhasznú tevékenységet folytat a 2011. évi CLXXXIX (Mötv.) 13§. (1) 1. pontja szerint: \"településfejlesztés, településrendezés,\" 2. pontja szerint: \"településüzemeltetés (közutak kialakítása, fenntartása, a közvilágításról való gondoskodás) 5. pontja szerint: \"környezet-egészségügy (köztisztaság, települési környezet tisztaságának biztosítása)\"",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007086",
+      "régi_nyilvántartási_száma": "7086/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fekete",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szántay",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "76 826 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "210 306 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 596 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "377 895 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Biatorbágy Pecatóért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,192 @@
+{
+  "search_adoszam": "18693180",
+  "scraped_at": "2026-02-14T12:16:54.802630",
+  "organization_id": "84580",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Állat- és Természetvédők Budaörsi Egyesülete",
+      "rövid_név": "ÁTBE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2040 Budaörs, Lévai utca 34.",
+      "x_koordináta": "47.4591827",
+      "y_koordináta": "18.9459348",
+      "adószám": "18693180-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-12-04",
+      "statisztikai_számjel": "18693180-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Az állatvédelem és a természeti környezet védelme területén végzett tevékenység, ismeretterjesztés, oktatási tevékenység ellátása a társadalom és az egyén közhös szükségleteinek kielégítésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0003194",
+      "régi_nyilvántartási_száma": "3194/2001",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-05-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-14",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Cuadrado Alarcon",
+        "Képviselő keresztneve": "Alfa",
+        "Képviselő titulusa": "Consuelo",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Alíz",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2029-02-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gyuricza",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2029-02-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "3811",
+        "Leírás": "Nem veszélyes hulladék gyűjtése"
+      },
+      {
+        "Kód": "3900",
+        "Leírás": "Szennyeződésmentesítés, egyéb hulladékkezelés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "1528",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 942 595 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "2125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 578 546 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "2363",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 220 437 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "1990",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 875 482 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "1951",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 335 491 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "1954",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 680 667 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "2139",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 403 561 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1855",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 522 407 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1576",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 668 006 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1815",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "18 370 657 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1551",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 013 798 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1321",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "17 372 335 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÁLLAT- ÉS TERMÉSZETVÉDŐK BUDAÖRSI EGY."
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÁLLAT- ÉS TERMÉSZETVÉDŐK BUDAÖRSI EGY."
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÁLLAT- ÉS TERMÉSZETVÉDŐK BUDAÖRSI EGY."
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÁLLAT- ÉS TERMÉSZETVÉDŐK BUDAÖRSI EGY."
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÁLLAT- ÉS TERMÉSZETVÉDŐK BUDAÖRSI EGY."
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÁLLAT- ÉS TERMÉSZETVÉDŐK BUDAÖRSI EGY."
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÁLLAT- ÉS TERMÉSZETVÉDŐK BUDAÖRSI EGY."
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Állat- és Természetvédők Budaörsi Egysülete"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Állat- és Természetvédők Budaörsi Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Állat- és Természetvédők Budaörsi Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

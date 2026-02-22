@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "18681220",
+  "scraped_at": "2026-02-21T13:34:15.201700",
+  "organization_id": "98519",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vízi Diákok, Roverek, Amatőr Sportolók Sportegyesülete",
+      "rövid_név": "VIDRA Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2011 Budakalász, Felsővár utca 20",
+      "x_koordináta": "47.630609",
+      "y_koordináta": "19.0510431",
+      "adószám": "18681220-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1998-06-08",
+      "statisztikai_számjel": "18681220-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A budakalászi helyi és környező települések elsősorban fiatalokból álló közösségei, valamint a sportolni vágyó felnőtt helyi lakosok, családok számára megteremteni és lehetőséget biztosítani az amatőr sportolás, természetjárás különböző ágainak gyakorlására. Ezen belül kiemelt célként kezelve az amatőr vizisportolás, -túrázás, valamint az amatőr és versenyszerű korcsolyázás és jogkorong sport megszerettetését és népszerűsítését valamennyi korosztályban. Az amatőr sportolás, túrázás által további cél hazánk, és a környező országok tájainak, kutúrájának, embereinek megismerése, a természetben való tájékozódás, a természet védelme, az egészség és a jó erőnlét fenntartásának ápolása az egészséges életmódra nevelés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0002410",
+      "régi_nyilvántartási_száma": "2410/1997",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-23",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Wettstein",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "Oszkár",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "180 812 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 264 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "395 765 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

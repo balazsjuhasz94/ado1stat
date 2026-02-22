@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19311827",
+  "scraped_at": "2026-02-14T14:16:30.813926",
+  "organization_id": "366968",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szervátültetettek Győr-Moson-Sopron és Vas Megyei Sport és Érdekvédelmi Egyesülete",
+      "rövid_név": "GyőrSzeVas Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9012 Győr, Hármashatár utca 19.",
+      "adószám": "19311827-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-21",
+      "statisztikai_számjel": "19311827-9499-529-08",
+      "x_koordináta": "47.6221063",
+      "y_koordináta": "17.6101489"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesületnek, sajátos helyzetéből adódóan - mivel tagjai hátrányos helyzetűek - elsősorban a transzplantáltak rehabilitációja, orvosilag ellenőrzött testedzése és ezáltal a betegség - megelőzés, a felüdülés biztosítása, ilyen igények felkeltése, tagjainak nevelése, a kulturális és közösségi élet kibontakoztatása a legfontosabb célkitűzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063269",
+      "régi_nyilvántartási_száma": "63269/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Iker",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "753 128 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "102",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "764 723 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

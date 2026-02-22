@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19319492",
+  "scraped_at": "2026-02-14T15:10:20.384207",
+  "organization_id": "367632",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Black Dog Állatvédő Alapítvány",
+      "rövid_név": "BDÁA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1025 Budapest, Turista út 36-38.",
+      "adószám": "19319492-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-17",
+      "statisztikai_számjel": "19319492-9499-569-01",
+      "x_koordináta": "47.5348426",
+      "y_koordináta": "18.9984161"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja az állatok védett értékeinek érvényesítése, életminőségük javítása, illetve helyreállítása. Az alapítvány az állatok érdekeit szem előtt tartva menti az állatokat, biztosítja az általa felvállalt állatok testi és lelki rehabilitációját, felelősen gondozza őket, megfelelő gazdát, befogadót keres számukra. Az alapítvány munkájával és szemléletével példát mutat és elősegíti a társadalom felelős állattartóvá válását. Az alapítvány megoldásokat keres az aktuális állatvédelmi problémákra, elősegíti az állatok védelmében bekövetkező pozitív társadalmi változásokat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013234",
+      "régi_nyilvántartási_száma": "13234/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11713081-21463952",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Papp",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "566 515 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "572 742 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

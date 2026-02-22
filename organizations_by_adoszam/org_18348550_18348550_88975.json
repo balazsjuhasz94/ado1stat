@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18348550",
+  "scraped_at": "2026-02-21T14:35:33.578354",
+  "organization_id": "88975",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Jövő Polgáraiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6112 Pálmonostora, Általános Iskola, Táncsics M. utca 28",
+      "x_koordináta": "46.6256609",
+      "y_koordináta": "19.9483368",
+      "adószám": "18348550-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-02-01",
+      "statisztikai_számjel": "18348550-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "- Demokratikus fórum biztosítása a diákos számára, - Az iskola tanulói részére programok, tanulmányi versenyek, vetélkedők szervezése, - Kultúrásli tevékeynség, szabadidős programok támogatása, - A tehetséges tanulóknak szakkörök szervezése, - A diák sportversenyek, a rendszeres testmozgás ösztönzése (kirándulás, túra táborok), - Egészségügyi programok bevezetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0000782",
+      "régi_nyilvántartási_száma": "782/1995",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-08-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Cseszkóné Csernák",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "41 553 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "80 561 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "157 325 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "96 145 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "136 183 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "140 855 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 084 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Jövő Polgáraiért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Jövő Polgáraiért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A JÖVŐ POLGÁRAIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Jövő Polgáraiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

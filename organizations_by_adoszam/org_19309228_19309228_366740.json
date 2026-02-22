@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19309228",
+  "scraped_at": "2026-02-14T15:04:21.436693",
+  "organization_id": "366740",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Debreceni Szivárvány Óvoda Gyermekeiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4031 Debrecen, István út 51. 2/20.",
+      "adószám": "19309228-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-08-03",
+      "statisztikai_számjel": "19309228-9499-569-09",
+      "x_koordináta": "47.521601",
+      "y_koordináta": "21.5832683"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "1) az óvodába járó gyermekek - élménygazdag, harmonikus fejlődésének elősegítése, - egyéni igényeire épülő differenciált képességfejlesztések segítése, preventív támogatása, - egészséges életmódra nevelése, - környezetvédő, környezettudatos magatartásra nevelése, - esélyteremtő, befogadó és hátránycsökkentő lehetőségeinek erősítése (élmények biztosításával), - esztétikai nevelése (a külső és belső környezet folyamatos szépítésével) 2) az óvodában dolgozók szakmai felkészültségének segítése (innovatív technikák elsajátításával, korszerű pedagógiai szemlélet naprakészen tartásával) 3) az óvodában dolgozók és szülők igényeinek megfelelő környezet kialakítása 4) az óvoda mint intézmény partneri kapcsolatainak erősítése (élmények biztosításával)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002273",
+      "régi_nyilvántartási_száma": "2273/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pirohov-Tóth",
+        "Képviselő keresztneve": "Barbara",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Wágner",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "Vilmos",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "481 051 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "590 230 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

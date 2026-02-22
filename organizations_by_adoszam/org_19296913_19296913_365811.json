@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19296913",
+  "scraped_at": "2026-02-21T13:01:24.576898",
+  "organization_id": "365811",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tisza Korcsolyázó Sportegyesület",
+      "rövid_név": "Tisza KSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6753 Szeged, Budai Nagy Antal utca 7.",
+      "adószám": "19296913-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-03",
+      "statisztikai_számjel": "19296913-9312-521-06",
+      "x_koordináta": "46.2703492",
+      "y_koordináta": "20.2172022"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A sportegyesület célja, hogy tagjai és tagjai segítségével minél többen, minél magasabb szinten el tudják sajátítani a korcsolyázás alapszintű elemeit, a műkorcsolya és szinkronkorcsolya speciális figuráit, technikáit. Missziónk a sportág népszerűsítésén túl, hogy a műkorcsolya tudásunkat minél jobban fejlesszük és aktív versenyzői jelenlétet teremtsünk műkorcsolya, szinkronkorcsolya szakágakban. Víziónk, hogy rendszeres sportedzések biztosításával, versenyek és tanfolyamok szervezésével, a közös érdekek védelmével, a sportkapcsolatok fejlesztésével el tudjuk érni, hogy a sportág területén élsportolókkal rendelkezzünk.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003505",
+      "régi_nyilvántartási_száma": "3505/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-09",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11735005-26061830",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Berkesiné Törőcsik",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nemes",
+        "Képviselő keresztneve": "Alexandra",
+        "Képviselő titulusa": "Marietta",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Berkesi",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "465 491 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

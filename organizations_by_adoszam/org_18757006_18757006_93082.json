@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18757006",
+  "scraped_at": "2026-02-21T13:37:35.254985",
+  "organization_id": "93082",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kismarosi Önkéntes Tűzoltó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2623 Kismaros, Kossuth u. 22.sz.",
+      "x_koordináta": "47.8261258",
+      "y_koordináta": "19.0118616",
+      "adószám": "18757006-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-01",
+      "statisztikai_számjel": "18757006-8425-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Tűzvédelmi szabályok betartásának elősegítése, tűzkárok megelőzése, tüzek oltása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0002802",
+      "régi_nyilvántartási_száma": "2802/1999",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "1999-12-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "66000114-16001110",
+      "számlavezető_pénzintézet_neve": "Takarékbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Parragh",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2022-10-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "81 444 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 197 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 529 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "497 470 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 080 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kismarosi Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kismarosi Önkéntes Tűzoltó Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

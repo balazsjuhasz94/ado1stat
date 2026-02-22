@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18945133",
+  "scraped_at": "2026-02-14T14:50:55.295426",
+  "organization_id": "77561",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Innovatív Sportok Egyesülete",
+      "rövid_név": "ISE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6800 Hódmezővásárhely, Mária Valéria utca 1.",
+      "x_koordináta": "46.4163458",
+      "y_koordináta": "20.318959",
+      "adószám": "18945133-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-01",
+      "statisztikai_számjel": "18945133-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Innovatív Sportok Egyesülete célja Hódmezővásárhely és környéke számára rendszeres sportolás és rekreációs tevékenység biztosítása olyan sporttevékenységeken keresztül, amelyek eddig sem a városunkban, sem a régióban nem voltak elérhetőek, illetve ismertek. Egyesületünknek szándékában áll, hogy minden nemű és korú embernek biztosíthassa a lehetőséget a mozgásra úgy, hogy folyamatosan megújuló és változatos mozgásformákat nyújtunk számukra. Meggyőződésünk, hogy a vidéki emberek számára is járnak ugyanazok a lehetőségek sportolás tekintetében is, mint külföldön vagy akár a fővárosban. Fontosnak tartjuk, hogy az általunk megteremtett lehetőségeket ne csak egy adott korosztály használhassa ki, és átadhassuk egy-egy új mozgásforma által a sportolás örömét és szeretetét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003308",
+      "régi_nyilvántartási_száma": "3308/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-20",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bartyikné Oláh",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "151 151 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "267 262 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 091 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "544 116 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "517 929 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "623 959 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Innovatív Sportok Egyesülete"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Innovatív Sportok Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Innovatív Sportok Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

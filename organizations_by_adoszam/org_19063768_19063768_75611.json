@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19063768",
+  "scraped_at": "2026-02-14T14:48:12.256980",
+  "organization_id": "75611",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Leonhart Csocsó Egyesület",
+      "rövid_név": "MLCSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1115 Budapest, Etele út 36/B. 2/13.",
+      "x_koordináta": "47.5117602",
+      "y_koordináta": "19.0336915",
+      "adószám": "19063768-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-08-30",
+      "statisztikai_számjel": "19063768-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "- A fiatalok szabadidejének hasznos eltöltésének megvalósítása, - Versenyek szervezése, lebonyolítása, a tagok és egyéb sportkedvelők versenyeztetése, területi és országos versenyekre, valamint világbajnokságra való eljutásának biztosítása, ennek megszervezése. - Kapcsolattartás a Magyar Csocsó Szövetséggel, valamint a játékosok leigazolása. - Rendszeres edzésekkel a versenyzők fejlődésének biztosítása. - Egyéb sportkapcsolatok létesítése és fenntartása, közösségi élet alakítása. - Az asztali foci, mint sportág népszerűsítése. - Kirándulások, programok szervezése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016976",
+      "régi_nyilvántartási_száma": "16976/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-27",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nyitrai",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "Zsolt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "674 070 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "633 646 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

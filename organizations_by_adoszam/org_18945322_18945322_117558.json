@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18945322",
+  "scraped_at": "2026-02-21T12:56:25.109381",
+  "organization_id": "117558",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budakalászi Készenléti Önkéntes Tűzoltó és Önkéntes Mentőszervezet, Polgárőrség Egyesülete",
+      "rövid_név": "Budakalász K.ÖT.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2011 Budakalász, Petőfi tér 1.",
+      "x_koordináta": "47.4991919",
+      "y_koordináta": "19.3431476",
+      "adószám": "18945322-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-06",
+      "statisztikai_számjel": "18945322-8425-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "A közrend, közbiztonság illetve az ipari és természeti értékek védelme, Budakalász illetve vonzás körzetében végzett tűzmegelőzés, önkéntes tűzoltás, műszaki mentés, speciális mentés, katasztrófa elhárítási feladatok ellátása, illetve a közterületeken való járőr szolgálat. Az Egyesülethez csatlakozók célja, hogy speciális felkészültségük és ismereteik felhasználásával a közösség számára hasznos tevékenységet folytassanak a katasztrófavédelem területén, pl: tűzmegelőzés, önkéntes tűzoltás, műszaki mentés, speciális mentés, polgári védelem, közrend, közbiztonság növelése érdekében járőr szolgálat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007349",
+      "régi_nyilvántartási_száma": "7349/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "25",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Sebestyén",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "273 266 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "506 369 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "475 816 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "321 702 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "528 370 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "478 126 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Péceli Készenléti Önkéntes Tűzoltó és Önkéntes Mentőszervezet Egyesülete"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budakalász Készenléti Önkéntes Tűzoltó és Önkéntes Mentőszervezet Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budakalászi Készenléti Önk.Tűzoltó és Önk. Mentőszervezet Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

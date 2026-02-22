@@ -1,0 +1,152 @@
+{
+  "search_adoszam": "18070008",
+  "scraped_at": "2026-02-14T13:04:35.520239",
+  "organization_id": "80478",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Civil Kollégium Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6090 Kunszentmiklós, Kunbábony tanya 37. 2.",
+      "x_koordináta": "47.0192479",
+      "y_koordináta": "19.221525",
+      "adószám": "18070008-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-01-02",
+      "statisztikai_számjel": "18070008-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Civil Kollégium nevű képzési szervezet létrehozása és működtetése, amely a civil társadalom cselekvőképességét és hatékonyságát kívánja fokozni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0005308",
+      "régi_nyilvántartási_száma": "5308/1994",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2017-03-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-12",
+      "alkalmazottak_száma": "9",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Máté",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "129 869 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "74 628 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "52 944 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "101 802 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "258 339 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "615 387 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "157",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 617 254 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Civil Kollégium Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CIVIL KOLLÉGIUM ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CIVIL KOLLÉGIUM ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Civil Kollégium Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Civil Kollégium Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Civil Kollégium Alapítvány",
+        "Év": "2019"
+      },
+      {
+        "Név": "Civil Kollégium Alapítvány",
+        "Év": "2020"
+      },
+      {
+        "Név": "Civil Kollégium Alapítvány",
+        "Év": "2021"
+      }
+    ]
+  },
+  "error": null
+}

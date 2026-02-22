@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "18902691",
+  "scraped_at": "2026-02-14T12:26:10.208308",
+  "organization_id": "69487",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kismaszat Állatmentő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1195 Budapest, Jahn Ferenc utca 54/2.",
+      "x_koordináta": "47.4502238",
+      "y_koordináta": "19.1518734",
+      "adószám": "18902691-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-04",
+      "statisztikai_számjel": "18902691-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Főként, de nem kizárólag Budapesten, Pest megyében állatmentés végzése, az állatvédő hagyományok ápolása és fejlesztése, ehhez kapcsolódó ismeretterjesztés és oktatás, a jövő generációjának nevelése az élet tiszteletére, az értelmetlen állatkínzások megfékezése. Tagjai számára megteremteni a célok megvalósításához kapcsolódóan a társadalmi érintkezések lehetőségét, valamint szabadidejük tartalmas és elsősorban a fenti célokhoz kapcsolódóan történő eltöltésének feltételeit.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016517",
+      "régi_nyilvántartási_száma": "16517/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-04-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Várkonyi",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "485",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 289 674 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "443",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 109 185 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "510",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 863 720 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "648",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 084 240 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "561",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 583 924 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "502",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 583 078 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kismaszat Állatmento Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kismaszat Állatmento Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kismaszat Állatmentő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

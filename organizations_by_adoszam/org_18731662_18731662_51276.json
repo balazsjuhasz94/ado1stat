@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "18731662",
+  "scraped_at": "2026-02-14T14:21:06.923274",
+  "organization_id": "51276",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szerves Műveltség Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Barátság útja 34 fszt./3/a.",
+      "x_koordináta": "47.645742",
+      "y_koordináta": "19.1238595",
+      "adószám": "18731662-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-11-14",
+      "statisztikai_számjel": "18731662-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyar szerves műveltség fennmaradásáért tevékenykedő emberek - többek között de nem kizárólagosan - előadók, költők, írók, történészek, művészettörténészek, néprajzkutatók, magyarságkutatók, újságírók, képzőművészek, és pedagógusok munkájának támogatása az alábbi módokon: - A kedvezményezettek életkörülményeinek támogatása. - A kedvezményezettek munkája feltételeinek megteremtése. - A kedvezményezettek által tartott előadások fedezetének megteremtése. - A kedvezményezettek által vezetett, vagy szervezett kulturális kirándulások, utazások költségeinek fedezése. - A kedvezményezettek kutatási költségeinek megteremtése. - A kedvezményezettek által írt, illetve szerkesztett könyvek, újságok nyomdai megjelenésének támogatása. - A kedvezményezettek szellemi hagyatékának gondozása az örökösök kívánságával összhangban. - A kedvezményezettek, illetve szellemi hagyatékuk támogatásának bármilyen más módja, amely a magyar szerves műveltség fennmaradását biztosítja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003748",
+      "régi_nyilvántartási_száma": "3748/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zempléni",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "678 606 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "458 171 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "429 675 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 261 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "743 995 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szerves Műveltség Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szerves Műveltség Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Szerves Műveltség Alapítvány",
+        "Év": "2026"
+      }
+    ]
+  },
+  "error": null
+}

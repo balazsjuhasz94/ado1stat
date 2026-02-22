@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19343008",
+  "scraped_at": "2026-02-21T14:22:19.295218",
+  "organization_id": "368947",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "VETERÁN BUNYÓSOK Alapítvány",
+      "rövid_név": "VB Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1126 Budapest, Derkovits utca 10.",
+      "adószám": "19343008-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-08-10",
+      "statisztikai_számjel": "19343008-9499-569-01",
+      "x_koordináta": "47.4965531",
+      "y_koordináta": "19.0161441"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "Egykor sikeres ökölvívók (legalább Országos Bajnokságokon dobogós helyezéssel rendelkező ökölvívók) támogatása. A jelenleg nehéz helyzetbe került ökölvívó sporttársak, valamint esetlegesen egészségügyi problémákkal küzdő és emiatt nehéz élethelyzetbe került ökölvívó sporttársak támogatása. E közösség célja: – Olyan korábban az ökölvívó sportágban minimum OB dobogós helyezettet elért sporttársak támogatása, akik jelenleg gazdasági nehézségekkel küzdenek. – Továbbá a sporttársak mentális, szükség esetén fizikális támogatásának segítése. – Egészségügyi problémák esetén felmerülő kezelési költségekben való anyagi segítség nyújtás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013329",
+      "régi_nyilvántartási_száma": "13329/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-11-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdei",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "316 514 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

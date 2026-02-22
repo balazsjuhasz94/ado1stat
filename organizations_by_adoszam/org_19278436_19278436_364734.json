@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19278436",
+  "scraped_at": "2026-02-21T14:00:39.315445",
+  "organization_id": "364734",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "GDP City Sport Egyesület",
+      "rövid_név": "GDP Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1196 Budapest, Esze Tamás utca 82.",
+      "adószám": "19278436-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-09",
+      "statisztikai_számjel": "19278436-9312-521-01",
+      "x_koordináta": "47.4476248",
+      "y_koordináta": "19.1373661"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az angolszász országokban széles körben elterjedt és népszerű darts sport magyarországi és helyi terjesztése, népszerűsítése. Az egyesület tagjai számára rendszeres sportolási, edzési, versenylehetőségek biztosítása. Elősegítse a darts sporttevékenységet folytató személyek és szervezetek együttműködését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017458",
+      "régi_nyilvántartási_száma": "17458/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-13",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Melisek",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "350 414 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18207460",
+  "scraped_at": "2026-02-21T12:45:21.482547",
+  "organization_id": "87630",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élmények Völgye Turisztikai Egyesület",
+      "rövid_név": "ÉVTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3643 Dédestapolcsány, Kossuth utca 6.",
+      "x_koordináta": "48.178848",
+      "y_koordináta": "20.484479",
+      "adószám": "18207460-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-04-12",
+      "statisztikai_számjel": "18207460-9319-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Turisztikai tevékenységek fejlesztése és támogatása, idegenforgalom támogatása a régióban, környezetvédelem, gyermek és ifjúsági programok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0064914",
+      "régi_nyilvántartási_száma": "64914/2010",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegyi",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "506 816 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

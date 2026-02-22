@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19241542",
+  "scraped_at": "2026-02-14T13:40:08.562944",
+  "organization_id": "123479",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Akut Pécs Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7624 Pécs, Szent István tér 17.",
+      "x_koordináta": "46.0770064",
+      "y_koordináta": "18.2223215",
+      "adószám": "19241542-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-27",
+      "statisztikai_számjel": "19241542-8412-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A pécsi és Pécs környéki akut ellátásra szoruló betegek ellátásának javítása, a betegelégedettség, ezáltal az egység jó hírnevének növelése. A sürgősségi ellátásban tehetséges és szorgalmas ellátók támogatása, a tudásuk elmélyítése. A rászoruló, fogyatékkal élők segítése, életminőségének javítása. A sürgőssági orvostan tudományos vívmányainak ismertetése, rendszerfejlesztés. A sürgősségi ellátás emberközpontúvá, közérthetővé tétele, elérhetőségének elősegítése, a rendszer használatának optimalizálása ismeretterjesztés mentén. Innovatív eljárások kidolgozása, azok bevezetése a mindennapi sürgősségi ellátásban. Minőség kontroll, auditálás az elért eredmények megtartására, azok további javítására.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001906",
+      "régi_nyilvántartási_száma": "1906/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-06-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Deák",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "727 433 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "531 915 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 024 717 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19101123",
+  "scraped_at": "2026-02-14T12:42:27.932419",
+  "organization_id": "94129",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Waldorf Gyógyító Pedagógiáért és Nevelésért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2000 Szentendre, Gyöngyvirág utca 6/B.",
+      "x_koordináta": "47.4449038",
+      "y_koordináta": "19.0255969",
+      "adószám": "19101123-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-10",
+      "statisztikai_számjel": "19101123-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A sajátos nevelési igényű gyermekek Waldorf-szemléletű gyógyító pedagógiai nevelése, kísérése, támogatása az intézménybe lépés korától (óvodáskortól) a felnőttkorig, a gyermek, illetve fiatal egyéni szükségletei és állapota szerint. Waldorf-gyógypedagógiai rendszerű intézmények létesítése, és továbbiak létrejöttének inspirálása. A Waldorf-pedagógiai emberképével azonosuló családok különleges bánásmódot igénylő, sajátos nevelési igényű gyermekeinek közösségi, óvodai, iskolai rendszerű nevelése, és terápiás lehetőségek, szakiskola, lakóotthon, munkahelyek teremtése. A Rudolf Steiner által kidolgozott antropozófiai emberkép és gyógypedagógia megismertetése és népszerűsítése a sajátos nevelési igényű gyermekek szülei, és tágabb körben a laikus és a szakmai érdeklődők számára. A Waldorf-gyógypedagógiai intézmények és a Waldorf-pedagógiai intézmények együttműködésének támogatása. Mindezeken keresztül az inklúzió erősítése, a magyarországi befogadó kultúra támogatása, és ezzel a magyar gyógypedagógiai oktatás- és nevelés ügy megújulásához való közvetlen hozzájárulás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017042",
+      "régi_nyilvántartási_száma": "17042/2018",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-01-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Páll",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "Emese",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gulyás",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagygyörgy",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "672 981 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 026 372 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "105",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 045 667 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "197",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 625 042 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Waldorf Gyógyító Ped. Nevelésért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

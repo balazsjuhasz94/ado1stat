@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19866334",
+  "scraped_at": "2026-02-21T13:58:33.399939",
+  "organization_id": "66449",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Besenyszögi Sportegyesület",
+      "rövid_név": "BSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5071 Besenyszög, Jászladányi út 1.",
+      "x_koordináta": "47.2999825",
+      "y_koordináta": "20.2588229",
+      "adószám": "19866334-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19866334-9312-521-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0000250",
+      "régi_nyilvántartási_száma": "250/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-01-28",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ficsor",
+        "Képviselő keresztneve": "Olivér",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-10-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lévai",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-10-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 185 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "353 078 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

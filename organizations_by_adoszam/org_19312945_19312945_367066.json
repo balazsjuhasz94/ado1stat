@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "19312945",
+  "scraped_at": "2026-02-21T13:08:00.644391",
+  "organization_id": "367066",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Három Kereszt Oktatási Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2476 Pázmánd, Fő utca 64.",
+      "adószám": "19312945-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-08",
+      "statisztikai_számjel": "19312945-8520-569-07",
+      "x_koordináta": "47.2843946",
+      "y_koordináta": "18.6409565"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány a pázmándi Szent Gellért Általános Iskolát (2476 Pázmánd, Fő u. 27.) (a továbbiakban: Iskola), az Iskola által a tanulók szellemi, erkölcsi és testi nevelését, a pedagógusok szakmai fejlődését kívánja támogatni, ennek keretében különösen: - hátrányos helyzetű tanulók támogatását; - tanulói esélyek egyenlőségének biztosítását; - tehetséggondozást; - környezettudatos és egészségtudatos tanulói és tanári attitűd kialakítását, megerősítését; - szabadidős és sporttevékenység támogatását (pl. táboroztatás, erdei iskola, osztálykirándulások támogatása); - iskolai és helyi hagyományok őrzését; - diákönkormányzat működését; - közreműködést az oktatás tárgyi feltételeinek megteremtésében, fejlesztésében (pl. okostábla, projektor, nem állami tankönyvek beszerzésének támogatása, játszótér eszközeinek fejlesztése); - a tanulókat és a pedagógusokat középpontba helyező események, rendezvények szervezését. A fentiekben nevesítettekre tekintettel az alapítvány cél szerinti besorolása: oktatási tevékenység.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001175",
+      "régi_nyilvántartási_száma": "1175/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "107000937266377251100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hirják",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "Péterné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mataczné Törjék",
+        "Képviselő keresztneve": "Leonóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Marton",
+        "Képviselő keresztneve": "Rita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács-Elbert",
+        "Képviselő keresztneve": "Melinda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Balázs",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "459 291 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "450 152 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

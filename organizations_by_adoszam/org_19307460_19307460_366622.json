@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19307460",
+  "scraped_at": "2026-02-21T14:31:59.464168",
+  "organization_id": "366622",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ladybird Nyelv- és Táncstúdió Gyermekeiért Alapítvány",
+      "rövid_név": "Ladybird Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5430 Tiszaföldvár, Malom út 59.",
+      "adószám": "19307460-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-01",
+      "statisztikai_számjel": "19307460-8552-569-16",
+      "x_koordináta": "46.9785363",
+      "y_koordináta": "20.2649779"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Alapítvány célja a Ladybird Nyelvstúdió és a Ladybird Táncstúdió (továbbiakban: Stúdiók) tanulóinak és táncosainak támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-01-0001265",
+      "régi_nyilvántartási_száma": "1265/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szakál",
+        "Képviselő keresztneve": "Gábor Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "617 315 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "304 239 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

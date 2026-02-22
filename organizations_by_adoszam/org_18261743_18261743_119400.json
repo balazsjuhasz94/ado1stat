@@ -1,0 +1,129 @@
+{
+  "search_adoszam": "18261743",
+  "scraped_at": "2026-02-21T13:21:38.624721",
+  "organization_id": "119400",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Metis Női Futball Club",
+      "rövid_név": "Metis NFC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1144 Budapest, Szentmihályi út 12-14. 5. em./127.",
+      "x_koordináta": "47.497912",
+      "y_koordináta": "19.040235",
+      "adószám": "18261743-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-09-10",
+      "statisztikai_számjel": "18261743-8551-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Sporttevékenység, a sportélet támogatása, tagjai sporttevékenységének biztosítása (labdarúgás, valamint egyéb sportágakban), versenyek, tanfolyamok szervezése, a tagok közös érdekeinek védelme.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0012637",
+      "régi_nyilvántartási_száma": "12637/2007",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-02-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-06",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "122 008 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "102 412 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 778 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "183 676 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 426 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 323 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "418 749 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball club"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball club"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női Futball Club"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball Club"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női Futball Club"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball club"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball club"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball club"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball club"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METIS Női futball club"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

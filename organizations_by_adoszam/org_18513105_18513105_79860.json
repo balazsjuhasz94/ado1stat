@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "18513105",
+  "scraped_at": "2026-02-21T12:29:25.542298",
+  "organization_id": "79860",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budaörsi Szent Benedek Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2040 Budaörs, Esze Tamás utca 3.",
+      "x_koordináta": "47.462368",
+      "y_koordináta": "18.963003",
+      "adószám": "18513105-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-09-15",
+      "statisztikai_számjel": "18513105-8569-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A Szent Benedek Gimnázium és Szakképző Iskola Budaörsi Tagintézményéhez kapcsolódóan folytatott oktatási tevékenység, amely részletesebben kifejtve elsősorban a következőket foglalja magában: Oktatási színvonalának emeléséhez szükséges eszközök, berendezések beszerzése és karbantartása. Tanulók részére tanulmányi utak lehetővé tétele, kiváló eredményt elérő iskolai tanulók jutalmazása. Jó magatartású és szociális szempontból rászoruló tanulók támogatása. Iskolai könyvtár fejlesztése. Általában mindazon tevékenység, amely a Szent Benedek Gimnázium és Szakképző Iskola erkölcsi, etikai színvonalának emelését szolgálja. Esélyegyenlőség a hátrányos helyzetű tanulók számára. Közművelődési és kulturális tevékenység. Az ifjúság egészségügyi ellátásának javítása, az egészséges életmód előmozdítása. Egészségmegőrzés, betegség-megelőzés. Diákok és tovább tanuló volt diákok szakmai fejlődésének, pályaválasztásának, továbbtanulásának elősegítése és támogatása ösztöndíjak létesítésével, pályázatok kiírásával. A sport, az iskolai sportélet, sporttevékenység, kivéve a munkaviszonyban és a polgári jogviszony keretében megbízás alapján folytatott sporttevékenység. Az intézményben folyó kutató tevékenység szervezése, támogatása. Az iskolában folyó nevelés kutató tevékenység szervezése, támogatása. Az iskolában folyó nevelés-oktatás szellemi, tárgyi, pénzügyi támogatása. Szakmai programunkban célunk, hogy az iskolában folyó szakképzés igazodjon a munkaerőpiac igényeihez, nyújtson konvertálható ismereteket, legyen gyakorlatorientált, tegye lehetővé a jogszabályi előírásokban való eligazodást és növelje a végzettek elhelyezkedési esélyeit. Törekszünk arra, hogy a nálunk végzett tanulókban kialakuljon a piacorientált szemlélet, az informatikában való jártasság, rendszerszemléletű gondolkodásmód, kommunikációs készség idegen nyelven is, valamint az igény az önképzés és az élethossziglan tartó tanulás iránt. A szakképzés céljainak megfogalmazásakor arra törekedtünk, hogy azok összhangban legyenek általános nevelési-oktatási célkitűzéseinkkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003522",
+      "régi_nyilvántartási_száma": "3522/2012",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hardi",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Titusz",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "158 897 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "247 316 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "556 719 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

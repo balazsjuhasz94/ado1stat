@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18907139",
+  "scraped_at": "2026-02-21T14:18:08.461281",
+  "organization_id": "79356",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Önkéntes Összefogás Egyesület Dunaharaszti",
+      "rövid_név": "ÖNÖSZ DH",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2330 Dunaharaszti, Hajnal utca 11.",
+      "x_koordináta": "47.3592978",
+      "y_koordináta": "19.0866907",
+      "adószám": "18907139-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-30",
+      "statisztikai_számjel": "18907139-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Együttműködés állami, önkormányzati és más civil családsegítő szervezetekkel. Hátrányos helyzetű családok és egyedülálló emberek megsegítésére javaslatok kidolgozása és az illetékes szervekhez teljesítése. Rendszeres, ingyenes ételosztások leszervezése támogatók bevonásával. Hátrányos helyzetű családok gyermekeinek beiskolázásához további anyagi és tárgyi adományok gyűjtésének leszervezése. Összefogni, támogatni a térség hasonló célú társadalmi szervezeteit és civil szerveződéseit. Tevékenységével hozzá kíván járulni a társadalmi egyenlőtlenségek felszámolásához. A térség fiataljainak ösztönzése, a hátrányos helyzetű emberekre való odafigyelése az egyesület családsegítő városi programjain való részvételükkel. Lakossági bejelentések alapján egyedi esetek fogadása, annak stratégiai tervének kidolgozása, esetlegesen továbbítása a térség hivatalos szerveihez. Környezettudatos életmódra ösztönző programok szervezése, lebonyolítása, a környező egyesületekkel és civil szervezetekkel együttműködve.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007271",
+      "régi_nyilvántartási_száma": "7271/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Büti",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Salk",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "2027-01-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szilágyi",
+        "Képviselő keresztneve": "Angelika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "2027-01-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "313 562 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

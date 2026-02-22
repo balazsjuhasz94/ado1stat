@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18737455",
+  "scraped_at": "2026-02-21T12:57:14.700720",
+  "organization_id": "51357",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"A Csornai Premontrei Apátságért és Intézményeiért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9300 Csorna, Soproni út 65.",
+      "x_koordináta": "47.611457",
+      "y_koordináta": "17.248764",
+      "adószám": "18737455-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-10",
+      "statisztikai_számjel": "18737455-9499-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "- annak elősegítése, hogy az apátság a működési területén - vallási tevékenységén túlmenően - a helyi állami, önkormányzati és civil szervekkel együttműködve széleskörű kulturális, oktató, ifjúságnevelő és szociális szervező munkát fejtsen ki, - segítse az apátságnak a beruházásait, az épített, és tárgyi örökség kapcsán felmerülő felújítási és restaurálási feladatai megvalósítását, - a közösségteremtő célú rendezvényeit, - az idegenforgalommal kapcsolatos feladatait, fejlesztéseit, - támogassa az apátság fenntartásában működő, oktató-nevelő, közfeladatot ellátó intézmények tevékenységét, különösen ifjúságnevelő, tehetséggondozó, szociális segítő munkáját.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051319",
+      "régi_nyilvántartási_száma": "51319/2013",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Boldvai",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hancz",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 824 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "660 977 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "423 500 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "475 619 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"A Csornai Premontrei Apátságért és Intézményeiért\" Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

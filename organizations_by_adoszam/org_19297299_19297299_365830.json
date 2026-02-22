@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19297299",
+  "scraped_at": "2026-02-14T14:29:23.675390",
+  "organization_id": "365830",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kecskeméti Szív- és Érgyógyászatért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Nyíri út 38.",
+      "adószám": "19297299-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-09",
+      "statisztikai_számjel": "19297299-9499-569-03",
+      "x_koordináta": "46.8818884",
+      "y_koordináta": "19.7076783"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány célja az invazív kardiológiai és invazív radiológiai vizsgálatok és kezelések elvégzése a szív- és érbetegek hatékonyabb ellátásának érdekében. Az invazív kardiológiai géppark és műszerezettség fejlesztése. Az invazív kardiológus és invazív radiológus orvosok és szakdolgozók képzésének és továbbképzésének támogatása. Ennek érdekében az alapítvány céljai: invazív kardiológiai vizsgálatok – egyéb szakmai projektek indítása – szervezése – ehhez nyújtandó anyagi és szakmai támogatás, - egészségmegőrzés, betegség-megelőzés, gyógyító-egészségügyi rehabilitációs tevékenység, - a Nemzeti Egészségbiztosítási Alapkezelő által nem támogatott vizsgálatok elvégzése, nem elérhető műszerek beszerzése, - a betegek érdekében újonnan alkalmazott kezelési lehetőségek honosítása és hazai alkalmazásának bevezetése, - gyógyító, tudományos kutatási feladatok ellátása, szervezése, - új invazív eljárások valamint a szívbetegek kezelésének új módszereinek támogatása, - belföldi és külföldi szakmai konferenciánkon való részvétel támogatása, külföldi tanulmányi utak szervezése, sympoziumok, kongresszusok szervezése, ezek támogatása, - továbbképzési rendezvények anyagi fedezetének biztosítása, fiatal kardiológusok kongresszusi részvételeinek, rövid tanulmányutaknak, csereprogramoknak a támogatása, - az invazív kardiológia fejlődésének, oktatási rendszerének támogatása, - idős, beteg, rokkant, rossz anyagi helyzetben lévő kardiológusok, invazív kardiológiai asszisztensek, és e területen működő egészségügyi szakdolgozók támogatása, - emlékérem alapítás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002640",
+      "régi_nyilvántartási_száma": "2640/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-08-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Berta",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "B. Tóth",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "717 187 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "705 267 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

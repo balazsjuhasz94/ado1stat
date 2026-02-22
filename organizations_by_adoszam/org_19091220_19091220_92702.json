@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19091220",
+  "scraped_at": "2026-02-21T12:40:59.546176",
+  "organization_id": "92702",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Harmónia Klub Szabadegyháza",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2432 Szabadegyháza, Szabadság tér 18.",
+      "x_koordináta": "47.0764583",
+      "y_koordináta": "18.6894024",
+      "adószám": "19091220-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-08",
+      "statisztikai_számjel": "19091220-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület célja az idősebb korosztály életminőségének javítása, érdekeik sokoldalú képviselete; érdemi kapcsolattartás az önkormányzattal és a nyugdíjas klubok vezetőivel; civil alapon együttműködés az azonos célú nyugdíjas szervezetekkel és különböző társadalmi egyesületekkel; a korosztály életének megjelenítése az írott és elektronikus médiában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003188",
+      "régi_nyilvántartási_száma": "3188/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-08-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sági",
+        "Képviselő keresztneve": "Gáborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zétényi",
+        "Képviselő keresztneve": "Lajosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "520 614 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19034119",
+  "scraped_at": "2026-02-14T14:02:46.029912",
+  "organization_id": "90479",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Alapítvány a PEAC Labdarúgó csapatáért\"",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7621 Pécs, Teréz utca 11-13.",
+      "x_koordináta": "46.0736842",
+      "y_koordináta": "18.2409116",
+      "adószám": "19034119-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-09",
+      "statisztikai_számjel": "19034119-9312-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "a) a Pécsi Egyetemi Atlétikai Club (PEAC) Labdarúgó Szakosztály fenntartása, a sportolási feltételek javítása, sportösztöndíjak alapítása és odaítélése; b) sportolók és sportvezetők anyagi és erkölcsi elismerése; c) nemzetközi kapcsolatok építése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0000122",
+      "régi_nyilvántartási_száma": "122/1991",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "25",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Turi",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "842 893 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,337 @@
+{
+  "search_adoszam": "19025702",
+  "scraped_at": "2026-02-14T12:14:56.996750",
+  "organization_id": "89257",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Máltai Szeretetszolgálat Egyesület",
+      "rövid_név": "MMSZ Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1125 Budapest, Szarvas Gábor út 58-60.",
+      "x_koordináta": "47.5179002",
+      "y_koordináta": "18.9831114",
+      "adószám": "19025702-2-44",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1989-02-04",
+      "statisztikai_számjel": "19025702-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_altípusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Segítséget nyújtson a szükségben levőknek, betegeknek, öregeknek, fogyatékkal élőknek, hátrányos helyzetűeknek, hajléktalanoknak, szegregált közösségeknek, menekülteknek, zarándokoknak, valamint katasztrófa és háborús események áldozatainak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0000010",
+      "régi_nyilvántartási_száma": "10/1989",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-05-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-31",
+      "alkalmazottak_száma": "5151",
+      "a_nyilvántartott_adatok_verziószáma": "35",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabadhegy",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "János",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szalai",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Brahó",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "Valéria",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kövesfalvi",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabadhegy",
+        "Képviselő keresztneve": "Kristóf",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Morva",
+        "Képviselő keresztneve": "Emília",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Preininger-Horváth",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jeney",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Mihály",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5224",
+        "Leírás": "Rakománykezelés"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "7810",
+        "Leírás": "Munkaközvetítés"
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      },
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      },
+      {
+        "Kód": "8621",
+        "Leírás": "Általános járóbeteg-ellátás"
+      },
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "5210",
+        "Leírás": "Raktározás, tárolás"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "3526",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 100 916 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "4525",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 662 182 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "4083",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 571 392 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "3538",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "17 951 886 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "3091",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 952 491 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "2928",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "17 963 560 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "3076",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 594 617 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "2827",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 236 845 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "4683",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "43 047 380 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "3459",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "35 107 726 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "2819",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "33 537 675 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2515",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "31 813 063 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR MÁLTAI SZERETETSZOLGÁLAT EGYESÜLET"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR MÁLTAI SZERETETSZOLGÁLAT EGYESÜLET"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

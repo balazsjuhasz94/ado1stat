@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18870860",
+  "scraped_at": "2026-02-14T14:15:50.615986",
+  "organization_id": "37037",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ballószögi Kossuth Lajos Általános Iskoláért Alapítvány",
+      "rövid_név": "Ballószögi Iskoláért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6034 Helvécia, Ady Endre utca 24.",
+      "x_koordináta": "46.837719",
+      "y_koordináta": "19.626111",
+      "adószám": "18870860-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-11",
+      "statisztikai_számjel": "18870860-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "1. Helvécia-Ballószög Általános Iskola Kossuth Lajos Általános Iskolája építményeinek felújítása- korszerűsítésének támogatása, tárgyi feltételeinek javítása, tanítási-tanulási és szabadidős tevékenységei színvonalának emelése. 2. Az iskolai sport,- és kulturális rendezvények támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002561",
+      "régi_nyilvántartási_száma": "2561/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-12-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nyirádi",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 757 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "239 391 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "237 112 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "270 732 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "392 811 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "767 773 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ballószögi Kossuth Lajos Általános Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ballószögi Kossuth Lajos Általános Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ballószögi Kossuth Lajos Általános Iskoláért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

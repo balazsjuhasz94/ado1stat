@@ -1,0 +1,200 @@
+{
+  "search_adoszam": "18549885",
+  "scraped_at": "2026-02-21T12:35:48.571073",
+  "organization_id": "67451",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Imádkozzál és Dolgozzál Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4220 Hajdúböszörmény, Bocskai tér 10.",
+      "x_koordináta": "47.6733266",
+      "y_koordináta": "21.5055267",
+      "adószám": "18549885-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-10-22",
+      "statisztikai_számjel": "18549885-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "a) Támogatja a Református Egyház és intézménye által szervezett ifjúsági táborok, erdei iskolák és egyéb gyülekezeti csoportok rendezvényeit, b) Támogatást nyújt az egyház iskoláiban tanuló tehetséges fiatalok továbbtanulásához, képességeik fejlesztéséhez, c) Támogatja a gyülekezet tagjainak teológiai vagy más jellegű továbbtanulását, továbbképzését, amely a gyülekezet szolgálatába állítható, d) Anyagi segítséget nyújt az egyház épületeinek építési, felújítási, karbantartási munkáihoz, e) Segítséget nyújt az egyház tevékenységi körébe tartozó feladatok ellátásához, az anyagi, technikai, személyi feltételek javításához, f) Az egyház által működtetett intézmények részére oktatási segédeszközöket, valamint technikai eszközöket szerezhet be, g) Az iskolai könyvtár könyvállományának fejlesztéséhez anyagi segítséget nyújt, h) A hátrányos helyzetű tanulók étkeztetését támogatja, i) Tankönyvbeszerzéshez segítséget nyújt, j) A Magyarországi és határon túli testvér gyülekezetek, fiataljainak támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0000966",
+      "régi_nyilvántartási_száma": "966/1996",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kissné Rácz",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "Ildikó",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-12-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kathiné Molnár",
+        "Képviselő keresztneve": "Mariann",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnárné Kun",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "199 167 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "135 396 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "119",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "315 133 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 215 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 675 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "193 126 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "210 217 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "230 209 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "260 863 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "448 318 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 585 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "506 472 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és dolgozzál Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Imádkozzál és Dolgozzál Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19349073",
+  "scraped_at": "2026-02-21T13:21:19.497617",
+  "organization_id": "369405",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EverDog Családi Kutyás Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6723 Szeged, József Attila sugárút 144/B 5//15.",
+      "adószám": "19349073-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-23",
+      "statisztikai_számjel": "19349073-9699-529-06",
+      "x_koordináta": "46.2679343",
+      "y_koordináta": "20.1611649"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A civil szervezet célja: A kinológiai és etológiai, állatvédelmi, felelős állattartási ismeretek széles körű terjesztése. Szakmai rendezvények szervezése, lebonyolítása, részvétel a mások által szervezett szakmai és ismeretterjesztő lakossági rendezvényeken, ismeretterjesztő kiadványok kiadása, online felületek biztosítása. Együttműködés más hasonló tevékenységű szervezetekkel. Kutyatartással összefüggő tematikájú tanfolyamok szervezése és lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003602",
+      "régi_nyilvántartási_száma": "3602/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-08",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Halász",
+        "Képviselő keresztneve": "Helga, elnök",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "419 494 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

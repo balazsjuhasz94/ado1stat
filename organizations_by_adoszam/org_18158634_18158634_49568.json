@@ -1,0 +1,232 @@
+{
+  "search_adoszam": "18158634",
+  "scraped_at": "2026-02-14T13:10:45.110986",
+  "organization_id": "49568",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Búzavirág Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3941 Vámosújfalu, Kossuth utca 42. A.",
+      "x_koordináta": "48.260835",
+      "y_koordináta": "21.454754",
+      "adószám": "18158634-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-06-02",
+      "statisztikai_számjel": "18158634-8730-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Családi környezetben való nevelkedést biztosít látássérültek állami gondozott gyermekek számára. A teljes élet lehetőségét nyujtja látássérült, illetve más fogyatékossággal élők felnőtteknek és táborokat szervez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0006668",
+      "régi_nyilvántartási_száma": "6668/1997",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-10",
+      "alkalmazottak_száma": "62",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mezősi",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fehérné Tamás",
+        "Képviselő keresztneve": "Mariann",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "1393",
+        "Leírás": "Szőnyeggyártás"
+      },
+      {
+        "Kód": "1399",
+        "Leírás": "Egyéb textiláru gyártása m.n.s."
+      },
+      {
+        "Kód": "2320",
+        "Leírás": "Tűzálló termék gyártása"
+      },
+      {
+        "Kód": "2341",
+        "Leírás": "Háztartási kerámia gyártása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "278 722 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 127 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "102",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 285 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 500 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "208 181 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "405 274 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "468 670 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "141",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "733 760 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "540 952 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "214",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 537 067 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "178",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 428 325 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "154",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 458 161 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Búzavirág Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

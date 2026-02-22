@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19312529",
+  "scraped_at": "2026-02-14T13:00:27.393073",
+  "organization_id": "367035",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tizenegy Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1115 Budapest, Etele út 44. A. lépcsőház I. emelet/11.",
+      "adószám": "19312529-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-28",
+      "statisztikai_számjel": "19312529-9499-529-01",
+      "x_koordináta": "47.4674739",
+      "y_koordináta": "19.0265944"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelmi tevékenység folytatása a kiemelten Budapest tizenegyedik kerületében, valamint szükség esetén az ország teljes területén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017723",
+      "régi_nyilvántartási_száma": "17723/2021",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-01-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Gábor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 102 888 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 709 594 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

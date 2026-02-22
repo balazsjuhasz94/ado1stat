@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "19139056",
+  "scraped_at": "2026-02-21T14:01:59.955105",
+  "organization_id": "121103",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csipkefa Kultúra- és Hagyományőrző Közhasznú Alapítvány",
+      "rövid_név": "Csipkefa Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2639 Bernecebaráti, Széchenyi út 84.",
+      "x_koordináta": "48.0333515",
+      "y_koordináta": "18.9141173",
+      "adószám": "19139056-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-06",
+      "statisztikai_számjel": "19139056-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Bernecebarátiban és környékén: -hagyományőrzés -közösségépítés -oktatási, képzési és nevelési tevékenység -környezetvédelem és természetvédelem",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004017",
+      "régi_nyilvántartási_száma": "4017/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-01-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Márton",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0125",
+        "Leírás": "Egyéb gyümölcs, héjastermésű termesztése"
+      },
+      {
+        "Kód": "1032",
+        "Leírás": "Gyümölcs-, zöldséglé gyártása"
+      },
+      {
+        "Kód": "1039",
+        "Leírás": "Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás"
+      },
+      {
+        "Kód": "1051",
+        "Leírás": "Tejtermék gyártása"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "320 352 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 334 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

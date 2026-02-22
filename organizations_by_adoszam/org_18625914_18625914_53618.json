@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18625914",
+  "scraped_at": "2026-02-21T12:53:18.173460",
+  "organization_id": "53618",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szentlőrinci Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Szentlőrinci ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7940 Szentlőrinc, Templom tér 8.",
+      "x_koordináta": "46.0431672",
+      "y_koordináta": "17.9813235",
+      "adószám": "18625914-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-11-14",
+      "statisztikai_számjel": "18625914-8425-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az önkormányzati elven működő, szakmai szolgáltatást végző egyesület célja elsődlegesen a székhelye szerinti település tűzvédelmének biztosítása, tűzoltási, műszaki mentési tevékenység végzése, tűzoltó hagoymányok megőrzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003466",
+      "régi_nyilvántartási_száma": "3466/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schneider",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-03-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "127",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "569 101 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "334 986 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "630 209 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "523 071 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "485 986 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SZENTLŐRINCI ÖNKÉNTES TŰZOLTÓ EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SZENTLŐRINCI ÖNKÉNTES TŰZOLTÓ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

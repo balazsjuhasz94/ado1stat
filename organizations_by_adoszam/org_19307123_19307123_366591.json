@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19307123",
+  "scraped_at": "2026-02-14T13:09:07.189141",
+  "organization_id": "366591",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gedeon Állatvédő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1112 Budapest, Oltvány utca 43. fszt./2.a.",
+      "adószám": "19307123-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-02",
+      "statisztikai_számjel": "19307123-9499-569-01",
+      "x_koordináta": "47.45677",
+      "y_koordináta": "19.0008616"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Bajba jutott állatok segítése és támogatása az egész országban, állatvédelem, ezen belül többek között állatmenhely létrehozása, működtetése, gazdátlan állatok részére. Együttműködve különböző más állami, önkormányzati, külföldi vagy belföldi honosságú gazdasági vagy civil szervezetekkel – az alábbi feladatokat látja el, tevékenységeket végzi: nevelés, oktatás, ismeretterjesztés, állategészségügyi ellátás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013152",
+      "régi_nyilvántartási_száma": "13152/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-05-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "116000060000000095527626",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kőszegi",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 352 372 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 491 862 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19305396",
+  "scraped_at": "2026-02-21T13:07:57.443083",
+  "organization_id": "366465",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Felhőjárók Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2440 Százhalombatta, Esthajnal utca 13.",
+      "adószám": "19305396-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-14",
+      "statisztikai_számjel": "19305396-9499-569-13",
+      "x_koordináta": "47.3130405",
+      "y_koordináta": "18.8995171"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány céljai: - Társadalmi érzékenyítés a művészet segítségével. - Felhőjárók Mozdulatszínház működtetése. - Hátrányos helyzetű csoportok, elsősorban fogyatékkal élő és megváltozott munkaképességű személyek esélyegyenlőségének és társadalmi integrációjának elősegítése. - A fogyatékkal élő személyek állapotának és életminőségének javítása. - A fogyatékkal élő személyek testi, lelki és mentális egészségének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004197",
+      "régi_nyilvántartási_száma": "4197/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szélpál",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "Béláné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "516 995 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "450 277 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

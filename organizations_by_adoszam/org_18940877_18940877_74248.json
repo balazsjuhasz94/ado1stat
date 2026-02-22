@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18940877",
+  "scraped_at": "2026-02-21T13:43:39.761468",
+  "organization_id": "74248",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Balance Aerobic Club",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5553 Kondoros, Bajcsy-Zsilinszky utca 15.",
+      "x_koordináta": "46.6722505",
+      "y_koordináta": "20.6835181",
+      "adószám": "18940877-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-25",
+      "statisztikai_számjel": "18940877-9312-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A gyermekek egészséges életmódra nevelése az aerobic sporton keresztül. Az aerobic sporton keresztül. Az aerobic sportág népszerűsítése, rendszeres sportolási lehetőség, valamint a szabadidő kulturált eltörlésének biztosítása, a tömegsport fellendítésének elősegítése . Sporthoz kapcsolódó programok szervezése , aerobic sporttevékenység szervezése, megszerettetése, képességfejlesztés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003417",
+      "régi_nyilvántartási_száma": "3417/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-20",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tüskés",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "38 660 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 025 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "378 479 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

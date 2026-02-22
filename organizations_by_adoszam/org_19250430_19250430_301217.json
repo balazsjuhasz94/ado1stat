@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19250430",
+  "scraped_at": "2026-02-14T12:40:01.600562",
+  "organization_id": "301217",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szép Jövőért Zsombornak Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3700 Kazincbarcika, Csók István út 32/2.",
+      "adószám": "19250430-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-11",
+      "statisztikai_számjel": "19250430-9499-569-05",
+      "x_koordináta": "48.2266834",
+      "y_koordináta": "20.5833466"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az SMA1-es típusú betegséggel született Burinda Zsombor (születési hely és idő: Miskolc, 2019.10.22.; anyja neve: Szűcs Szabina, lakcíme: 3700 Kazincbarcika, Derkovits Gyula tér 10. 4/3.) rehabilitációjával kapcsolatos költségek, így rehabilitációs eszközök, öltözékek és terápiás foglalkozások költségeinek viselése; egyéb, a betegségből kifolyólag adódó kiadások viselése; akadálymentes lakhatás biztosítása, ideértve olyan ingatlan vásárlását is, amelyen a gyermek érdekében szükséges akadálymentesítés elvégezhető; valamint a mobilizálás eszközeinek beszerzésével kapcsolatos költségek viselése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064597",
+      "régi_nyilvántartási_száma": "64597/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-31"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tompáné Varga",
+        "Képviselő keresztneve": "Margit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Demeter",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Major",
+        "Képviselő keresztneve": "Barnabás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "375",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 265 067 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "289",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 852 843 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

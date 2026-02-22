@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19346489",
+  "scraped_at": "2026-02-14T12:37:10.612406",
+  "organization_id": "369204",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyöngyösi Állatmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Kenyérgyár út 17.",
+      "adószám": "19346489-2-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-05",
+      "statisztikai_számjel": "19346489-9499-569-10",
+      "x_koordináta": "47.7779594",
+      "y_koordináta": "19.9256706"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A környezet- és természetvédelem keretén belül a városi gyepmesterrel együttműködve gondoskodni a gazdátlan, kóbor ebek elhelyezéséről, megfelelő szintű betegségmegelőző, gyógyító ellátásukról, táplálásukról és arról, hogy részükre minél előbb olyan otthont találjanak, ahol biztosítottak az ebtartáshoz szükséges feltételek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001240",
+      "régi_nyilvántartási_száma": "1240/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szűcs",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "322",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 130 050 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

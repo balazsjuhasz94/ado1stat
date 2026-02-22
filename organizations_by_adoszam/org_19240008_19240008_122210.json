@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19240008",
+  "scraped_at": "2026-02-21T13:23:16.295346",
+  "organization_id": "122210",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Leszbikus Magazin és Programszervező Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1151 Budapest, Szlacsányi Ferenc utca 32.",
+      "x_koordináta": "47.5733863",
+      "y_koordináta": "19.1248774",
+      "adószám": "19240008-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-20",
+      "statisztikai_számjel": "19240008-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Leszbikus-Biszexuális-Transz-Queer (továbbiakban: LBTQ+) női közösség számára befogadó, biztonságos online és offline tér létrehozása a Magyarországon az LBTQ+ nők élményeinek, gondolatainak kifejezésére. Az LBTQ+ női közösség építése, fejlesztése, támogatása. Az LBTQ+ nők önelfogadásának és önszerveződésének támogatása. Az LBTQ+ nők emberi fejlődésének elősegítése, jólétének, egészségtudatosságának növelése. Annak elősegítése, hogy az LBTQ+ nők minél jobban az igényeikhez illeszkedő világban élhessenek. Az LBTQ+ nők társadalmi szerepvállalásának erősítése. Az LBTQ+ női közösség értékeinek megismerése, megismertetése, megőrzése, képviselete, kultúrájuk ápolása. Feminista értékek képviselete és a női szerepvállalás erősítése. A tolerancia és társadalmi elfogadás népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017384",
+      "régi_nyilvántartási_száma": "17384/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szekeres",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szlávi",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szunyog",
+        "Képviselő keresztneve": "Ágota",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 126 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "415 886 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

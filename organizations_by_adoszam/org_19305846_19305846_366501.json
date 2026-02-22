@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "19305846",
+  "scraped_at": "2026-02-21T13:59:26.459177",
+  "organization_id": "366501",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Forrás-Kód Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2022 Tahitótfalu, Szállások út 25.",
+      "adószám": "19305846-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-17",
+      "statisztikai_számjel": "19305846-8559-569-13",
+      "x_koordináta": "47.7500761",
+      "y_koordináta": "19.0545722"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja az emberiség globális felemelése annak megértése által, hogy kik vagyunk, és mire születtünk ide, megtalálása önmagunknak, és a világ egységének. Az alapítvány tevékenységeivel segíti a céljainak létrejöttét, és mellette közhasznú tevékenységeket is végez. Fontosnak tartjuk minden ember számára eljuttatni azt az üzenetet, hogy mi végre is született ide a Földre. Küldetésünk egy új szemléletű ember létrehozása az alapítvány tevékenységei által. Reform szemléletet hozunk az oktatásban, az orvosi, a természeti és a műszaki tudományokban. Határozott dinamikával veszünk részt a világ globális működésének az újraépülésében. Összességében egy tudatosabb, önmagáért és a környezetért felelősséget vállaló egészséges nemzedéket hozunk létre alapítványunk szerteágazóan átfogó tevékenységével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002643",
+      "régi_nyilvántartási_száma": "2643/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-10-22",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szántó",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gajdácsi",
+        "Képviselő keresztneve": "Zita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "410 181 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 940 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

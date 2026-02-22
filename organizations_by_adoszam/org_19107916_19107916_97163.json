@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "19107916",
+  "scraped_at": "2026-02-14T13:45:05.165926",
+  "organization_id": "97163",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szilháti Sándor Gyömrői Reformátusságért Alapítvány",
+      "rövid_név": "GYRA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2230 Gyömrő, Gróf Teleki utca 1.",
+      "x_koordináta": "47.4133114",
+      "y_koordináta": "19.3967244",
+      "adószám": "19107916-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-28",
+      "statisztikai_számjel": "19107916-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja, hogy a gyömrői reformátusságot az egyháztudomány, az oktatás és a kutatás fejlődésének terén támogassa. Az alapítvány célja az egyházközség épületeinek, tárgyi eszközeinek bővítése és működési feltételeinek biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003993",
+      "régi_nyilvántartási_száma": "3993/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-14",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Osztrogonácz",
+        "Képviselő keresztneve": "Andor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "270 107 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "534 788 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "102",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "810 334 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "953 702 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "975 782 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szilháti Sándor Gyömrői Reformátusságért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szilháti Sándor Gyömrői Reformátusságért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

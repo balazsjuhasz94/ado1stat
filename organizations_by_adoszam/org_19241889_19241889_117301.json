@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19241889",
+  "scraped_at": "2026-02-14T12:47:33.196806",
+  "organization_id": "117301",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "IVARTALANÍTÁSSAL A CICÁKÉRT EGYESÜLET SÁRVÁR",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9600 Sárvár, Csallóköz utca 16.",
+      "x_koordináta": "47.247297",
+      "y_koordináta": "16.915669",
+      "adószám": "19241889-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-30",
+      "statisztikai_számjel": "19241889-9499-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Gazdátlan macskák ivartalanítása és élőhelyükre történő visszahelyezése Sárváron és vonzáskörzetében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200809",
+      "régi_nyilvántartási_száma": "200809/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kosztolánczi",
+        "Képviselő keresztneve": "Renáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "219",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 399 242 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "224",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 519 447 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "266",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 311 356 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18163274",
+  "scraped_at": "2026-02-21T13:59:14.076502",
+  "organization_id": "113744",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Országos Korcsolyázó Szövetség",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1146 Budapest, Istvánmezei út 3-5.",
+      "x_koordináta": "47.5022271",
+      "y_koordináta": "19.1050484",
+      "adószám": "18163274-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-11-10",
+      "statisztikai_számjel": "18163274-9319-515-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Országos sportági szakszövetség",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A Szakszövetség célja a korcsolyasport, mint közhasznú tevékenység általános irányítása, szervezése, fejlesztése és népszerűsítése vallási, faji és politikai diszkrimináció nélkül mindkét nemben, minden korosztályban, valamint a korcsolyasport nemzetközi szereplésnek elősegítése. Ennek érdekében szervezi irányítja és ellenőrzi a Magyarország területén a korcsolyasportban folyó tevékenységeket, közreműködik a Sporttörvényben és más jogszabályokban meghatározott állami sportfeladatok ellátásában, képviseli a korcsolyasport és tagjai érdekeit, valamint részt vesz a nemzetközi sportszervezetek tevékenységében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-07-0000020",
+      "régi_nyilvántartási_száma": "20/2001",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-05-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-25",
+      "a_nyilvántartott_adatok_verziószáma": "29",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kósa",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Váradi",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "352 170 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

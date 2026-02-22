@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19225263",
+  "scraped_at": "2026-02-14T13:38:02.391910",
+  "organization_id": "115179",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Együtt Dominikért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6500 Baja, Csaba utca 12.",
+      "x_koordináta": "46.2030727",
+      "y_koordináta": "18.9648642",
+      "adószám": "19225263-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-03",
+      "statisztikai_számjel": "19225263-8899-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az SMA 2-es típusú betegséggel született Mikó Dominik (anyja neve: Róka Krisztina, születési hely és idő: Baja, 2008. március 08., lakóhely: 6500 Baja, Csaba utca 12.) - egészségügyi ellátása, gyógykezelése, fizikai és mentális terápiák, rehabilitációs foglalkozások lehetőségeinek felkutatása, megszervezése, költségeinek viselése; - ápolása, gondozása költségeinek fedezése; - a mindennapi szükségleteinek kielégítéséhez szükséges speciális eszközök, orvosi eszközök, gyógyászati és higiéniaiszerek költségeinek viselése, ide értve a beszerzéssel és a használattal járó egyéb költségek viselését is; - érdekében a külföldön és Magyarországon igénybe vehető egészségügyi ellátások, gyógykezelések, műtétek, rehabilitációs lehetőségek költségeinek finanszírozása, beleértve Dominik és kísérője utazással és külföldön tartózkodással kapcsolatos költségeit, valamint az ellátás finanszírozását is; - gyógyszerköltségeihez történő anyagi támogatás nyújtása; - orvosi konzultációi során felmerülő költségek fedezése; - betegségével kapcsolatos egyéb egészségügyi ellátások költségeinek fedezése; - gyógyulását, állapotjavulását elősegítő, speciális étrendhez szükséges termékek költségeinek viselése; - fejlesztő, terápiás célú lehetőségeihez, tevékenységekhez az anyagi feltételek biztosítása; - gondozásához, ápolásához, felügyeletének ellátásához szükséges segítségnyújtás és ezek költségeihez való hozzájárulás; - gyógyítása, kezelése kapcsán a nyelvi akadályok áthidalásához segítségnyújtás és annak anyagi fedezetének biztosítása (pl. szükséges hivatalos iratok, orvosi leletek fordítási költségeihez való hozzájárulás); - fejlődését, állapotjavulását és gondozását elősegítő eszközök használata érdekében szükséges helyiség-átalakítási munkák költségeinek finanszírozása; - szállítása érdekében esetlegesen szükséges személygépjármű vásárlás vagy személygépjármű átalakítás költségeinek finanszírozása; - érdekében internetes portál fenntartása, működtetése, melynek segítségével folyamatosan hír adható az alapítvány programjairól, kezdeményezéseiről- Az alapítványi célok megvalósítása érdekében felmerülő, az alapítvány működéséhez szükséges adminisztratív és egyéb (jogi, könyvelői) költségek fedezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002614",
+      "régi_nyilvántartási_száma": "2614/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-10-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bárdos",
+        "Képviselő keresztneve": "Erik",
+        "Képviselő titulusa": "Rajmund",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "188",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 312 150 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 041 375 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

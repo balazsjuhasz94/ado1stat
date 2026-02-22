@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18900857",
+  "scraped_at": "2026-02-14T13:03:39.057453",
+  "organization_id": "107545",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "TündérPakk Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1144 Budapest, Kerepesi út 90. 9. em./37.",
+      "x_koordináta": "47.5041111",
+      "y_koordináta": "19.139591",
+      "adószám": "18900857-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-11",
+      "statisztikai_számjel": "18900857-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "Támogatni a rászoruló és mély szegénységben élő gyermekeket és családjaikat. Gyermekkórházak, újszülött, koraszülött és csecsemő osztályok segítése. Óvodák, bölcsődék támogatása. Kismamák, kispapák támogatása, munkaerő piacra jutásuk segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012405",
+      "régi_nyilvántartási_száma": "12405/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-08-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pataki-Szomolányi",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "442",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 110 816 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "366",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 911 250 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "360",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 222 914 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "264",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 276 010 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "152",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 663 320 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TündérPakk Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TündérPakk Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

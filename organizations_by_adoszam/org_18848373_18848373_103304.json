@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18848373",
+  "scraped_at": "2026-02-21T13:46:47.944486",
+  "organization_id": "103304",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pozitív Élet Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2225 Üllő, Gyömrői út 96.",
+      "x_koordináta": "47.3897189",
+      "y_koordináta": "19.3618985",
+      "adószám": "18848373-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-11-19",
+      "statisztikai_számjel": "18848373-8412-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A Pozitív Élet Alapítvány feladatának a HIV-fertőzőttek, AIDS-betegek, valamint hozzátartozóik pszichés és testi jólétének elősegítésére, szűkebb és tágabb környezetében a kirekesztettség oldására, megszüntetésére, a társadalmi attitűd megváltoztatására törekszik. Célja egészségmegőrző, közösségi szolgáltatások kialakítása, az önsegítés elvein és gyakorlatán alapuló szolgáltatások létrehozása, működtetése és folyamatos fejlesztése, mely mindenkor a személy egyedi szükségleteihez alkalmazkodva hosszú távú ellátási módszerekben és információkban gazdag támogatási formát valósít meg. Nyitottságával és aktív jelenlétével felhívja a figyelmet ezen speciális problémával küzdők mindennapjaira, célja kialakítani egy pozitív társadalmi érzékenységet, mely a HIV-fertőzöttek, AIDS-betegek elszigeteltségét oldja, az önbecsüléssel, a társadalmi el-, és befogadás eszközével a hátrányos helyzetű csoporttal szembeni előítéleteket kívánja enyhíteni, az esélyegyenlőséget elősegíteni. Törekszik a területen dolgozó szervezetek összefogására és mindehhez gyűjti a nemzetközi tapasztalatokat. Szervezi és végzi a programjai kiterjesztését hazai és nemzetközi szinten.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003826",
+      "régi_nyilvántartási_száma": "3826/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-08-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "192 073 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "241 644 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 800 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "395 578 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "423 259 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "373 446 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pozitív Élet Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pozitív Élet Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pozitív Élet Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

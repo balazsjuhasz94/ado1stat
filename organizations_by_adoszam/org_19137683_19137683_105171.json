@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19137683",
+  "scraped_at": "2026-02-21T14:03:40.248303",
+  "organization_id": "105171",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zöld Tara Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Gólya utca 124.",
+      "x_koordináta": "47.781251",
+      "y_koordináta": "19.911562",
+      "adószám": "19137683-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-19",
+      "statisztikai_számjel": "19137683-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány Magyarország közigazgatási területén működő jogi személyek, illetve jogi személyiséggel nem rendelkező szervezetek, illetve ezen közigazgatási területen élő természetes személyek részére alternatív egészségmegőrző, betegségmegelőző, gyógyító-, egészségügyi és karitatív támogatás nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001182",
+      "régi_nyilvántartási_száma": "1182/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-09-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zsirka-Nagy",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "Terézia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "211 520 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "533 293 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "385 350 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "345 031 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Tara Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

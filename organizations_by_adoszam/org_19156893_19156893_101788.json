@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19156893",
+  "scraped_at": "2026-02-14T12:54:34.365296",
+  "organization_id": "101788",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kutyajólét-Gyomaendrőd Kutyáiért Állatvédő Egyesület",
+      "rövid_név": "Kutyajólét GYKÁE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5502 Gyomaendrőd, Apponyi utca 4.",
+      "x_koordináta": "46.9315743",
+      "y_koordináta": "20.7770785",
+      "adószám": "19156893-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-06-27",
+      "statisztikai_számjel": "19156893-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "az egyesület elsődleges célja az állatok - elsősorban a társállatok - védelme, rehabilitációja, a kulturált állattartás feltételeinek terjesztése, a kulturált állattartás feltételeinek megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003509",
+      "régi_nyilvántartási_száma": "3509/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-07-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11600006-00000000-81134346",
+      "számlavezető_pénzintézet_neve": "ERSTE Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentpéteriné Uhrin",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-07-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "258",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 690 280 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "250",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 862 501 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "232",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 936 195 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

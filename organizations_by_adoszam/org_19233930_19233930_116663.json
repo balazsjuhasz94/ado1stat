@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19233930",
+  "scraped_at": "2026-02-14T13:22:50.797847",
+  "organization_id": "116663",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szívemben Született Afrika Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1068 Budapest, Király utca 80. fszt./11.",
+      "x_koordináta": "47.5045655",
+      "y_koordináta": "19.0675675",
+      "adószám": "19233930-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-24",
+      "statisztikai_számjel": "19233930-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A humanitárius fejlesztési – segélyezési tevékenységén keresztül elsősorban Ugandában – és idővel egyre több afrikai országban – olyan projekteket valósítson meg, amelyek hozzájárulnak hátrányos helyzetű kis közösségek – azokon belül is kiemelkedően a nők és gyermekek – életkörülményeinek javításához, továbbá amelyek biztosítják az élethosszuk és életminőségük növeléséhez szükséges feltételeket, többek között az oktatás, egészségügyi ellátás, árva ellátás, élelmiszer biztonságot elősegítő mezőgazdasági tevékenység, jövedelemtermelő szakmai tevékenység és szakképzés. A projektekek minden esetben az önfenntartást, önellátást célzó tudás átadásának szándékával jönnek létre és zajlanak le. Az afrikai tevékenység mellett, hozzájárulni a kapcsolatok építéséhez és fenntartásához a magyar és afrikai közösségek és szervezetek között, valamint a tudásátadáshoz, szemléletformáláshoz és fenntarthatóságra neveléshez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017324",
+      "régi_nyilvántartási_száma": "17324/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-01-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-05",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szilágyi-Könczöl",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "99",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 140 914 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 130 672 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 250 691 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

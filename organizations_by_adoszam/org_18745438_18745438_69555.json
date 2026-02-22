@@ -1,0 +1,161 @@
+{
+  "search_adoszam": "18745438",
+  "scraped_at": "2026-02-14T12:21:38.618664",
+  "organization_id": "69555",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hospice – Segítő Kéz Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Lotz Károly utca 2.",
+      "x_koordináta": "47.8766273",
+      "y_koordináta": "17.2690449",
+      "adószám": "18745438-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-04-14",
+      "statisztikai_számjel": "18745438-8710-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Hospice ellátásra szoruló betegek otthoni és fekvő ellátásának támogatása. Az alapítvány Mosonmagyaróvár és vonzáskörzete (kb. 8000 lakos) palliatív, hospice ellátásra szoruló daganatos betegeinek ellátását, segítését tűzte ki célul. Ennek érdekében a következő tevékenységeket végzi: - fekvőbeteg ellátás, otthoni betegellátás szükség szerinti támogatása, mindkettő tevékenység OEP finanszírozás mellett, - A betegellátással kapcsolatos egyéb tevékenységek: - székhelyül és fekvő beteg ellátóként megjelölt épület funkciónak megfelelő (ÁNTSZ előírás szerinti) építészeti átalakítása, berendezése (pl. ágyak, szekrények, stb.) és fenntartása, - műszer, eszköz, informatikai rendszer, gyógyszer, élelmiszer, vegyszer (fertőtlenítőszer, tisztálkodási- és mosószerek) beszerzése, - szükség szerinti betegszállítás, laboratóriumi vizsgálatok finanszírozása, a betegellátásban részt vevő személyzet (orvos, lelkész, jogász, pszichológus, gazdasági ügyintéző, nővér, asszisztens, gyógytornász, dietetikus, takarító személyzet) tiszteletdíjainak biztosítása, - a betegek hozzátartozóival való kapcsolattartás, tanácsadás, - oktatás, továbbképzés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051368",
+      "régi_nyilvántartási_száma": "51368/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-02-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-29",
+      "alkalmazottak_száma": "9",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bodnár",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "Anna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szincsák",
+        "Képviselő keresztneve": "Sándorné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-10-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-10-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csókáné Takács",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-10-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szalai",
+        "Képviselő keresztneve": "Géza",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Márkus",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-10-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "276",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 348 606 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "374",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 431 222 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "533",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 151 201 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "628",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 395 765 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "662",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 579 009 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "818",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 807 309 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "832",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 739 778 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Hospice-Segítő Kéz Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HOSPICE- SEGÍTŐ KÉZ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HOSPICE- SEGÍTŐ KÉZ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Hospice - Segítő Kéz Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

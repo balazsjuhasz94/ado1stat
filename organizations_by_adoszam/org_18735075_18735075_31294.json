@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18735075",
+  "scraped_at": "2026-02-21T13:54:20.813037",
+  "organization_id": "31294",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Visegrád Város Önkéntes Tűzoltó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2025 Visegrád, Fő utca 81.",
+      "x_koordináta": "47.7864347",
+      "y_koordináta": "18.9706823",
+      "adószám": "18735075-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-01-05",
+      "statisztikai_számjel": "18735075-8425-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Tűzmegelőzési, tűzoltási és műszaki mentési, (árvízvédelmi) feladatok ellátásában történő közreműködés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006927",
+      "régi_nyilvántartási_száma": "6927/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-01-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Meggyesi",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "34 149 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "160 270 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "251 272 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "276 559 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 340 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Visegrád Város Önkéntes Tűzoltó Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Visegrád Város Önkéntes Tűzoltó Közhasznú Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

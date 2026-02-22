@@ -1,0 +1,260 @@
+{
+  "search_adoszam": "19084121",
+  "scraped_at": "2026-02-14T14:29:14.311004",
+  "organization_id": "108546",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mécses Szeretetszolgálat Magyar Börtönpasztorációs Társaság",
+      "rövid_név": "Mécses Szeretetszolgálat",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Hattyú utca 1.",
+      "x_koordináta": "47.774811",
+      "y_koordináta": "19.130277",
+      "adószám": "19084121-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-09-04",
+      "statisztikai_számjel": "19084121-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A konkrét és közvetlen lelkipásztori munka feltételeinek elősegítése és a bv. intézetekkel, börtönlelkészekkel való együttes biztosítása, börtönmissziós tevékenység végzése, a keresztény-humanista értékrend terjesztése, fogvatartottak és családjuk kapcsolattartásának erősítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0000577",
+      "régi_nyilvántartási_száma": "577/1991",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-08-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-27",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tarján",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0113",
+        "Leírás": "Zöldségféle, dinnye, gyökér-, gumósnövény termesztése"
+      },
+      {
+        "Kód": "0115",
+        "Leírás": "Dohánytermesztés"
+      },
+      {
+        "Kód": "0116",
+        "Leírás": "Rostnövénytermesztés"
+      },
+      {
+        "Kód": "0124",
+        "Leírás": "Almatermésű, csonthéjas termesztése"
+      },
+      {
+        "Kód": "0125",
+        "Leírás": "Egyéb gyümölcs, héjastermésű termesztése"
+      },
+      {
+        "Kód": "0129",
+        "Leírás": "Egyéb évelő növény termesztése"
+      },
+      {
+        "Kód": "0141",
+        "Leírás": "Tejhasznú szarvasmarha tenyésztése"
+      },
+      {
+        "Kód": "0145",
+        "Leírás": "Juh, kecske tenyésztése"
+      },
+      {
+        "Kód": "0146",
+        "Leírás": "Sertéstenyésztés"
+      },
+      {
+        "Kód": "0147",
+        "Leírás": "Baromfitenyésztés"
+      },
+      {
+        "Kód": "0161",
+        "Leírás": "Növénytermesztési szolgáltatás"
+      },
+      {
+        "Kód": "0163",
+        "Leírás": "Betakarítást követő szolgáltatás"
+      },
+      {
+        "Kód": "1820",
+        "Leírás": "Egyéb sokszorosítás"
+      },
+      {
+        "Kód": "2593",
+        "Leírás": "Huzaltermék gyártása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "3213",
+        "Leírás": "Divatékszer gyártása"
+      },
+      {
+        "Kód": "4321",
+        "Leírás": "Villanyszerelés"
+      },
+      {
+        "Kód": "4331",
+        "Leírás": "Vakolás"
+      },
+      {
+        "Kód": "4334",
+        "Leírás": "Festés, üvegezés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5224",
+        "Leírás": "Rakománykezelés"
+      },
+      {
+        "Kód": "5320",
+        "Leírás": "Egyéb postai, futárpostai tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5913",
+        "Leírás": "Film-, video- és televízióprogram terjesztése"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7010",
+        "Leírás": "Üzletvezetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7810",
+        "Leírás": "Munkaközvetítés"
+      },
+      {
+        "Kód": "7820",
+        "Leírás": "Munkaerőkölcsönzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      },
+      {
+        "Kód": "8720",
+        "Leírás": "Mentális, szenvedélybeteg bentlakásos ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9491",
+        "Leírás": "Egyházi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "99 908 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "243 227 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "591 249 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "706 179 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mécses Szeretetszolgálat Börtönpasztorációs Társaság"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18946189",
+  "scraped_at": "2026-02-14T14:47:45.136612",
+  "organization_id": "77548",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szélforgó Ifjúsági Szabadidős Egyesület",
+      "rövid_név": "Fttness Hero SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6645 Felgyő, Kossuth út 25.",
+      "x_koordináta": "46.7061563",
+      "y_koordináta": "19.8519389",
+      "adószám": "18946189-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-18",
+      "statisztikai_számjel": "18946189-9499-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület fő célja, hogy a Felgyő községben élő fiatalok és hátrányos helyzetű gyermekek számára szabadidős, sport és kulturális programok szervezése által közösségi élményeket teremtsen, lehetőséget biztosítva a tehetségük felfedezésére és fejlesztésére, valamint segítse a felnőtt életre való felkészülésüket.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003682",
+      "régi_nyilvántartási_száma": "3682/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-10",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ürmös",
+        "Képviselő keresztneve": "Alexandra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szigligeti",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabolcsi",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "144",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "632 829 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "613 440 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "635 056 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

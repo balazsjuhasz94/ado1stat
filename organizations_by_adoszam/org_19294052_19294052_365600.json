@@ -1,0 +1,118 @@
+{
+  "search_adoszam": "19294052",
+  "scraped_at": "2026-02-14T13:55:49.867781",
+  "organization_id": "365600",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Freeszfe Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1134 Budapest, Dózsa György út 126. mfszt/1.",
+      "adószám": "19294052-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-28",
+      "statisztikai_számjel": "19294052-9020-529-01",
+      "x_koordináta": "47.523749",
+      "y_koordináta": "19.0676586"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Freeszfe Egyesület az autonómiájától 2020-ban megfosztott Színház- és Filmművészeti Egyetem 155 éves szellemiségét továbbörökítő szabad oktatási, kulturális és művészi alkotóműhely, mely demokratikus keretek között, autonóm módon működik. Célja egyrészt az Egyetem egykori szellemiségének megfelelő képzés, kutatás és tudás-átadás megteremtése, másrészt nyitott műhelyként a művészet közvetítése a társadalom felé, egy új kulturális központi tér létrehozása és fenntartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007949",
+      "régi_nyilvántartási_száma": "7949/2021",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-09-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-27",
+      "alkalmazottak_száma": "7",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Veszprémiová",
+        "Képviselő keresztneve": "Judita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Forgács",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5913",
+        "Leírás": "Film-, video- és televízióprogram terjesztése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "248",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 938 263 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "888 119 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

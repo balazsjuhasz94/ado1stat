@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19314150",
+  "scraped_at": "2026-02-21T12:29:44.013736",
+  "organization_id": "367171",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Barnahus Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9700 Szombathely, Kisfaludy Sándor utca 29. fszt./1",
+      "adószám": "19314150-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-26",
+      "statisztikai_számjel": "19314150-8559-529-18",
+      "x_koordináta": "47.2183673",
+      "y_koordináta": "16.6250063"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Barnahus Egyesület célja, hogy szakmai tevékenységével segítse a magyarországi Barnahus-szolgálatok törekvését arra, hogy a gyermekvédelem és az igazságszolgáltatás összekapcsolásával egy abúzusgyanús gyermek az őt megillető lehető legkíméletesebb és leggyermekbarátabb eljárásban részesüljön, miközben a mindenek felett álló érdekei érvényesülnek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200883",
+      "régi_nyilvántartási_száma": "200883/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dr. Lazáry",
+        "Képviselő keresztneve": "Györgyné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "573 505 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "555 596 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

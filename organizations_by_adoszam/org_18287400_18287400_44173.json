@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "18287400",
+  "scraped_at": "2026-02-21T12:41:47.705250",
+  "organization_id": "44173",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Belső Tízesek Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7621 Pécs, Kisflórián utca 17.",
+      "x_koordináta": "46.0116872",
+      "y_koordináta": "18.2736772",
+      "adószám": "18287400-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-05-22",
+      "statisztikai_számjel": "18287400-9313-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Elsődlegesen, de nem kizárólagosan Baranya Vármegye fiataljainak, valamint a sportolási, testmozgási lehetőségek iránt érdeklődő lakosoknak szervezett keretek között lehetőséget nyújtson szabadidejük hasznos, egészséges eltöltésére. Elsődlegesen sportlövészet, a sportlövészet sportágat művelő sportolók szakmai háttértámogatása, az egészséges versenyzéshez elengedhetetlen kiegészítő sportágak művelése, valamint a mentális erőnlét fejlesztésének támogatása. Tagsági igény esetén és a lehetőségek szerint más sportágak szabadidősport és tömegsport rendezvényein való részvétel, az egészséges életmód népszerűsítése, a közösséghez tartozás értékeinek megismertetése fiatalok körében. Kiemelt szerepet vállal az egyesület a doppingellenes edukáció folytatásában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003292",
+      "régi_nyilvántartási_száma": "3292/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pető",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "397 265 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "518 325 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

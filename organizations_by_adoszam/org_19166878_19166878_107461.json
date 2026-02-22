@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19166878",
+  "scraped_at": "2026-02-14T14:25:09.374047",
+  "organization_id": "107461",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Örkény és Térsége Mentőalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2377 Örkény, Kossuth Lajos utca 37/b.",
+      "x_koordináta": "47.1303039",
+      "y_koordináta": "19.4365328",
+      "adószám": "19166878-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-08-23",
+      "statisztikai_számjel": "19166878-8696-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Örkény és térsége lakosságát érintő egészségmegőrzés, betegség megelőzés, gyógyító és egészségügyi rehabilitációs tevékenység, a sürgősségi betegellátás színvonalának fejlesztése, támogatása. Örkény és térségből a betegszállítás, a mentés, orvosi ügyelet, illetve rendezvények egészségügyi biztosításának fejlesztése és támogatása, elsősegélynyújtás oktatásának, elsősegélynyújtó szakemberek képzésének és vizsgáztatásának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004051",
+      "régi_nyilvántartási_száma": "4051/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-04-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Budavári",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "726 585 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

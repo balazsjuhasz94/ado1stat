@@ -1,0 +1,160 @@
+{
+  "search_adoszam": "18677203",
+  "scraped_at": "2026-02-14T13:45:07.230934",
+  "organization_id": "51045",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dr. Pártos Lóránt Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2364 Ócsa, Falu Tamás utca 35.",
+      "x_koordináta": "47.2981454",
+      "y_koordináta": "19.2286562",
+      "adószám": "18677203-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-05-07",
+      "statisztikai_számjel": "18677203-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Jutalmazza és anyagilag segítse a hatosztályos gimnáziumba járó legkiemelkedőbb képességű tanulókat. Tehetséggondozó tanfolyamok, táborok, külföldi tanulmányutakon résztvevő tanulók, tanárok anyagi támogatása, a technikai feltételek javítása, tanulmányi, sport és kulturális versenyek vetélkedőkön elért tanulók jutalmazása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0001384",
+      "régi_nyilvántartási_száma": "1384/1997",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-09-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Spák",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rózsa",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "283 248 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "431 652 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "392 731 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "416 002 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "421 262 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "575 235 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "591 410 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "605 145 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "860 392 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "930 205 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "987 636 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Pártos Lóránt Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

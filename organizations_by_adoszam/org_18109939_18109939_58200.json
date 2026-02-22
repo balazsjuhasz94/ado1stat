@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "18109939",
+  "scraped_at": "2026-02-21T13:42:35.149406",
+  "organization_id": "58200",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "LifeLine Sportegyesület",
+      "rövid_név": "W.S.K.F.-Hungary",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1174 Budapest, Csermely Károly utca 33. 3. ajtó",
+      "x_koordináta": "47.576566",
+      "y_koordináta": "18.993444",
+      "adószám": "18109939-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2003-05-06",
+      "statisztikai_számjel": "18109939-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A LifeLine Sportegyesület tevékenységének célja a rendszeres sportolás, testedzés, a sport iránti igény felkeltése és népszerűsítése, tagjainak nevelése, versenyeztetése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása, mindennek jegyében pedig a sportmozgalom fejlődésének és eredményességének az elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0010395",
+      "régi_nyilvántartási_száma": "10395/2003",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-10",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-15",
+      "bankszámlaszám": "11703044-20002097",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Városi",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "380 331 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,117 @@
+{
+  "search_adoszam": "19002361",
+  "scraped_at": "2026-02-14T13:41:57.432157",
+  "organization_id": "84222",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fábián Juli Emlékalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1016 Budapest, Sánc utca 22. a. fszt./2.",
+      "x_koordináta": "47.4878766",
+      "y_koordináta": "19.0387363",
+      "adószám": "19002361-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-14",
+      "statisztikai_számjel": "19002361-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Emlékállítás Fábián Juli személyének, életpályájának és zenei munkásságának. Nehéz helyzetben levő zenészek támogatása. A fiatal, pályakezdő zenészek támogatása. A daganatos betegségek elleni küzdelem, az egészségmegőrzéssel, betegségekkel kapcsolatos ismeretterjesztés, figyelemfelkeltés előmozdítása, támogatása. A kultúra támogatása, népszerűsítése, ismeretterjesztés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012629",
+      "régi_nyilvántartási_száma": "12629/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "16200151-185423755-00000000",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szepesi",
+        "Képviselő keresztneve": "Mátyás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Stubián",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "176",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 010 043 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 716 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "294 872 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "666",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 816 627 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 007 931 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fábián Juli Emlékalapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fábián Juli Emlékalapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

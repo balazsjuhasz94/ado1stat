@@ -1,0 +1,230 @@
+{
+  "search_adoszam": "19123123",
+  "scraped_at": "2026-02-14T13:55:03.332449",
+  "organization_id": "69180",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hajdú Táncegyüttesért Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4025 Debrecen, Hatvan utca 32.",
+      "x_koordináta": "47.530435",
+      "y_koordináta": "21.6190863",
+      "adószám": "19123123-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-11-26",
+      "statisztikai_számjel": "19123123-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Az alapítvány célja, hogy elősegítse tevékenységével a kelet-magyarországi régió néptánckultúrájának magasabb szintre való emelését, hozzájáruljon egy sajátos arculatú, nagy hatékonyságú, fokozottabb nemzetközi érdeklődést keltő debreceni néptáncközpont kialakításához.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0000073",
+      "régi_nyilvántartási_száma": "73/1990",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2001-10-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-12-15",
+      "alkalmazottak_száma": "5",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Ottó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zámbori",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rózsavölgyi",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "Balázs",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lakatos",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ferenczy",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gemza",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tiszai",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "156",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "695 219 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "172",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "768 547 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "702 068 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "126",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "663 784 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "735 615 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "616 940 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "642 464 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "105",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "851 572 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "717 956 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "922 492 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁNCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁNCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁNCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁNCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁNCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Hajdú Táncegyüttesért Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Hajdú Táncegyüttesért Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HAJDÚ TÁNCEGYÜTTESÉRT KÖZHASZNÚ ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

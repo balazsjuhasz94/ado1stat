@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18999967",
+  "scraped_at": "2026-02-21T13:14:23.135161",
+  "organization_id": "84131",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "INFINITY DANCE COMPANY TÁNCSPORT EGYESÜLET",
+      "rövid_név": "INFINITY TSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Vág utca 29.",
+      "x_koordináta": "47.8002798",
+      "y_koordináta": "19.1301486",
+      "adószám": "18999967-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-07",
+      "statisztikai_számjel": "18999967-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja: széleskörű, színvonalas, rendszeres táncsportolási lehetőség biztosítása és a versenysport, a tehetséggondozás, az utánpótlás-nevelés, diáksport és szabadidősport támogatása. A sportegyesület célja továbbá: a.) olyan sportolók nevelése, akik magatartásukkal, eredményeikkel hozzájárulnak a magyar táncsportélet színvonalának emeléséhez, illetve elismerésre méltó hagyományainak fenntartásához. b.) A sportegyesület tagjainak rendszeres edzési és versenyzési lehetőség biztosítása. c.) Edzőtáborok szervezése és lebonyolítása. d.) A sportegyesület működési területén élő ifjúsági és felnőtt lakosság számára szervezett formában tömegsport és szabadidősport foglalkozások biztosítása. e.) Nemzetközi kapcsolatok - elsősorban az EU tagállamok országaival - kiépítése, nemzetközi táncsportesemények szervezése és megrendezése, edzőtáborok viszonossági alapon történő lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007434",
+      "régi_nyilvántartási_száma": "7434/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-22",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kemény",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Princz",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "79 344 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 284 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "631 376 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "435 322 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Infinity TSE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

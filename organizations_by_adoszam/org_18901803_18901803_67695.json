@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "18901803",
+  "scraped_at": "2026-02-21T13:27:43.982898",
+  "organization_id": "67695",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Tüdőfibrózis Egyesület",
+      "rövid_név": "MTF Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1205 Budapest, Tátra utca 3.",
+      "x_koordináta": "47.5161455",
+      "y_koordináta": "19.0205135",
+      "adószám": "18901803-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-26",
+      "statisztikai_számjel": "18901803-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A betegek érdekeinek képviselete és szolgálata, társadalomba történő integrációjának elősegítése. A betegség kezelésének elősegítése, korszerű kezelési módjainak rögzítése és ismertetése, a betegség szövődményeinek megelőzése. Az egyesület tagjainak folyamatos tájékoztatása a betegség gyógykezelésére vonatkozó tudomány eredményeiről, a legfrissebb kutatásokról, a különféle terápiás alternatívákról, ezek elérhetőségeiről. Kiadványok megjelentetése, összejövetelek és tapasztalatcserék szervezése, betegséggel kapcsolatos információk közreadása. Általános edukáció. Az egyesület tagjainak közösséggé szervezése. Egységes, összehangolt, fellépés annak érdekében, hogy a magyarországi tüdőfibrózis betegek hozzájussanak a jelenleg világszerte elérhető korszerű gyógyszerekhez, terápiákhoz, nem elviselhetetlen anyagi áldozatok árán. Komplex orvosi-, rehabilitációs háttér megszervezésének támogatása. Közös kirándulások, üdülések szervezése. A tüdőfibrózissal kapcsolatos kutatások, transzplantált emberek támogatása. Kapcsolatfelvétel külföldön vagy Magyarországon működő társadalmi vagy öntevékeny szervezetekkel. Kapcsolatépítés más ritka tüdőbetegséggel küzdő emberekkel, illetve az őket képviselő betegszervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016499",
+      "régi_nyilvántartási_száma": "16499/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mák",
+        "Képviselő keresztneve": "Irén",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "259 257 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "406 588 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

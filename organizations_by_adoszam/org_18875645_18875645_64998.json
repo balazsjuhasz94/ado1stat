@@ -1,0 +1,121 @@
+{
+  "search_adoszam": "18875645",
+  "scraped_at": "2026-02-21T14:25:57.190451",
+  "organization_id": "64998",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Debreceni Hétszínvirág Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4031 Debrecen, Angyalföld tér 4.",
+      "x_koordináta": "47.5237268",
+      "y_koordináta": "21.6042189",
+      "adószám": "18875645-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-22",
+      "statisztikai_számjel": "18875645-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az óvodáskorú gyermekek testi, szellemi, erkölcsi, mentális fejlődése mind jobb, szélesebb körű, a kor kihívásainak megfelelő legyen. Az alapítvány az erre rendelt vagyont e célok megvalósítása érdekében úgy rendeli, hogy különböző tanfolyamokat, kirándulásokat szervez, gondot fordít az óvoda szépítésére, a minél esztétikusabb környezet kialakítására, a gyermekek testi, szellemi fejlődéséhez elengedhetetlenül szükséges felszerelési tárgyak beszerzésére, a nevelési feltételek javítására és tökéletesítésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002202",
+      "régi_nyilvántartási_száma": "2202/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-01-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Remeczki",
+        "Képviselő keresztneve": "Annamária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "220 359 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 506 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "148 041 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "120 236 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 328 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "312 134 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Debreceni Hétszínvirág Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Debreceni Hétszínvirág Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Debreceni Hétszínvirág Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

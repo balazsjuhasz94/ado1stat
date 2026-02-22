@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18734861",
+  "scraped_at": "2026-02-21T13:51:12.038195",
+  "organization_id": "36122",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szirom Lovas Sport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4235 Biri, Szabadság utca 75.",
+      "x_koordináta": "47.8210379",
+      "y_koordináta": "21.8536391",
+      "adószám": "18734861-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-01-06",
+      "statisztikai_számjel": "18734861-9312-521-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A hazai lovas kultúra és lovas hagyományok ápolása, oktatása, a lovaglás gyógyító hatásainak kihasználása. Tevékenységével kívánja a lovassportot népszerűsíteni azáltal, hogy a lovaglás, illetve a lovaglás tanulásának lehetőségét biztosítja vendégei számára. Ösztönözni kívánja az egészségmegőrzésre való törekvést különböző gyógyító-egészségügyi, rehabilitációs tevékenységek folytatásával; lovas sporttevékenységek szervezésével, illetve lebonyolításával és támogatásával. A lovas sport tevékenység fejlesztése, előmozdítása, a lovas kulturális nemzeti örökségünk megőrzése, minél szélesebb körben terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0003635",
+      "régi_nyilvántartási_száma": "3635/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-02",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Magera",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "79 819 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "67 321 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "154 776 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "91 080 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "80 886 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "115 770 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 567 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szirom Lovas Sport Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szirom Lovas Sport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szirom Lovas Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szirom Lovas Sport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

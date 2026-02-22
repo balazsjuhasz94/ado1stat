@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "18905656",
+  "scraped_at": "2026-02-14T13:33:02.115829",
+  "organization_id": "72083",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Külső - Kelenföldi Reformátusokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1115 Budapest, Ildikó utca 28.",
+      "x_koordináta": "47.9367189",
+      "y_koordináta": "20.530198",
+      "adószám": "18905656-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-05",
+      "statisztikai_számjel": "18905656-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "Az Alapítvány célja, hogy Budapesten, illetve a Külső-Kelenföldi Református Egyházközség vonzáskörzetében és azon túl élők számára lehetővé tegye a református gyülekezeti élet gyakorlását, annak lelki és anyagi hátterének biztosításával, fejlesztésével, valamint szociális és mentális háttérlehetőséget nyújtson az itt lakók számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064487",
+      "régi_nyilvántartási_száma": "64487/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-04-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "16200151-18533732-00000000",
+      "számlavezető_pénzintézet_neve": "Mag-net Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csányi",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bubenyák",
+        "Képviselő keresztneve": "Máté",
+        "Képviselő titulusa": "Dániel",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Irlanda",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "342 868 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "669 182 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "826 879 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 100 507 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Külső-Kelenföldi Reformátusokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

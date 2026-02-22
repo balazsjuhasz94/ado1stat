@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19341996",
+  "scraped_at": "2026-02-21T14:03:01.830685",
+  "organization_id": "368881",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Milu Alapítvány a Miskolci Állatkertért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3531 Miskolc, Győri kapu 48-50",
+      "adószám": "19341996-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-19",
+      "statisztikai_számjel": "19341996-9499-569-05",
+      "x_koordináta": "48.0956654",
+      "y_koordináta": "20.7473193"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- az állatok közérzetének javítását, egészségügyi ellátásának fejlődését szolgáló eszközök beszerzésének, illetve takarmányozásuknak anyagi és egyéb támogatása, - az élővilág sokszínűségének bemutatásához a minél természetesebb körülmények megteremtésének támogatása, - a Miskolci Állatkertben megvalósuló környezeti nevelési programok támogatása, - oktatási segédanyagok, ismeretterjesztési célú kiadványok kiadása, terjesztése, - veszélyeztetett állatfajok megőrzésének támogatása hazai és nemzetközi természetvédelmi programokon keresztül, - a Miskolci Állatkert szakembereinek szakmai továbbképzésének, tanulmányútjainak, szakirodalom beszerzésének támogatása, - a Miskolci Állatkert látogatóinak komfortérzetét, az igényes rekreációs körülményeket javító infrastrukturális fejlesztések támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064699",
+      "régi_nyilvántartási_száma": "64699/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-16",
+      "bankszámlaszám": "11734004-25996911",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "346 385 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19039994",
+  "scraped_at": "2026-02-14T12:35:18.202716",
+  "organization_id": "86277",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dr. Walger János Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7400 Kaposvár, Malom utca 7.",
+      "x_koordináta": "46.3579255",
+      "y_koordináta": "17.8055796",
+      "adószám": "19039994-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-07-04",
+      "statisztikai_számjel": "19039994-9499-529-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az egyesület célja: A társadalom és az egyén közös szükségleteinek kielégítésére irányuló (közhasznú) állatvédelmi tevékenység ellátása Kaposváron és környékén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-02-0004452",
+      "régi_nyilvántartási_száma": "4452/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó Csiszár",
+        "Képviselő keresztneve": "Lívia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "28 583 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "40 685 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "69 060 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "359",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 368 125 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr. Walger János Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19291839",
+  "scraped_at": "2026-02-14T13:24:26.434728",
+  "organization_id": "365451",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kozármislenyi \"Adj Esélyt\" Állatvédő Egyesület",
+      "rövid_név": "\"Adj Esélyt\" Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7761 Kozármisleny, Munkácsy Mihály utca 2.",
+      "adószám": "19291839-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-06",
+      "statisztikai_számjel": "19291839-9499-529-02",
+      "x_koordináta": "46.0357741",
+      "y_koordináta": "18.2921888"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Kozármisleny és környező településein a kóbor, bántalmazott, rossz körülmények között élő állatok befogadása, gazdásítása, ivartalanítása, az otthonról elcsavargott állatok befogása, hazajuttatása, szükség esetén chipelése, oltása, sérülés esetén orvosi kezelés biztosítása. Felelősségteljes állattartási kultúra kialakítása. Segíteni azoknak a magánszemélyeknek, családoknak, akiknél anyagi akadálya van az állatok orvosi ellátásának.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003987",
+      "régi_nyilvántartási_száma": "3987/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bodoki",
+        "Képviselő keresztneve": "Szilvia Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-11-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "877 652 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "137",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 237 414 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

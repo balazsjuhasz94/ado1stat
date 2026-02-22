@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19004105",
+  "scraped_at": "2026-02-14T13:21:29.050992",
+  "organization_id": "84257",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MALÉV Repülő Klub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1143 Budapest, Stefánia út 55.",
+      "x_koordináta": "47.505438",
+      "y_koordináta": "19.098825",
+      "adószám": "19004105-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1988-01-01",
+      "statisztikai_számjel": "19004105-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "-A tagjai részére a rendszeres sportrepülés és egyéb sportolás lehetőségének biztosítása, a minőségi sporteredmények elérése feltételéinek megteremtése és fejlesztése, -a társadalmi öntevékenység és közösségi élet kibontakozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0002371",
+      "régi_nyilvántartási_száma": "2371/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-24",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zámbó Mihály Jánosné Pollerman",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "552 703 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 254 844 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19318893",
+  "scraped_at": "2026-02-14T13:18:25.498192",
+  "organization_id": "367580",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KerékDuna Egyesület",
+      "rövid_név": "KerékDuna Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2451 Ercsi, Széchenyi utca 30.",
+      "adószám": "19318893-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-15",
+      "statisztikai_számjel": "19318893-9499-529-07",
+      "x_koordináta": "47.2457892",
+      "y_koordináta": "18.8789557"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Olyan közösség létrehozása, építése, mely tagjai aktívan részt vesznek a környezetük szabadidős sport és kulturális tevékenységének szervezésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003361",
+      "régi_nyilvántartási_száma": "3361/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth-Dékány",
+        "Képviselő keresztneve": "Kinga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "127",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 157 596 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 312 613 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

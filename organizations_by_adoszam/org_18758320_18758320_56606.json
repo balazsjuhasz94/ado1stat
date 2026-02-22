@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18758320",
+  "scraped_at": "2026-02-14T12:18:15.442514",
+  "organization_id": "56606",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élet.Érzés Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Kalotaszegi utca 36.",
+      "x_koordináta": "47.3981857",
+      "y_koordináta": "18.8864967",
+      "adószám": "18758320-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-12",
+      "statisztikai_számjel": "18758320-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Egyesület azért jött létre, hogy felhívja a figyelmet a genetikai vizsgálatok fontosságára, mert ezek óriási szerepet játszanak abban, hogy a fejlődési rendellenességeket időben kiszűrjék. Az Egyesület célja, hogy minél pontosabb képet adjon: - az életkornak megfelelő vizsgálati módszerekről, - a vizsgálatok menetéről, elérhetőségéről, - a szűrések esetleges kockázatairól, - a szűrések hatékonyságáról.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007040",
+      "régi_nyilvántartási_száma": "7040/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-01",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sevcsik-Magyar",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "660 109 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "235",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 529 264 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "467",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 079 756 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "563",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 136 192 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "990",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 797 799 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "823",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 415 222 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1030",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 973 050 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BABAGENETIKA EGYESÜLET"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Babagenetika Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Babagenetika Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Babagenetika Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

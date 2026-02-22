@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18900565",
+  "scraped_at": "2026-02-14T12:37:48.950923",
+  "organization_id": "41378",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kecskeméti Mentőkért Alapítvány",
+      "rövid_név": "KMA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Talfája köz 14.",
+      "x_koordináta": "46.915368",
+      "y_koordináta": "19.678242",
+      "adószám": "18900565-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-08",
+      "statisztikai_számjel": "18900565-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Kecskeméti Mentőállomás anyagi és technikai támogatása a mentőállomás elsődleges területén, egészségügyi programok szervezése, és támogató cégeknek munkahelyi elsősegély oktatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002564",
+      "régi_nyilvántartási_száma": "2564/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szép",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Csaba",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "316",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 760 392 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "266",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 608 269 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "361",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 619 173 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "416",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 171 984 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "333",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 913 991 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "307",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 061 210 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Mentőkért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Mentőkért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Mentőkért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

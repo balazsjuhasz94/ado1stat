@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19100036",
+  "scraped_at": "2026-02-21T13:46:19.824543",
+  "organization_id": "105173",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élj Már Dog Rehab Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2045 Törökbálint, Pacsirta utca 7.",
+      "x_koordináta": "47.4835266",
+      "y_koordináta": "18.9826587",
+      "adószám": "19100036-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-21",
+      "statisztikai_számjel": "19100036-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Készségfejlesztő iskolai-nevelés oktatás. Állatokkal szembeni megfelelő magatartásra, gondoskodásra nevelés. Támogatja a környezet-, az állat-, és a természetvédelem érdekeit szolgáló szakmai törekvéseket, terjeszti és segíti az ökológiai gondolkodást és részt vesz a természet- és környezetvédelmi munkában; a természetvédelmi kultúra, a természet védelmével kapcsolatos ismeretek fejlesztése. Állategészségügyi feladatok.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012706",
+      "régi_nyilvántartási_száma": "12706/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11600006-00000000-83206801",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csik",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "123",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "985 417 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "776 331 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "569 024 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "501 619 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 373 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Élj Már Dog Rehab Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Élj Már Dog Rehab Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

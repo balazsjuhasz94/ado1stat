@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "18338647",
+  "scraped_at": "2026-02-21T14:14:26.638122",
+  "organization_id": "110735",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ProCapistrano Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1022 Budapest, Rókushegyi lépcső 10.",
+      "x_koordináta": "47.514125",
+      "y_koordináta": "19.017792",
+      "adószám": "18338647-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-01-23",
+      "statisztikai_számjel": "18338647-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység",
+      "céljának_leírása": "A 46. Kapisztrán Szent János cserkészcsapat és a környezetünkben élő fiataloknak szellemi, lelki és testi fejlődését segíteni. Továbbá Magyarország természeti értékeinek megismertetése, a környezettudatos gondolkodás bemutatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0011619",
+      "régi_nyilvántartási_száma": "11619/2012",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-10-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bíró",
+        "Képviselő keresztneve": "Boldizsár",
+        "Képviselő titulusa": "Gábor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 339 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 807 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

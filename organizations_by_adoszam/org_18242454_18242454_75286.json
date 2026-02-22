@@ -1,0 +1,119 @@
+{
+  "search_adoszam": "18242454",
+  "scraped_at": "2026-02-14T14:04:19.547437",
+  "organization_id": "75286",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Pumi Klub",
+      "rövid_név": "MPK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2211 Vasad, II. kültelek 105/B.",
+      "x_koordináta": "47.5446662",
+      "y_koordináta": "19.0391295",
+      "adószám": "18242454-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-04-18",
+      "statisztikai_számjel": "18242454-0162-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A puminak, mint magyar nemzeti kutyafajtának a fenntartása, a fajta védelme. A pumi standard karbantartása, tudatosítása és nemzetközi szervezetekhez való közvetítése. A pumi egyesek nyilvántartása, államilag elismert törzskönyv vezetése. A tenyésztés tisztaságának, szakszerűségének és diszkrimináció mentességének biztosítása, az állattenyésztésről szóló 1993. évi CXIV. törvény 1.§-ában megfogalmazott célok betartása, és a vonatkozó egyéb jogszabályok betartása, betartatása. A pumi tenyésztők és pumi-barátok összefogása, érdekeik védelme, valamint állatvédelemmel kapcsolatos rendezvények, ismeretterjesztés és alapvetően az állatbarát és természetbarát életmód terjesztése, különös tekintettel a védett nemzeti értéket képviselő magyar kutyafajtára a pumira.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0008850",
+      "régi_nyilvántartási_száma": "8850/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Árkosi",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "0162",
+        "Leírás": "Állattenyésztési szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "127 804 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "179 620 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 003 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "345 934 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "440 838 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "721 321 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "776 438 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "832 365 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Pumi Klub"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Pumi Klub"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Pumi Klub"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Pumi Klub"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Pumi Klub"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

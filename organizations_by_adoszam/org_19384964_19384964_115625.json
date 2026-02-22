@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "19384964",
+  "scraped_at": "2026-02-14T14:45:36.266020",
+  "organization_id": "115625",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bántai Kertbarát Kör Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8100 Várpalota, Rákóczi Ferenc utca 13. fsz./3.",
+      "x_koordináta": "47.2005642",
+      "y_koordináta": "18.1614063",
+      "adószám": "19384964-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-10-13",
+      "statisztikai_számjel": "19384964-9499-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "A bántai „zártkertben” gazdálkodók összefogása, tájékoztatása, érdekeik védelme a 2013. évi V. törvény alapján, valamint közreműködés a várpalotai zártkert természeti és történelmi emlékeinek ápolásában, megóvásában és környezetének védelmében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003079",
+      "régi_nyilvántartási_száma": "3079/2009",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Cseke",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Attila",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 508 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "77 171 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "107 880 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "175 479 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "289 906 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "226 952 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "641 859 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bántai Kertbarát Kör Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bántai Kertbarát Kör Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bántai Kertbarát Kör Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bántai Kertbarát Kör Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

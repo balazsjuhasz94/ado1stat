@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19037703",
+  "scraped_at": "2026-02-21T12:29:13.461056",
+  "organization_id": "85230",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kápolnásnyék és környéke Polgárőr és Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Kápolnásnyék és környéke PÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2475 Kápolnásnyék, Kossuth Lajos út 2.",
+      "x_koordináta": "47.2604816",
+      "y_koordináta": "18.7144473",
+      "adószám": "19037703-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-31",
+      "statisztikai_számjel": "19037703-8424-526-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "céljának_leírása": "Kápolnásnyék település Önkormányzatával és a Fejér Megyei Rendőr-főkapitánysággal aláírt Együttműködési Megállapodás alapján elsődlegesen az egyesület célja a helyi közrend és közbiztonság védelme, a bűnmegelőzésben való közreműködés, az állampolgárok személyi biztonságának védelme, az állami, önkormányzati és állampolgári vagyonvédelem elősegítése, a lakossági biztonságérzet növelése, a lakosság és a bűnüldöző szervek közötti bizalom és együttműködés erősítése. Rendkívüli veszélyhelyzetek esetében a védekezésben, a károk megelőzésében és elhárításában, a helyreállítás és az újjáépítés feladataiban való részvétel valamint a lakosság tűzoltási, műszaki mentési és kárelhárítási ellátásának javítása az élet- és vagyonbiztonság növelése érdekében, továbbá részvétel egyéb katasztrófavédelmi feladatok végrehajtásában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003162",
+      "régi_nyilvántartási_száma": "3162/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Török",
+        "Képviselő keresztneve": "Nándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8424",
+        "Leírás": "Közbiztonság, közrend"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "427 402 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "557 216 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

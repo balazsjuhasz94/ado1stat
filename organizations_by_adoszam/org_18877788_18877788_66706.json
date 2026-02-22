@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18877788",
+  "scraped_at": "2026-02-14T12:48:49.975513",
+  "organization_id": "66706",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ADLER Állatmentő Egyesület",
+      "rövid_név": "ADLER",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1238 Budapest, Stefánia utca 7.",
+      "x_koordináta": "47.3895053",
+      "y_koordináta": "19.1191404",
+      "adószám": "18877788-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-20",
+      "statisztikai_számjel": "18877788-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, környezetvédelem. Állatok mentése, a rossz, nem megfelelő állattartási körülmények javítása, kóbor állatok biztonságba helyezése, örökbefogadás lebonyolítása, a helyes állattartás tanítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016456",
+      "régi_nyilvántartási_száma": "16456/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pálffyné Kovács",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "272",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 632 930 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "251",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 687 146 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "334",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 345 771 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "280",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 688 705 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "218",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 239 543 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Adler Állatmentő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ADLER"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

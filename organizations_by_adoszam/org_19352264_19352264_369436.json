@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19352264",
+  "scraped_at": "2026-02-21T12:48:57.428526",
+  "organization_id": "369436",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "47. (P.C.F.) Szent László király Cserkész Egyesület",
+      "rövid_név": "47. P.C.F.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7626 Pécs, Vadász utca 6. I./6.",
+      "adószám": "19352264-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-28",
+      "statisztikai_számjel": "19352264-9499-529-02",
+      "x_koordináta": "46.0783923",
+      "y_koordináta": "18.2431921"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A 47. (P.C.F.) Szent László király cserkészcsapat működésének elősegítése. A cserkészkedő fiatalok számára az infrastrukturális és anyagi feltételek biztosítása a cserkész tevékenység folytatásához. A 47-es cserkészek képviselete Pécs városa, az önkormányzat, a pécsi Ciszterci Rend Nagy Lajos Gimnáziuma és Kollégiuma, valamint egyéb civil szervezetek felé. A cserkészetet pártoló felnőtt személyek összefogása és egyesületi formába történő tömörítése a fenti célok megvalósítása és a pályázati lehetőségek kihasználása érdekében. A cserkészet keresztény értékeket őrző tevékenységeinek elősegítése, az egyházi és népi vallásgyakorlatok támogatása révén egyházi ünnepek, lelkigyakorlatok és egyéb lelki programok megszervezésével és lebonyolításával. A magyar kultúra és a népi hagyományok ápolása a különböző nemzeti ps népi hagyományok, ünnepek megünneplése a hagyományok ápolása, valamint felelevenítése révén. Az embertárs szolgálata, a szociális segítségnyújtás, valamint a kölcsönös egymásra figyelés elveinek megvalósítása közösségi programok, találkozók, táborok szervezése révén. Más településeken élő, valamint más országbeli cserkész közösségekkel és ifjúsági mozgalmakkal való kapcsolatok kiépítése és a kapcsolatok fenntartása partnerek bevonásával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0004132",
+      "régi_nyilvántartási_száma": "4132/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss-Meirosu",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Faludi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Béla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Poór",
+        "Képviselő keresztneve": "Zsombor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-12-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "496 255 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

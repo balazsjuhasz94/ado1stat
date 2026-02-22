@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "18599983",
+  "scraped_at": "2026-02-21T13:29:00.026547",
+  "organization_id": "68860",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SQUASHBEREK Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2800 Tatabánya, Pilinszky J. utca 3.",
+      "x_koordináta": "47.5740011",
+      "y_koordináta": "18.4010557",
+      "adószám": "18599983-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-08-06",
+      "statisztikai_számjel": "18599983-9312-521-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása, a társadalmi öntevékenység és közösségi élet kibontakoztatása, a squash széleskörű népszerűsítése, oktatása. Tehetséges sportolók felkarolása, szakmai kibontakozásuk elősegítése, bekapcsolódás a squash sport országos vérkeringésébe, országos kapcsolatok kiépítése, sportolók meghívása, vendéglátása, versenyeztetése, általuk Tatabánya városának megismertetése, egészségmegőrzés, amatőr vagy hivatalos bajnokságokban történő versenyeztetés biztosítása egyesületi szinten, mind egyéni, mind csapat formájában, a junior korosztálytól egészen a senior játékosokig, hazai és nemzetközi bajnokságokban szereplő egyesületi játékosok versenyeztetésének segítése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0001948",
+      "régi_nyilvántartási_száma": "1948/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-04-20",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Farkasné Boda-Kriston",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 310 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "315 173 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "373 644 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "404 751 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Squashberek Sportegyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Squashberek Sportegyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Squashberek Sportegyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Squashberek Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Squashberek Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Squashberek Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

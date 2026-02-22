@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18079849",
+  "scraped_at": "2026-02-14T14:49:29.399116",
+  "organization_id": "70969",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Házi Gyermekorvosok Országos Érdekképviseleti és Szakmai Egyesülete",
+      "rövid_név": "Házi Gyermekorvosok Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1133 Budapest, Ipoly utca 5/E. V. em./24.",
+      "x_koordináta": "47.5199087",
+      "y_koordináta": "19.0552827",
+      "adószám": "18079849-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-12-09",
+      "statisztikai_számjel": "18079849-9412-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "céljának_leírása": "Tagjai tevékenysége által a hazai gyermekorvoslás és a házi gyermekorvosok tevékenységének a fejlesztése. A házi gyermekorvosok speciális szakmai, gazdasági és jogi érdekeinek képviselete és érvényesítése. A házi gyerekorvosok egymást ismerő és egymást szakmailag segítő szakmai közösséggé szervezése. A hazai házigyermekorvoslás által biztosított klinikai szaktudás területi alapellátásban meglévő jelenlétének megerősítése, teljes körűvé tételének támogatása, a legjobb minőségű gyermekgyógyászati alapellátáshoz való egyenlő hozzáférés minden gyermek számára történő biztosításának a támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0006896",
+      "régi_nyilvántartási_száma": "6896/1996",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-09-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-10",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kántor",
+        "Képviselő keresztneve": "Irén",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "705 761 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "595 577 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "835 304 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "410 157 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Házi Gyermekorvosok Országos Érdekképviseleti és Szakmai Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

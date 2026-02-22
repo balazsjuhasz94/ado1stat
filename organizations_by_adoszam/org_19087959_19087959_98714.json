@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19087959",
+  "scraped_at": "2026-02-14T13:08:27.936005",
+  "organization_id": "98714",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Epilepsziás gyermekek Fejlesztéséért Alapítvány",
+      "rövid_név": "EGYFA Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Maklári út 124.",
+      "x_koordináta": "47.892276",
+      "y_koordináta": "20.3941429",
+      "adószám": "19087959-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-10-10",
+      "statisztikai_számjel": "19087959-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "1.) Az epilepsziával diagnosztizált betegek mentális és egészségügyi fejlesztéséhez használatos eszközök beszerzésének támogatása. 2.) A fejlesztő foglakozásokon, terápiákon való részvétel támogatása. 3.) A fejlesztés elősegítéséhez szükséges személyi és tárgyi feltételek megteremtéséhez való hozzájárulás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001172",
+      "régi_nyilvántartási_száma": "1172/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-02-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hutterné Havasi",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "Terézia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "591 975 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "153",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 526 597 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 020 899 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "140",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 505 424 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYFA Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

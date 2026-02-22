@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18842573",
+  "scraped_at": "2026-02-14T13:23:42.796391",
+  "organization_id": "80408",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szolnok Orcas Hockey Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5000 Szolnok, Tiszaligeti sétány 19.",
+      "x_koordináta": "47.3600145",
+      "y_koordináta": "19.0501678",
+      "adószám": "18842573-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-03-27",
+      "statisztikai_számjel": "18842573-9319-521-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az Egyesület célja sportágainak népszerűsítésével hozzájárulni a rendszeres sportolás és egészséges életmód iránti igény kialakításához, valamint a társadalmi öntevékenység, a közösségi élet kibontakoztatásához, illetve a sportolási és testedzési lehetőség biztosítása és a sportegyesülettel kapcsolatban lévő oktatási, nevelési intézmények tanulóinak (hallgatóinak) részére a sportolási, testedzési lehetőségek megteremtése és a lakosság szabadidő sportjának segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002315",
+      "régi_nyilvántartási_száma": "2315/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-18",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kocsis",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-11-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Török",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-11-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "200 406 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "647 580 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "121",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 228 020 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

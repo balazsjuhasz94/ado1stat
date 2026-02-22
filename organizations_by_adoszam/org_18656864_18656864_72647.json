@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18656864",
+  "scraped_at": "2026-02-21T13:12:18.167785",
+  "organization_id": "72647",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Érdi Egészségügyi Intézmény Működését Támogató Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Felső utca 39-41.",
+      "x_koordináta": "47.3732421",
+      "y_koordináta": "18.920641",
+      "adószám": "18656864-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-22",
+      "statisztikai_számjel": "18656864-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A Dr. Romics László Egészségügyi Intézmény támogatása, műszer- és épület állományának bővítése, felújítása, az intézmény munkatársai továbbképzésének segítése, munkájuk elismerése, esetlegesen elforduló súlyos finanszírozási válság esetén az intézmény működéséhez pénzbeli támogatással vagy gyógyszer és/vagy orvosi segédanyag beszerzésével történő segítése. A gyógyítási-, megelőzési tevékenység elősegítése. A betegségtájékoztatás elősegítése, finanszírozása. A gyógyszerellátás folyamatosságának biztosítása, illetve olyan készítmények beszerzéséhez való hozzájárulás, amelyeket az intézmény önerőből képtelen finanszírozni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003697",
+      "régi_nyilvántartási_száma": "3697/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jeney-Hudák",
+        "Képviselő keresztneve": "Mariann",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "104 821 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "95 827 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 709 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "265 171 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "400 782 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Érdi Egészségügyi Intézmény Működését Támogató Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Érdi Egészségügyi Intézmény Működését Támogató Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Érdi Egészségügyi Intézmény Működését Támogató Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

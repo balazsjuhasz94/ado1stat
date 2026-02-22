@@ -1,0 +1,180 @@
+{
+  "search_adoszam": "18485842",
+  "scraped_at": "2026-02-14T15:08:16.942641",
+  "organization_id": "102039",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csákvári Iskola tanulóiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8083 Csákvár, Szabadság tér 8.",
+      "x_koordináta": "47.3930928",
+      "y_koordináta": "18.4634444",
+      "adószám": "18485842-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-11-01",
+      "statisztikai_számjel": "18485842-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A Csákvári Általános Iskola tanulói szellemi, fizikai és erkölcsi fejlődésének segítése. Továbbá az alapító okiratban részletezettek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0000416",
+      "régi_nyilvántartási_száma": "416/1996",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-12-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Kornélia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-07-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Esterházy-Gyarmati",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-07-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Esterházy-Gyarmati",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-07-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "99",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "289 424 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "121",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "405 791 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "501 801 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 218 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "274 216 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "295 999 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 868 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "347 294 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "400 791 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "533 930 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "555 951 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "582 489 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSÁKVÁRI ISKOLA TANULÓIÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

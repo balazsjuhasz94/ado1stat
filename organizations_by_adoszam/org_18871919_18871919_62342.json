@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18871919",
+  "scraped_at": "2026-02-14T12:50:59.805834",
+  "organization_id": "62342",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kincskeresőkért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1221 Budapest, Arany János út 63. A.",
+      "x_koordináta": "47.429861",
+      "y_koordináta": "19.018967",
+      "adószám": "18871919-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-10",
+      "statisztikai_számjel": "18871919-8569-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Olyan differenciált eljárásrendszerre épülő nevelő-oktató tevékenység támogatása, amelyben a pedagógiai magatartás a gyermek szükségleteihez igazodik. Egy sajátos pedagógiai étosz kialakítása a cél, amelyben az egyéni felelősség vállalás és az egyéni kötelezettség lehetősége is benne van. További cél a gyermek autonóm erőinek és alkotó képességének minél sokrétűbb felhasználásával a személyiség kibontása. A gyerek önállóságának, kezdeményezőkészségének és társas viselkedésének alakítása. Az egészséges közösség toleráló, befogadó, szabályozó készségének segítésével, a magatartási, beilleszkedési nehézségekkel küszködő gyerekek viselkedésének korrekciója.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012335",
+      "régi_nyilvántartási_száma": "12335/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-04-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-17",
+      "alkalmazottak_száma": "5",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Andóné Nagy",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "474 563 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "763 045 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 533 548 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "131",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 573 986 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "131",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 078 799 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kincskeresőkért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kincskeresőkért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

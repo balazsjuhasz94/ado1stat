@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19280987",
+  "scraped_at": "2026-02-21T13:47:40.681632",
+  "organization_id": "364863",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nádasdi Iskoláért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9915 Nádasd, Vasúti utca 5 3",
+      "adószám": "19280987-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-07",
+      "statisztikai_számjel": "19280987-9499-529-18",
+      "x_koordináta": "46.9522898",
+      "y_koordináta": "16.6247746"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "a.) Támogassa és szervezze a Nádasdi Széchenyi István Általános Iskola kulturális, közösségi életét. Elősegítse az iskolai nevelési-oktatás színvonalának emelését, a gyermekek oktatási, szabadidő, sport és kulturális tevékenységeit, támogassa a környezetvédelemre nevelést, a környezeti tudatosság fejlesztését - az iskola vezetésével történő egyeztetés alapján. b.) Segítse az iskola hagyományainak megőrzését. c.) Segítse az iskola épületének, az iskolapark, a sportpálya és az iskola környezetének szépítését. d.) Ápolja a testvérkapcsolatot a romániai Alsósófalvával. e.) Segítse a helyi nyilvánosság megvalósulását. f.) Segítse az iskolában megvalósuló projektek, témahetek lebonyolítását. g.) Segíti az iskola tárgyi feltételeinek, eszközállományának fejlesztését. h.) Tanfolyamok, továbbképzések, előadások révén előmozdítja tagjai és az érdeklődők képzését. i.) Az iskolarendszeren kívüli, öntevékeny, önképző, szakképző tanfolyamok, életminőséget és életesélyt javító tanulási lehetőségek megteremtésében segít. j.) Az Egyesület feladatainak teljesítése során együttműködik a tevékenységi körét érintő feladatokat ellátó intézményekkel, önkormányzati és állami szervekkel, civil szervezetekkel. k.) Közreműködjön a Nádasdi Közös Önkormányzati Hivatal településeinek kulturális és közösségi közélete jelentős eseményeinek előkészítésében és szervezésében, lebonyolításában. l.) Támogassa az iskola tanulóinak a tanulmányi, kulturális, sport és közösségi tevékenység során kiemelkedő teljesítmények jutalmazását. m.) Támogatja a Diákönkormányzat munkáját, programjait. n.) Segíti a közösségi alkalmak, táborozások, kirándulások, programok szervezését, lebonyolítását. o.) Támogatja a szociálisan rászoruló és kiemelt figyelmet igénylő tanulókat, segíti tanulási feltételeik javítását. p.) Szervezeti feltételeket teremt előbbi célok megvalósítására a lakosság, az iskola, az önkormányzat, a gazdálkodó és társadalmi szervezetek és intézmények erkölcsi és anyagi hozzájárulásának összehangolására.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200826",
+      "régi_nyilvántartási_száma": "200826/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Biczóné Marton",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 084 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 039 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

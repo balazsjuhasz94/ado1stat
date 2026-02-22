@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19312615",
+  "scraped_at": "2026-02-21T13:03:26.302171",
+  "organization_id": "367040",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Vincent Rehabilitációs Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Cserőke utca 4.",
+      "adószám": "19312615-2-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-30",
+      "statisztikai_számjel": "19312615-8696-569-06",
+      "x_koordináta": "46.228948",
+      "y_koordináta": "20.1946968"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Hozzájárulni a Társadalom és az Egyén közös szükségleteinek kielégítéséhez, testi, lelki rehabilitációval segítséget nyújtani, Társadalmi látásmódot megváltoztatni, és a rehabilitációra szoruló polgárokat segíteni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001757",
+      "régi_nyilvántartási_száma": "1757/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-03-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-07-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "50468328-10004586",
+      "számlavezető_pénzintézet_neve": "Takarékbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Détári-Vári",
+        "Képviselő keresztneve": "Fanni",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "445 205 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19312866",
+  "scraped_at": "2026-02-14T14:33:23.136405",
+  "organization_id": "367059",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csupaszív Állatmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4002 Debrecen, Mészáros Gergely kert 9.",
+      "adószám": "19312866-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-05",
+      "statisztikai_számjel": "19312866-9499-569-09",
+      "x_koordináta": "47.5249692",
+      "y_koordináta": "21.7543847"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az alapítvány célja az utcán élő, kóbor, gazdátlan kutyák számának csökkentése, ennek körében: 1.) A gazdátlan, bajba jutott kutyák mentése, felkarolása, örökbe adása. 2.) A kóbor, vagy gyepmesteri telepre befogott, más állatmentő szervezetnél elhelyezett kutyák örökbe fogadásának teljeskörű intézése. 3.) A gazdátlanul élő kutyák túlszaporodásának megállítása ivartalanítással. 4.) Állattartással és állatvédelemmel kapcsolatos ismeretterjesztés, a következő generáció felelős állattartásra nevelése, felvilágosítása, oktatása. 5.) Állatvédelmi feladatok ellátása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002283",
+      "régi_nyilvántartási_száma": "2283/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-09-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-20",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zilahi-Barabás",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "Hilda",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "585 841 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19329556",
+  "scraped_at": "2026-02-21T13:34:39.645165",
+  "organization_id": "368451",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A ZENE ÖSSZEKÖT Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2310 Szigetszentmiklós, Málna utca 5.",
+      "adószám": "19329556-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-02",
+      "statisztikai_számjel": "19329556-9499-529-13",
+      "x_koordináta": "47.3627033",
+      "y_koordináta": "19.0416257"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Kulturális kapcsolatok és együttműködések kialakításának és ápolásának elősegítése határon innen és túl, felhasználva a zene, elsősorban a magyar könnyűzene által nyújtott lehetőségeket. Fiatalok nevelése a zene segítségével, táborok és zenei oktatásukkal kapcsolatos tevékenységek támogatása, zenei rendezvények megvalósításának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008199",
+      "régi_nyilvántartási_száma": "8199/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "László",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "394 869 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

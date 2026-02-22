@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19291169",
+  "scraped_at": "2026-02-14T13:58:59.706449",
+  "organization_id": "365410",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dél-Budai Sport Club",
+      "rövid_név": "Dél-Budai SC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1114 Budapest, Bocskai út 14. fszt./4.",
+      "adószám": "19291169-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-22",
+      "statisztikai_számjel": "19291169-9312-521-01",
+      "x_koordináta": "47.477699",
+      "y_koordináta": "19.0439586"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "• labdarúgás, kézilabda, röplabda, kosárlabda, atlétika, úszás, ritmikus gimnasztika és esztétikus csapatgimnasztika sportágakban az utánpótlás folyamatos kiválasztása és nevelése • tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása • társadalmi öntevékenység és közösségi élet kibontakoztatása • sportolási alkalom megteremtése • általános testkultúra javítása • tagjai részére a felkészüléshez, versenyzéshez szükséges személyi és tárgyi feltételek megteremtése és folyamatos fejlesztése • sportegyesülettel kapcsolatban oktatási, nevelési intézmények tanulói részére a sportolási, testedzési lehetőségek megteremtése, a lakosság szabadidősportjának segítése • sportkapcsolatok létesítése és fejlesztése • mérkőzések, versenyek és szabadidős sporttevékenységek szervezése • tehetséggondozás",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017530",
+      "régi_nyilvántartási_száma": "17530/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-01",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-30"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Berzéki",
+        "Képviselő keresztneve": "Rebeka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-11-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "782 317 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "865 433 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

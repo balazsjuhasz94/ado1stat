@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18257953",
+  "scraped_at": "2026-02-14T13:38:38.099119",
+  "organization_id": "104896",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ArtWorkShop Kulturális Egyesület",
+      "rövid_név": "ArtWorkShop Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1116 Budapest, Sáfrány utca 52. IV./43.",
+      "x_koordináta": "47.442853",
+      "y_koordináta": "19.034553",
+      "adószám": "18257953-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-07-06",
+      "statisztikai_számjel": "18257953-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Egészségmegőrzés, kábítószer- és betegségmegelőzés. Kortárs, kezdő, amatőr képzőművészek támogatása. A kortárs könnyűzenei ?undergrund? műfaj segítése, kezdő és kortárs könnyűzenei ?undergrund? zenekarok, előadók támogatása. Az élővilág érdekeinek védelme, az ember és a többi élőlény együttélésének javítása. Az esélyegyenlőség javítása. A faji, etnikai és egyéb megkülönböztetések megszüntetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0011934",
+      "régi_nyilvántartási_száma": "11934/2006",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-01-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ágai",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Zsolt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "51 722 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "66 843 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "65 655 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 361 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "843 810 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "901 090 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 036 715 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Artworkshop Közhasznú Kulturális Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ArtWorkShop Kulturális Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ArtWorkShop Kulturális Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ArtWorkShop Kulturális Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,132 @@
+{
+  "search_adoszam": "19250007",
+  "scraped_at": "2026-02-14T12:39:46.679356",
+  "organization_id": "301118",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "4M Magyarország Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1136 Budapest, Felka utca 4. 2/4.",
+      "adószám": "19250007-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-05",
+      "statisztikai_számjel": "19250007-9329-569-01",
+      "x_koordináta": "47.5166268",
+      "y_koordináta": "19.0534479"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Személyiségfejlesztő és közösségépítő programok szervezése. Célunk, hogy a Biblia és keresztény értékrendre építve egy teljesebb élethez segítsük a programok résztvevőit. Társadalmi, egyházi és családi felelősség-vállalásra hívás, segítségadás a vezető szerep betöltésére ezeken a területeken. Bátorítás aktív hitéletre, közösségépítésre, és a társadalom megjobbításra.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012938",
+      "régi_nyilvántartási_száma": "12938/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-28",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hamar",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kubina",
+        "Képviselő keresztneve": "Kristóf",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kmethy",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vidákovics",
+        "Képviselő keresztneve": "Máté",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "6391",
+        "Leírás": "Hírügynökségi tevékenység"
+      },
+      {
+        "Kód": "4771",
+        "Leírás": "Ruházat kiskereskedelem"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "153",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 360 187 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "180",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 849 207 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "229",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 911 314 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

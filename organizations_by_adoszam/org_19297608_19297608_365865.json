@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19297608",
+  "scraped_at": "2026-02-14T14:04:48.637357",
+  "organization_id": "365865",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dunakanyar Kultúrtáj és Környezetvédelmi Egyesület",
+      "rövid_név": "DUNAKÉKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2028 Pilismarót, Kossuth L. utca 5/ a.",
+      "adószám": "19297608-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-08",
+      "statisztikai_számjel": "19297608-9499-529-11",
+      "x_koordináta": "47.7671744",
+      "y_koordináta": "18.8489931"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Pilismarót község fejlesztésében való közreműködés, különösen településfejlesztési tevékenységek, egészségmegőrző tevékenységek, természet- és környezetvédelmi tevékenységek és a turizmus fejlesztésének elősegítése és támogatása; Dunakanyar-Visegrádi-hegység-Pilis környezet-és természetvédelme, valamint a \"Dunakanyar-Kultúrtáj\" építészeti és tájegységi arculatának megőrzése; Aktívan hozzájárulni az ökológiai sokszínűség megőrzéséhez, a - társadalmi és emberi szempontból egyaránt - fenntartható fejlődéshez és a környezettudatos gazdálkodási és állampolgári magatartási formák kialakításához; Az eljövendő generációk érdekei iránti felelősségvállalás; A környező, védelemre szoruló élőhelyek, a hely- és kultúrtörténeti épített örökség felkutatása, felügyelete, értékmegóvása; A helyi lakosságban (elsősorban a fiatal generáció számára) a természet-és környezetvédelem fontosságának tudatosítása. ( Vegyük észre, hogy milyen csodálatos helyen élünk!)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002247",
+      "régi_nyilvántartási_száma": "2247/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Korcsák",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fleckistán-Hajdú",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "828 981 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

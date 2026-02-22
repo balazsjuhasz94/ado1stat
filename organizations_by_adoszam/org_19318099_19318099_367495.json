@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19318099",
+  "scraped_at": "2026-02-14T13:10:01.324959",
+  "organization_id": "367495",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Két lábbal a játszótéren Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Fülemüle utca 42.",
+      "adószám": "19318099-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-11",
+      "statisztikai_számjel": "19318099-8899-569-06",
+      "x_koordináta": "46.228948",
+      "y_koordináta": "20.1946968"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Szalóky Léna egészséges fejlődését, önálló mozgását biztosító, elősegítő, mozgás koordinációját javító, fejlesztő, valamint életkörülményeinek megkönnyítését, javítását célzó magyarországi és külföldi műtétek, gyógykezelések, gyógymódok, utókezelések, gyógytornák, fejlesztő foglalkozások finanszírozásának támogatása: mindezekkel összefüggő, ezekhez kapcsolódóan felmerülő utazási, szállás-költségek biztosítása, mozgást segítő, könnyítő valamint fejlesztő gyógyászati és egyéb segédeszközök, továbbá szállítást, közlekedést biztosító eszközök vásárlása, fenntartásukhoz, használatukhoz kapcsolódó költségek finanszírozása. Léna életkörülményeinek megfelelő élettér kialakításával kapcsolatban felmerülő költségekhez hozzájárulás, gyógyításhoz, napi ellátáshoz, fejlesztéshez szükséges feltételek és eszközök minél szélesebb körű rendelkezésre álláshoz anyagi források, eszközök felkutatása, biztosítása. Hasonló betegséggel küzdő gyermekek támogatása az alapítvány tevékenysége szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001760",
+      "régi_nyilvántartási_száma": "1760/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bartók",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "161",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 331 073 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "153",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 472 575 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

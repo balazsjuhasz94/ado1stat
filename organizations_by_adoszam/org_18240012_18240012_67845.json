@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18240012",
+  "scraped_at": "2026-02-21T13:54:17.722636",
+  "organization_id": "67845",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Happy Dance Művészeti és Sport Egyesület",
+      "rövid_név": "Happy Dance MSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1223 Budapest, Török Bálint utca 19. B. lph.",
+      "adószám": "18240012-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-07-11",
+      "statisztikai_számjel": "18240012-9312-529-01",
+      "x_koordináta": "47.4089065",
+      "y_koordináta": "19.0153776"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "1. Az egyesület célja: az egyesület szakmai érdekképviseleti és érdekvédelmi civil szervezet 2. Az egyesület célja elsősorban a tánc - mint műfaj és sport - valamint más sportágak gyakorlása, művészeti és sport területen történő népszerűsítése. Az egyesület elsősorban olyan közösség kialakítására alakult, melynek tagjai a sportolás mellett közös programokon, kirándulásokon - családjukkal együtt - tartós kapcsolatot építenek ki. Az egyesület közhasznú tevékenysége közvetve, illetve közvetlenül a következő közfeladat teljesítését szolgálja: - a lakosság - elsősorban a kerületben - egészségi állapotának javítása, a jobb életminőség elősegítése, az egészségkárosító környezeti, társadalmi és egyéb hatások elleni fellépés - a gyermek, ifjúsági és szépkorú lakosság körében történő kulturális és közösségi hagyományok, értékek ápolása, terjesztése - rendszeres testedzésre, társastáncra nevelés minden korosztályban",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0008857",
+      "régi_nyilvántartási_száma": "8857/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Závodszky",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Lajosné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "9311",
+        "Leírás": "Sportlétesítmény működtetése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "296 281 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 444 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

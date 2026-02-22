@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18998045",
+  "scraped_at": "2026-02-14T13:01:48.625886",
+  "organization_id": "111021",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Kiskossuthért\" Közhasznú Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4024 Debrecen, Kossuth utca 33.",
+      "x_koordináta": "47.5294304",
+      "y_koordináta": "21.6299536",
+      "adószám": "18998045-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-05-12",
+      "statisztikai_számjel": "18998045-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "Oktatás és nevelés: az esélyegyenlőség megteremtése, egészséges életmódra nevelés, környezettudatos gondolkodás kialakítása, kommunikációs készségek fejlesztése (anyanyelven és más nyelveken), kooperációs készség fejlesztése, nem formális módszerek alkalmazása az oktatásban, nevelésben, az információs, digitális társadalomba való beilleszkedés segítése, közösségformálás, közösségépítés: szabadidős programok szervezése és lebonyolítása, külkapcsolatok előmozdítása, az európai és a hazai kulturális örökség megismertetése és megóvása, kulturális események szervezése, esztétikai nevelés, a hagyomány- és honismeret előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0003636",
+      "régi_nyilvántartási_száma": "3636/2009",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-06-07",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Albert",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 778 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 735 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "405 101 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "447 857 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "879 963 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "766 458 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "168",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 675 854 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "JELENBEN A JÖVŐNKÉRT EGYESÜLET"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Jelenben a jövőnkért\"Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Jelenben a jövőnkért\"Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Jelenben a jövőnkért\"Közhasznú Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

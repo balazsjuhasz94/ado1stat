@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19297907",
+  "scraped_at": "2026-02-14T13:37:29.105779",
+  "organization_id": "365892",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lilike lépteiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3441 Mezőkeresztes, Hunyadi utca 8.",
+      "adószám": "19297907-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-11",
+      "statisztikai_számjel": "19297907-9499-569-05",
+      "x_koordináta": "47.8174782",
+      "y_koordináta": "20.6759386"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az SMA1-es típusú betegséggel született Somogyi Lili (kedvezményezett) született: Győr, 2020. május 04. anyja születési neve: Miskolci Éva állandó lakcím: 3441 Mezőkeresztes, Béke út 38. egészségügyi ellátási költségeinek viselése; ápolása, gondozása, a mindennapi szükségleteinek kielégítéséhez és gyógyulásához szükséges speciális eszközök, gyógyászati és higiénés szerek költségeinek viselése; a kedvezményezett életkörülményeihez igazodóan a közös lakás átalakítása a kedvezményezett mozgatásához és mozgásához szükséges módon és mértékben, akadálymentesítés; továbbá a közlekedés biztosítása érdekében speciális autó beszerzése és üzemeltetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064638",
+      "régi_nyilvántartási_száma": "64638/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szilvási",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-12-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagyné Marczis",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-12-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "816 509 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 046 566 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

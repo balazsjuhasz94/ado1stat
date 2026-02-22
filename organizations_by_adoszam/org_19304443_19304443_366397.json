@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19304443",
+  "scraped_at": "2026-02-14T12:42:34.327840",
+  "organization_id": "366397",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Elisabeth Menedék Állatvédő Egyesület",
+      "rövid_név": "Elisabeth Menedék Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8354 Karmacs, Nádor utca 093/1.",
+      "adószám": "19304443-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-31",
+      "statisztikai_számjel": "19304443-9499-529-20",
+      "x_koordináta": "46.84685",
+      "y_koordináta": "17.1621756"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület célja: állavédelem, a gazdátlan háziállatok problémájának térségi megoldása, az állatok körülményeinek javítását szolgáló lehetőségek felkutatása. Fő célja keretében az egyesület végzi a kóbor, kidobott kutyák és más állatok mentését, átmeneti gondozását és felelős gazdához juttatását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0003078",
+      "régi_nyilvántartási_száma": "3078/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pap",
+        "Képviselő keresztneve": "Dorottya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kalmár",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-03-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "198",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 292 102 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "363",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 610 894 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

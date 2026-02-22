@@ -1,0 +1,127 @@
+{
+  "search_adoszam": "18978188",
+  "scraped_at": "2026-02-14T12:42:57.747508",
+  "organization_id": "82228",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Veni Vidi Vici Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Bocskai utca 33/B.",
+      "x_koordináta": "47.6363765",
+      "y_koordináta": "19.1583785",
+      "adószám": "18978188-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-03-01",
+      "statisztikai_számjel": "18978188-8891-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A halmozottan sérült gyereket nevelő családok komplex segítése. Ezen belül a gyermekek nevelésének, oktatásának, képzésének és habilitációjának, rehabilitációjának a megszervezése és támogatása. Az alapítvány tevékenységét azért végzi, hogy az SNI-s (speciális nevelési igényű) tanulóknak lehetőségük legyen minél teljesebb, önállóbb szociális és társadalmi beilleszkedést megvalósítani, illetve, hogy a tanulók önmagukhoz mérten a legmagasabb szintre jussanak el. Mindezek mellett célunk a gyermekekkel foglalkozó szakemberek (szakorvosok, terapeuták, pedagógusok, segédeszközökkel foglalkozó szakemberek) és családok összefogásának és együttműködésének kialakítása és ennek megerősítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003941",
+      "régi_nyilvántartási_száma": "3941/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-11-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-04",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-84715199",
+      "számlavezető_pénzintézet_neve": "Erste Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balog",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "276",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 558 197 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "162",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 921 386 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "183",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 280 311 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "137",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 843 053 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "178",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 594 343 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Veni Vidi Vici Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Veni Vidi Vici Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

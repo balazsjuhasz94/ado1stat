@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18596856",
+  "scraped_at": "2026-02-14T12:15:27.989302",
+  "organization_id": "75270",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bike Maffia Közhasznú Egyesület",
+      "rövid_név": "BM Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1141 Budapest, Jeszenák János utca 95. 4. emelet/1.",
+      "x_koordináta": "47.4678877",
+      "y_koordináta": "19.1569209",
+      "adószám": "18596856-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-06-16",
+      "statisztikai_számjel": "18596856-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A szociális helyzetük miatt hátrányos helyzetű, valamint a társadalom perifériájára szorult hajléktalan, illetve rászoruló emberek segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015439",
+      "régi_nyilvántartási_száma": "15439/2013",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-10-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-16",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Havasi",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "699",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 797 489 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "795",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 364 363 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "2510",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "24 794 931 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2025",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 638 629 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1963",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "23 656 688 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1981",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "25 066 595 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bike Maffia Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bike Maffia Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bike Maffia Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bike Maffia Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bike Maffia Közhasznú Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

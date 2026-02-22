@@ -1,0 +1,124 @@
+{
+  "search_adoszam": "18908518",
+  "scraped_at": "2026-02-21T12:41:19.535591",
+  "organization_id": "71568",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szívügyünk Olaszfa Egyesület",
+      "rövid_név": "Associazione Cuoreper Olaszfa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9824 Olaszfa, Ady utca 15.",
+      "x_koordináta": "47.012965",
+      "y_koordináta": "16.8830999",
+      "adószám": "18908518-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-18",
+      "statisztikai_számjel": "18908518-7990-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "1. a helyi idegenforgalom fellendítése, 2. a helyi templom karbantartásának támogatása, orgona felújítása, 3. a helyi plébánia-épület kezelése, 4. a (helyi) közösség összekovácsolása, 5. egészségmegőrzés, egészségtudatos életmódra nevelés, ennek keretében különösen a Kneipp módszer: a) hatékonyabb megismerése és minél szélesebb körben történő megismertetése, b) népszerűsítése, 6. a lakosság egészségügyi képzésének támogatása, 7. egyéb kompetencia és készségfejlesztő képzések megvalósítása, 8. helyi termékek népszerűsítése, 9. sport-tömegsport megszervezése, közreműködés a tömegsport mozgalom népszerűsítésében, részvételében, 10. gyermekek táboroztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200710",
+      "régi_nyilvántartási_száma": "200710/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fekete",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7990",
+        "Leírás": "Egyéb foglalás"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 897 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "292 802 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "386 643 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "468 951 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "534 427 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szívügyünk Olaszfa Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szívügyünk Olaszfa Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

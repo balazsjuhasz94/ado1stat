@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19266806",
+  "scraped_at": "2026-02-14T15:07:05.613289",
+  "organization_id": "108661",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Veszprémi Liszt Ferenc Kórustársaság",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8200 Veszprém, Haszkovó utca 19. B. IV./15.",
+      "x_koordináta": "47.1069253",
+      "y_koordináta": "17.9208774",
+      "adószám": "19266806-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-03-10",
+      "statisztikai_számjel": "19266806-9020-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "1. A Társaság célja kulturális tevékenység. Az egyesület lehetővé teszi, hogy a kóruszenét aktívan művelők és azt szeretők közösen munkálkodjanak Veszprém város és a magyar nemzet zenekultúrájának, hagyományainak felelevenítésén, őrzésén és továbbfejlesztésén. 2. A zene közvetítésével tegye szebbé, tartalmasabbá a zenebarátok életét, a magyar kórusirodalom külföldi, és a külföldi zeneművek hazai előadásával járuljon hozzá a különböző népek jobb megismeréséhez, egymás tiszteletéhez, a kapcsolatok kiépítéséhez, az egyetemes európai kultúrához való tartozás kifejezéséhez. 3. Nemzetközi versenyeken, fesztiválokon való részvétellel, illetve nemzetközi találkozók szervezésével öregbítse Magyarország és ezen belül Veszprém város jó hírnevét. 4. A kórustag utánpótlás intenzív társadalmi elősegítése. 5. Hangversenyek, egyéb kulturális rendezvények szervezése, tartása. 6. Más kórusokkal, hazai és külföldi Egyesületekkel szakmai és baráti kapcsolatok kialakításának elősegítése, tapasztalatcsere támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0000828",
+      "régi_nyilvántartási_száma": "828/1992",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sugár",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "37 325 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 309 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "515 556 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "439 900 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "570 465 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "veszprémi liszt ferenc kórustársaság"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Veszprémi Liszt Ferenc Kórustársaság"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

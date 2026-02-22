@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19286244",
+  "scraped_at": "2026-02-21T14:33:50.657361",
+  "organization_id": "365011",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kincses-Sziget Állatotthon Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2045 Törökbálint, Pistály-Dűlő, Barlang utca 3.",
+      "adószám": "19286244-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-06",
+      "statisztikai_számjel": "19286244-9499-569-13",
+      "x_koordináta": "47.4393394",
+      "y_koordináta": "18.9113983"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja az elhagyott, elkóborolt, mentésre szoruló állatok bogása, befogadása, orvosi ellátás biztosítása, ideiglenes vagy tartós telhelyezése. Az általunk befogott, befogadott állatok testi-elki egészségének biztosítssa, a rehabilitáció részeként a fajtajellegnek megfelelő sportokba való bevonás, tanítás. A befogott, befogadott állatok örökbefogadó családba kerülésének biztosítása. Az alapítvány a hobbyállatok mellett a háztáji haszonállatok számára is segítő kezet nyújt. Az állatvédelem, a helyes állattartás ismeretanyagának terjesztése. Óvodás és iskolás csoportok fogadása, a háztáji és őshonos magyar fajták bemutatása. Nyári tábor szervezése, gyermektáboroztatásaz állatvédelem témakör keretein belül a gyermekek helyes szemléletének kialakítása formálása. Állatpanziót vagy állatmenhelyet létesít, működtet, tart fenn, azok működését támogatja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004142",
+      "régi_nyilvántartási_száma": "4142/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "117421732604751500000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kincses",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "240 139 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "206 987 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "302 240 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19188232",
+  "scraped_at": "2026-02-21T13:06:46.997704",
+  "organization_id": "101608",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "LÉLEK-ZET Egyesület a Tüdőrákos Betegekért és Hozzátartozóikért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1121 Budapest, Pihenő út 1.",
+      "x_koordináta": "47.5195278",
+      "y_koordináta": "18.9456331",
+      "adószám": "19188232-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-11",
+      "statisztikai_számjel": "19188232-8412-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A tüdődaganattal küzdő betegek és hozzátartozóik teljes körű támogatása, az orvos-beteg kommunikáció hatékonyságának fejlesztése, továbbá a klinikumban dolgozó szakemberek érzékenyítése a tüdődaganattal küzdő betegek nehézségeire (fizikai, pszichés, stb.), szakmai hálózat építése. A szervezetet segítő társszervezetek és más szakmai csoportok közötti kommunikációs platform kialakítása, szakmai és betegeket támogató rendezvények szervezése. Kommunikációs kampányok szervezése, amelyek célja felhívni a figyelmet a tüdőrákos betegséggel küzdőkre, tüdődaganatok kialakulásának megelőzése és a prevencióhoz kapcsolódó ismeretek széles körben történő terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017188",
+      "régi_nyilvántartási_száma": "17188/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bogos",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pataki",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mencser",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "260 480 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "501 786 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 355 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "452 862 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "LÉLEK-ZET Egyesület a Tüdőrákos Betegekért és Hozzátartozóikért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

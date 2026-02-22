@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19152583",
+  "scraped_at": "2026-02-14T12:16:05.855136",
+  "organization_id": "101524",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Önvédelmi Egyesület",
+      "rövid_név": "MÖE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2735 Dánszentmiklós, Tessedik Sámuel utca 40.",
+      "x_koordináta": "46.494708",
+      "y_koordináta": "21.020212",
+      "adószám": "19152583-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-02",
+      "statisztikai_számjel": "19152583-9319-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A lakosság összefogása a tömegsport, önvédelmi sport, karitatív célú, környezetvédelmi, műemlékvédelmi, áldozatvédelmi feladatokra. A sportos és egészséges életmód népszerűsítése. Rendezvények, oktatások szervezése és támogatása sport, környezetvédelem, hagyományőrzés, áldozatvédelem területén. Közreműködik a társadalmi bűnmegelőzésben való, jogkövető lakossági részvételben a kulturális örökség megóvásában, emberi és állampolgári jogok érvényre juttatásában. Jótékonysági rendezvények szervezése. Közhasznú rendezvények szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003499",
+      "régi_nyilvántartási_száma": "3499/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bartal",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 459 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 062 887 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "182",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 445 723 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2073",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 960 882 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Önvédelmi Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

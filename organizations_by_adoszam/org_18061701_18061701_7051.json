@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "18061701",
+  "scraped_at": "2026-02-21T13:52:52.590161",
+  "organization_id": "7051",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Őskultúra Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2315 Szigethalom, Keszeg utca 2.",
+      "x_koordináta": "47.5276614",
+      "y_koordináta": "19.1065004",
+      "adószám": "18061701-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1994-06-20",
+      "statisztikai_számjel": "18061701-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Ősmúltunk tárgyi és szellemi kultúrájának szélesebb körű bemutatása es népünk történelme mélyebb és hitelesebb megismerésének elősegí- tése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0004773",
+      "régi_nyilvántartási_száma": "4773/1994",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Blága",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "6920",
+        "Leírás": "Számviteli, könyvvizsgálói, adószakértői tevékenység"
+      },
+      {
+        "Kód": "7430",
+        "Leírás": "Fordítás, tolmácsolás"
+      },
+      {
+        "Kód": "9200",
+        "Leírás": "Szerencsejáték, fogadás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "304 740 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

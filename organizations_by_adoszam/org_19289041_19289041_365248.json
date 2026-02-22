@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19289041",
+  "scraped_at": "2026-02-21T13:57:32.725943",
+  "organization_id": "365248",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Küldj Engem Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1194 Budapest, Vas Gereben utca 106. 2. ajtó",
+      "adószám": "19289041-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-08",
+      "statisztikai_számjel": "19289041-9499-569-01",
+      "x_koordináta": "47.4368429",
+      "y_koordináta": "19.1512201"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "Krisztus testének az egységének a formálása és az elveszettek elérése az evangelizációs programokon és missziókon keresztül. Megismertetni az emberekkel azt a jó hírt, amit Jézus Krisztus hagyott ránk. Egy olyan platform létrehozása ahol a Magyarországi/Európai missziós szervezetek és evangelisták egymásra találhatnak és összekapcsolódhatnak. Megtalálni a Missio Dei-t, azaz az Isten misszióját Magyarországon/Európában. A bármilyen okból (természeti-családi katasztrófák, egészségügyi-anyagi okok, stb.) hátrányos helyzetben lévő személyek fizikai és lelki segítése, támogatása a keresztény értékrend alapján. Alapítványunk szociális tevékenységét a hátrányos helyzetű, tört és csonka családok, szegények, hajléktalanok, árvák és gyermekvédelemben élők, tartós munkanélküliek és a roma emberek között végzi.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013015",
+      "régi_nyilvántartási_száma": "13015/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Somogyi",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "Tamás",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "167 965 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 480 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "354 869 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

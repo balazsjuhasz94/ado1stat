@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19107538",
+  "scraped_at": "2026-02-14T13:24:32.701249",
+  "organization_id": "107820",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mancsok és Paták Terápiás Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4251 Hajdúsámson, Darvas utca 25.",
+      "x_koordináta": "47.56731",
+      "y_koordináta": "21.7530992",
+      "adószám": "19107538-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-23",
+      "statisztikai_számjel": "19107538-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Kutyákkal és lovakkal folytatott terápiás foglalkozások szervezése és lebonyolítása ép, valamint testileg és/vagy értelmileg sérült személyek számára, illetve a terápiás tevékenységek személyi, tárgyi és környezeti feltételeinek biztosítása, körülményeinek javítása. Gyógypedagógiai lovaglás és a hippoterápia szakmai, személyi, tárgyi és környezeti feltételeinek biztosítása. A kutyákkal folytatott terápiás tevékenység céljára történő kutyakiképzés szervezése, személyi és tárgyi feltételeinek biztosítása. Egyéb segítő kutyák (mozgássérült-segítő, személyi segítő, hallókutya, rohamjelző, vakvezető) kiképzésének támogatása, átadása arra jogosult személyek részére. Terápiás lókiképzés támogatása lovasterápiával foglalkozó szakemberek és szervezetek számára. A kutyákkal és a lovakkal folytatott terápiás tevékenységre való felnőtt képzés (akkreditált pedagógusképzés, terápiás kutya felvezetője képzés) és továbbképzés szervezése, lebonyolítása, személyi és tárgyi feltételeinek biztosítása. Tanfolyamok, továbbképzések szervezése, lebonyolítása. A kutyákkal, illetve a lovakkal folytatott terápiás tevékenységgel kapcsolatos publikációs tevékenység, nemzetközi kapcsolatok kialakításának támogatása. A kutyás és lovasterápiás szakemberek szakmai és tudományos továbbképzésének támogatása, hazai és nemzetközi kongresszusokon, továbbképzéseken való részvétel támogatása. Az állatasszisztált terápiás foglalkozások népszerűsítése. Előadások, oktatások szervezése az állatvédelemről és a felelős állattartásról. Óvodások, általános iskolások számára foglalkozások tartása. Sportolási (elsősorban kutyás és lovas) lehetőségek személyi és tárgyi feltételeinek biztosítása. Lovas és kutyás szabadidős foglalkozások, ismeretterjesztő táborok megszervezése és lebonyolítása. Állatok átmeneti befogadása, gondozása majd gazdikeresés, örökbefogadók felkutatása és az ezekkel kapcsolatos feladatok ellátása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004966",
+      "régi_nyilvántartási_száma": "4966/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-27",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Feketéné Baksán",
+        "Képviselő keresztneve": "Hajnalka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 041 476 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "139",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 223 734 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

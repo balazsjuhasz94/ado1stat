@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18817564",
+  "scraped_at": "2026-02-14T14:19:34.407039",
+  "organization_id": "116628",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szabolcsi Ifjúsági Kézilabda Sport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Ószőlő utca 19.",
+      "x_koordináta": "48.113847",
+      "y_koordináta": "21.922834",
+      "adószám": "18817564-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-26",
+      "statisztikai_számjel": "18817564-8551-521-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Támogatni, elősegíteni és kezdeményezni minden olyan tevékenységet, amely Demecser város sport életének fejlesztését célozza. Nevelés és oktatás, képességfejlesztés, ismeretterjesztés. Gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet. Sporttevékenység. Továbbá az egyesület alapszabályában foglaltak szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0002789",
+      "régi_nyilvántartási_száma": "2789/2007",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-04-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-03",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fodor",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-12-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "502 541 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 539 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "RÉTKÖZ UTÁNPÓTLÁS NEVELŐ SPORT EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

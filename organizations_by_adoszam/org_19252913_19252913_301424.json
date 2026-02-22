@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "19252913",
+  "scraped_at": "2026-02-21T12:50:50.199849",
+  "organization_id": "301424",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Szövetség a Magyar Ifjúságért\" Közhasznú Alapítvány",
+      "rövid_név": "„SZAMI” Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1022 Budapest, Árvácska utca 6.",
+      "adószám": "19252913-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-29",
+      "statisztikai_számjel": "19252913-9499-569-01",
+      "x_koordináta": "47.5166897",
+      "y_koordináta": "19.0173116"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Elsődlegesen a Magyarországon és a Kárpát-medencében élő gyermekek, fiatalok egészséges testi, lelki és szellemi fejlődését nevelését segítő és támogató tevékenység, beleértve kulturális, szociális, egészségügyi, sport, szabadidő és karitatív tevékenységeket, valamint hátrányos helyzetű, tartós betegségben szenvedő, szegénységben vagy fogyatékkal élő gyermekek, fiatalok és felnőttek megsegítése, az életminőségük javításában történő közreműködés és a társadalomba történő beilleszkedésük elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012963",
+      "régi_nyilvántartási_száma": "12963/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-12-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sárhegyi",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kun",
+        "Képviselő keresztneve": "Sára",
+        "Képviselő titulusa": "Petra",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rábely",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Máté",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "98 733 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "491 919 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

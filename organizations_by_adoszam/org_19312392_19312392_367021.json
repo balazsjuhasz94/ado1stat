@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19312392",
+  "scraped_at": "2026-02-14T12:37:59.755648",
+  "organization_id": "367021",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cicaesély Macskamentő Alapítvány",
+      "rövid_név": "Cicaesély Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1098 Budapest, Dési Huber utca 13. 1. lépcsőház III. emelet/11.",
+      "adószám": "19312392-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-29",
+      "statisztikai_számjel": "19312392-7500-569-01",
+      "x_koordináta": "47.4653012",
+      "y_koordináta": "19.1111692"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A bajba jutott állatok, elsősorban macskák segítése és támogatása az egész országban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013193",
+      "régi_nyilvántartási_száma": "13193/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11709002-25975895",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Toldi",
+        "Képviselő keresztneve": "Nikolett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "356",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 641 745 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "271",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 047 428 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

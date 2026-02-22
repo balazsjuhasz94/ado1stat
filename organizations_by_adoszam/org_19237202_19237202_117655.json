@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "19237202",
+  "scraped_at": "2026-02-21T12:56:37.955114",
+  "organization_id": "117655",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fülöpjakab Általános Iskola Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6116 Fülöpjakab, Templom utca 1.",
+      "x_koordináta": "46.741727",
+      "y_koordináta": "19.7224566",
+      "adószám": "19237202-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-04",
+      "statisztikai_számjel": "19237202-8569-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány segíti, támogatja a Fülöpjakabon működő általános iskolai intézmény tevékenységét, arra törekszik, hogy elősegítse és közreműködjön a magas színvonalú pedagógiai tevékenység megvalósításában az intézményt látogató gyermekek számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002624",
+      "régi_nyilvántartási_száma": "2624/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-11-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "477 442 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

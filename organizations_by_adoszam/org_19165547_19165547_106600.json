@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19165547",
+  "scraped_at": "2026-02-14T13:32:43.314104",
+  "organization_id": "106600",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"A Kívánság\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3527 Miskolc, Selyemrét utca 26. 3/2",
+      "x_koordináta": "48.101241",
+      "y_koordináta": "20.8051",
+      "adószám": "19165547-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-19",
+      "statisztikai_számjel": "19165547-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- beteg vagy hátrányos helyzetben élő gyermekek kívánságainak megvalósítása, - -gyógyulásuk elősegítése pozitív élmények megszervezése által, - -A kívánságok elsősorban nem anyagi jellegűek, hanem maguknak az élményeknek a biztosítása a cél, melyet a család nem tudna megadni anyagi vagy kapcsolati tőke hiányában. - -A kívánságok megörökítése, ezeknek a kisfilmeknek az internetre való feltöltése, ezáltal örök élmény biztosítása, - -A videófilmek általi néző-és támogató szerzés az újabb kívánságok teljesítése érdekében - -A gyermek oly mértékű támogatása, hogy a kívánság megvalósítását az alapítvány teljes mértékben magára vállalja (szervezési, utaztatási, videókészítési stb feladatok) - a gyermek családjának lehetőségünk szerinti eseti támogatása, segítség nyújtás a beiskolázáshoz szükséges tanszerek, ruhák, és az étkezdés megkönnyítését biztosító élelmiszer vagy egyéb szükségletek beszerzése adományozóink által biztosított adományokból, gyűjtésekből - Jótékonysági est vagy rendezvény szervezése a további gyermekek támogatása érdekében - Ismert emberek, zenészek, színészek, videobloggerekkel való találkozások megszervezése a gyermek kívánságának teljesülése érdekében, valamint ezen emberek ösztönzése az adományozásra - eseti és rendszeres szabadidős és amatőr sportversenyek szervezése, lebonyolítása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064559",
+      "régi_nyilvántartási_száma": "64559/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zaveczki",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "297 904 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "293",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 042 388 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "385",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 825 163 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 111 178 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"A Kívánság\" Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

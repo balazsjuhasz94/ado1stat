@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18459155",
+  "scraped_at": "2026-02-14T15:01:51.676473",
+  "organization_id": "47288",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mosolygós Gyermekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6800 Hódmezővásárhely, Virág utca 2.",
+      "x_koordináta": "46.4154873",
+      "y_koordináta": "20.3221448",
+      "adószám": "18459155-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-04-29",
+      "statisztikai_számjel": "18459155-8510-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Az óvoda tárgyi feltételeinek javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0000120",
+      "régi_nyilvántartási_száma": "120/1991",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Barnáné",
+        "Képviselő keresztneve": "Bíró",
+        "Képviselő titulusa": "Kinga",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vajnai",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bauerné",
+        "Képviselő keresztneve": "Farkas",
+        "Képviselő titulusa": "Bernadett",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "183 698 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "593 080 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOSOLYGÓS GYERMEKÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

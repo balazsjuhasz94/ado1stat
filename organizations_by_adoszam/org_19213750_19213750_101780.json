@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19213750",
+  "scraped_at": "2026-02-21T12:34:50.201791",
+  "organization_id": "101780",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cegléd Táncegyüttes Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2700 Cegléd, Kossuth tér 5/A.",
+      "x_koordináta": "47.1691022",
+      "y_koordináta": "19.7941172",
+      "adószám": "19213750-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-27",
+      "statisztikai_számjel": "19213750-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyar nemzeti kultúra részét képező letűnt, vagy letűnőben lévő kisközösségi, hagyományos kultúra elemeinek - elsősorban a táncos örökségen keresztül - visszajuttatása a ma és a holnap kulturális közéletébe, azok életben tartása és élővé tétele. Tevékenységének területi vonatkozása a Kárpát-medencében kisebbségben vagy többségben élő magyarság településeire terjed ki. Eszköze a művészi élmény (színpadi előadások), énekes, hangszeres, táncos hagyományok gyűjtése, őrzése, valamint rendezvényeken keresztül ezek bemutatása, alkalmazása, átadása. A Cegléd Táncegyüttes Egyesület olyan nonprofit szervezet, amelynek célja a magyar néptánc kultúra, népdal, népzene megismerése, megismertetése, a néptánc színpadi feldolgozása, bemutatása, továbbá alkotó közösségek megteremtése és működtetése, a néptánccal történő közösségi nevelés kiszélesítése. A Kárpát-medence magyar és más nemzetiségű népeinek táncainak átörökítése, életben tartása, tovább örökítése és színpadra állítása. Az oktatás során elsődleges cél, a tájegységek szabad tánc szintű elsajátítása és tudatos használata, azok hiteles prezentálása és tovább éltetése, mind a táncosokban, mind a színpadi produkciót megtekintő nézőkben. Elődeink mindennapjaihoz kötődő hagyományok felelevenítése, átadása és továbbéltetése, így nem csupán a táncos örökség őrzése és hiteles prezentálása, de a régi hagyományok felélesztése és életben tartása is fontos. Kiemelt cél a Cegléd és térsége hagyományainak, kultúrájának, viseletének és táncainak felkutatása, rekonstruálása, gyűjtése visszatanulása és színpadi bemutatása. Az utánpótlás kinevelése, a népművészet és a néphagyomány iránt érdeklődő gyermekek, gyermek-közösségek és az őket támogató felnőttek összefogása, tevékenységük segítése, érdekeik érvényesítése szerteágazó kulturális életünkben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007731",
+      "régi_nyilvántartási_száma": "7731/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Borgya-Réfi",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "400 529 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "539 201 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

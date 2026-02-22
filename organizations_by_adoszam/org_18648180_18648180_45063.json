@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "18648180",
+  "scraped_at": "2026-02-21T13:19:33.846320",
+  "organization_id": "45063",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Taliándörögdi Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "TDÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8295 Taliándörögd, Kossuth utca 39.",
+      "x_koordináta": "46.979135",
+      "y_koordináta": "17.569286",
+      "adószám": "18648180-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-06-05",
+      "statisztikai_számjel": "18648180-8425-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "Az egyesület a katasztrófavédelemről szóló 2011. évi CXXVIII. törvény alapján katasztrófavédelmi feladatok ellátását önkéntesen vállaló civil szerveződés, amely önkéntes és köteles személyi állománya útján az e törvényben meghatározott olyan közfeladatokat lát el, amelyről a törvény felhatalmazása alapján más jogszabályi rendelkezés szerint állami szervnek vagy a helyi önkormányzatnak kell gondoskodni. Eszközeivel részt vesz a helyi katasztrófavédelmi feladatok önkéntes ellátásában a székhely településen, valamint a Veszprém Megyei Katasztrófavédelmi Igazgatóság különböző szerveivel kötött megállapodások alapján a település közigazgatási határain túl is. Elősegíti tagjai szakmai képzését, továbbképzését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003512",
+      "régi_nyilvántartási_száma": "3512/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Berki",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      },
+      {
+        "Kód": "8424",
+        "Leírás": "Közbiztonság, közrend"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "422 842 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18227671",
+  "scraped_at": "2026-02-14T14:47:56.295547",
+  "organization_id": "73991",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyarországi Otthonápolási és Hospice Egyesület",
+      "rövid_név": "MOHE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Bécsi út 81. I./20.",
+      "x_koordináta": "47.5172825",
+      "y_koordináta": "19.0562529",
+      "adószám": "18227671-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-01-01",
+      "statisztikai_számjel": "18227671-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az egyesület az otthoni ápolás gyakorlásával összefüggő ügyekben képviseli és védi az ápolók szakmai érdekeit, jogait és tekintélyét, etikai állásfoglalást alkot, felkérés esetén véleményezi az ápolók szakmai tevékenységét és anyagi helyzetét közvetlenül befolyásoló jogszabály megalkotását, felkérés esetén véleményezi az otthoni ápolási tevékenység szervezete és működése alapvető fejlesztési irányai tervei meghatározását, felkérés esetén részt vesz az egyesület tagjai és az egészségbiztosítás szervei közötti általános szerződési feltételek kialakításában, felkérés esetén véleményezi az ápolóképzés, szakmai továbbképzés követelményszintjét érintő elképzeléseket. Kongresszusok és szakmai tanácskozások, továbbképzések szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0006641",
+      "régi_nyilvántartási_száma": "6641/1995",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-04-08",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Friesz",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-04-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "204 009 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 942 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "403 503 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "694 519 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "634 407 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyarországi Otthonápolási és Hospice Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyarországi Otthonápolási és Hospice Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

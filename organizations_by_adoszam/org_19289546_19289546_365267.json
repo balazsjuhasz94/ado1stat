@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "19289546",
+  "scraped_at": "2026-02-14T12:37:16.938671",
+  "organization_id": "365267",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KITE Dolgozókért Alapítvány",
+      "rövid_név": "KITE Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4181 Nádudvar, Bem József utca 1.",
+      "adószám": "19289546-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-11",
+      "statisztikai_számjel": "19289546-9499-569-09",
+      "x_koordináta": "47.4399827",
+      "y_koordináta": "21.136932"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítók azon cél által vezérelve, hogy elsősorban a KITE Mezőgazdasági Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság (székhely: 4181 Nádudvar, Bem József utca 1., cégjegyzékszám: 09-10-000055) állományban lévő és nyugdíjas dolgozóit segítsék és támogassák olyan váratlan élethelyzetekben, melyek következményei súlyosan érinthetik a munkavállalót vagy nyugdíjas munkavállalót és családját, továbbá támogassák a nehéz sorsú, hátrányos helyzetű munkavállalókat és családjukat, az életminőségük javításához szükséges pénzbeli hozzájárulás juttatásával, kifejezik azon szándékukat, hogy ezen célok érdekében Magyarország egész területén működő, országos alapítványt hozzanak létre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002259",
+      "régi_nyilvántartási_száma": "2259/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kotormán",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "György",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nyitrai",
+        "Képviselő keresztneve": "Ibolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Imre",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "193",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 934 305 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "182",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 595 207 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 140 162 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

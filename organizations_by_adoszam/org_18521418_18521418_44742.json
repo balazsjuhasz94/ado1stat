@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18521418",
+  "scraped_at": "2026-02-14T14:18:29.508333",
+  "organization_id": "44742",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "GYULAI TÁRSASJÁTÉKOS EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5700 Gyula, Dózsa György utca 45. földszint/2.",
+      "x_koordináta": "46.6464543",
+      "y_koordináta": "21.2712048",
+      "adószám": "18521418-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-02-25",
+      "statisztikai_számjel": "18521418-9329-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "a színvonalas gyulai társasjáték-kultúra megteremtése, amellyel pozitív hatást kíván gyakorolni olyan társadalmi kérdésekre, mint a közösségi szellem fejlesztése, a szocializáció vagy a gyermeknevelés. Az egyesület fontosnak érzi a játék, mint személyiségfejlesztő és közösségépítő tényező társadalmi és pedagógiai vonatkozásainak tudatosítását. Az egyesület további alapcélja a társadalmi igényeknek megfelelő, alkotói tevékenység során fejlesztett új játékok (ún. „szerzői játékok”) népszerűsítése, az interaktív, csoportos tevékenységeknek teret adó, szakmailag minősített játékok megismertetése minél több családdal. Emellett cél a társasjátékok között való tájékozódás segítése, és a magyar játékfejlesztők szakmai támogatása is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003131",
+      "régi_nyilvántartási_száma": "3131/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Óré",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "755 029 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

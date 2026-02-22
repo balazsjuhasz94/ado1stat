@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19236380",
+  "scraped_at": "2026-02-21T12:32:18.858725",
+  "organization_id": "119322",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kazincbarcikai Csillagfürt Alapítvány a Fogyatékkal Élő Gyermekekért",
+      "rövid_név": "Kazincbarcikai Csillagfürt Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3700 Kazincbarcika, Paál László utca 12. 3/3.",
+      "x_koordináta": "48.2440055",
+      "y_koordináta": "20.6162777",
+      "adószám": "19236380-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-18",
+      "statisztikai_számjel": "19236380-8412-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Csillagfürt EGYMI Kazincbarcikai Tagintézménye elnevezésű oktatási intézmény alaptevékenységének támogatása, az oktatási- nevelési tevékenységének fejlesztése, a szakmai munka színvonalának emelése, az intézmény társadalmi támogatottságának megalapozása. Továbbá a hagyományteremtő, oktatási, művelődési, szabadidős, tehetséggondozási, felzárkóztatási, közösségi- társadalmi fejlődést szolgáló programok elősegítése táborok és utazások szervezésével, taneszközök, valamint fejlesztő eszközök és játékok beszerzésével, illetőleg jutalmazási és díjazási rendszer kidolgozásával és működtetésével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064586",
+      "régi_nyilvántartási_száma": "64586/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hódosné Tatár",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "Eszter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "487 618 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "526 544 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "547 668 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,130 @@
+{
+  "search_adoszam": "19636955",
+  "scraped_at": "2026-02-14T13:29:40.982908",
+  "organization_id": "124442",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kerpel-Frónius Ödön Alapítvány a Koraszülöttek és Beteg Újszülöttek Gyógyításáért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1039 Budapest, Királyok útja 71.",
+      "x_koordináta": "47.482237",
+      "y_koordináta": "19.081726",
+      "adószám": "19636955-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-10-09",
+      "statisztikai_számjel": "19636955-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "A koraszülöttek és a beteg újszülöttek intenzív osztályon történő ellátásához való segítségnyújtás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0000611",
+      "régi_nyilvántartási_száma": "611/1990",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-12-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sződyné Nagy",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "441 858 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "551 354 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "408 993 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "537 850 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "691 509 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 217 863 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 146 170 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Fronius Ödön Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Frónius Ödön Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Frónius Ödön Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Frónius Ödön Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Frónius Ödön Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Frónius Ödön Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Frónius Ödön Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerpel-Frónius Ödön Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

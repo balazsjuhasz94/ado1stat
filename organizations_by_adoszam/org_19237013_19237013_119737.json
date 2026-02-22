@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19237013",
+  "scraped_at": "2026-02-14T12:58:30.315391",
+  "organization_id": "119737",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Borsod Állatvédő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3724 Ragály, József A. utca 28.",
+      "x_koordináta": "48.4076669",
+      "y_koordináta": "20.514215",
+      "adószám": "19237013-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-24",
+      "statisztikai_számjel": "19237013-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Mindenki szembesül napi szinten a ténnyel, miszerint rengeteg kóbor állat, főként kutyák járják városaink, falvaink utcáit, melyek egyrészt veszélyt jelenthetnek emberekre és állatokra, másrészt maguk is veszélyeztetve élik az utcákon és mezőkön a mindennapjaikat. Az alapítvány elsődleges célja a segítség ezeknek az állatoknak abban, hogy rendezett körülmények között, gazda felügyelete alatt éljék az életüket. Az alapvető cél az, hogy ezeket a kóbor állatokat a közterületekről ellenőrzött körülmények közé helyezze az alapítvány, megfelelve a törvényi és állatvédelmi előírásoknak. Az alapítvány együtt kíván működni az önkormányzatokkal is, segítve az egyes településeken élő kóbor állatok elszállítását és gazdásítását. Az alapítvány tervei között szerepel egy állatmenhely létesítése, ugyanis borsodi térségben nincs állatmenhely, ezzel pedig hosszú távon megoldódna a gazdátlan állatok megfelelő körülmények között történő elhelyezése, biztonságba helyezése. Az alapítvány célja továbbá az állatvédelemmel kapcsolatos prevenciós és tájékoztató jellegű tevékenységek folytatása, a gyerekek és minden érdeklődő számára a felelős állattartás alapvető ismereteinek bemutatásával. Az alapítvány főbb tevékenységei céljai megvalósítása érdekében: a befogott állatok (elsősorban ebek) ellenőrzése, chipes azonosítása, gazdájához való visszajuttatása; gazdátlan állat - orvosi vizsgálat, kötelező oltások és chippel való ellátás után - ideiglenes vagy végleges befogadónál való elhelyezése; amennyiben lehetséges, a gazdátlan állat ivartalanításáról való gondoskodás, a nem kívánt szaporulat megelőzése érdekében; állatmenhely sikeres létesítése esetén a gazdátlan állatok elhelyezése és ellátása, gazdásítása; az állatvédelemmel foglalkozó civil szervezetek munkájának és tevékenységének állateledellel és állatorvosi ellátással, vagy ezek finanszírozásával való segítése; előadások szervezése a felelős állattartás szabályainak ismeretterjesztésével;",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064587",
+      "régi_nyilvántartási_száma": "64587/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-12",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Egyed",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "292",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 275 196 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "235",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 098 038 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "188",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 781 179 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

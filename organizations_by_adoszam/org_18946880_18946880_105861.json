@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "18946880",
+  "scraped_at": "2026-02-14T13:44:58.712291",
+  "organization_id": "105861",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ÉletHíd Segítőkutya Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7763 Szemely, Dubrava dűlő 661.",
+      "x_koordináta": "46.0862659",
+      "y_koordináta": "18.2447142",
+      "adószám": "18946880-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-21",
+      "statisztikai_számjel": "18946880-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Segítő kutyák kiképzése, terápiás kutyák és felvezetőik képzése, kutyás terápia.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001855",
+      "régi_nyilvántartási_száma": "1855/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-08-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Koller",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "265 059 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "260 975 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "373 728 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "130",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "638 176 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "608 958 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "128",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "981 079 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÉLETHÍD SEGÍTŐ KUTYA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÉLETHÍD SEGÍTŐ KUTYA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÉLETHÍD SEGÍTŐ KUTYA ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

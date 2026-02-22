@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19166005",
+  "scraped_at": "2026-02-14T13:12:53.263896",
+  "organization_id": "106947",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Légimentő Pilóták Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6600 Szentes, Külterület 01350/7.hrsz",
+      "x_koordináta": "46.67017",
+      "y_koordináta": "20.2963443",
+      "adószám": "19166005-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-08-01",
+      "statisztikai_számjel": "19166005-9412-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_altípusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdek-képviseleti tevékenység (pl. vállalkozói érdekképviselet, munkavállalói érdekképviselet, szakmai érdekképviselet)",
+      "céljának_leírása": "A civil szervezet célja: a.) A magyar légimentő szolgálat előtt álló szakmai, feladatokhoz illeszkedve, a rendelkezésre álló technikai eszközök hatékonyabb alkalmazására ösztönző tevékenység elősegítése. A működés kulturált feltételeinek jobb kialakításával, pályázatokon való részvétellel, a közösség összetartó erejére támaszkodva segíteni a szolgálati felkészültséget. Oktatások szervezésével folyamatosan emelni a repülőszakmai tudásbázist. A légi mentést ellátó állami szervek döntéshozatalának támogatása repülőszakmai kérdésekben. A felügyeleti, ellenőrző, és továbbképző szervekkel való kapcsolat erősítésével fokozni a légimentő szolgálatban részt vevők érdek képviseletét. Elősegíteni a szolgálati idő felső korhatárát elérők további foglalkoztathatóságát. Segíteni az esetleges kegyeleti szolgáltatást. b.) Bekapcsolódni a légi mentés elméleti és gyakorlati kutatási területein folyó tudományos-kutatási munkába. Stratégiai együttműködési megállapodásokat kötni a légi mentéshez kapcsolódó szervezetekkel, a rendőrséggel, a polgárőrséggel, és más állami, civil szervezetekkel. Szélesíteni az utánpótlás társadalmi bázisait, különösen segítve ezzel a légi mentés hatékonyságát.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003413",
+      "régi_nyilvántartási_száma": "3413/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-07-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Géresi",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "684 343 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 007 476 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "102",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 411 838 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

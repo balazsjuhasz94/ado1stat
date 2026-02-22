@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "19346960",
+  "scraped_at": "2026-02-21T13:24:19.154549",
+  "organization_id": "369244",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mohamanó ÉlményMűhely Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1194 Budapest, Beszterce utca 27.",
+      "adószám": "19346960-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-13",
+      "statisztikai_számjel": "19346960-8899-569-01",
+      "x_koordináta": "47.4368429",
+      "y_koordináta": "19.1512201"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A gyermekek, a családok életében fellépő hátrányos helyzetek megelőzése, esetleges válságos állapotokban történő segítése, testi, lelki, szellemi fejlődésüknek elősegítése. Különös gondot fordítunk a hátrányos és a halmozottan hátrányos helyzetű gyermekek és a fogyatékossággal élők támogatására, felkarolására, felzárkóztató foglalkozásukra, oktatásukra, képzésükre, társadalomba való beilleszkedésükre. Célunk továbbá a fogyatékossággal élők társadalmi helyzetének, elfogadottságának növelése, támogatása, társadalmi integrációjának elősegítése. Az Alapítvány célul tűzi ki, hogy kapcsolatai, tevékenysége révén támogatóként, adományozóként részt vegyen az esetlegesen felmerülő havária helyzetek során az érintett családok, gyermekek átmeneti segítésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013359",
+      "régi_nyilvántartási_száma": "13359/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-08-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-19",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Stelczerné Csákvári",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "413 155 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

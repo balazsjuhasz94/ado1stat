@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19338365",
+  "scraped_at": "2026-02-14T13:09:55.094085",
+  "organization_id": "368574",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Együtt! Szofi Mosolyáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3780 Edelény, Herman Ottó utca 5",
+      "adószám": "19338365-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-12",
+      "statisztikai_számjel": "19338365-8230-569-05",
+      "x_koordináta": "48.3151812",
+      "y_koordináta": "20.7597856"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "1. Az extrém koraszülött, súlyos, halmozottan sérült, epilepsziás, shuntöt viselő Gondár Szófia támogatása 2. Értelmi-, látás-, mozgásfejlődésének, önálló mozgásának, életkörülményeinek javítását biztosító műtétel, komplex fejlesztések, gyógytornák, terápiák, gyógykezelések, gyógymódok, utókezelések finanszírozása, valamint az ezek során felmerülő utatási, szállási, étkezési költségek finanszírozása 3. Látását, mozgását, önállóságát segítő gyógyászati eszközök, segédeszközök, egyéb játékok, valamint táplálékkiegészítők, vitaminok finanszírozása 4. Szállításának, közlekedését biztosító eszközök vásárlásának, valamint az ezek fenntartásához, használatukhoz, karbantartásukhoz kapcsolódó költségek finanszírozása 5. Életkörülményeinek, otthoni felügyeletének, iskoláztatásának, nappali ellátásának, lakhatásának megfelelő élettér kialakításának és ezek költségeinek a finanszírozása 6. Gyógyításához, fejlesztéséhez szükséges feltételek és eszközök, minél szélesebb körű rendelkezésre állásához anyagi források, eszközök felkutatása 7. Az egészségügyi ellátás lehetőségeinek felkutatása, költségeinek finanszírozása 8. Fizikai és mentális terápiák lehetőségeinek felkutatása, költségeinek finanszírozása 9. Gyógyszerköltségek anyagi támogatásának finanszírozása 10. Orvosi konzultációk költségeinek finanszírozása 11. Nyelvi, tolmácsolási akadályok segítése, finanszírozása 12. Nemzetközi és magyarországi pályázatok támogatási és szponzorálási lehetőségeinek felkutatása 13. Az alapítvány működéséhez szükséges adminisztratív és egyéb jogi, könyvelési költségek rendezése 14. Internetes portál fenntartása, működtetése, melynek segítségével folyamatos híradás az Alapítvány programjairól, kezdeményezéseiről 15. Az alapítvány célja továbbá, hogy felhívja a társadalom figyelmét a súlyos halmozottan sérült gyermekek életkörülményeinek javítására, támogatásuk szükségességére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064687",
+      "régi_nyilvántartási_száma": "64687/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11600006-00000000-98199749",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kapin",
+        "Képviselő keresztneve": "Béla",
+        "Képviselő titulusa": "Zsolt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "3240",
+        "Leírás": "Játékgyártás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "161",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 487 806 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

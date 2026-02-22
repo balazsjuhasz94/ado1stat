@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19327475",
+  "scraped_at": "2026-02-14T13:32:01.667280",
+  "organization_id": "368292",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "LND Terepasztalos Stratégiai Játékok Egyesület",
+      "rövid_név": "LND",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1031 Budapest, Tóga utca 10. 3/11.",
+      "adószám": "19327475-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-01",
+      "statisztikai_számjel": "19327475-8559-529-01",
+      "x_koordináta": "47.5726359",
+      "y_koordináta": "19.0462898"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A terepasztalos stratégiai játékok (idegen szóval wargame-ek) a széles publikummal történő megismertetése, ezek oktatása, médiatermékek (kép és hanganyag, cikkek, leírások) készítése az online jelenlét fokozása a témában. Versenyek, bemutatók, események szervezése más hasonló egyesületekkel és magánszemélyekkel kooperálva. A hazai wargame közösség kiépítése és fejlesztése, a magyar részvétel nemzetközi eseményeken történő fokozása. A témában tevékenykedő klubok és közösségek támogatása és fejlesztése, a hobbi iránt érdeklődők, a meglévő közösségébe történő integrációjának elősegítése. Célunk továbbá biztosítani a folyamatos figyelmet a témával kapcsolatban és tájékoztatni a hobbiban érdekelteket az újdonságokról, valamint a változásokról.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017839",
+      "régi_nyilvántartási_száma": "17839/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11703006 - 25995460",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dolmány",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 113 202 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

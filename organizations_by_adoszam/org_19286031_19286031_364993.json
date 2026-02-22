@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "19286031",
+  "scraped_at": "2026-02-14T12:51:55.487203",
+  "organization_id": "364993",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Partizán Rendszerkritikus Tartalomelőállításért Alapítvány",
+      "rövid_név": "Partizán Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1063 Budapest, Munkácsy utca 23.",
+      "adószám": "19286031-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-02",
+      "statisztikai_számjel": "19286031-5911-569-01",
+      "x_koordináta": "47.5121196",
+      "y_koordináta": "19.0688637"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Rendszerkritikus művészeti alkotások, azon belül is elsősorban mozgóképes munkák (videóriportok, dokumentumfilmek, a fikció és a dokumentarizmus határaival kísérletező alkotások) előállítása, a fennálló hatalmi rendszerek komplex tanulmányozásán keresztül, az erről szóló széles szakmai és társadalmi diskurzus előmozdítása érdekében. A kortárs társadalomtudományos tudások, ismeretek, valamint a kortárs művészeti formák tanulmányozásával és használatával internetes, illetve interneten kívüli események, megmozdulások létrehozatala, társadalmi párbeszéd előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012997",
+      "régi_nyilvántartási_száma": "12997/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-01",
+      "alkalmazottak_száma": "73",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gulyás",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21249",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "192 116 242 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37124",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "415 641 169 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38569",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "473 848 767 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

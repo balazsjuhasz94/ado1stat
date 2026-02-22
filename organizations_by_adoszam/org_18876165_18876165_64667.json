@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18876165",
+  "scraped_at": "2026-02-21T12:58:32.405612",
+  "organization_id": "64667",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Szilvia Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5900 Orosháza, Mező utca 29/D.",
+      "x_koordináta": "46.5543652",
+      "y_koordináta": "20.6852133",
+      "adószám": "18876165-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-28",
+      "statisztikai_számjel": "18876165-9499-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Orosháza Kórháza Szülészeti Osztályán vajúdó szoba, illetőleg alternatív szülőszoba létrehozása. A szülőszoba, a gyermekágyas és a nőgyógyászati osztály műszerezettségének és hotelszolgáltatásának javításához szükséges eszközök, berendezések cseréje. Ismeretterjesztő, egészséges életmódra nevelő, felvilágosító tevékenység folytatása a szülészeti nőgyógyászati osztály betegei, a tanintézetek tanulói és a családalapítás előtt állók számára a felelősségteljes családalapítás megvalósítása érdekében. A sérülten született vagy a korai életkorban egészségkárosodásban szenvedő gyermekek életminőségének javítása, mentális és fizikális képességeiknek az átlagos, normálishoz való közelítése, emberhez méltó életminőség biztosítása érdekében kifejtett tevékenység. A fiatal felnőtt korosztály szellemi, erkölcsi és testi fejlődésének elősegítése a munkaerőpiacon való megjelenésük elősegítésére. A szülészeti osztály dolgozói továbbképzésének, tudományos tevékenységének, szakmai fejlődésének segítése, továbbá a Szülészeti Osztály egyéb módon történő fejlesztése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002725",
+      "régi_nyilvántartási_száma": "2725/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-02-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "53300036-18576487",
+      "számlavezető_pénzintézet_neve": "Gádoros és Vidéke Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dr. Svarsnig",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "39 031 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "98 696 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "325 770 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "482 505 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "472 975 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Szilvia Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Szilvia Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

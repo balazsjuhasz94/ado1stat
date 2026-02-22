@@ -1,0 +1,157 @@
+{
+  "search_adoszam": "18007095",
+  "scraped_at": "2026-02-21T13:42:02.094338",
+  "organization_id": "113901",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sport Suli Szabadidősport Egyesület",
+      "rövid_név": "Sport Suli Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8888 Lispeszentadorján, Kossuth Lajos utca 44.",
+      "x_koordináta": "46.536993",
+      "y_koordináta": "16.7022691",
+      "adószám": "18007095-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-05-22",
+      "statisztikai_számjel": "18007095-8551-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja elsősorban diákok részére a rendszeres testedzés, felüdülés biztosítása, az ilyen igények felkeltése, tagjainak testi és szellemi nevelése. Az Egyesület célja ezen belül versenyek, tanfolyamok szervezése, tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása, sportkapcsolatok létesítése és fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0004566",
+      "régi_nyilvántartási_száma": "4566/1992",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-07-23",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-22",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lorschy",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "Ilona",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 508 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "86 502 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "134 801 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "260 359 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 483 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "236 920 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 102 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "381 439 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Közhasznú Szabadidősport Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Közhasznú Szabadidősport Egyesület"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Közh. Szabadidős Sportegyesület"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Közhasznú Szabadidősport Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Közhasznú Szabadidősport Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Közhasznú Szabadidősport Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Közhasznú Szabadidősport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Szabadidősport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport Suli Szabadidősport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

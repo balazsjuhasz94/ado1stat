@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19038175",
+  "scraped_at": "2026-02-14T12:16:33.489986",
+  "organization_id": "85490",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kutyaovi Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2060 Bicske, Ady Endre utca 14.",
+      "x_koordináta": "47.4938648",
+      "y_koordináta": "18.6343805",
+      "adószám": "19038175-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-06-05",
+      "statisztikai_számjel": "19038175-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az egyesület célja az állatok védelméről és kíméletéről szóló 1998 évi XXVIII. törvény preambulumában felsorolt célok szem előtt tartásával a segítségre szoruló, bajba jutott, kidobott (kölyök)kutyák mentése, ideiglenes elhelyezése, szükség estén állatorvosi ellátásának biztosítása, ideiglenes befogadóknál történő testi-lelki rehabilitálása, majd gondozásba vétele; a mentett kölyökkutyák teljes körű állatorvosi ellátásban részesítése oltási programmal, féregtelenítéssel, élősködők elleni védelemmel és egyedi azonosítóval történő ellátása, szükség és lehetőség esetén ivartalanításuk, továbbá az alapszabályban meghatározott egyéb célkitűzések.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003163",
+      "régi_nyilvántartási_száma": "3163/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-02-20",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Prockl",
+        "Képviselő keresztneve": "Petra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "2112",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 613 080 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1817",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 888 776 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "18 391 682 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1990",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "20 178 709 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1677",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 253 149 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyaovi Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyaovi Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

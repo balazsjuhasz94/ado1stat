@@ -1,0 +1,125 @@
+{
+  "search_adoszam": "18241714",
+  "scraped_at": "2026-02-21T13:38:36.530201",
+  "organization_id": "117343",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Újpest Bulldogs Amerikai Futball Club Sportegyesület",
+      "rövid_név": "Újpest Bulldogs AFC SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2119 Pécel, Károli Gáspár utca 12.",
+      "x_koordináta": "47.564049",
+      "y_koordináta": "19.093645",
+      "adószám": "18241714-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-02-02",
+      "statisztikai_számjel": "18241714-9312-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A Fair Play szellemű sportmozgalom (továbbiakban: labdajátékok, vízi sportok, lövészet, atlétika, küzdősportok, lovasversenyek, keréksportok, légi sportok, télisportok, egyéb sportok) népszerűsítése és fejlesztése. Törekedve a szabadidő kulturált és egészséges eltöltésére, elősegítve a sportágak hazai és nemzetközi szereplését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0009162",
+      "régi_nyilvántartási_száma": "9162/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-14",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pacuk",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "155 043 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "122 295 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "192 708 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "92 081 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 126 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "269 248 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "250 010 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 639 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Újpest Bulldogs Amerikai Futball Club"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Újpest Bulldogs Amerikai Futball Club"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Újpest Bulldogs Amerikai Futball Club Sportegyesület"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "jpest Bulldogs Amerikai Futball Club",
+        "Év": "2018"
+      },
+      {
+        "Név": "Újpest Bulldogs Amerikai Futball Club",
+        "Év": "2019"
+      },
+      {
+        "Név": "Újpest Bulldogs Amerikai Futball Club Sportegyesület",
+        "Év": "2020"
+      }
+    ]
+  },
+  "error": null
+}

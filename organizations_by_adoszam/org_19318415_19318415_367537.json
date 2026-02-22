@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19318415",
+  "scraped_at": "2026-02-21T12:38:10.580593",
+  "organization_id": "367537",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kisalföldi Agrárium Fejlesztéséért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9072 Nagyszentjános, Fő utca 1.",
+      "adószám": "19318415-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-15",
+      "statisztikai_számjel": "19318415-9499-569-08",
+      "x_koordináta": "47.7136814",
+      "y_koordináta": "17.8740795"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Győr környéki településeken -az agrárágazat jövendő új nemzedékének felépítése (kiemelt figyelemmel az agráriumban tevékenykedő munkavállalók gyermekeire), -az agráriumban tevékenykedő munkavállalók szakmai fejlődésének ösztönzése, szociális biztonságának növelése, fizikai és szellemi egészségének megőrzése, -a nyugdíjas nemzedék közösségeinek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051481",
+      "régi_nyilvántartási_száma": "51481/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szücs",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bakó",
+        "Képviselő keresztneve": "Emőke",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Buthi",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 170 378 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "539 687 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

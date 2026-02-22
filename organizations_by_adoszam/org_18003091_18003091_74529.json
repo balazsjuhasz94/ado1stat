@@ -1,0 +1,193 @@
+{
+  "search_adoszam": "18003091",
+  "scraped_at": "2026-02-21T14:05:34.286674",
+  "organization_id": "74529",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Mária Rend Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8787 Zalaszentlászló, Hunyadi János utca 64.",
+      "x_koordináta": "47.4794769",
+      "y_koordináta": "19.052984",
+      "adószám": "18003091-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-01-07",
+      "statisztikai_számjel": "18003091-8810-569-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "az alapítvány a Mária Rend céljainak elérését, működésének, tevékenységének támogatását tűzi ki célul. A rend feladatának tekinti családok, nők, férfiak, gyerekek, idősek és elesettek támogatását és gondviselését. Részleteiben: rászoruló, hátrányos helyzetű, csonka családok, csoportok segítése, esélyegyenlőségének elősegítése támogatással, amely lehet anyagi erőforrással, de lelki támogatás is; Családok fontosságát, a női és férfi szerepek egyensúlyát hangsúlyozó, tudatosító és megélését elősegítő programok megvalósítása; Családban élő, de valamilyen okból veszélyeztetett, vagy kiszolgáltatott anyák, nők támogatása, akár fizikai átmeneti szállás, munkahely keresése, akár jogi támogatás nyújtása; Gyermekotthonok támogatását - étellel, ruházattal, és technológiai eszközökkel, gyermekek tanulási lehetőségének támogatásával, közösségi programok szervezésével; Idős otthonok támogatása az idős, magányos emberek ellátásában, ápolásában való részvétellel; Elesettek, hajléktalanok támogatása étel és ruhaosztással, lélekszolgálattal, munkanélküliek esetében jövedelem és állandó szállás keresésében való aktív részvétel; Szenvedélybetegek esetén a leszokást segítő programok, összejövetelek szervezése, szakemberek bevonásával; Föld, környezetünk védelme, amely magában foglalja az állatok védelmét, a menhelyek támogatásával, illetőleg a növényzet védelmét a nem kijelölt helyen lerakott személt összegyűjtésével. Ehhez kapcsolódóan családi programok szervezése, melynek célja a környezettudatosság megismertetése; Minden olyan jelentősebb Szűz Máriát, Magyarország védőszentjét dicsőítő kegyhely karbantartásának, felújításának, műemlékek, szobrok, kulturális értékek védelmének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0010939",
+      "régi_nyilvántartási_száma": "10939/2009",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-04-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Strohm",
+        "Képviselő keresztneve": "Mechthild",
+        "Képviselő titulusa": "Birgitt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gyulai",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "Sándor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Müller",
+        "Képviselő keresztneve": "Teréz",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pályi",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "Gerda",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "147",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "822 066 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "143",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "769 887 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "425 211 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "399 223 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "390 887 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "555 997 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 550 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "261 938 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 510 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "323 389 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "341 730 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mária Rend Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

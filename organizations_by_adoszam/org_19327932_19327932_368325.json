@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19327932",
+  "scraped_at": "2026-02-14T14:13:51.894640",
+  "organization_id": "368325",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ANETT ANGYALAI ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7030 Paks, Alkotmány utca 5.",
+      "adószám": "19327932-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-05",
+      "statisztikai_számjel": "19327932-9499-569-17",
+      "x_koordináta": "46.6191465",
+      "y_koordináta": "18.8219651"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Az alapítvány célja: Az alapítvány elsődleges célja a mozgáskorlátozottsággal élő, különösen Etessy Anett gyógyulása és rehabilitációja kapcsán felmerülő terápiák, műtétek, orvosi konzultációk, orvosi eszközök, műszerek, berendezések, felszerelések beszerzési és fenntartási (ideértve különösen, de nem kizárólagosan javítási és karbantartási) költségeinek támogatása a mindennapi életvitelhez szükséges kerekesszék és egyéb gyógyászati segédeszközök (pl. kerékpár, roller specialitások stb.) beszerzése és karbantartása, önrész fedezése; külföldön elvégezhető életmentő vagy állapot javító beavatkozások megvalósulásához anyagi segítségnyújtás, külföldi rehabilitációs lehetőségek költségeinek finanszírozása, beleértve a kedvezményezett gyermek és kísérője utazással és külföldön tartózkodással kapcsolatos költségeit, valamint az ellátás finanszírozása állapot javulást elősegítő, speciális étrendhez szükséges termékek költségeinek viselése a környezet akadálymentesítése fejlesztést elősegítő eszközök használatának és fejlesztését biztosító egyéb terápiás környezet létrehozásának érdekében szükséges kialakítási és átalakítási munkák támogatása, életminőség javítása, nyelvi akadályok áthidalásához segítségnyújtás (fordítás, tolmácsolás), a szükséges leletek hivatalos fordításához való hozzájárulás szponzorálási lehetőségek felkutatása; a társadalmi integráció elősegítése fizikai és mentális terápiák lehetőségének felkutatása és támogatása gyermekgondozáshoz és felügyelethez segítségnyújtás fejlesztők, gyógytornászok, családtagok és szakszemélyzet továbbképzési lehetőségeinek támogatása megfelelő tapasztalatcsere,tanácsadások, előadások. Nemzetközi szervezetek által elérhető információk és a tudományos kutatások feltárása kutatása; állapot javulását segítő anyagok fordítása és ismertetése. A mozgáskorlátozottsággal élők érdekeinek érvényesítése, társadalmi integrációja, rehabilitációja érvényesítése más, hasonló célt megfogalmazó civil szervezettel való együttműködés. Anyagi támogatás nyújtása olyan gyógyító eljárásokhoz, műtétekhez, amelyeket sem a kórház, sem az országos egészségbiztosítási pénztár nem tud támogatni. Az alapítványi célok megvalósításához szükséges anyagi források gyűjtése, illetve gazdálkodás útján történő gyarapítása; a fentiekhez szükséges anyagi tárgyi személyi és egyéb feltételek biztosítása, megvalósítása;",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000198",
+      "régi_nyilvántartási_száma": "198/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szakács-Sükösd",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "779 254 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

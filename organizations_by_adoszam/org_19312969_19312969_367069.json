@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19312969",
+  "scraped_at": "2026-02-21T12:51:19.236772",
+  "organization_id": "367069",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Papagájmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9024 Győr, Sajó utca 28.",
+      "adószám": "19312969-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-11",
+      "statisztikai_számjel": "19312969-9141-569-08",
+      "x_koordináta": "47.6617794",
+      "y_koordináta": "17.6286583"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány kiemelten fontos célja a papagájok fajgazdagságának fenntartása, a nemzetközi illegális állatkereskedelem visszaszorítása, a felelős állattartás megtanítása gyermekkorban, a megunt vagy gazdájuk elhalálozása és a további gondoskodást vállaló hozzátartozó hiánya miatt a papagájok befogadása, valamint az országhatáron elkobzott papagájok befogadása, azok visszaintegrálása eredeti környezetükbe. A papagájokkal kapcsolatos ismeretek átadása, a papagájok sokszínűségének megismertetése. A papagájokkal kapcsolatos kulturális, turisztikai és más szabadidős programok szervezése. A védelemre, gondoskodásra szoruló papagájok szakszerű ellátása mellett cél a megelőzés, a figyelemfelhívás, a szemléletformálás és a papagájok szeretetére való nevelés, valamint aktív szerepvállalás a fajtamentésben, fajfenntartásban. Hosszú távú cél az ország nyugati részében egyedülálló korszerű technológiával épülő környezet- és energiatudatos, látogatóbarát papagájmentő-központ létrehozása és fenntartása. Együttműködés állatkertekkel, vadasparkokkal és más hasonló célú szervezetekkel Magyarországon és külföldön.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051473",
+      "régi_nyilvántartási_száma": "51473/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-10",
+      "bankszámlaszám": "11737007-23734898",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dézsiné dr. Szentes",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "490 768 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

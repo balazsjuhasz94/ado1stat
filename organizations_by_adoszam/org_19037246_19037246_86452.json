@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19037246",
+  "scraped_at": "2026-02-14T12:34:05.883055",
+  "organization_id": "86452",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FELLEGAJTÓ NYITÓGATÓK ALAPÍTVÁNY",
+      "rövid_név": "FANA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1082 Budapest, Baross utca 75. alagsor/6.",
+      "x_koordináta": "47.4920575",
+      "y_koordináta": "19.0867823",
+      "adószám": "19037246-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-28",
+      "statisztikai_számjel": "19037246-8412-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Halmozottan sérült gyermekeknek alapítandó napközi létrehozása, fenntartása, ápolási-gondozási tevékenység megszervezése. Kulturális, szórakoztató programok, rendezvények szervezése sérült és tartósan beteg gyermekeknek és családjainknak. Önfenntartó-önsegítő közösségépítés. Társadalmi integráció elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012634",
+      "régi_nyilvántartási_száma": "12634/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-13",
+      "alkalmazottak_száma": "6",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Borgula",
+        "Képviselő keresztneve": "Blanka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "191",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 702 650 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "219",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 060 709 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "419",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 347 730 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "295",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 563 373 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fellegajtó Nyitogatók Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

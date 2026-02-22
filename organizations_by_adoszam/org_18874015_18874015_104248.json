@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "18874015",
+  "scraped_at": "2026-02-14T12:28:46.013657",
+  "organization_id": "104248",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KórházSuli Alapítvány a Beteg Gyerekek Tanulásának Támogatásáért",
+      "rövid_név": "KórházSuli Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2220 Vecsés, Széchenyi utca 32/c.",
+      "x_koordináta": "47.4028099",
+      "y_koordináta": "19.2448497",
+      "adószám": "18874015-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-15",
+      "statisztikai_számjel": "18874015-8569-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Főként betegség, de egyéb (pl.szociális) hátrány miatt az oktatási rendszerből rövidebb-hosszabb ideig kimaradó, kórházi ápolásra szoruló vagy magántanulói státuszban lévő gyermekek tanulási-tanítási folyamatának támogatása alternatív módszerekkel. Kórháziskola létrehozása és működtetése. A beteg gyerekek kortárs támogatást kapnak ahhoz, hogy a gyógyulásuk után minél kisebb lemaradással tudjanak visszacsatlakozni iskolájukba. Fontos hozzáadott érték, hogy a bezárt környezetben is megmarad a kapcsolatuk a külvilággal. A programban résztvevő orvosok szerint egy célokat kitűző gyerek sokkal aktívabban vesz részt a gyógyító folyamatban is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003848",
+      "régi_nyilvántartási_száma": "3848/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-08-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-19",
+      "alkalmazottak_száma": "7",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "16200106-11625339",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóthné Almássy",
+        "Képviselő keresztneve": "Monika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "203",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 575 634 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "246",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 829 754 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "234",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 908 031 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "333",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 096 559 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "355",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 517 086 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "299",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 573 539 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kórházsuli Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kórházsuli Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kórházsuli Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

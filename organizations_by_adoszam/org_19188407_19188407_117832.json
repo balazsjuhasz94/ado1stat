@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19188407",
+  "scraped_at": "2026-02-14T13:07:05.067621",
+  "organization_id": "117832",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Korányi Klinika Belgyógyászati Klinikai Tevékenységet Segítő Alapítvány",
+      "rövid_név": "Korányi Klinika Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1083 Budapest, Korányi Sándor utca 2/a.",
+      "x_koordináta": "47.4827302",
+      "y_koordináta": "19.0833444",
+      "adószám": "19188407-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-18",
+      "statisztikai_számjel": "19188407-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Kutatás, fejlesztés, oktatás a Semmelweis Egyetem 1. számú Belgyógyászati Klinikáján a betegellátás színvonalának javítása, a Klinikán folyó kutatások és a Klinika oktatási tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012844",
+      "régi_nyilvántartási_száma": "12844/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-08-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-10-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11709095-21454772-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Takács",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "735 241 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 099 405 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 578 225 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 541 686 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korányi Klinika Belgyógyászati Klinikai Tevékenységet Segítő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

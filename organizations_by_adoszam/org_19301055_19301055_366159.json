@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19301055",
+  "scraped_at": "2026-02-14T14:53:53.895388",
+  "organization_id": "366159",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sárvíz Tűzoltó Egyesület",
+      "rövid_név": "Sárvíz TE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8143 Sárszentmihály, Ady Endre utca 15.",
+      "adószám": "19301055-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-16",
+      "statisztikai_számjel": "19301055-8425-529-07",
+      "x_koordináta": "47.1625389",
+      "y_koordináta": "18.3381849"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Polgárvédelmi feladatok ellátása, önkéntes tűzoltói feladatok ellátása. Mentő tűzvédelemben való részvétel, tűzmegelőzési tevékenység. Aktív és nyugállományú tűzoltók megbecsülésének erősítése, anyagi és erkölcsi támogatása. Kapcsolat kiépítése és fenntartása hazai, és külföldi tűzoltó szervezetekkel. Az egyesület a tűzvédelmi feladatok ellátására jelentkezőket szervez és biztosítja a tűzoltók képzését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003320",
+      "régi_nyilvántartási_száma": "3320/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mátyás",
+        "Képviselő keresztneve": "Szilárd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-02",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Petőcz",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "753 698 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "614 752 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

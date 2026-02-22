@@ -1,0 +1,115 @@
+{
+  "search_adoszam": "19297426",
+  "scraped_at": "2026-02-21T14:26:28.828813",
+  "organization_id": "365849",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Életépítők Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1016 Budapest, Dezső utca 12. B. lph.",
+      "adószám": "19297426-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-17",
+      "statisztikai_számjel": "19297426-8899-569-01",
+      "x_koordináta": "47.4913191",
+      "y_koordináta": "19.0361511"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja, hogy a közösségépítés, a támogatás és a felkészítés eszközeivel támogassa a felnövekvő generációkat a kiteljesedett életre, Ennek fő területei minőségi emberi kapcsolatok, a testi-lelki-szellemi egészség, az egzisztenciális és fizikai biztonság, valamint a valódi életcélok. A felnövekvő generációk támogatása a valójában a generációk közötti összefogással elérhető el, tehát az alapítvány célcsoportjának tekinti a gyerekek, diákok és a fiatal felnőttek mellett a szülőket, valamint a családokat is, köztük a társadalom perifériáján élők, hátrányos helyzetű társadalmi csoportok tagjait, Az alapítvány a tevékenységét keresztény értékrend szerint végzi.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013060",
+      "régi_nyilvántartási_száma": "13060/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-25",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Borbély",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kalupka",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kővár",
+        "Képviselő keresztneve": "Kornél",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 482 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

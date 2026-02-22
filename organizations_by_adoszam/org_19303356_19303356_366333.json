@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19303356",
+  "scraped_at": "2026-02-14T14:00:23.739784",
+  "organization_id": "366333",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Utcai Csellengők Állatvédelmi Egyesület",
+      "rövid_név": "Csellengők Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Vám utca 12. 9/57.",
+      "adószám": "19303356-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-20",
+      "statisztikai_számjel": "19303356-9499-529-13",
+      "x_koordináta": "47.7913351",
+      "y_koordináta": "19.1315178"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az állatvédelem támogatása, az ivartalanítás népszerűsítése, az utcán élő, kóborlásra ítélt állatállomány egészségének megóvása orvosi ellátással, létszámának csökkentése örökbefogadással. Célunk a lakosság körében az ivartalanítás népszerűsítése, orvosi költségeinek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008020",
+      "régi_nyilvántartási_száma": "8020/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-04-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11742094-26995463",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vida",
+        "Képviselő keresztneve": "Ottilia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-02-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "473 638 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "856 746 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19212814",
+  "scraped_at": "2026-02-14T12:17:35.254779",
+  "organization_id": "112625",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cicamentő Angyalok Alapítvány",
+      "rövid_név": "Cicamentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1152 Budapest, Illyés Gyula utca 2-4. A.lph. fszt./7.",
+      "x_koordináta": "47.5621318",
+      "y_koordináta": "19.116356",
+      "adószám": "19212814-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-14",
+      "statisztikai_számjel": "19212814-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A székhelyén és a környékbeli települések utcáin élő, gazdátlan, kidobott cicák helyzetének segítése, életkörülményeik javítása, a nem kívánt szaporulatok megelőzése. A cicák mindennapi ellátása mellett nagy hangsúlyt fektetünk az invartalanítás, az orvosi ellátás fontosságára, a téli menedék biztosítására, olyan magánszemélyek segítése, akik a cicáik ivartalanítását önerőből nem tudják teljes egészében finanszírozni, de felelősen gondolkodnak és szeretnék a további szaporulatok megszületését megelőzni. Felhívni a figyelmet a cicatulajdonosok számára a gyógyíthatatlan betegségek megelőzésének fontosságára, az állataik számára szükséges védőoltások beadatására, a kidobott, utcán élő cicák gazdihoz segítése, az átmeneti időszakra ideiglenes befogadás biztosítása a számukra a szükséges orvosi ellátás és élelmezés mellett; magánszemélyeknek vagy szervezeteknek való segítségnyújtás befogással kapcsolatosan; fellépés az állatkínzókkal szemben, az állatvédelmi törvények betartására való figyelmeztetés; felelős állattartás témában szakkörök, iskolai órák tartása és tartásának segítése; vállalkozások bevonása az állatmentés támogatásába; együttműködés a működési területen lévő települések önkormányzataival;együttműködés hazai és külföldi állatmentő szervezetekkel, magánszemélyekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012859",
+      "régi_nyilvántartási_száma": "12859/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-03-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11702074-21452794",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Medveczky",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "Tiborné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1279",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 863 383 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1521",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 098 709 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1431",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 198 557 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1312",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 931 917 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cicamentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

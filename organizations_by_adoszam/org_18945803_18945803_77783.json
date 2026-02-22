@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18945803",
+  "scraped_at": "2026-02-21T12:44:23.612772",
+  "organization_id": "77783",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Légzéssel a Lélekért Alapítvány",
+      "rövid_név": "LÉT Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7090 Tamási, Páva utca 13.",
+      "x_koordináta": "46.6410107",
+      "y_koordináta": "18.2759169",
+      "adószám": "18945803-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-13",
+      "statisztikai_számjel": "18945803-8696-569-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány legfőbb célja, hogy kulturális, művészeti és egyéb rekreációs tevékenységeken keresztül javítsa a légzési betegségben és egyéb, az életminőséget befolyásoló krónikus betegségben szenvedő páciensek életminőségét, és ezen tevékenységekkel lehetőség szerint elősegítse gyógyulásukat. Az alapítvány célja továbbá a betegek magasabb színvonalon történő ellátásának lehetővé tétele, valamint a gyógyítók munkakörülményeinek javítása. Az alapítvány további céljai: - A légzési betegségben szenvedő betegek ellátásához szükséges műszerek, eszközök beszerzése; - A betegek kezelési körülményeinek javítása; - A betegek és gyógyítóik környezetének rendezése, javítása; - A betegek és gyógyítóik közötti kommunikáció tökéletesítése; - A gyógyítók kiégésének megelőzése; - A betegek és gyógyítóik jó mentálhigiénés állapotának fenntartása; - Az életvégi ellátás befejezése; - A gyógyítók munkájának jobb kommunikálása a társadalom felé; - A beteg (az élet végéig tartó) testi és szellemi javítása; - A gyógyítók rekreációs és továbbképzési lehetőségeinek megteremtése; - A betegek és gyógyítóik összekapcsolása a hazai kulturális, társadalmi élettel; - A betegek mobilitásának elősegítése;.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000175",
+      "régi_nyilvántartási_száma": "175/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-12-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csaba",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 226 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 842 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 532 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "152 839 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "509 582 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Légzéssel a Lélekért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "LÉT Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

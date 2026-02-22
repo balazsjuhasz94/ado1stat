@@ -1,0 +1,204 @@
+{
+  "search_adoszam": "18168042",
+  "scraped_at": "2026-02-14T12:51:47.768754",
+  "organization_id": "93274",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Palánta Sorsfordító Alapítvány",
+      "rövid_név": "PSFA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1074 Budapest, Rottenbiller utca 24.",
+      "x_koordináta": "47.5023025",
+      "y_koordináta": "19.0768355",
+      "adószám": "18168042-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1999-11-17",
+      "statisztikai_számjel": "18168042-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Az alapítvány a gyermek- és ifjúságvédelem, oktatás, nevelés, családsegítés területén hatékonyan támogatja azokat a szervezeteket, illetőleg egyéneket, akik feladatukat az alábbi területeken végzik: - A gyermekek erkölcsi nevelése, felekezetközi bibliaismereti oktatás, kedvezményes jellemformáló táborok, esetenként hasonló célú könyv, kazetta, ismeretterjesztő anyagok ajándékakciója, koncertek és műsorok szervezése a gyermekek, az ifjúság és a családok részére. - Az ifjúság mentálhigiénés nevelése, a Nemzeti Egészségvédő Intézet megbízásából kidolgozott AIDS- és drogmegelőző, jellemformáló programokban való részvétel, a középiskolákba kiküldött aktivisták szervezése, továbbképzésük összefogása. - A hátrányos helyzetű, illetve félcsaládok fizikai és lelki segítése az oktatott gyermekek környezetében végzett tanácsadó és segélyező munka keretén belül, esetenként jótékonysági előadások, ruhaajándékozási akciók szervezése, nevelési, mentálhigiéniai jellemformáló előadássorozatok rendezése. Az alapítvány a hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése területén hatékonyan támogatja azokat a szervezeteket és személyeket, akik az alább felsorolt tevékenységeket végzik: - Hajléktalanok, hátrányos helyzetűek, etnikai kisebbségi csoportok számára rendszeres élelmiszer- és ruhaakciók szervezése, jellemformáló, tanácsadó szolgálat fenntartása. - Hajléktalanok, hátrányos helyzetű társadalomba való visszailleszkedésének elősegítése, foglalkoztatás és jellemformálás útján. - Hajléktalanok és hátrányos helyzetű családok szociális segítése céljából állandó jótékonysági raktár létrehozása és üzemeltetése. Az alapítvány egyházaktól függetlenül, az egyetemes emberi értékek megismertetése körében feladatának tekinti az Evangélium, a Biblia életformáló hatása érvényesülésének elősegítését a társadalom minden rétege számára oktató és ismeretterjesztő irodalom (könyvek, füzetek, kazetták plakátok, szórólapok) kiadásával és terjesztésével. Az alapítvány közösségek szervezésével is igyekszik megteremteni azokat a társadalmi szigeteket, amelyek az alapítvány céljait maguk is elősegítik. Mindennek érdekében alkalmas személyek képzését, illetve továbbképzését támogatja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0007625",
+      "régi_nyilvántartási_száma": "7625/1999",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-11-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-16",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rutai",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "7430",
+        "Leírás": "Fordítás, tolmácsolás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "407",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 454 636 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "378",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 291 435 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "387",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 342 294 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "338",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 274 817 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "290",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 177 944 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "273",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 240 632 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "281",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 471 278 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "271",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 499 779 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "236",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 474 324 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "271",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 046 547 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "256",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 078 495 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "204",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 055 261 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palánta Sorsfordító Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

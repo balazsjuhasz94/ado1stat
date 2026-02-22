@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18979378",
+  "scraped_at": "2026-02-14T13:15:56.759145",
+  "organization_id": "82869",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kis-Sziget Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Kis-Sziget ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2319 Szigetújfalu, Fő út 27.",
+      "x_koordináta": "47.2374678",
+      "y_koordináta": "18.9254694",
+      "adószám": "18979378-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-04-05",
+      "statisztikai_számjel": "18979378-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "A helyi önkormányzat munkájának segító tevékenység. Önkéntes tűzöltás, katasztrófa elhárítás, műszaki mentés. Épített környezet védelme és megújítása. Építészeti értékek megőrzése. Gyermek- és ifjúságvédelem, képzés. Élet- és értékvédelelm. Természetvédelem, állatvédelem. Környzetvédelem. Kulturális tevékenység.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007425",
+      "régi_nyilvántartási_száma": "7425/2018",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-04-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Predák",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-03",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dobos",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-03",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gulyás",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "647 249 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "213",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 168 729 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "195",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 229 325 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "158",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 329 220 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "165",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 354 313 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kis-Sziget Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kis-Sziget Önkéntes Tűzoltó Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

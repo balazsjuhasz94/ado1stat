@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "18875339",
+  "scraped_at": "2026-02-14T13:10:28.540045",
+  "organization_id": "81767",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Autósport Akadémia Alapítvány",
+      "rövid_név": "AAA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Vízmű utca 18 4/28",
+      "x_koordináta": "46.896425",
+      "y_koordináta": "19.668805",
+      "adószám": "18875339-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-01",
+      "statisztikai_számjel": "18875339-7210-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység (pl. természettudomány, társadalomtudomány)",
+      "céljának_leírása": "Kecskemét város felsőoktatási intézményeinek tehetséges, kreatív és innovatív hallgatóinak, valamint a támogató oktatóinak segítése abban, hogy nemzeti és nemzetközi szinten is egyedülálló, versenyképes ötleteiket, fejlesztéseiket, valamint új műszaki megoldásaikat megvalósítsák. Segíteni a hallgatókat abban, hogy a megszerzett tudást, kreativitást a gyakorlatba is átültessék, így fejlesztve a műszaki tudásukat, problémamegoldó készségüket. A műszaki tudományok iránt érdeklődő tehetséges fiatalok tájékoztatása, toborozása és fejlesztése. A végzett hallgatók foglalkoztathatóságának és elhelyezkedési esélyeinek növelése. Az elérhető, legmodernebb technológia alkalmazásának elősegítése. Kecskemét és környéke munkahelyteremtő és megtartó képességének támogatása. Kecskemét valamennyi felsőoktatási intézményének népszerűsítése, elismertségük növelése. Intézményi és hallgatói kapcsolatok generálása és ápolása mind hazai, mind nemzetközi szinten. A partnercégek és támogatók társadalmi felelősségvállalásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002566",
+      "régi_nyilvántartási_száma": "2566/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-17",
+      "bankszámlaszám": "11600006-00000000-79191034",
+      "számlavezető_pénzintézet_neve": "Erste Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sári",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 768 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "178",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 941 180 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "135",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 472 135 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19298063",
+  "scraped_at": "2026-02-14T12:36:29.957329",
+  "organization_id": "365903",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sára Lépteiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Radnai utca 5.",
+      "adószám": "19298063-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-19",
+      "statisztikai_számjel": "19298063-8412-569-06",
+      "x_koordináta": "46.228948",
+      "y_koordináta": "20.1946968"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány célja a \"Spaszticitás\" betegséggel küzdő betegek orvosi kezelésének elősegítése adománygyűjtéssel, tanácsadással és oktatással. Jelen alapítvány elsődlegesen gyermekkorú betegek kezelésének elősegítése érdekében használja fel vagyonát, míg másodlagosan valamennyi izomsorvadással, izomgyengeséggel diagnosztizált beteg gyógyulásának, illetve betegségének enyhítése érdekében fejti ki tevékenységét. A jelen alapítvány létrehozásakor a magyarországi társadalombiztosítási rendszer nem téríti a \"Spaszticitás\" betegséggel küzdő betegek egészségügyi rehabilitációját, ezért a betegek kezelése, ápolása és tartása jelentős anyagi, fizikai és lelki terhet ró a betegséggel érintett hozzátartozókra. Ezen terhek enyhítését tűzi ki célul a Sára Lépteiért Alapítvány. Az alapítvány létrehozását Cserhalmi Sára kisgyermek betegségének kezelése során tapasztalt hiányosságok kiküszöbölése, a támogatás teljes hiányának a pótlása és az egészségbiztosítási és az egészségszolgáltatási rendszer ezen területének a későbbi szemlélet váltása indokolja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001748",
+      "régi_nyilvántartási_száma": "1748/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Cserhalmi-Gerlach",
+        "Képviselő keresztneve": "Sarolta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "6910",
+        "Leírás": "Jogi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "412",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 386 164 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "372",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 208 607 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

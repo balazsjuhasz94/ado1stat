@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19323811",
+  "scraped_at": "2026-02-21T14:14:55.190151",
+  "organization_id": "367997",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sárazsadány Értékei Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3942 Sárazsadány, Fő utca 48.",
+      "adószám": "19323811-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-24",
+      "statisztikai_számjel": "19323811-9499-569-05",
+      "x_koordináta": "48.267353",
+      "y_koordináta": "21.4854061"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Sárazsadány hagyományosan Bodrog parti halászfalu volt. A cél a hagyományos kultúra, a kultúra tevékenységeinek, a vizes élőhelyek hagyományos gazdálkodásának rehabilitációja, megőrzése, bemutatása. A célhoz kapcsolódóan, a környezet- és természetvédelem, kutatás -fajok feltérképezése, mentése, növények genetikai megőrzése – és mindezeknek az oktatáson keresztüli bemutatása. Az alapítvány együtt kíván működni a vízügyi, génmegőrzési, kutatási, oktatási és természetvédelmi hatóságokkal, civilszervezetekkel, részt kíván venni ezzel kapcsolatos programokban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064678",
+      "régi_nyilvántartási_száma": "64678/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-17",
+      "bankszámlaszám": "11734138-22066266",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Moldvay",
+        "Képviselő keresztneve": "Csongor",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Király",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ormos",
+        "Képviselő keresztneve": "Tas",
+        "Képviselő titulusa": "Zsolt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 175 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

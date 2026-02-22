@@ -1,0 +1,160 @@
+{
+  "search_adoszam": "19035086",
+  "scraped_at": "2026-02-21T12:31:14.891156",
+  "organization_id": "69318",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Körzeti Általános Iskola Alapítványa Villány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7773 Villány, Baross Gábor utca 1-3.",
+      "x_koordináta": "45.873947",
+      "y_koordináta": "18.4559469",
+      "adószám": "19035086-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-04-01",
+      "statisztikai_számjel": "19035086-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Az idegen nyelv (német) tanulási programjának segítése: a kialakult németországi és ausztriai testvériskolákkal a kapcsolattartás tanulócsere formájában: gyermekeink az idegen nyelvet anyanyelvi környezetben gyakorolhassák, az iskolánkba cseregyerekként érkező külföldiek érkezésük kori vendéglátásához hozzájárulás. Apró ajándéktárgyak vásárlása. Új idegen nyelv (angol) tanításának bevezetése után olyan könyv, szemléltető-, és hanganyag beszerzése, amelyre nem jut az önkormányzati alapellátásból. Olyan oktatássegítő eszközök beszerzésének támogatása, amelyek a tantervi célok megvalósulását segítik, amelyre nem jut az önkormányzati alapellátásból. Az iskolai és iskolán kívüli testnevelői munka segítése, sporteszközök és sportszerek beszerzése, támogatás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0000348",
+      "régi_nyilvántartási_száma": "348/1992",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Maczkó",
+        "Képviselő keresztneve": "Vivien",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "425 630 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "434 275 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "154",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 412 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "156",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "488 591 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "383 042 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "141",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "536 403 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "122",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "558 568 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "116",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 557 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "442 337 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "623 281 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "661 798 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "554 471 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KÖRZETI ÁLTALÁNOS ISKOLA ALAPÍTVÁNYA VILLÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Körzeti Általános Iskola Alapítványa Villány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KÖRZETI ÁLTALÁNOS ISKOLA ALAPI"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

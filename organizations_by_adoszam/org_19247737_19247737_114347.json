@@ -1,0 +1,182 @@
+{
+  "search_adoszam": "19247737",
+  "scraped_at": "2026-02-21T12:44:03.207514",
+  "organization_id": "114347",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Önkéntes Tűzoltó Egyesület Magyarlak",
+      "rövid_név": "ÖTE Magyarlak",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9962 Magyarlak, Kossuth Lajos út 131.",
+      "x_koordináta": "46.9512222",
+      "y_koordináta": "16.3438287",
+      "adószám": "19247737-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-05-15",
+      "statisztikai_számjel": "19247737-9499-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "Az egyesület célja: közhasznú tevékenység. Helyi tűzvédelmi feladatok ellátása, tagjainak közösségi életre nevelése, tűzvédelmi szakismeretek növelése, helyi tűzmegelőzési feladatok elősegítése, tűzoltási tevékenység biztosítása, katasztrófa védelem, árvízi védekezésben való közreműködés. A helyi önkormányzat által adott feladtok ellátása, Körmendi Tűzoltósággal kötött megállapodás lehetőségeink szerinti végrehajtása, Tűzoltó Szövetséggel együtt működni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0000053",
+      "régi_nyilvántartási_száma": "53/1992",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2013-02-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-12-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-19",
+      "bankszámlaszám": "11747068-20010331",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt. É-Nyugatdunántúli Régió"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dancsecs",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Béla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vadász",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "123",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 472 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 560 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 185 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "206 509 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "231 540 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "290 749 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 737 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "302 757 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 851 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 151 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "471 951 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "510 486 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Magyarlak"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Magyarlak"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Magyarlak"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Magyarlak"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Magyarlak"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

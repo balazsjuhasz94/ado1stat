@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "18975680",
+  "scraped_at": "2026-02-14T14:05:09.526403",
+  "organization_id": "81042",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KörösFit Diáksport Egyesület",
+      "rövid_név": "KörösFit DSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5500 Gyomaendrőd, Eötvös utca 19.",
+      "x_koordináta": "46.9304205",
+      "y_koordináta": "20.826463",
+      "adószám": "18975680-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-12",
+      "statisztikai_számjel": "18975680-9319-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A KörösFit Diáksport Egyesület, mint egyesület, elsődlegesen Békés Megye lakossága rendszeres sportolási tevékenysége biztosítása, különösen a diáksportolás céljából jött létre, célja a tömegsport népszerűsítése, a versenyszerű sportolás biztosítása, a sport szeretetére történő nevelés és a közösségi élet kibontakoztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003436",
+      "régi_nyilvántartási_száma": "3436/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-12-04",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gergely",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "528 930 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "525 450 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "658 239 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "827 510 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KörösFit Diáksport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

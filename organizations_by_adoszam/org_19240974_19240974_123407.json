@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19240974",
+  "scraped_at": "2026-02-14T15:06:30.676761",
+  "organization_id": "123407",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zsüliett Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6723 Szeged, Selyem utca 10. B. 3/26.",
+      "x_koordináta": "46.2664354",
+      "y_koordináta": "20.1713324",
+      "adószám": "19240974-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-24",
+      "statisztikai_számjel": "19240974-9699-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A súlyosan beteg, illetve mozgásában korlátozott Antalfi Zsüliett külföldi gyógyíttatásának és a külföldi gyógyulás költségeinek finanszírozása, illetve más beteg gyermekek gyógyíttatásának elősegítése, az anyagi javak előteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001730",
+      "régi_nyilvántartási_száma": "1730/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-04-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10402805-50526966-84861015",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "Gábor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "189 072 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "583 208 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

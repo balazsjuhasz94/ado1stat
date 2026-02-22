@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19224884",
+  "scraped_at": "2026-02-14T14:03:37.036441",
+  "organization_id": "112877",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "H&amp;H Gyermek Kacaj Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7622 Pécs, Pipacs utca 5.",
+      "x_koordináta": "46.0672675",
+      "y_koordináta": "18.2388641",
+      "adószám": "19224884-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-11",
+      "statisztikai_számjel": "19224884-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja a hátrányos helyzetű, különösen a szegénységgel küzdő gyermekek, fiatalok és családok helyzetének javítása, társadalmi beilleszkedésének segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001898",
+      "régi_nyilvántartási_száma": "1898/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-10-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hámoriné Priol",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "589 545 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "597 680 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "851 225 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19316626",
+  "scraped_at": "2026-02-21T14:03:55.940849",
+  "organization_id": "367368",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hintalovacska Mozgásfejlesztő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1183 Budapest, Szent Lőrinc sétány 6. fszt.",
+      "adószám": "19316626-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-29",
+      "statisztikai_számjel": "19316626-9499-569-01",
+      "x_koordináta": "47.4504975",
+      "y_koordináta": "19.1911628"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az eltérő ütemben és minőségben fejlődő gyermekek komplex fejlesztése 0-16 éves korig. Megelőzés céljából szűrések szervezése a környékbeli bölcsődékben és óvodákban. Továbbképzések szervezése társszakmák részére (védőnők, óvodapedagógusok, bölcsődei gondozónők). Szülőknek nyújtandó ismeret átadása a gyermekük fejlődési problémáinak korai szakaszban történő felismerésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013220",
+      "régi_nyilvántartási_száma": "13220/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-10",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ujváryné Mihalek",
+        "Képviselő keresztneve": "Mariann",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "341 610 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

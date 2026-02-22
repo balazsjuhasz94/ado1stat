@@ -1,0 +1,122 @@
+{
+  "search_adoszam": "18847224",
+  "scraped_at": "2026-02-14T12:18:04.822941",
+  "organization_id": "60403",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Meggyeserdei Menedék Alapítvány",
+      "rövid_név": "MMA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9542 Boba, István király utca 13.",
+      "x_koordináta": "47.256895",
+      "y_koordináta": "16.620136",
+      "adószám": "18847224-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-11-30",
+      "statisztikai_számjel": "18847224-9499-569-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A Sárvár és Kemenesalja kistérségben befogott, megmentett, gyepmesteri telepre került állatok életminőségének javítása, rehabilitációja, gazdához juttatása. Állatvédelemhez kapcsolódó ismeretterjesztés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-01-0000342",
+      "régi_nyilvántartási_száma": "342/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-04-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-16",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lovász",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Minárcsik",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "534",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 377 508 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "722",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 683 507 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "779",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 145 851 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1099",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 456 371 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1524",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 428 059 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1620",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 974 011 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1495",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 717 947 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Meggyeserdei Menedék Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Meggyeserdei Menedék Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Meggyeserdei Menedék Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Meggyeserdei Menedék Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

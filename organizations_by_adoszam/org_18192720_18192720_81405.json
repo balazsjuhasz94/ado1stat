@@ -1,0 +1,165 @@
+{
+  "search_adoszam": "18192720",
+  "scraped_at": "2026-02-14T15:10:24.894709",
+  "organization_id": "81405",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ALFAVIT Oktatási és Kulturális Közhasznú Alapítvány",
+      "rövid_név": "ALFAVIT Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1067 Budapest, Csengery utca 68. 4.em.",
+      "x_koordináta": "47.5083148",
+      "y_koordináta": "19.0627997",
+      "adószám": "18192720-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-03-07",
+      "statisztikai_számjel": "18192720-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "Az orosz nyelv tanítása, a magyarországi orosz nyelvtanulás ösztönzése, népszerűsítése, a magyar nyelv tanítása a Magyarországon letelepedett vagy letelepedni kívánó orosz anyanyelvűek részére, az orosz és magyar nyelv és kultúra megismertetése, népszerűsítése, az orosz kultúra és népi hagyományok megismertetése, a Magyarországra az orosz nyelvterületről érkező letelepedtek vagy letelepedni szándékozók beillesztésének elősegítése, regionális kapcsolatok kiépítése olyan oroszországi területekkel, amelyek a magyar történelem szempontjából kiemelkedő fontossággal bírnak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0010174",
+      "régi_nyilvántartási_száma": "10174/2006",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-12-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-08",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Haszanova",
+        "Képviselő keresztneve": "Rita",
+        "Képviselő titulusa": "Induszovna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "319 919 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 836 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 425 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "57 561 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "92 595 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "282 638 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "262 902 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "414 630 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "339 997 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "515 808 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "927 530 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "572 590 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT OKTATÁSI ÉS KULTURÁLIS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT Oktatási és Kulturális Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT OKTATÁSI ÉS KULTURÁLIS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT OKTATÁSI ÉS KULTURÁLIS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT OKTATÁSI ÉS KULTURÁLIS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT OKTATÁSI ÉS KULTURÁLIS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT OKTATÁSI ÉS KULTURÁLIS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT Oktatási és Kultúrális Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alfavit Oktatási és Kultúrális Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALFAVIT Oktatási és Kulturális Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

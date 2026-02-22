@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19384696",
+  "scraped_at": "2026-02-21T13:19:20.852474",
+  "organization_id": "36747",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zirc Kézilabda Sportegyesület",
+      "rövid_név": "Zirc KSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8420 Zirc, Március 15. tér 1.",
+      "x_koordináta": "47.2553643",
+      "y_koordináta": "17.8640335",
+      "adószám": "19384696-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-08-01",
+      "statisztikai_számjel": "19384696-9312-521-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A kézilabda elterjesztése, népszerűsítése Zircen és környékén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003067",
+      "régi_nyilvántartási_száma": "3067/2009",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-13",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-31"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Honyecz",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jakab",
+        "Képviselő keresztneve": "Richárd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "23 071 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "355 150 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zirc Kézilabda Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

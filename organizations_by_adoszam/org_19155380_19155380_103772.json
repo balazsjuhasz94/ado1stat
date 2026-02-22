@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19155380",
+  "scraped_at": "2026-02-14T14:46:05.083135",
+  "organization_id": "103772",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Venezuelai-Magyar Egyesület",
+      "rövid_név": "VEHU",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1126 Budapest, Böszörményi út 4.",
+      "x_koordináta": "47.4867831",
+      "y_koordináta": "19.0196774",
+      "adószám": "19155380-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-06-07",
+      "statisztikai_számjel": "19155380-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Magyarországon élő venezuelaiak és venezuelai magyarok közösségének erősítése és kulturális híd építése Magyarország és Venezuela között.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017198",
+      "régi_nyilvántartási_száma": "17198/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-21",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Manzanares Chacón",
+        "Képviselő keresztneve": "Marcos",
+        "Képviselő titulusa": "Antonio",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Arellano",
+        "Képviselő keresztneve": "Ferrer",
+        "Képviselő titulusa": "Eumilis",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2027-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Istok",
+        "Képviselő keresztneve": "Marie",
+        "Képviselő titulusa": "Adrien",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2027-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "273 548 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 285 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "531 009 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "640 837 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Venezuelai-Magyar Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

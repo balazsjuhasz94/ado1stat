@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "18133796",
+  "scraped_at": "2026-02-21T13:38:34.933581",
+  "organization_id": "111781",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vidám Vidrakölykök Sport Egyesület",
+      "rövid_név": "VVSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1139 Budapest, Gömb utca 4/B. II/3.",
+      "x_koordináta": "47.497912",
+      "y_koordináta": "19.040235",
+      "adószám": "18133796-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-02-10",
+      "statisztikai_számjel": "18133796-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Rendszeres sportolás biztosítása , ilyen igények igények felkeltése egészséges és sérült gyerekek és felnőttek részére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0013233",
+      "régi_nyilvántartási_száma": "13233/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-04",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegedűs",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 662 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

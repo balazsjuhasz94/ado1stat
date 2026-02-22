@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19346348",
+  "scraped_at": "2026-02-14T13:58:13.080865",
+  "organization_id": "369188",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Magyar Szolgálati Kutyákért Alapítvány",
+      "rövid_név": "Szolgálati Kutyákért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1011 Budapest, Hunyadi János út 13. fszt./6.",
+      "adószám": "19346348-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-28",
+      "statisztikai_számjel": "19346348-9499-569-01",
+      "x_koordináta": "47.50295",
+      "y_koordináta": "19.0395353"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Jogvédő tevékenység (pl. állampolgári jogok védelme, fogyasztói jogvédelem, kisebbségvédelem)",
+      "céljának_leírása": "- Támogatja és segíti a rendvédelmi szervek, az egyéb rendészeti tevékenységet végző szervezetek, az állami őrszolgálatok, az önkormányzati rendészetek, a Polgárőrség, valamint a szolgáltatás ellenében végzett személy- és vagyonvédelmi és magánnyomozói tevékenységek keretében működő szolgálati kutyás szervezeti egységeket, csoportokat és személyeket. Figyelemmel kíséri a segítő és terápiás kutyás képzéseket és kiképzéseket, az alkalmazás tapasztalatait. Igény esetén részt vesz a szakszerű szabályozásban. - a Hungarikumnak minősített magyar kutyafajták védelmének, valamint tenyésztésének és alkalmazásának segítése; - a kutyák és az állatvilág egyedei védelmének az elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013351",
+      "régi_nyilvántartási_száma": "13351/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-23",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kohut",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Barla-Liha",
+        "Képviselő keresztneve": "Kristóf",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "869 313 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

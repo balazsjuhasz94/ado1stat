@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19171841",
+  "scraped_at": "2026-02-21T12:30:27.550048",
+  "organization_id": "36602",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Újhegyi Korfball Klub",
+      "rövid_név": "UKK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1148 Budapest, Örs vezér tere 13. II./9.",
+      "x_koordináta": "47.588505",
+      "y_koordináta": "19.367538",
+      "adószám": "19171841-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-01-01",
+      "statisztikai_számjel": "19171841-9319-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Tagjai részére rendszeres testedzés és a sportolási lehetőségek biztosítása, minőségi sporteredmények elérésére való terekvés, ehhez a feltételek megteremtése, fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0000577",
+      "régi_nyilvántartási_száma": "577/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-13",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Le Minh",
+        "Képviselő keresztneve": "Duc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "445 616 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "468 851 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "553 442 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

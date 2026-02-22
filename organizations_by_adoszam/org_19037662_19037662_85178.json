@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "19037662",
+  "scraped_at": "2026-02-14T12:59:19.747929",
+  "organization_id": "85178",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MindenÁron Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1124 Budapest, Mártonhegyi út 34.",
+      "x_koordináta": "47.4918428",
+      "y_koordináta": "19.0049038",
+      "adószám": "19037662-2-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-11",
+      "statisztikai_számjel": "19037662-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "a) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 1. §-sal összhangban az 1124 Budapest, Mártonhegyi út 34. szám alatt található Tamási Áron Általános Iskola és Német Két Tannyelvű Nemzetiségi Gimnázium (a továbbiakban: Iskola) működésének és közösségének segítése, az oktatás, nevelés, képzések támogatása. Ezen belül kiemelten támogatott terület: • az anyanyelvi és nemzetiségi kultúra, idegen nyelvek, • számítástechnika, sport, ének- és zenekultúra, művészetek; • önképzőkörök, előadások, művészeti és kulturális események; • sport- és egyéb táborok; • hazai és külföldi iskolákkal, oktatási intézményekkel, diákokkal való kapcsolattartás; • cserediák program; • egészséges életmódra nevelés és környezettudatosság. b) A magyarországi nemzetiségekkel kapcsolatos tevékenységek támogatása, a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény „A nemzetiségek oktatási, kulturális és média jogairól” szóló V. fejezetének 22-23. §-a alapján: • a magyarországi német nemzetiség felnökvekvő generációi számára az iskolai nevelésoktatás támogatása; • a nemzetiségi nevelés-oktatásban résztvevő diákoknak a német nemzetiségi kultúra szélesebb körő megismerése érdekében végzett tanulmányainak segítése anyagi támogatás nyújtásával, valamint szervezési tevékenységgel; • a hazai német nemzetiség történelme, szellemi és anyagi kultúrája megismertetésének támogatása; • a német nemzetiségi nevelő-oktató munkában részt vevő pedagógusok munkájának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012635",
+      "régi_nyilvántartási_száma": "12635/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11712004-22463072",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt. Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pintérné Reviczky",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Karacs",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zudor",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "Csilla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "162",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 416 922 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "118",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 743 935 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

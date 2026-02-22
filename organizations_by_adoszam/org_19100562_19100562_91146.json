@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19100562",
+  "scraped_at": "2026-02-21T13:57:53.095277",
+  "organization_id": "91146",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Munkácsi-Horváth Lovassport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4087 Hajdúdorog, Pásztor utca 39.",
+      "x_koordináta": "47.828619",
+      "y_koordináta": "21.503802",
+      "adószám": "19100562-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-30",
+      "statisztikai_számjel": "19100562-9312-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "az amatőr lovas tevékenységek (hátas lovas tevékenység, fogathajtás, ügyességi és díjugrató versenyek) oktatása, népszerűsítése; az amatőr és regionális versenyek szervezése, lebonyolítása; díjlovas, díjugrató és ügyességi versenyek szervezése, lebonyolítása; lótenyésztési alapismeretek megismertetése, terjesztése, továbbadása; a sportolás szervezett keretek közötti biztosítása, a szabadidő hasznos eltöltésének szervezése; társadalmi egészségvédő programok megvalósításának elősegítése és ezekben való közreműködés; nemzeti és nemzetközi együttműködés más hasonló célok és elvek alapján működő társadalmi szervezetekkel; az egyesület tagjainak szakmai képzése a lótartás, lótenyésztés és a lovak takarmányozása terén, valamint ezen ismeretek terjesztése, népszerűsítése és továbbadása; a rendszeres sporttevékenység feltételeinek biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004956",
+      "régi_nyilvántartási_száma": "4956/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-02",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Munkácsi",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 106 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "354 408 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

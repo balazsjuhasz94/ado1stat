@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19269610",
+  "scraped_at": "2026-02-21T14:15:09.697809",
+  "organization_id": "364637",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fülöp Borozó &amp; Zöldfa Italker Teke Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9600 Sárvár, Sársziget utca 14.",
+      "adószám": "19269610-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-28",
+      "statisztikai_számjel": "19269610-9312-521-18",
+      "x_koordináta": "47.2606516",
+      "y_koordináta": "16.9318759"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Szabadidős és hobbitevékenység keretében tekesport népszerűsítése, szabadidős sportként történő, széles körben való elterjesztése, amatőr és egyéb versenyek rendezése, az azokon való részvétel elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200819",
+      "régi_nyilvántartási_száma": "200819/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-08-04",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fülöp",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Károly",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-08-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vass",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-08-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 512 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

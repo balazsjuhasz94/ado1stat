@@ -1,0 +1,184 @@
+{
+  "search_adoszam": "19122641",
+  "scraped_at": "2026-02-14T14:07:50.694605",
+  "organization_id": "105054",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FŐNIX Gyermek- és Ifjúsági Néptáncegyüttes",
+      "rövid_név": "Főnix Néptáncegyüttes",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4033 Debrecen, Süveg utca 3.",
+      "x_koordináta": "47.541853",
+      "y_koordináta": "21.655044",
+      "adószám": "19122641-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-10-02",
+      "statisztikai_számjel": "19122641-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Népművészet és néphagyomány iránt érdeklődő gyerekek, gyerek-közösségek, és az őket támogató felnőttek összefogása, tevékenységük segítése, érdekeik érvényesítése kulturális életükben. A néptánc és a népi kultúra értékeinek megismertetése, megőrzése, ápolása, továbbfejlesztése, amely elengedhetetlen a gyermekek sokoldalú nevelésében, képességeik fejlesztésében. A magyar és más nemzetiségű gyerekek közötti kapcsolatok kiépítése, találkozók, tapasztalatcserék, táborok szervezése, lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0000626",
+      "régi_nyilvántartási_száma": "626/1990",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-10-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-05-22",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Törökné Csécs",
+        "Képviselő keresztneve": "Lenke",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-02",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Eszláry",
+        "Képviselő keresztneve": "Hanga",
+        "Képviselő titulusa": "Orsolya",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-02",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szilágyi-Szabó",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "317 763 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "303 546 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "529 459 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "369 894 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 675 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "279 678 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "370 420 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 797 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 992 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "293 726 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "773 346 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "815 879 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Főnix Gyermek és Ifjusági Néptáncegy."
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Főnix Gyermek és Ifjusági Néptáncegy."
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX Gyermek- és Ifjúsági Néptáncegyüttes"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX GYERMEK ÉS IFJUSÁGI NÉPTÁNCEGYEÜTTES"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX GYERMEK ÉS IFJUSÁGI NÉPTÁNCEGYÜTTES"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX GYERMEK ÉS IFJUSÁGI NÉPTÁNYEGYÜTTES"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX GYERMEK ÉS IFJUSÁGI NÉPTÁNCEGYETTÜS"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Főnix Gyermek- és Ifjúsági Néptáncegyüttes"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Főnix Gyermek- és Ifjusági Néptáncegyüttes"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Főnix Gyermek és Ifjusági Néptáncegyüttes"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

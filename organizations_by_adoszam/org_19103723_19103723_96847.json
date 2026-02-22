@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19103723",
+  "scraped_at": "2026-02-21T12:35:21.628451",
+  "organization_id": "96847",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mohácsi MacskAngyalok Állatvédő Egyesület",
+      "rövid_név": "MOMACS",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7700 Mohács, Szabadság utca 32.",
+      "x_koordináta": "45.9907188",
+      "y_koordináta": "18.6877199",
+      "adószám": "19103723-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-11",
+      "statisztikai_számjel": "19103723-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- Mohács város közigazgatási területén a beteg, gazdátlan, kóbor cicák számának csökkentése - az egész élővilág, ezen belül a kóbor cicák iránti felelősséget érző emberek összefogása - az utcai cica-kolóniák számának csökkentése, megszüntetése - a gazdátlan cicák örökbefogadási esélyének növelése - befogadó hely kialakítása, ahol a gazdátlan állatok ideiglenes tartás biztosított a megfelelő végleges tartási hely megtalálásáig - gazdájuktól elkóborolt cicák visszajuttatása a gazdához - a felelős állattartás elveinek, értékeinek, szabályainak széles körű társadalmi megismertetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003826",
+      "régi_nyilvántartási_száma": "3826/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-12-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lőrincz",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "221 679 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "523 515 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "537 644 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

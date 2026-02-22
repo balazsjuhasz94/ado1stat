@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "18275681",
+  "scraped_at": "2026-02-21T13:16:49.035380",
+  "organization_id": "42143",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Áldás Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5726 Méhkerék, Eminescu utca 2.",
+      "x_koordináta": "46.7782055",
+      "y_koordináta": "21.4509367",
+      "adószám": "18275681-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-01-06",
+      "statisztikai_számjel": "18275681-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "segíteni a keresztények társadalmi szerepvállalását. Ennek keretében ifjúsági találkozókat, gyermekfoglalkozásokat, szervezést tart, lelki gondozást végez, karitatív tevékenységet végez és segíti a keresztények szolgálatát, az árvák, a rászorulók, az elesettek, a szenvedélybetegek felé.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003056",
+      "régi_nyilvántartási_száma": "3056/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2011-11-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gavra",
+        "Képviselő keresztneve": "Dorin",
+        "Képviselő titulusa": "elnök",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "436 845 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

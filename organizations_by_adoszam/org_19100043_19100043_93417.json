@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "19100043",
+  "scraped_at": "2026-02-21T14:39:59.591757",
+  "organization_id": "93417",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyermekkori Autizmus Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1136 Budapest, Balzac utca 21. II/1/A.",
+      "x_koordináta": "47.5161732",
+      "y_koordináta": "19.054012",
+      "adószám": "19100043-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-22",
+      "statisztikai_számjel": "19100043-8810-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány az autizmussal érintett gyermekek testi, lelki, szellemi, társas, csoportos egészségének és jóllétének fejlesztésére, az egészség és a jóllét romlásának megelőzésére jött létre. Az alapítvány támogatást kíván nyújtani az autista gyermekeknek, serdülők, felnőttek jobb ellátását, gondozását lehetővé tevő elméleti és gyakorlati feladatok megoldásához. Az alapítvány célja az ilyen célkitűzésű feladatot végző programok, személyek, csoportok, intézmények támogatása és velük való együttműködés helyi, országos és nemzetközi szinten.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012707",
+      "régi_nyilvántartási_száma": "12707/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-09-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vágó",
+        "Képviselő keresztneve": "Diána",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "448 274 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "399 510 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "644 389 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "338 525 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 636 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyermekkori Autizmus Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyermekkori Autizmus Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19108072",
+  "scraped_at": "2026-02-14T13:01:29.963480",
+  "organization_id": "120572",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Te Számítasz Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8400 Ajka, Árpád utca 23.",
+      "x_koordináta": "47.0974571",
+      "y_koordináta": "17.5723546",
+      "adószám": "19108072-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-30",
+      "statisztikai_számjel": "19108072-9499-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A hátrányos helyzetű gyermekek (6-14 év) értelmi és érzelmi fejlődésének támogatása. Közreműködés felzárkóztatásukban, elfogadtatásuk erősítésében, életmódjuk javításában, esélyegyenlőségük növelésében. Együttműködés szüleikkel, a szülők értelmi és érzelmi fejlesztése a gyermekek érdekében. Az Egyesület tagjai számára lehetőséget teremt ismereteik, tapasztalataik, eredményeik kicserélésére és ismertetésére. Célja továbbá, hogy fórumot teremtsen az ezen fejezetben felsorolt célokkal azonosulni kívánók számára, s tagjai között a szakmai és baráti összetartást építse és fejlessze.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003840",
+      "régi_nyilvántartási_száma": "3840/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-11",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Földingné Osváth",
+        "Képviselő keresztneve": "Gyöngyi",
+        "Képviselő titulusa": "Karolina",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "153",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 031 392 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "199",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 616 767 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "181",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 825 026 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "160",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 683 663 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Te Számítasz Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

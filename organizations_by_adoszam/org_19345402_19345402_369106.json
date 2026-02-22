@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19345402",
+  "scraped_at": "2026-02-14T15:06:23.049214",
+  "organization_id": "369106",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Együtt Adél Gyógyulásáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1043 Budapest, Tél utca 34. 2. em./6.",
+      "adószám": "19345402-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-19",
+      "statisztikai_számjel": "19345402-9499-569-01",
+      "x_koordináta": "47.557741",
+      "y_koordináta": "19.0875219"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítványt egy civil kezdeményezés hívta életre, melynek célja az alábbiakban részletezettek szerint Orosz Adél Dóra (született: Budapest, 2019. augusztus 27.; anyja neve: Bakos Edit), mint kedvezményezett mielőbbi gyógyulásának elősegítése. Az Alapítvány célja az általános társadalmi értékítélet szerint a köz érdekében álló tartós célt szolgál: az Alapítvány legfőbb célja Orosz Adél Dóra folyamatos támogatása emberiességi, illetve humánus érzésből.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013340",
+      "régi_nyilvántartási_száma": "13340/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Dorottya",
+        "Képviselő titulusa": "Csilla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "583 309 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

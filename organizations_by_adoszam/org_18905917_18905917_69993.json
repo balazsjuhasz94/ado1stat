@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18905917",
+  "scraped_at": "2026-02-21T13:18:38.712286",
+  "organization_id": "69993",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BudaSkate Sportegyesület",
+      "rövid_név": "BudaSkate SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Fűtő utca 54.",
+      "x_koordináta": "47.518668",
+      "y_koordináta": "19.187205",
+      "adószám": "18905917-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-14",
+      "statisztikai_számjel": "18905917-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Verseny-és szabadidősport szervezése , valamint a leigazolt egészséges és speciális (értelmileg sérült, tanulásban akadályozott, hátrányos helyzetű) sportolók edzése és versenyeztetése, számukra a sporttevékenység feltételeinek megteremtése. Lehetőség biztosítása a rendszeres sportolásra minden korosztály számára óvodás kortól a felnőtt korosztályig. Tömegbázis kiépítése és folyamatos szinten tartása. Célja továbbá az esélyegyenlőség megteremtése a speciális sportolók számára többek között integrált oktatással. Rendszeres szabadidős -és sportprogramok – bemutatók, edzőtáborok, csapatépítő programok-rendezése, illetve versenyszervezés és versenyeztetés. Hazai és nemzetközi edzőtáborok, versenyek, rendezvények és szakmai képzések szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016563",
+      "régi_nyilvántartási_száma": "16563/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-15",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 829 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 204 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 552 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "428 227 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BudaSkate Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BudaSkate Sportegyesület"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "BudaSkate Sportegyesület",
+        "Év": "2024"
+      }
+    ]
+  },
+  "error": null
+}

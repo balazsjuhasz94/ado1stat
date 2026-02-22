@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19250155",
+  "scraped_at": "2026-02-14T13:39:47.323515",
+  "organization_id": "301210",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sportolók és Művészek az Állatok Védelméért Alapítvány",
+      "rövid_név": "S.M.Á.V. Alapítány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1062 Budapest, Bajza utca 70. pinceszint",
+      "adószám": "19250155-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-10",
+      "statisztikai_számjel": "19250155-9499-569-01",
+      "x_koordináta": "47.5134215",
+      "y_koordináta": "19.0641372"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az alapítvány célja, hogy megelőzze az állatkínzásokat, segítsen az elkóborolt, elhagyatott állatokon, biztosítsa az élelmezésüket, egészségügyi ellátásukat, megfelelő elhelyezésüket egy új családban. Az alapítvány célja továbbá az állatok, az állattartók, a menhelyek széles körű segítése, támogatása és összefogása az egész országban, valamint a megfelelő állatvádelem kialakulásának fejlesztése, elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012940",
+      "régi_nyilvántartási_száma": "12940/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tánczos",
+        "Képviselő keresztneve": "Krisztián",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "296",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 501 743 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 024 232 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

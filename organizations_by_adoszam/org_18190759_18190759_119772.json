@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "18190759",
+  "scraped_at": "2026-02-14T12:29:14.063143",
+  "organization_id": "119772",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kárpáti Farkasok Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2038 Sóskút, Homokbánya út 3.",
+      "x_koordináta": "47.3859",
+      "y_koordináta": "18.836711",
+      "adószám": "18190759-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-11",
+      "statisztikai_számjel": "18190759-9319-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A szervezet célja: tagjai egészséges, harmonikus testi fejlődésének elősegítése, a természetes mozgás népszerűsítése, a jégkorongsport feltételeinek javítása, a sport hazai és nemzetközi sikereinek előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0011768",
+      "régi_nyilvántartási_száma": "11768/2005",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-04-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-25",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-16",
+      "bankszámlaszám": "11600006-00000000-79391571",
+      "számlavezető_pénzintézet_neve": "Erste Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balázs",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "233",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "481 718 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "499",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 340 440 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "375",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 608 941 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "236",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 904 398 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "329",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 101 143 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 508 678 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "287",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 516 329 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kárpáti Farkasok SE"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kárpáti Farkasok Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kárpáti Farkasok Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kárpáti Farkasok Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

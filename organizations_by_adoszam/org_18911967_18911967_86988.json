@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18911967",
+  "scraped_at": "2026-02-14T12:32:12.598055",
+  "organization_id": "86988",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Veresegyházi Katolikus Gimnázium Szent Veronika Alapítványa",
+      "rövid_név": "Szent Veronika Alaptívány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2112 Veresegyház, Szentlélek tér 1-3.",
+      "x_koordináta": "47.6583887",
+      "y_koordináta": "19.2833674",
+      "adószám": "18911967-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-07",
+      "statisztikai_számjel": "18911967-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A Veresegyházi Katolikus Gimnázium támogatása az iskola pedagógiai programjában megfogalmazott nevelési-oktatási célok színvonalas megvalósítása érdekében. Az iskolában tanuló hátrányos, tehetséges gyermekek támogatása. Az iskola keretein belül szervezett kulturális és szabadidős programok megvalósításának segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003891",
+      "régi_nyilvántartási_száma": "3891/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10700323-70153033-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csizmadia-Garami",
+        "Képviselő keresztneve": "Judit (elnök)",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "904 198 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 353 636 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "208",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 481 253 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "213",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 858 114 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "244",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 920 692 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Veresegyházi Katolikus Gimnázium Szent Veronika Alapítványa"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Veresegyházi Katolikus Gimnázium Szent Veronika Alapítványa"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

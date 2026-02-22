@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19289814",
+  "scraped_at": "2026-02-21T13:52:25.341172",
+  "organization_id": "365283",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mecsekháti Utánpótlásnevelő Sportegyesület",
+      "rövid_név": "MUSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7349 Szászvár, Május 1. tér 1.",
+      "adószám": "19289814-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-15",
+      "statisztikai_számjel": "19289814-9312-521-02",
+      "x_koordináta": "46.2625697",
+      "y_koordináta": "18.3691952"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Szászvár községben a versenysportban való részvétel elősegítése, versenyek szervezése, lebonyolítása; Szászvár község és annak vonzáskörzetében a fiatalok, alapítók gyermekeinek sportolási lehetőségeinek biztosítása, e körben rendezvények szervezése és lebonyolítása a helyi oktatási intézményekkel együttműködve az iskola testnevelés órákon túl; a teljes lakosság bevonása sportrendezvényekbe, részükre sportolási lehetőség biztosítása. További célja: -a rendszeres testedzés igényének felkeltése és megtartása, -biztosítsa a sportegyesület sportolóinak képzését és felkészítését, -az egészséges életmód népszerűsítése, -az esélyegyenlőség jegyében a gyermek- és ifjúsági sport, a családok sportjának támogatása, a hátrányos helyzetű társadalmi csoportok és sportáguk felé történő integrálása, -a szabadidő hasznos eltöltésének elősegítése, -a fiatalok megismertetése a sportolás, versenyzés örömével, annak hasznos voltával, -tehetséggondozás, -utánpótlás nevelés, -sportrendezvények megszervezése, valamint azokon való részvétel, -sportkapcsolatok létesítése és fejlesztése más szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003984",
+      "régi_nyilvántartási_száma": "3984/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-01",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Lóránd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Balog",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sparas",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 458 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "281 094 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "363 796 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

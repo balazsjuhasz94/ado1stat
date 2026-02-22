@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18999651",
+  "scraped_at": "2026-02-14T13:55:30.680976",
+  "organization_id": "123438",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Városgazda Utánpótlás Akadémia Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1181 Budapest, Üllői út 423.",
+      "x_koordináta": "47.444087",
+      "y_koordináta": "19.175749",
+      "adószám": "18999651-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-03",
+      "statisztikai_számjel": "18999651-9319-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Magyarországi és a határon túl élő magyar nemzetiségű, sportolni vágyó fiataljainak egészséges életmódra nevelése a sport versenyszerű és amatőr módon történő gyakorlása révén. A magyar sport hagyományainak megőrzése, a sportágak felvirágoztatása, népszerűsítése. A Városgazda Utánpótlás Akadémia (továbbiakban: Akadémia) sportszakosztályaiban sportolók sporttevékenységének támogatása, az ehhez szükséges személyi és tárgyi feltételek megvalósításának elősegítése. A tehetséges fiatal sportolók kiválasztása, tehetséggondozása, támogatása. Hátrányos helyzetű sportolók támogatása, segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012626",
+      "régi_nyilvántartási_száma": "12626/2018",
+      "alapítvány_típusa": "Közalapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-11-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Koczka",
+        "Képviselő keresztneve": "Józsefné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "376 599 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 243 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "538 551 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "836 071 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "884 195 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Városgazda Utánpótlás Akadémia Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Városgazda Utánpótlás Akadémia Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

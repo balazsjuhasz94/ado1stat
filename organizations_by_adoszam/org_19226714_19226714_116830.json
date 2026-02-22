@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19226714",
+  "scraped_at": "2026-02-21T12:52:44.017746",
+  "organization_id": "116830",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "NOSZLOPYÉRT Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8200 Veszprém, Tüzér utca 42.",
+      "x_koordináta": "47.1077634",
+      "y_koordináta": "17.900708",
+      "adószám": "19226714-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-13",
+      "statisztikai_számjel": "19226714-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Noszlopy Gáspár Gimnázium és Kollégium tanulóinak támogatása tehetségük kibontakozása érdekében. A 13-20 év közötti kamaszok magas színvonalú oktatása, életminőségének javítása. Legfőbb törekvése a fiatalok életre nevelése úgy, hogy a maximumot ki hozhassák magukból. Az Alapítvány támogatja és együttműködik a diákok életének szereplőivel, így többek között a családjukkal, szüleikkel, edzőivel, tanáraival. Fiatalok sokoldalú támogatása és megsegítése. A társadalom hasznos tagjaivá, felelősségteljes felnőtté nevelése, kimagasló tehetségek gondozása és biztos probléma megoldási stratégiákkal rendelkező fiatalok nevelése. (Az alapítvány további céljait az alapító okirat 2. pontja tartalmazza.)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001837",
+      "régi_nyilvántartási_száma": "1837/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Péringer",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "83 464 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "325 549 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "487 253 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": [
+      {
+        "Név": "NOSZLOPYÉRT Alapítvány",
+        "Év": "2026"
+      }
+    ]
+  },
+  "error": null
+}

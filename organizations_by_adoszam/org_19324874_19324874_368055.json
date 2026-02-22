@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19324874",
+  "scraped_at": "2026-02-14T13:42:14.401897",
+  "organization_id": "368055",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fehér Akác Oktatási Egyesület",
+      "rövid_név": "Fehér Akác Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Gyümölcs utca 12.",
+      "adószám": "19324874-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-22",
+      "statisztikai_számjel": "19324874-8520-529-03",
+      "x_koordináta": "46.8818884",
+      "y_koordináta": "19.7076783"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Waldorf pedagógia módszerén alapuló óvodai és iskolai nevelés és oktatás, képességfejlesztés, ismeretterjesztés elősegítése intézmények működtetése, és azok fenntartását segítő vállalkozások formájában, tehetséggondozás megvalósításával, továbbá Kecskemét közösségi életében való aktív részvétellel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003951",
+      "régi_nyilvántartási_száma": "3951/2022",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-08-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-31",
+      "bankszámlaszám": "10401990-50527172-49551007",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Polyák",
+        "Képviselő keresztneve": "Franciska",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-26",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zubornyák",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 004 905 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19323309",
+  "scraped_at": "2026-02-21T13:11:49.516048",
+  "organization_id": "367962",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Song Factory Budapest Egyesület",
+      "rövid_név": "SFB",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1089 Budapest, Baross utca 122. I./31.",
+      "adószám": "19323309-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-08",
+      "statisztikai_számjel": "19323309-9020-529-01",
+      "x_koordináta": "47.4825463",
+      "y_koordináta": "19.093978"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Song Factory Budapest kórus működtetése, munkájának támogatása (fellépések szervezése, valamint koncerteken, versenyeken és pályázatokon való részvétel támogatása), a kórushoz kapcsolódóan fiatal tehetségek felkutatása és pályára segítése, zenei képzése, valamint a tagok számára a zeneművészeti tevékenység, a kóruséneklés belföldi és külföldi közönség előtti lehetőségének megteremtése, illetve a kóruséneklés népszerűsítése minél szélesebb körben, Magyarországon és külföldön egyaránt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017812",
+      "régi_nyilvántartási_száma": "17812/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hetei-Bakó",
+        "Képviselő keresztneve": "Benedek",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Király",
+        "Képviselő keresztneve": "Olívia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Őrhalmi-Riesz",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "Richárd",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "443 939 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

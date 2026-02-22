@@ -1,0 +1,98 @@
+{
+  "search_adoszam": "19154035",
+  "scraped_at": "2026-02-14T14:27:24.282950",
+  "organization_id": "104608",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szívünk Hangja a Fogyatékkal Élőkért Alapítvány",
+      "rövid_név": "Szívünk Hangja Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4033 Debrecen, Sarkadi Imre utca 29/ a.",
+      "x_koordináta": "47.54456",
+      "y_koordináta": "21.6702241",
+      "adószám": "19154035-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-23",
+      "statisztikai_számjel": "19154035-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Elsősorban a Debreceni Szociális Szolgáltató Központban elhelyezett gondozottak, fogyatékkal élő személyek ápolásának, gondozásának és fejlesztésének személyi, valamint tárgyi feltételeinek javítása. Minden olyan beruházás, vagy program támogatása és szervezése, mely az intézményben élő személyek életkörülményeinek fejlesztését célozza, felzárkóztatásukat és esélyegyenlőségük elősegítését szolgálja. Sport-szabadidős és kulturális foglalkoztatási tevékenységben való hozzájárulás közvetlen, vagy közvetett módon, mely rehabilitációjukban, rekreációjukban, szocializációjukban és társadalmi integrációjukban nyújt segítséget. Az intézményben élő személyek kapcsolati hálójának erősítése és szélesítése. Az intézményben működő jelnyelvi kórus és zenekar működésének támogatása. Továbbá a Központhoz tartozó telephelyek, intézmények támogatása. Szakemberek és ellátottak körében fizikális és mentális egészségmegőrzés elősegítése, fejlesztése. Intézményi dolgozók szakmai továbbképzése, jutalmazása. Hosszú távon a társadalom szociális érzékenyítése a fogyatékkal élő személyekkel szembeni nyitottabb, elfogadóbb és toleránsabb társadalmi attitűd kialakításában való részvétel. Társadalmi felelősségvállalás ösztönzése a civil és a vállalati szférában egyaránt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002228",
+      "régi_nyilvántartási_száma": "2228/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11738008-21470879",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-06-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "3213",
+        "Leírás": "Divatékszer gyártása"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "255 238 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "598 134 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "716 919 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "715 875 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SZÍVÜNK HANGJA A FOGYATÉKKAL ÉLŐKÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

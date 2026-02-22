@@ -1,0 +1,56 @@
+{
+  "search_adoszam": "19952242",
+  "scraped_at": "2026-02-21T14:24:50.484721",
+  "organization_id": "55300",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pálfai Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7042 Pálfa, Alkotmány utca 5.",
+      "x_koordináta": "46.7137529",
+      "y_koordináta": "18.6101576",
+      "adószám": "19952242-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19952242-9312-521-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Tagjai részére rendszeres testedzés és sportolás lehetőségének biztosítása, ehhez szükséges feltételek megteremtése; a társadalmi öntevékenység és közösségi élet kibontakoztatása; az állampolgárok részére sportolási és testedzési lehetőségek biztosítása; a sportegyesület működési területén található nevelési-oktatási intézmények tanulóinak részére a sportolási testedzési lehetőségek megteremtése, a lakosság szabadidő sportjának segítése; hazai és nemzetközi sportkapcsolatok létesítése és fenntartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0000099",
+      "régi_nyilvántartási_száma": "99/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-05-02",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Wiszberger",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-08-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "313 541 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "19666660",
+  "scraped_at": "2026-02-21T13:43:58.585443",
+  "organization_id": "123215",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dimenzió Önsegélyező Egyesület",
+      "rövid_név": "DIMENZIÓ Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1125 Budapest, Szarvas Gábor út 27.",
+      "x_koordináta": "47.4641449",
+      "y_koordináta": "19.0431868",
+      "adószám": "19666660-2-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-06-01",
+      "statisztikai_számjel": "19666660-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_altípusa": "Egyesület",
+      "céljának_leírása": "Tagjai, illetőleg azok hozzátartozói részére önsegélyező, támogatások – különösen szociális segély, a társadalombiztosítás ellátásaira jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő, vagy pótló egyéb juttatások, szolgáltatások – nyújtása, egyéb közösségi, társadalmi tevékenység ellátása; Családsegítési tevékenység, különösen a gyermeknevelés támogatása, jelentősebb családi tehervállalás segítése, gyermekek napközbeni ellátása, alapfokú oktatási tevékenység végzése; A tagok egészségvédelme, egészségi állapotuk javítását, betegség megelőzést célzó szűrések szervezése, egészségügyi ellátásuk színvonalának emelése, rehabilitációs programok finanszírozása és nyújtása, egészségügyi intézmények támogatása; A tagok aktív pihenésének, szabadidejük eltöltésének támogatása az Egyesület által bérelt vagy tulajdonában lévő kisüdülők, vendégházak üzemeltetésével a tagok és hozzátartozóik által történő igénybevételük szervezésével. Az Egyesület tulajdonában lévő kisüdülők, vendégházak és egyéb ingatlanok szabad kapacitásainak egyéb módon történő hasznosítása;",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0003691",
+      "régi_nyilvántartási_száma": "3691/1991",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-01",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "76",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Urbán",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Egervári",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Császár Pándi",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vasváriné dr. Menyhárt",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "378 174 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

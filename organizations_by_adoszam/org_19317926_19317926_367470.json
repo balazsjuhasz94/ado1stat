@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19317926",
+  "scraped_at": "2026-02-21T13:44:04.869271",
+  "organization_id": "367470",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Manócskák Alapítvány a Pomázi Napsugár Óvodáért",
+      "rövid_név": "Manócskák Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2013 Pomáz, József Attila utca 4.",
+      "adószám": "19317926-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-09",
+      "statisztikai_számjel": "19317926-9499-569-13",
+      "x_koordináta": "47.6643985",
+      "y_koordináta": "18.9951186"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja, hogy támogassa a pomázi Napsugár Óvodát (a továbbiakban, mint óvoda) a gyermekek egészségmegőrzésre, valamint a környezet és a természet védelmére való nevelésében, továbbá, hogy hozzájáruljon a gyermekek napközbeni ellátásához szükséges feltételek megteremtése költségeihez. Célja továbbá, hogy segítséget nyújtson egészséges, boldog gyermekek neveléséhez, képességeik fejlesztéséhez, támogassa az óvodai nevelés feltételeinek javítását, valamint hogy hozzájáruljon az óvoda szakmai és egyéb eszközeinek beszerzéséhez és a rászoruló gyermekek megsegítéséhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004249",
+      "régi_nyilvántartási_száma": "4249/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagyné Vántus",
+        "Képviselő keresztneve": "Angelika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "356 804 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "378 061 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

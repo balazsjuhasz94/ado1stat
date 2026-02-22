@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "18508046",
+  "scraped_at": "2026-02-21T14:28:08.660597",
+  "organization_id": "108248",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Önkéntes Fiatalokért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7627 Pécs, Szeder utca 30/2.",
+      "x_koordináta": "46.0927219",
+      "y_koordináta": "18.2474227",
+      "adószám": "18508046-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-07-30",
+      "statisztikai_számjel": "18508046-9329-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység",
+      "céljának_leírása": "Az egyesület célja szervezeti keretek között összefogni a fiatalokat. Az egyesület önkéntes, nem politikai ifjúságnevelő mozgalom, amely nemre, származásra, bőrszínre, vagy vallásra való tekintet nélkül nyitott mindenki számára. Az egyesület célja, hogy hozzájáruljon a fiatalok neveléséhez, ezáltal elősegítve egy olyan jobb világ épülését, ahol az ember, mint egyén kiteljesíti önmagát és építő szerepet játszik a társadalomban. Célja továbbá a fiatalok lelki, szellemi, fizikai adottságainak és szociális érzékének kifejlesztése. Segítséget kíván nyújtani abban, hogy a fiatalok értékes és hasznos tagjai legyenek a helyi közösségeknek és a társadalomnak. Céljai elérése érdekében kirándulásokat, nyári táborokat, szabadidős tevékenységeket szervez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003378",
+      "régi_nyilvántartási_száma": "3378/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-07-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csákány",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "160 923 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "413 335 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "279 355 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 268 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Fiatalokért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

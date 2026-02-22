@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19165224",
+  "scraped_at": "2026-02-14T13:54:46.841389",
+  "organization_id": "106047",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MIÉNK A JÖVŐ ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7633 Pécs, Hajnóczy József utca 7.",
+      "x_koordináta": "46.0660449",
+      "y_koordináta": "18.1968409",
+      "adószám": "19165224-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-19",
+      "statisztikai_számjel": "19165224-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A pécsi Nyugati Városrész Óvoda Hajnóczy József utcai Tagóvodája működésének segítése főként az alábbiak szerint: • az óvoda lehetséges támogatási lehetőségeinek felkutatása, szervezése; • az óvoda tevékenységének fejlesztése érdekében pályázati lehetőségek felkutatása, pályázatok elnyerésének elősegítése, • az óvoda által szervezett kulturális és egyéb programok szervezésének segítése, • a működéshez szükséges anyagi források felmerülése esetén a többletforrás biztosításának felkutatása, annak szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001890",
+      "régi_nyilvántartási_száma": "1890/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Staubachné Orbán",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 697 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 268 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "703 465 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "105",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "894 932 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Miénk A Jövő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19233222",
+  "scraped_at": "2026-02-21T14:12:57.927428",
+  "organization_id": "118037",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "JÓSZÁNDÉK - Segítők a gyermekekért Alapítvány",
+      "rövid_név": "JÓSZÁNDÉK Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3529 Miskolc, Bezerédi utca 3.",
+      "x_koordináta": "48.0872643",
+      "y_koordináta": "20.7864436",
+      "adószám": "19233222-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-08",
+      "statisztikai_számjel": "19233222-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja a B-A-Z. Megyei Gyermekvédelmi Központ és Területi Gyermekvédelmi Szakszolgálat Intézményben (továbbiakban: Intézmény) dolgozók, szakemberek, az Intézménnyel foglalkoztatási Jogviszonyban álló nevelőszülők (továbbiakban együtt: Munkatársak ) otthont nyújtó ellátásban részesülő gyermekek részére - gyermekvédelemmel kapcsolatos rendezvényeken, konferenciákon, képzéseken, továbbképzéseken történő részvétel támogatása; - gyermekvédelemmel összefüggő szakmai képzés, továbbképzés, szakmai fórum, műhely, konferencia szervezése, lebonyolítása; - sport-, kulturális, szabadidős, rekreációs tevékenységek, programok, rendezvények szervezésének elősegítése, támogatása; - Intézményi dolgozók érdekérvényesítési képességének, érdekképviseletének javítása; - gyermekvédelemmel összefüggő kiadványok, tájékoztatók támogatása; - egymással felelősséget érző, egymást kölcsönösen segítő közösség kialakításának támogatása; - Intézményi ellátás tárgyi és személyi feltételeinek fejlesztése; - szakmai kapcsolattartás elősegítése, támogatása, együttműködésének megteremtése és biztosítása, rendezvények méltó megtartásával, programok, találkozók szervezésével erre szolgáló hely/helyiség biztosításával ezáltal segítve az Intézményben folyó szakmai tevékenység színvonalának emelését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064578",
+      "régi_nyilvántartási_száma": "64578/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-04-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh-Márton",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "357 619 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "330 103 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

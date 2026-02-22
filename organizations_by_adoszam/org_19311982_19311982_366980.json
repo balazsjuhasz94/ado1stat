@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19311982",
+  "scraped_at": "2026-02-21T12:40:38.192452",
+  "organization_id": "366980",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "HiSchool Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1119 Budapest, Fejér Lipót utca 65. 13. emelet/104. ajtó",
+      "adószám": "19311982-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-23",
+      "statisztikai_számjel": "19311982-8559-569-01",
+      "x_koordináta": "47.4615676",
+      "y_koordináta": "19.0304438"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja, hogy diákok számára támogatást nyújtson a pályaorientációban és képességeik mentén fejlessze őket, valamint képzési gyakorlatokat tegyen elérhetővé olyan diákok számára is, akiknek az alapítvány nélkül nem lenne lehetősége ilyen programokon részt venni. Célja továbbá, hogy fejlessze és képezze a diákokkal foglalkozó szervezeteket, személyeket.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013188",
+      "régi_nyilvántartási_száma": "13188/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-09",
+      "alkalmazottak_száma": "6",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-24",
+      "bankszámlaszám": "11705084-21448526",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentpéteri",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Angelika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lendvai",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 664 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

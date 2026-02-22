@@ -1,0 +1,297 @@
+{
+  "search_adoszam": "18005282",
+  "scraped_at": "2026-02-14T12:18:20.022425",
+  "organization_id": "91642",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Az Értelmi Fogyatékosok Fejlődését Szolgáló Magyar Down Alapítvány",
+      "rövid_név": "Down Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1145 Budapest, Amerikai út 14.",
+      "x_koordináta": "47.512351",
+      "y_koordináta": "19.105416",
+      "adószám": "18005282-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-02-25",
+      "statisztikai_számjel": "18005282-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Az értelmi fogyatékos, különösen a Down kórban szenvedő emberek életvitelének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0003312",
+      "régi_nyilvántartási_száma": "3312/1992",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-29",
+      "alkalmazottak_száma": "441",
+      "a_nyilvántartott_adatok_verziószáma": "26",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gruiz",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8623",
+        "Leírás": "Fogorvosi járóbeteg-ellátás"
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      },
+      {
+        "Kód": "1039",
+        "Leírás": "Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás"
+      },
+      {
+        "Kód": "1082",
+        "Leírás": "Édesség gyártása"
+      },
+      {
+        "Kód": "1399",
+        "Leírás": "Egyéb textiláru gyártása m.n.s."
+      },
+      {
+        "Kód": "1512",
+        "Leírás": "Táskafélék, szíjazat gyártása"
+      },
+      {
+        "Kód": "1820",
+        "Leírás": "Egyéb sokszorosítás"
+      },
+      {
+        "Kód": "3213",
+        "Leírás": "Divatékszer gyártása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      },
+      {
+        "Kód": "8121",
+        "Leírás": "Általános épülettakarítás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "9810",
+        "Leírás": "Háztartás termék-előállítása, szolgáltatása saját fogyasztásra"
+      },
+      {
+        "Kód": "9820",
+        "Leírás": "Háztartás szolgáltatása saját fogyasztásra"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "1457",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 193 451 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "1818",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 184 203 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "1897",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 198 393 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "1746",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 426 527 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "2618",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 378 298 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "1675",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 738 737 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "1575",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 427 532 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1835",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 618 081 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1280",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 855 858 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1371",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 017 033 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1394",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 757 445 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1310",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 976 258 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Az Értelmi Fogyatékosok Fejlődését Szolgáló Magyar Down Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Down Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Down Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Down Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Az Értelmi Fogyatékosok Fejlődését Szolgáló Magyar Down Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Az Értelmi Fogyatékosok Fejlődését Szolgáló Magyar Down Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Az Értelmi Fogyatékosok Fejlődését Szolgáló Magyar Down Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Az Értelmi Fogyatékosok Fejlődését Szolgáló Magyar Down Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Az Értelmi Fogyatékosok Fejlődését Szolgáló Magyar Down Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Down Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

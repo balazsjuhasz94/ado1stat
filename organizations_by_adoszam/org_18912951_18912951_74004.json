@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18912951",
+  "scraped_at": "2026-02-14T12:43:25.456764",
+  "organization_id": "74004",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bírósági Dolgozók Egymásért Alapítvány",
+      "rövid_név": "BDE Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1055 Budapest, Markó utca 16.",
+      "x_koordináta": "47.5094052",
+      "y_koordináta": "19.0518995",
+      "adószám": "18912951-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-19",
+      "statisztikai_számjel": "18912951-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány Magyarország területén működő bíróságok bíráinak, igazságügyi alkalmazottainak és hozzátartozóinak rászorultság alapján történő szociális, szakmai, kulturális és sporttevékenység támogatása céljából alakult meg.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012487",
+      "régi_nyilvántartási_száma": "12487/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Osvald",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 703 723 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 341 302 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "176",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 635 363 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "199",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 245 283 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "160",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 567 957 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bírósgi Dolgozók Egymásért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bírósági Dolgozók Egymásért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

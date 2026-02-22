@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "19097147",
+  "scraped_at": "2026-02-14T12:31:02.712572",
+  "organization_id": "91709",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tüskevár Vad- és Egzotikus Állatvédő Alapítvány",
+      "rövid_név": "Tüskevár Állatvédő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2310 Szigetszentmiklós, Juhar utca 5.",
+      "x_koordináta": "47.3556463",
+      "y_koordináta": "19.0985284",
+      "adószám": "19097147-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-09",
+      "statisztikai_számjel": "19097147-7500-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Vad- és egzotikus állatok ellátása, gyógykezelése és mentése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003986",
+      "régi_nyilvántartási_száma": "3986/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-11-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "HU25116000060000000081477054",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Szabina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "179",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 200 111 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "307",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 491 471 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "367",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 356 472 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "311",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 001 775 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "393",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 133 132 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÜSKEVÁR VAD ÉS EGZOTIKUS ÁLLATVÉDŐ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÜSKEVÁR VAD ÉS EGZOTIKUS ÁLLATVÉDŐ ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19340050",
+  "scraped_at": "2026-02-14T12:55:24.127547",
+  "organization_id": "368698",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Honfoglaló Alapítvány a Hátrányos Helyzetű Fiatalok Esélyegyenlőségéért",
+      "rövid_név": "Honfoglaló Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2038 Sóskút, Petőfi Sándor utca 2.",
+      "adószám": "19340050-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-14",
+      "statisztikai_számjel": "19340050-8899-569-13",
+      "x_koordináta": "47.4057981",
+      "y_koordináta": "18.8275861"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja a hátrányos helyzetű fiatalok, különös figyelemmel az állami gondozásból kikerülő fiatalok életkezdésének a támogatása, a társadalomba történő eredményes integráció elősegítése az életkezdés megalapozásához szükséges ismeretek és módszerek átadásával, önfenntartó közösségek építésével, a fenntarthatóság, a szolidaritás és az esélyegyenlőség jegyében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004301",
+      "régi_nyilvántartási_száma": "4301/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-23",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentgyörgyi",
+        "Képviselő keresztneve": "Anett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Böjthe",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "Gergely",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Andó",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "159",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 898 040 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

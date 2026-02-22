@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19329587",
+  "scraped_at": "2026-02-14T14:35:53.761150",
+  "organization_id": "368179",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ApexSport Klub Szabadidő és Sportegyesület",
+      "rövid_név": "ApexSport Klub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Dobsinai utca 38.",
+      "adószám": "19329587-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-26",
+      "statisztikai_számjel": "19329587-9312-521-07",
+      "x_koordináta": "47.1944099",
+      "y_koordináta": "18.4342423"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Székesfehérvár és környezetének lakosságát egészséges életmódra nevelje és megtanítsa a szabadtéri sport örömforrásként történő rendszeres gyakorlását illetve a sport, mint az egészség elérésére és megőrzésére szolgáló tevékenység gyakorlásának különböző formáit, életkorhoz illő módjait. Célja továbbá a sportegyesületnek, hogy tagjait ill. a környék lakosságát rendszeres szabadtéri sportolásra ösztönözze. Célja a sportegyesületnek az is, hogy a szabadban történő tartózkodásra a tagokat és a környék lakóit rászoktassa és részben ennek érdekében különböző, szabadban gyakorolható eseményeket szervezzen.További célja a sportegyesülettel kapcsolatban lévő oktatási, nevelési intézmények tanulói részére a sportolási, testedzési lehetőségek megteremtése, a lakosság szabadidősportjának segítése, sportkapcsolatok létesítése és fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003379",
+      "régi_nyilvántartási_száma": "3379/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-06",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dejcző",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "678 151 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

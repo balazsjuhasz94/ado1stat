@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18851478",
+  "scraped_at": "2026-02-14T15:00:08.443945",
+  "organization_id": "116914",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tevel Községi Önkéntes Tűzoltóegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7181 Tevel, Fő utca 281.",
+      "x_koordináta": "46.4117118",
+      "y_koordináta": "18.4560837",
+      "adószám": "18851478-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1994-01-01",
+      "statisztikai_számjel": "18851478-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "Ápolni haladó tűzoltó hagyományokat, óvni ez egyesület régi tűzoltó eszközeit, emléktárgyait; elősegíteni az iskolarendszerű képzésben a tűzvédelmi tananyagok oktatását; a tűzoltóságok hagyományainak felkutatása, azok felelevenítése, megőrzése és ápolása; a közösségépítés és a szabadidő tartalmas eltöltése érdekében különböző tűzoltói sportversenyek szervezése, rendezése, azokon való részvétel, különös tekintettel a tűzoltósportra; felkészíteni tagjait a tűz elleni védekezésre, a megelőzésre, a tűzoltó eszközök és felszerelések szakszerű használatára; pályázatok készítése a célok megvalósításának anyagi fedezetének biztosítása érdekében; kulturális-, sportprogramok szervezése; az egyesület nem zárja ki, hogy tagjain kívül más is részesüljön a közhasznú szolgáltatásból; hazai és nemzetközi találkozók szervezése és rendezése, illetve közreműködés mások által szervezett ilyen irányú rendezvényeken; együttműködés, kapcsolattartás hazai és külföldi tűzoltószervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0000070",
+      "régi_nyilvántartási_száma": "70/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-26",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "156 225 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "128",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "552 482 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "135",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "512 118 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "129",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "621 723 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tevel Községi Önkéntes Tűzoltóegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

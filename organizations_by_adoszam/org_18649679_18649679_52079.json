@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18649679",
+  "scraped_at": "2026-02-21T12:51:01.421017",
+  "organization_id": "52079",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csákánydoroszlói Ovisokért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9919 Csákánydoroszló, Körmendi utca 30.",
+      "x_koordináta": "46.976064",
+      "y_koordináta": "16.509985",
+      "adószám": "18649679-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-06-24",
+      "statisztikai_számjel": "18649679-9499-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az óvodai oktatási tevékenység támogatása, tanfolyamok szervezése, tehetséggondozás, ismeretterjesztés. Az óvodai oktatás művelődés eszközeivel történő megvalósításhoz szükséges tárgyi feltételek biztosítása. Az óvodai oktatás, nevelés eszközfejlesztésének támogatása. Az óvodát támogató jótékonysági programok szervezése. Gyermekprogramok támogatása. Óvodai hagyományőrzés támogatása. Óvodások nyelvtanulásának támogatása, segítése nevelési időn kívül. Európai Uniós szabványnak megfelelő udvari játékok beszerzésének támogatása. Gyermekek testi, szellemi fejlődését elősegítő, egészséges neveléssel kapcsolatos programok támogatása, eszközök beszerzésének támogatásával. Az egyesületi tagok szabadidős-, hobby és sporttevékenységének megszervezése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200558",
+      "régi_nyilvántartási_száma": "200558/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nyári",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 324 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "491 476 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

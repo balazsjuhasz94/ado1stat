@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19241841",
+  "scraped_at": "2026-02-14T12:53:04.987690",
+  "organization_id": "122141",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tűzcsiholó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4456 Tiszadob, Bocskai utca 26.",
+      "x_koordináta": "48.0130539",
+      "y_koordináta": "21.1677588",
+      "adószám": "19241841-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-13",
+      "statisztikai_számjel": "19241841-8899-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_altípusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A halmozottan hátrányos helyzetű gyerekek és családjaik krízis helyzetének elhárítása tanácsadás, képzés és közösségfejlesztő programok szervezésével és adományozással annak érdekében, hogy a gyermekek a vér szerinti családjaikban nevelkedhessenek, ne kényszerüljenek arra, hogy kiemeljék őket a családból. Fő célcsoportunk az állami gondoskodásban felnőtt személyek és családjaik. Célunk továbbá a halmozottan hátrányos helyzetű gyermekek tehetséggondozása és a magyarországi romák társadalmi integrációjának a segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004127",
+      "régi_nyilvántartási_száma": "4127/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-06-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-12",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-10",
+      "bankszámlaszám": "11600006-00000001-96414894",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Illésné Áncsán",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Aranka",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "6910",
+        "Leírás": "Jogi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "135",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 270 739 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "126",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 002 706 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

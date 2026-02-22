@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19004655",
+  "scraped_at": "2026-02-14T12:19:43.369624",
+  "organization_id": "84220",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Aprajafalva Yorki Fajtamentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1163 Budapest, Bányai Elemér utca 2.",
+      "x_koordináta": "47.5098275",
+      "y_koordináta": "19.1557444",
+      "adószám": "19004655-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-11",
+      "statisztikai_számjel": "19004655-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az állatvédelem-és természetvédelem területén felvilágosító tevékenység végzése. A fajta tiszta Yorkshire terrierek ( továbbiakban:Yorkik) mentése, a hontalan Yorkik Befogadása, ideiglenes elhelyezése, rehabilitációja, kezelése, gazdához juttatása. Összefogás más szervezetekkel a Yorkik népszerűsítése és a tartási körülményeknek javítása érdekében. A természetvédelem- és állatvédelem hatékonyságának fokozása érdekében együttműködés-így különösen kapcsolattartás, mentésben és örökbeadásban való együttműködés, egymás munkájának támogatása, közös programok és rendezvények szervezése- a hasonló célokért küzdő belföldi és külföldi szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012628",
+      "régi_nyilvántartási_száma": "12628/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dekovits",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1348",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 206 457 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1387",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 905 455 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1187",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 167 089 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1017",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 687 523 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Aprajafalva Yorki Fajtamentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

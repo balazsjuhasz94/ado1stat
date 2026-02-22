@@ -1,0 +1,115 @@
+{
+  "search_adoszam": "18942477",
+  "scraped_at": "2026-02-14T12:29:33.556506",
+  "organization_id": "75120",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szentendrei Kisállatkert Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2000 Szentendre, Sztaravodai út 43. F./18",
+      "x_koordináta": "47.6775708",
+      "y_koordináta": "19.0678674",
+      "adószám": "18942477-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-27",
+      "statisztikai_számjel": "18942477-9141-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány célja a hazai vadállatok, különös tekintettel a védett és fokozottan védett állatok, mentése és repatriációja, ezáltal a hazai biodiverzitás megőrzése. Mentőközpont építése és üzemeltetése, mely által Szentendre város környékén található, bajba jutott vadállatok mentése elősegíthető. A lakosság - ezen belül kiemelten az ifjúság - környezet- és természetvédelmi célokra történő nevelése, ilyen tárgykörű ismeretterjesztés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003903",
+      "régi_nyilvántartási_száma": "3903/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-06-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-17",
+      "bankszámlaszám": "10918001-0000009-63050009",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lovas",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bogátiné Schütz",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "Krisztina",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "188",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 108 830 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "238",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 808 417 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "345",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 960 263 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "446",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 407 759 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "390",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 436 283 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szentendrei Kisállatkert Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szentendrei Kisállatkert Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

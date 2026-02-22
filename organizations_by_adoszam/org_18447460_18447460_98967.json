@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18447460",
+  "scraped_at": "2026-02-14T12:53:17.418586",
+  "organization_id": "98967",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nagycsaládosok Hejőkeresztúri Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3597 Hejőkeresztúr, Petőfi S. utca 111.",
+      "x_koordináta": "47.958943",
+      "y_koordináta": "20.880372",
+      "adószám": "18447460-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-06-23",
+      "statisztikai_számjel": "18447460-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Értékfelmutatás Értékeink: a férfi és a nő életszövetségére épülő házasság, az élet tisztelete, az anyaság, a nagycsalád. 2) Érdekvédelem 3) Közösségépítés",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0063897",
+      "régi_nyilvántartási_száma": "63897/2005",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-06-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "222",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 000 416 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19312842",
+  "scraped_at": "2026-02-14T12:18:26.536494",
+  "organization_id": "367055",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Babák Menedék Állatmentő Alalpítvány",
+      "rövid_név": "Babák Menedék Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3716 Újcsanálos, Rozmaring út 1.",
+      "adószám": "19312842-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-01",
+      "statisztikai_számjel": "19312842-9499-569-05",
+      "x_koordináta": "48.1476792",
+      "y_koordináta": "20.9977813"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Segítségre szoruló állatok, főként kutyák és macskák segítése, szükséghez képest mentésük, azaz a létfenntartásuk feltételeit nem, vagy csak csekély mértékben biztosító körülmények közül történő kiemelésük, Segítségre szoruló állatok, főként kutyák és macskák segítése, szükséghez képest mentésük, azaz a létfenntartásuk feltételeit nem, vagy csak csekély mértékben biztosító körülmények közül történő kiemelésük, élethelyzetük javítása és mindezek elősegítése. Az alapítvány küldetése a beteg, bántalmazott, elhagyott, gazdátlan, vagy bármely más egyéb okból rászorult állatokról történő gondoskodás, táplálásuk, szükség szerint gyógykezelésük, ideiglenes és végleges elhelyezésük, lakhatásuk biztosítása, ill. megszervezése, s végső soron befogadó gazdáik megtalálása, befogadásuk megszervezése és lebonyolítása. Az alapítvány ezen célok elérésén keresztül igyekszik csökkenteni a gazdátlan és rászoruló állatok számát. Ennek keretében fontos célkitűzésnek tekintjük az állatok orvosi ellátáshoz történő hozzáférésének biztosítását, a gazdátlan állatok ivartalanítását, ill. a nem kontrollálható szaporulat csökkentését. A célok között szerepel a felelős állattartás elveinek, szabályainak és társadalmi gyakorlatának lehető legszélesebb körű elfogadtatása, népszerűsítése, az ezzel kapcsolatos ismeretek terjesztése regionális és országos szinten egyaránt. Mindezzel az alapítvány hozzájárul az állatbarát és ezzel együtt környezettudatos szemléletmód fontosságának minél szélesebb körű elfogadottá tételéhez, egyebek mellett pl. a település-egészségügyi szabályok betartásához. A fentiek folyományaként ugyancsak célként jelenik meg az alapítvány számára a társadalom tagjai (ideértve az egyéneket, szervezeteket, társadalmi közösségeket egyaránt) együttműködésének inspirálása, növelése, fejlesztése. Az alapítvány törekszik önkéntesek bevonására, az általa esetlegesen foglalkoztatott, ill. közreműködő személyek a társadalmi és munkaerő piaci integrációjának elősegítésére, az ehhez szükséges, ill. ezt segítő motivációk, készségek és képességek kialakítására, fejlesztésére. Az alapítvány törekvése az alapítványi céloknak megfelelő megvalósításához szükséges humán, tárgyi és pénzügyi feltételek megteremtése, támogatások szerzése és felhasználása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064667",
+      "régi_nyilvántartási_száma": "64667/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Babák",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "980",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 172 380 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1318",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 693 252 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

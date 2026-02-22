@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18657250",
+  "scraped_at": "2026-02-14T12:30:52.506773",
+  "organization_id": "54492",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gödöllői Állatotthon Egyesület",
+      "rövid_név": "GÁE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2100 Gödöllő, Holló utca 2.",
+      "x_koordináta": "47.613166",
+      "y_koordináta": "19.35493",
+      "adószám": "18657250-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-24",
+      "statisztikai_számjel": "18657250-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "a. Az élővilág iránt felelősséget érző emberek összefogása az állatvédelem, a természetvédelem, a környezetvédelem érdekében. b. A környezet, a természet és az állatok védelméről szóló törvények érvényesülésének elősegítése. c. Ismeretterjesztés, a természettudományos oktatás gyakorlatiasabbá tétele, a korszerű természetvédelmi szemlélet terjesztése. d. A magyar állatfajták bemutatása, a magyar népi kultúra e területtel kapcsolatos hagyományainak ápolása, bemutatása. e. Gazdátlan és sérült állatok elhelyezése. f. Kulturált, állatbarát állattartási szokások elterjesztése. g. Oktatóközpont létesítése az előbbi célok elérése érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006782",
+      "régi_nyilvántartási_száma": "6782/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Radnóti",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "Miklós",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "154",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "768 402 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "224",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 304 291 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "302",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 999 393 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "416",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 810 072 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "577",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 702 805 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "482",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 335 217 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "402",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 170 478 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gödöllői Állatotthon Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gödöllői Állatotthon Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gödöllői Állatotthon Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gödöllői Állatotthon Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

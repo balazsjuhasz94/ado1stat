@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19237628",
+  "scraped_at": "2026-02-14T12:59:34.907161",
+  "organization_id": "120391",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"ZÖLD MANCSOK\" Lébényi Állatvédő és Természetvédő Egyesület",
+      "rövid_név": "\"ZÖLD MANCSOK\" Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9155 Lébény, Kossuth Lajos utca 23.",
+      "x_koordináta": "47.743573",
+      "y_koordináta": "17.3906908",
+      "adószám": "19237628-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-12",
+      "statisztikai_számjel": "19237628-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- Állatvédelem. Az egyesület fő céljának és feladatának tartja a kóbor, a kidobott és a menhelyi kutyák, valamint más állatok mentését, befogását, gondozását, szocializációját és rehabilitációját, valamint a gazdához juttatását. - Az egyesület közreműködik a jogszabályi előírásoknak megfelelő állattartás megvalósulásában, szükség esetén az állatvédelmi hatóságnál a hatáskörébe tartozó intézkedés megtételét kezdeményezi. Az állatvédelmi jogszabályok megsértését eredményező magatartástól való eltiltás iránt a bíróság előtt pert indít. - Az állatkínzások megelőzése, feltárása, dokumentálása, valamint az eljáró hatóságok munkájának segítése. - Nevelés és oktatás, képességfejlesztés, ismeretterjesztés. - Az állatok kulturált és a vonatkozó jogi normáknak megfelelő tartásának megteremtése, illetve elősegítése. - Az állatvédelemmel kapcsolatos feladatok végrehajtásában való közreműködés. - Támogatja a már működő állatmenhelyek működését, bővítését és korszerűsítését, valamint karitatív segítséget nyújt. - Természetvédelem és környezetvédelem. Az egyesület a természeti területek és értékek jogellenes károsítása, veszélyeztetése esetén a természet védelme érdekében fellép annak érdekében, hogy az állami szervektől, az önkormányzatoktól a megfelelő és a hatáskörükbe tartozó intézkedés megtételét kezdeményezze. Keresetet indít a veszélyeztetőnek, károsítónak a jogsértő magatartástól való eltiltása, továbbá a kár megelőzéséhez szükséges intézkedések megtételére kötelezés érdekében. - Társadalmunknak, különösen az ifjúságnak a környezet, a természet és élővilág szeretetére való nevelése, ennek körében ismeretterjesztés, nevelés és oktatás, képességfejlesztés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063157",
+      "régi_nyilvántartási_száma": "63157/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zug",
+        "Képviselő keresztneve": "Virgínia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "219",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 767 685 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "215",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 749 232 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "182",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 798 610 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

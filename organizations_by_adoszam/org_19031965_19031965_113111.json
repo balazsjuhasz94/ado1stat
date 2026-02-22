@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "19031965",
+  "scraped_at": "2026-02-21T14:36:47.915643",
+  "organization_id": "113111",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bikali Faluvédő- és Szépítő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7646 Bikal, Zrínyi utca 2",
+      "x_koordináta": "46.3313192",
+      "y_koordináta": "18.2853303",
+      "adószám": "19031965-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-05-15",
+      "statisztikai_számjel": "19031965-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "kapcsolatot tart az önkormányzattal, részt vesz a faluszépítő és fejlesztő tervek kidolgozásában; fellép a környezet károsítása ellen, tisztasági mozgalmat, parkosítási akciót szervez, részt vesz egy kedvező megítélésű falukép létrehozásában, megismertetésében és folyamatos fejlesztésében; szervezi és irányítja a hagyományok felkutatását, ápolását, emlékmű felállítását, gondozását; a község természeti és épített értékeinek védelme; a magyar tájhoz, történelemhez, településszerkezethez illő fejlesztése; a helyi foglalkoztatás elősegítése, szervezése a szociális gazdaságban; szükséges tevékenységek összehangolása, szervezése, információáramoltatás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0000671",
+      "régi_nyilvántartási_száma": "671/1991",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mázsár",
+        "Képviselő keresztneve": "Lászlóné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 964 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "165 367 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 977 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "266 534 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "232 422 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "276 203 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 297 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BIKALI FALUVÉDŐ ÉS SZÉPITŐ EGYESULET"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BIKALI FALUVÉDŐ ÉS SZÉPITŐ EGYESULET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BIKALI FALUVÉDŐ ÉS SZÉPITŐ EGYESULET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BIKALI FALUVÉDŐ ÉS SZÉPITŐ EGYESULET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

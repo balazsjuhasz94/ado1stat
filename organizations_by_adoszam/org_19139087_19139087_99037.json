@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19139087",
+  "scraped_at": "2026-02-14T13:15:44.222756",
+  "organization_id": "99037",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ISKOLÁNK VILÁGA Alapítvány a Damis Gyerekekért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2100 Gödöllő, Batthyány utca 30-32.",
+      "x_koordináta": "47.6034434",
+      "y_koordináta": "19.3775344",
+      "adószám": "19139087-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-05",
+      "statisztikai_számjel": "19139087-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A gödöllői Damjanich János Általános Iskola gyermekeinek testi és szellemi fejlődését, nevelését, oktatását segítő eszközök (sportszerek, tanszerek, taneszközök, busz, stb.) beszerzésének támogatása.Tevékenysége kiterjed a gyerekek közvetlen környezetének, iskolai elhelyezésének javítása, részben anyagi, részben természetbeni eszközökkel, valamint a külföldi nyelvgyakorlási lehetőségek biztosítására, a hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítésére, családsegítésére is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004016",
+      "régi_nyilvántartási_száma": "4016/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-01-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vargáné Jáksó",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 211 477 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 356 526 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

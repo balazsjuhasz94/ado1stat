@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19101635",
+  "scraped_at": "2026-02-21T13:12:08.595584",
+  "organization_id": "118222",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tündérzug Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3284 Tarnaméra, Béke utca 15.",
+      "x_koordináta": "47.675779",
+      "y_koordináta": "20.1630492",
+      "adószám": "19101635-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-14",
+      "statisztikai_számjel": "19101635-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A hátrányos helyzetű gyermekek és kisgyermekes családok segítése családi bölcsődék létrehozásával és működtetésével, valamint a szabadidő hasznos eltöltésének segítése. A gyermekek szabadidejének eltöltéséhez jobb feltételek biztosítása. Kulturális élet támogatása, kulturális és ismeretterjesztő tevékenység folytatása. Óvodai tárgyi eszközök, bölcsődei tárgyi eszközök beszerzése és a beszerzéshez való hozzájárulás. Köznevelési intézmények támogatása adományokkal, a tárgyi feltételek és infrastuktúra felújítására és cseréjére is. Informatikai fejlesztések elősegítése, sportfejlesztések elősegítése gyermekek és fiatalok egészséges életmódra nevelésnek céljából. Kirándulások, táborok, vetélkedők, események szervezése, lebonyolítása, egészének vagy részleteinek anyagi támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001178",
+      "régi_nyilvántartási_száma": "1178/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-11",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11739047-23934737",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tomik-Zazravecz",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5630",
+        "Leírás": "Italszolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "63 178 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "168 098 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "113 764 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "440 395 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÜNDÉRZUG ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÜNDÉRZUG ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18657638",
+  "scraped_at": "2026-02-14T13:00:01.972991",
+  "organization_id": "121259",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nagytarcsai FLEX Polgárőr és Önkéntes Tűzoltó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2142 Nagytarcsa, Mező út 17.",
+      "x_koordináta": "47.509032",
+      "y_koordináta": "19.1809719",
+      "adószám": "18657638-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-17",
+      "statisztikai_számjel": "18657638-8424-526-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "céljának_leírása": "A helyi közrend és közbiztonság védelme, javítása, a személy- és vagyonvédelem, bűnmegelőzés hatékonyságának fokozása, az állampolgárok biztonságának védelme, biztonságérzetük javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006829",
+      "régi_nyilvántartási_száma": "6829/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zahalka",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "Tamás",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mocsáry",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8424",
+        "Leírás": "Közbiztonság, közrend"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "425 250 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "174",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 444 072 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "147",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 473 618 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 712 921 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagytarcsai Flex Polgárőr és ÖTE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

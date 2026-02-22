@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19154255",
+  "scraped_at": "2026-02-21T13:35:39.704990",
+  "organization_id": "102872",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SBS Gépgyártásban Dolgozó Munkavállalókért Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3358 Erdőtelek, Fő út Kalász tanya 340/1. hrsz.",
+      "x_koordináta": "47.6714564",
+      "y_koordináta": "20.3261447",
+      "adószám": "19154255-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-27",
+      "statisztikai_számjel": "19154255-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a.) szociális támogatás, segítségnyújtás a rászorulók, hátrányos helyzetben lévők részére b.) egészségvédelem c.) a szakmai végzettség megszerzésének és szakmai továbbképzés támogatása d.) a rászorulók, különösen rászoruló munkavállalók és családtagjaik szabadidejének kulturált eltöltése érdekében különféle programok, sporttevékenységek szervezése, támogatása; munkavállalók, valamint családtagjaik tehetséggondozása, iskoláztatásának támogatása e.) az alapítvány célját szolgáló tárgyi eszközök rendelkezésre bocsájtása, jogvédő tevékenység folytatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001186",
+      "régi_nyilvántartási_száma": "1186/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-08-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovácsné Ózsvári",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "344 693 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "393 119 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

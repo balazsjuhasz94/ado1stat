@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19301110",
+  "scraped_at": "2026-02-14T12:20:38.913449",
+  "organization_id": "365974",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vizsla Világ Magyar Vizsla Fajtamentés Alapítvány",
+      "rövid_név": "Vizsla Világ Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6045 Ladánybene, Templomdűlő tanya 21.",
+      "adószám": "19301110-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-14",
+      "statisztikai_számjel": "19301110-9499-569-03",
+      "x_koordináta": "47.0279928",
+      "y_koordináta": "19.4494892"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A gazdátlan magyar vizslák mentése, gyógyítása, rehabilitációja, új gazdákhoz való segítése, a vizslák képzése és nevelése, valamint a felelős állattartás népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013082",
+      "régi_nyilvántartási_száma": "13082/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11705008-22543882",
+      "számlavezető_pénzintézet_neve": "OTP Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balázsné Kovács",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "850",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 769 645 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "908",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 536 432 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

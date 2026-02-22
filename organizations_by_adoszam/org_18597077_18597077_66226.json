@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18597077",
+  "scraped_at": "2026-02-14T14:56:37.165487",
+  "organization_id": "66226",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Poli-komp Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1094 Budapest, Balázs Béla utca 18. fszt./18.",
+      "x_koordináta": "47.479603",
+      "y_koordináta": "19.077465",
+      "adószám": "18597077-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-06-18",
+      "statisztikai_számjel": "18597077-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "-Oktató-nevelő tevékenység támogatása -A Közgazdasági Politechnikum Gimnázium és Szakközépiskola (1096 Budapest, Vendel u. 3. ) oktató-nevelő tevékenységének támogatása, a köznevelési intézmény pedagógiai programjában megfogalmazott alapelvek és célok megvalósulásának elősegítése -a A Közgazdasági Politechnikum Gimnázium és Szakközépiskola (1096 Budapest, Vendel u. 3. ) pedagógiai programjában megfogalmazott alapelvekkel és célokkal harmonizáló tevékenységek (úgymint egészségmegőrzés és egészségnevelés, környezetvédelem és környezeti nevelés, hátrányos helyzetű csoportok esélyegyenlősége, gyermek- és ifjúságvédelem, szociális tevékenység és önkéntesség, képesség- és kompetenciafejlesztés, kulturális tevékenység, pályaorientáció, vállalkozóvá válás, munkaerő-piaci elhelyezkedés, a fiatalok testkultúrájának fejlesztése, szervezet- és közösségfejlesztés, pedagógiai kutatás) támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0011869",
+      "régi_nyilvántartási_száma": "11869/2013",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-11-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csürke",
+        "Képviselő keresztneve": "Ibolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kováts",
+        "Képviselő keresztneve": "Lívia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Oláhné Nádasdi",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "456 035 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "480 114 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "607 470 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19039808",
+  "scraped_at": "2026-02-14T13:11:22.383108",
+  "organization_id": "86212",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FORTE Kutyaiskola és Állatvédelmi Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1202 Budapest, Lázár utca 2. fszt./3.",
+      "x_koordináta": "47.4398171",
+      "y_koordináta": "19.1176512",
+      "adószám": "19039808-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2024-07-04",
+      "adószám_törlésének_dátuma": "2024-06-12",
+      "statisztikai_számjel": "19039808-9699-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesület célja az állatvédelem és a helyes állattartás fontosságára való társadalmi figyelemfelhívás. Ehhez kapcsolódóan a kutyakiképző tevékenység népszerűsítése, társadalmi szemlélet formálás, a tudatosság növelése, ismeretterjesztés, oktatás minden korosztály és társadalmi csoport számára, valamint ezzel kapcsolatos szabadidős tevékenységek, rendezvények szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016945",
+      "régi_nyilvántartási_száma": "16945/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-09",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Joó",
+        "Képviselő keresztneve": "Kata",
+        "Képviselő titulusa": "Beáta",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "132",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 063 622 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "141",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 427 690 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

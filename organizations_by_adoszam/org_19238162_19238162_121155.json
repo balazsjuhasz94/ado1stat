@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19238162",
+  "scraped_at": "2026-02-14T13:07:15.416839",
+  "organization_id": "121155",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dél-Zempléni Mentőkért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3900 Szerencs, Erdei Ferenc utca 18.",
+      "x_koordináta": "48.1756624",
+      "y_koordináta": "21.207214",
+      "adószám": "19238162-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-18",
+      "statisztikai_számjel": "19238162-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az egyesület célja: a) az Országos Mentőszolgálat szerencsi állomásának támogatása, b) az Országos Mentőszolgálat szerencsi állomásán dolgozók munkakörülményeinek javítása, c) segíteni a bajtársak nagyobb társadalmi megbecsülését, d) segíteni a rászoruló bajtársakat, e) pénzbeli és szakmai segítségnyújtással hozzájárulni a hatékonyabb, gyorsabb és szakszerűbb betegellátáshoz.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065936",
+      "régi_nyilvántartási_száma": "65936/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tőkés",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "212",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 453 340 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "174",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 316 505 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "166",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 538 344 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

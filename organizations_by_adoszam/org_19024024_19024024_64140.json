@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19024024",
+  "scraped_at": "2026-02-21T14:29:26.224804",
+  "organization_id": "64140",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Műegyetem Támogatói és Baráti Köre",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1111 Budapest, Műegyetem rakpart 3.",
+      "x_koordináta": "47.4813536",
+      "y_koordináta": "19.0556435",
+      "adószám": "19024024-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1987-10-07",
+      "statisztikai_számjel": "19024024-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A BME iránti szeretet erősítése, hírnevének megőrzése, tekintélyének fokozása. Végzős műegyetemisták pályán való elindulásuk segítése. A BME oktatási, kutatási tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0001955",
+      "régi_nyilvántartási_száma": "1955/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-12-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jakab",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2024-12-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 605 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

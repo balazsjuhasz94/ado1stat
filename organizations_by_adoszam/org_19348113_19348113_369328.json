@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19348113",
+  "scraped_at": "2026-02-21T13:15:40.842764",
+  "organization_id": "369328",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "HAJDÚSÁMSONI CSODAVÁR ÓVODAI ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4251 Hajdúsámson, Kossuth utca 11-17.",
+      "adószám": "19348113-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-07",
+      "statisztikai_számjel": "19348113-8510-569-09",
+      "x_koordináta": "47.6233078",
+      "y_koordináta": "21.7574196"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "az egész óvodát átfogó kulturális és más jellegű rendezvények finanszírozása •az óvodai nevelés keretein kívül eső foglalkozások elősegítése •táboroztatás és tanulmányi kirándulások segítése •megfelelő életkörülmények megteremtése, egészséges életmód kialakítása, megalapozása az óvodai nevelés folyamán •a már kialakult helyi nevelési hagyományok folytatása, olyan nevelési keretek kialakítása, működtetése melyek az életkornak legmegfelelőbb formában segítik az iskolai életmódra felkészülést •a gyermekek ellátásához szükséges eszközök, játékok, berendezések, anyagok, felszerelések, a megfelelő személyi ellátottság, szakmai képzettség biztosítása, az ezekkel kapcsolatban felmerült költségek viselése •óvodások gyógykezelésével kapcsolatos kiadások támogatása •szabadidős tevékenység támogatása, különösen óvodai kirándulások, úszásoktatás",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002305",
+      "régi_nyilvántartási_száma": "2305/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagyné Ilyés",
+        "Képviselő keresztneve": "Helga",
+        "Képviselő titulusa": "Márta",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Veres",
+        "Képviselő keresztneve": "Tamásné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "432 058 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

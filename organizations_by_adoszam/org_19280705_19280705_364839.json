@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19280705",
+  "scraped_at": "2026-02-21T12:26:25.317101",
+  "organization_id": "364839",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Súlyos Idegrendszeri Betegek Modern Kezelését Támogató Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3529 Miskolc, Petneházy Dávid utca 11.",
+      "adószám": "19280705-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-23",
+      "statisztikai_számjel": "19280705-9499-569-05",
+      "x_koordináta": "48.0858754",
+      "y_koordináta": "20.7884185"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "- Súlyos koponya sérültek, agydaganatos betegek, STROKE-n átesett betegek modern diagnosztikája, speciális gyógykezelése, műtéti, intervenciós beavatkozások, rehabilitációjak, ellátásuk javítása. - A gyermekkori agyi éreredetű betegségek, agydaganatok, agysérülések okozta súlyos társadalmi és gazdasági terhek csökkentése, modern kezelés támogatása. - Gradualis és posztgradualis oktatás és képzés segítése a fenti tevékenységet folytató team körében. - A központi idegrendszeri betegségek prevenciójára, időbeli diagnosztizálására, és modern kezeléseinek és rehabilitációjának, tömegtájékoztatás, közösségi aktivitás biztosítása. - Központi idegrendszeri betegségek, agy és gerincbetegségek diagnosztikáját, kezelését és rehabilitációját segítő kutatási tevékenység szervezése, támogatása. - A megfogalmazott célok képviselete hazai és nemzetközi fórumokon. - Hazai és külföldi támogatások szerzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064618",
+      "régi_nyilvántartási_száma": "64618/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Oláh",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "Zsolt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "627 971 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "966 641 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "566 997 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18206108",
+  "scraped_at": "2026-02-14T14:15:44.352395",
+  "organization_id": "96569",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egri Lányok és Fiúk Szabadidő és Kulturális Egyesülete",
+      "rövid_név": "ELF Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Szénáskert utca 4. 1/3.",
+      "x_koordináta": "47.8881032",
+      "y_koordináta": "20.3788657",
+      "adószám": "18206108-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-04-04",
+      "statisztikai_számjel": "18206108-9499-529-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Az Egyesület Magyarországon működő civil szervezet, célja Magyarország kultúrájának őrzése, annak megismertetése. A magyar hagyományok tiszteletére való nevelés. Más országok kultúrájának megismertetése különös tekintettel a hazánkkal történelmi kapcsolatban lévő országokra és kultúrákra. Az Egyesület kiemelt feladatának tartja a jövőben a szabadidős sport, az egészségvédelem és a kultúra népszerűsítését. Ennek érdekében biztosítja tagjai számára a rendszeres egyesületi élethez szükséges feltételeket. Az Egyesület célja a fentiek értelmében kulturális, szabadidős sport és egészségmegőrző tevékenység szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002368",
+      "régi_nyilvántartási_száma": "2368/2010",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-09-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10401141-50526880-89701009",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varjúné Komóczi",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-06-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 304 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 054 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 882 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "358 306 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "253 422 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 806 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "769 175 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egri Lányok és Fiúk Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ELF Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ELF Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egri Lányok és Fiúk Szabadidő és Kulturális Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

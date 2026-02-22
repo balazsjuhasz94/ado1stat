@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19293790",
+  "scraped_at": "2026-02-14T14:43:13.617278",
+  "organization_id": "365408",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Reményt és jövőt Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1048 Budapest, Tófalva utca 11/D. B.lph. 1/14.",
+      "adószám": "19293790-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-20",
+      "statisztikai_számjel": "19293790-8899-569-01",
+      "x_koordináta": "47.5903762",
+      "y_koordináta": "19.1115067"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "halmozottan hátrányos helyzetű gyermekek testi, szellemi, lelki és erkölcsi fejlődését, egészséges felnevelkedését és jólétét biztosító saját családi környezetben történő nevelkedésének elősegítése ; halmozottan hátrányos helyzetű családok emberhez méltó lakhatási körülményeinek megteremtése ; halmozottan hátrányos helyzetű tanulók felzárkóztatása ; halmozottan hátrányos helyzetű gyermekek segítése a fejlődésüket hátráltató körülmények leküzdéséhez és esélyeiknek növeléséhez, a társadalomba való beilleszkedésükhöz ; mélyszegénységben élő családok egészségfejlesztése ; mélyszegénységben élő felnőtt családtagok segítése, hogy saját erőforrásaikat is felhasználva az emberi élethez méltó körülményeket tudjanak teremteni családjuk számára ; a mélyszegénységben élő személyek emberi méltóságának megőrzése ; fogyatékkal élők segítése a szegénységgel kapcsolatos előítéletek leküzdése ; a magyar társadalom tehetősebb tagjai és a mélyszegénységben élők közötti kapcsolatépítés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013024",
+      "régi_nyilvántartási_száma": "13024/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-08-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-20",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Király",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "649 089 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

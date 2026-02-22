@@ -1,0 +1,115 @@
+{
+  "search_adoszam": "18086584",
+  "scraped_at": "2026-02-14T12:35:35.329526",
+  "organization_id": "118603",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SZIKRA Tehetséggondozó Egyesület",
+      "rövid_név": "SZIKRA Tehetséggondozó",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Emma utca 5. A lh. földszint/1.",
+      "x_koordináta": "47.3258777",
+      "y_koordináta": "18.9298218",
+      "adószám": "18086584-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-02-08",
+      "statisztikai_számjel": "18086584-8559-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesület célja az atipikus tehetséges gyermekek tehetséggondozása. Autizmus spektrumzavarral élő gyerekek együttműködésének és szociális készségeiknek fejlesztése, támogatása, a tehetségük azonosítása, gondozása és kibontakoztatása. Családjaik megsegítése, képzése, érdekképviselete.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0007653",
+      "régi_nyilvántartási_száma": "7653/1997",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-01-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-07",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szanyi Nagy",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-08-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zádori",
+        "Képviselő keresztneve": "Henrietta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 206 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "404 873 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "856 965 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "189",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 336 462 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "339",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 570 909 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "322",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 877 509 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "325",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 288 491 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Battai Fáraó Squash Sportegyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szikra Tehetséggondozó Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szikra Tehetséggondozó Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szikra Tehetséggondozó Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

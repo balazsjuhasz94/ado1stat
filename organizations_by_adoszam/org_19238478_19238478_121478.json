@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "19238478",
+  "scraped_at": "2026-02-14T12:50:06.329682",
+  "organization_id": "121478",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "TámUgatók Terápiás és Segítőkutyás Alapítvány",
+      "rövid_név": "TámUgatók Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1112 Budapest, Dayka Gábor utca 98.",
+      "x_koordináta": "47.4902287",
+      "y_koordináta": "18.921009",
+      "adószám": "19238478-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-25",
+      "statisztikai_számjel": "19238478-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány célkitűzése, hogy a 7. pontban felsorolt az Ectv. 2.§ 20. pontja szerinti közhasznúnak minősülő tevékenységek végzése révén fogyatékos, beteg, hátrányos helyzetű személyek jogainak, esélyegyenlőségének előmozdítása, életminőségük javítása, önálló életvitelük támogatása, valamint rehabilitációjának megvalósulása érdekében nyújtott szolgáltatások biztosításával követlenül és közvetve szolgálja a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 21. §a)-g) pontjaiban, valamint a 27.§ és 27/A.§-aiban meghatározott közfeladatok végzését. Az Alapítvány szolgáltatásait legfőképpen a fogyatékkal élők, valamilyen betegségben szenvedők, hátrányos és halmozottan hátrányos, sajátos nevelési igényű személyek és családtagjaik, a gondviselőik, a gondozóik, az őket ellátó egészségügyi, köznevelési, szociális, habilitációs, rehabilitációs és segítő intézmények, civil szervezetek és szakemberek (orvosok, terapeuták, konduktorok, pszichológusok) vehetik igénybe.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004099",
+      "régi_nyilvántartási_száma": "4099/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-04-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "1174234821456671",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vásárhelyi",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "Anikó",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "259",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 712 116 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "188",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 499 489 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 143 118 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

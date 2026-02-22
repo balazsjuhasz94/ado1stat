@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18848878",
+  "scraped_at": "2026-02-21T14:29:49.948292",
+  "organization_id": "97524",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Műhelyvilág Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Prohászka Ottokár utca 34. 1./2.",
+      "x_koordináta": "47.185621",
+      "y_koordináta": "18.4167518",
+      "adószám": "18848878-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-09",
+      "statisztikai_számjel": "18848878-8569-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "a) A Fejér megyében élő, sajátos nevelési igényű (tanulásban akadályozott, értelmileg akadályozott, mozgáskorlátozott, látássérült, hallássérült, autizmussal élő), halmozottan hátrányos helyzetű, veszélyeztetett tanulók anyagi és természetbeni támogatása, esélyegyenlőségének elősegítése. b) A szakképzésben szereplő szakmák elsajátításához kapcsolódó szakmafejlesztést elősegítő tevékenység, valamint a benne részt vevő kollégák anyagi támogatása. c) A Fejér megyei, sajátos nevelési igényű, halmozottan hátrányos helyzetű, veszélyeztetett tanulók képzését végző szakiskolák tárgyi, környezeti, infrastrukturális feltételeinek javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001102",
+      "régi_nyilvántartási_száma": "1102/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-11-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fülöp",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "130 515 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "85 995 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "76 950 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "37 972 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 253 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Műhelyvilág Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Műhelyvilág Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Műhelyvilág Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Műhelyvilág Alapítvány",
+        "Év": "2024"
+      }
+    ]
+  },
+  "error": null
+}

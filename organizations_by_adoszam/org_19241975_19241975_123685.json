@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19241975",
+  "scraped_at": "2026-02-21T14:28:54.571744",
+  "organization_id": "123685",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Váralja Önkéntes Tűzoltó és Polgárőr Egyesület",
+      "rövid_név": "VÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3047 Buják, Kossuth út 46.",
+      "x_koordináta": "47.884137",
+      "y_koordináta": "19.5458059",
+      "adószám": "19241975-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-04",
+      "statisztikai_számjel": "19241975-8425-526-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Társadalmilag hasznos, önkéntes tevékenységek kezdeményezése és segítése, különösen segítségnyújtás és közreműködés a hazai és nemzetközi katasztrófák, vészhelyzetek, valamint balesetek hatásai elleni védekezésben, a katasztrófák következményeinek felszámolásában, személyek felkutatásában és egészségügyi ellátásában, továbbá • mentő tűzvédelem, • tűzmegelőzési, tűzoltási és műszaki mentési tevékenység • élet- és tárgymentésben való közreműködés, • hátrányos helyzetűek segítése, • ifjúságvédelem, • állat-, környezet- és természetvédelmi feladatok ellátása, • a közrend és a közbiztonság fenntartásának segítése, • társadalmi bűnmegelőzésben való lakossági részvétel, • helyi közbiztonság közösségi védelme, • hagyományőrzés, • a lakosság, kiemelten az ifjúság tájékoztatása, képzése a fent felsorolt területeken, • parlagfű elleni védekezés és megelőzés, • állattenyésztés és növénytermesztés, • tömeg- és versenysport, • az egyesület tagjainak képzése és versenyeztetése, • a feladatok ellátásához szükséges személyek képzése és vizsgáztatása, • oktatás, képzés, ismeretterjesztés, bemutatók tartása, • adománygyűjtés és szervezés, • tagtoborzás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0002170",
+      "régi_nyilvántartási_száma": "2170/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Zoltán Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      },
+      {
+        "Kód": "0161",
+        "Leírás": "Növénytermesztési szolgáltatás"
+      },
+      {
+        "Kód": "8424",
+        "Leírás": "Közbiztonság, közrend"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "228 967 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "148 045 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 389 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

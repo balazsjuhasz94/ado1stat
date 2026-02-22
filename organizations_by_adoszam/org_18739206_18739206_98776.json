@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18739206",
+  "scraped_at": "2026-02-21T14:06:57.316701",
+  "organization_id": "98776",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jövőt Építők Generációja Egyesület",
+      "rövid_név": "JÉG",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1066 Budapest, Zichy Jenő utca 19. 2/3",
+      "x_koordináta": "47.5041355",
+      "y_koordináta": "19.0571357",
+      "adószám": "18739206-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-12",
+      "statisztikai_számjel": "18739206-8559-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesület célja a Magyarországon élő fiatalság munkaerőpiacra lépséhez szükséges ismeretek bővítése, a munkavállaláshoz szükséges látókör bővítése, a megfelelő tudáshoz, eszközhöz és információhoz való jutás segítése. Az egyesület továbbá célul tűzi ki, hogy a középiskolás korú diákok és felsőoktatásban résztvevő tehetséges egytemi polgárok megfelelő kiegészítő oktatásban részesüljenek a munkapiaci és vállalkozói ismereteket illetpen, ezzel elősegítve az új versenyképes munkapiaci szféra kialakulását Magyarországon. Az egyesület célja, hogy a fiatalság a munkaerőpiacra lépése előtt megfelelő színvonalú szakmai és kulturális képzésben részesüljön.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016043",
+      "régi_nyilvántartási_száma": "16043/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-06-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-04-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "Dezső",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 621 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "518 181 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "413 124 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 936 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "475 493 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "342 429 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jövők Építők Generaciója Egysület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jövőt Építők Generációja Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jövőt Építők Generációja Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

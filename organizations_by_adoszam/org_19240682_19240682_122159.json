@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19240682",
+  "scraped_at": "2026-02-21T14:06:13.347247",
+  "organization_id": "122159",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tudatos Motorosok Országos Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Dagály utca 10.",
+      "x_koordináta": "47.3851041",
+      "y_koordináta": "18.9524946",
+      "adószám": "19240682-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-17",
+      "statisztikai_számjel": "19240682-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A súlyos személyi sérüléssel járó motoros balesetek számának csökkentése, a motorosok társadalmi megítélésének javítása. A jövő tudatos motoros generációinak kinevelése. A motorozás mint közlekedési alternatíva népszerűsítése. A magyar motoros kultúra, a vezetési morál, a vezetéstechnikai képességek hatékony fejlesztése. Hatékonyan működő országos szervezet létrehozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007822",
+      "régi_nyilvántartási_száma": "7822/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-14",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szimcsák",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-17",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dobos",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 354 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

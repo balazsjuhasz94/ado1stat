@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19285377",
+  "scraped_at": "2026-02-14T13:01:52.820716",
+  "organization_id": "364943",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány Martinért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1139 Budapest, Petneházy utca 38-42. A.lph. 1./8.",
+      "adószám": "19285377-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-21",
+      "statisztikai_számjel": "19285377-8696-569-01",
+      "x_koordináta": "47.5369022",
+      "y_koordináta": "19.0756782"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Kőszegi Martin ápolása, gondozása, tartása, egészségügyi ellátási költségeinek viselése. Hozzájárulás Martin életkörülményeinek javításához, például mozgását segítő segédeszközök beszerzéséhez, lakás átalakításhoz. Anyagi támogatás nyújtása az egészségügyi-, illetve a nyugdíjbiztosító által nem, vagy csak részben finanszírozott kezelések, műtétet, gyógykezelések, rehabilitációk költségeihez, az ezekhez kapcsolódó egyéb, például utazási és szállás költségekhez. Az anyagi lehetőségek függvényében bármely más olyan természetes személy támogatása aki fiatalon baleset miatt maradandó egészségkárosodást szenvedett.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012992",
+      "régi_nyilvántartási_száma": "12992/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kardos",
+        "Képviselő keresztneve": "Boglárka",
+        "Képviselő titulusa": "Alexandra",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "177",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 791 388 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 740 523 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 674 840 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

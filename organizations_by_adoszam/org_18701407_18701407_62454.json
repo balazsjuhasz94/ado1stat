@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18701407",
+  "scraped_at": "2026-02-21T14:17:00.357745",
+  "organization_id": "62454",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szerpentin Kerékpáros Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2025 Visegrád, Schulek utca 134/2.",
+      "x_koordináta": "47.7820017",
+      "y_koordináta": "18.9687254",
+      "adószám": "18701407-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-05-04",
+      "statisztikai_számjel": "18701407-9329-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja a tömegsport – különösen a kerékpározás jellemzőire alapozott tevékenységek – művelése, ismereteinek terjesztése, szervezése, ápolása és továbbfejlesztése, a szabadidősport és az aktívpihenés gyakorlása, valamint az egyesület hírnevének öregbítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0003753",
+      "régi_nyilvántartási_száma": "3753/2003",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-28",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bánk",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "2027-10-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "377 686 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "189 410 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "203 428 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "358 843 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "322 956 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szerpentin Kerékpáros Egyesület"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szerpentin Kerékpáros Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

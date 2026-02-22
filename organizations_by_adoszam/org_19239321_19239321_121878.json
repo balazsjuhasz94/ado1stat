@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19239321",
+  "scraped_at": "2026-02-14T13:31:30.295084",
+  "organization_id": "121878",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vadvilág-élőhelyrehabilitáló Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9112 Sokorópátka, Öreg utca 81.",
+      "x_koordináta": "47.4928723",
+      "y_koordináta": "17.6936504",
+      "adószám": "19239321-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-08",
+      "statisztikai_számjel": "19239321-9499-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Természet-, vad-, és vadélőhely-védelem. A társadalom széles körű bevonása a természetvédelembe, a vadak, illetve élőhelyük védelme, a helyes szemlélet kialakítása érdekében. [1996. évi LV. törvény, a vad védelméről, a vadgazdálkodásról, valamint a vadászatról, 34. §] A természetvédelmi kultúra fejlesztése, a természet védelmével kapcsolatos ismeretek oktatása. [1996. évi LIII. törvény a természet védelméről 64. § (1)] Helyi környezet- és természetvédelem, hulladékgazdálkodás. [2011. évi CLXXXIX. törvény Magyarország helyi önkormányzatairól 13. § (1) 11., 19.]",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051440",
+      "régi_nyilvántartási_száma": "51440/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Menyhárt",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "568 514 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "296 848 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "123",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 169 050 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

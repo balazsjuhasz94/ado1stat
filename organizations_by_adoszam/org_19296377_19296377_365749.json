@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19296377",
+  "scraped_at": "2026-02-21T13:38:58.183980",
+  "organization_id": "365749",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fiatalokkal Együtt Lépve Egyesület",
+      "rövid_név": "FEL Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Reményi Ede tér 2.",
+      "adószám": "19296377-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-25",
+      "statisztikai_számjel": "19296377-9499-529-10",
+      "x_koordináta": "47.9293607",
+      "y_koordináta": "20.4163058"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a) Erkölcsi, szervezési támogatást nyújt a Don Bosco Nővérek egri közössége köré szerveződő fiataloknak, valamint az Egri Szalézi Oratórium növendékeinek iskolán kívüli foglalkoztatásának megszervezése és anyagi támogatása végett. b) Keretet kíván nyújtani a keresztény értékrenden alapuló közösségi vallásgyakorláshoz egyházi felekezettől, valamint vallási meggyőződéstől függetlenül. c) Az egészséges életmód kialakítására való nevelés: egészségmegőrzés, egészségfejlesztés, egészségvédelem, egészséges életmódra nevelés, betegségmegelőzés, mozgás-gazdag, sportos életvitelre nevelés és ösztönzés. d) Megteremteni azokat a feltételeket, amelyek biztosítják az öntevékenység és a közösségi élet kibontakoztatását. e) Az ifjúság életének javítása, hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése. f) Idegennyelvek elsajátításának lehetővé tétele. g) Elősegíteni a működési területén található természeti értékek védelmét, a természeti értékek megismerését és azok bemutatását. Részt vállalni a természet- és környezetvédelem feladatainak megvalósításában, figyelemmel kísérni a természeti források ésszerű hasznosításának alkalmazását. h) A környezeti nevelés hatékonyságának növelése és a Nemzeti Alap Tanterv célkitűzéseinek megvalósulása érdekében előmozdítani a környezet- és természetvédelem feladatait ismertető előadások tartását, konferenciák szervezését, valamint az ifjúság korszerű környezet- és természetvédelmi szemléletre és annak megfelelő magatartásra való nevelését. i) Fiatalok önkéntes szolgálatának és szolidaritási megmozdulásainak előmozdítása, karitatív tevékenységekbe való bevonása. j) Fiatalok kultúrájának fejlesztése és oktatása, ezen ismeretek terjesztése, különös tekintettel a katolikus keresztény, azon belül a szalézi értékekre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002993",
+      "régi_nyilvántartási_száma": "2993/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Domán",
+        "Képviselő keresztneve": "Vivien",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "330 398 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "386 700 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

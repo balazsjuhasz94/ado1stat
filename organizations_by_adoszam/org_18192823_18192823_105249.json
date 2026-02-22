@@ -1,0 +1,154 @@
+{
+  "search_adoszam": "18192823",
+  "scraped_at": "2026-02-14T13:48:13.130042",
+  "organization_id": "105249",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budapesti Orvostanhallgatók Egyesülete",
+      "rövid_név": "Budapest MSA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1085 Budapest, Üllői út 22. II. emelet/207.",
+      "x_koordináta": "47.4781137",
+      "y_koordináta": "19.0915334",
+      "adószám": "18192823-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-04-05",
+      "statisztikai_számjel": "18192823-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Hozzájárulni széles látókörű, modern szemléletű, értékes hazai és nemzetközi tapasztalatokkal rendelkező orvosok képzéséhez a magyar egészségügy színvonalának emelése érdekében; szoros kapcsolatot kiépíteni az elmélet és a gyakorlat között, különös tekintettel az alapellátás és a megelőzés terén; tevékenyen részt venni széleskörű nemzetközi együttműködés kialakításában. Támogatni, ösztönözni az orvostanhallgatók nyelvtanulását és lehetőséget biztosítani a nyelvgyakorlásra, hangsúlyozottan szakmai témákban, hazai és nemzetközi fórumokon. Lehetőséget biztosítani elméleti és kutatómunkával foglalkozó hallgatók tudományos tapasztalatcseréjére, hazai és nemzetközi szinten egyaránt. Igényt kialakítani a felnövekvő orvos generációban magasabb színvonalú, hazai és nemzetközi ismereteket szintetizáló egészségügyi ellátás iránt. Szakmai téren tagjainak képviseletét ellátni. Kapcsolatot tartani más szakmai diákszervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0012417",
+      "régi_nyilvántartási_száma": "12417/2006",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-12-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "40",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Dominik",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "42 042 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "39 739 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "58 087 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "197 139 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "376 890 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "523 863 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "198 030 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 130 943 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "946 476 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Orvostanhallgatók Egyesülete Budapesti Helyi Bizottsága"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Orvostanhallgatók Egyesülete"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Orvostanhallgatók Egyesülete"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Orvostanhallgatók Egyesülete"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Orvostanhallgatók Egyesülete"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Orvostanhallgatók Egyesülete"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Orvostanhallgatók Egyesülete"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Orvostanhallgatók Egyesülete"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Budapesti Orvostanhallgatk Egyeslete",
+        "Év": "2018"
+      },
+      {
+        "Név": "Budapesti Orvostanhallgatók Egyesülete",
+        "Év": "2022"
+      },
+      {
+        "Név": "Budapesti Orvostanhallgatók Egyesülete",
+        "Év": "2023"
+      }
+    ]
+  },
+  "error": null
+}

@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "18656620",
+  "scraped_at": "2026-02-21T14:40:01.204292",
+  "organization_id": "45143",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Összefogás a Hátrányos Helyzetű Emberekért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9028 Győr, Erfurti út 35. 4/20.",
+      "x_koordináta": "47.6700621",
+      "y_koordináta": "17.6590592",
+      "adószám": "18656620-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-05",
+      "statisztikai_számjel": "18656620-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- hátrányos helyzetű emberek szociális segítése, - hátrányos helyzetű tehetségek felkutatása, támogatása, - segítségnyújtás a hátrányos helyzetű embereknek a társadalmi esélyegyenlőség eléréséhez, - egészséges életmódra való nevelés, - tömegsport népszerűsítése a társadalomban, - segítségnyújtás az oktatásban hátrányt szenvedett fiataloknak, - ifjúságvédelem, ifjúságsegítés, - drog prevenciós szolgáltatások kialakítása, - munkaerő-piaci szolgáltatások kialakítása, közvetítése, - a munkaerőpiacon hátrányos helyzetű rétegek képzésének, foglalkoztatásának elősegítése, képzési, foglalkoztatási programok lebonyolítása, - roma emberek érdekvédelme, érdekképviselete, - segítségnyújtás a magyarországi romák társadalmi beilleszkedéséhez, - a magyarországi roma kultúra népszerűsítése, - a hátrányos helyzetű roma emberek segítése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0062750",
+      "régi_nyilvántartási_száma": "62750/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-07-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pénzes",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-12-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "34 187 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "165 211 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "149 998 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 995 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Összefogás a Hátrányos Helyzetű Emberekért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19350592",
+  "scraped_at": "2026-02-21T12:57:46.952666",
+  "organization_id": "369543",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Emberkép Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1082 Budapest, Baross utca 85. 1. em./2. ajtó",
+      "adószám": "19350592-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-15",
+      "statisztikai_számjel": "19350592-8559-529-01",
+      "x_koordináta": "47.4869906",
+      "y_koordináta": "19.0740654"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "a./ Az egyesület elsősorban pszichológia szakos egyetemi hallgatókból, valamint egyéb humán és kulturális tevékenységek iránt érdeklődőkből áll. b./ Az egyesület elsődleges célja megteremteni és fenntartani egy olyan tehetségfejlesztő közeget, amely támogatást nyújt a tagok szakmai fejlődéséhez és munkáihoz. További célja az egyesületnek a közös munka során létrejövő tartalmak közvetítése nyilvános, edukatív és kulturális események formájában. c./ Az egyesület törekszik arra, hogy megteremtsen egy olyan interdiszciplináris teret, ahol a különböző humán, segítő és művészeti irányzatok párbeszédet, ezáltal közös munkát tudnak folytatni. d./ Az egyesület további célja teret adni olyan kulturális és művészeti programoknak, amelyek tartalmukat és koncepciójukat illetően kiegészítik azokat a pszichológiai konstruktumokat, amelyekkel tudományosan szemléljük az emberi viselkedést, és az emberek alkotta világ működését. e./ Az egyesület törekszik arra, hogy a fentebb említett események tartalmaiból mindenki számára elérhető ismeretterjesztő anyagokat készítsen. f./ Az egyesület fenntartja annak lehetőségét, hogy szervezzen olyan további, egyéb jellegű programokat, melyek megegyeznek az egyesület célkitűzéseivel. Az Egyesület munkája során szakmailag feddhetetlen, politikamentes tartalmakat képvisel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017955",
+      "régi_nyilvántartási_száma": "17955/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Harta",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "474 716 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19166672",
+  "scraped_at": "2026-02-21T13:13:04.959170",
+  "organization_id": "107319",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tailor Dance Sportegyesület",
+      "rövid_név": "TD SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6800 Hódmezővásárhely, Liget sor 35",
+      "x_koordináta": "46.40838",
+      "y_koordináta": "20.307412",
+      "adószám": "19166672-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-08-14",
+      "statisztikai_számjel": "19166672-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A Tailor Dance Sportegyesület célja Hódmezővásárhely és környéke számára a rendszeres sportolás és rekreációs tevékenység biztosítása. Egyesületünknek szándékában áll, hogy minden nemű és korú embernek biztosíthassa a lehetőséget a mozgásra, úgy, hogy folyamatosan megújuló, és változatos mozgásformákat nyújtunk számukra. Meggyőződésünk, hogy a vidéki emberek számára is járnak ugyanazok a lehetőségek sportolás tekintetében is, mint külföldön, vagy akár a fővárosban. Fontosnak tartjuk, hogy az általunk megteremtett lehetőségeket ne csak egy adott korosztály használhassa ki, és átadhassuk egy-egy új mozgásforma által a sportolás örömét és szeretetét. A Sportegyesület további célja olyan sportolók nevelése, akik magatartásukkal, eredményeikkel hozzájárulnak a magyar sportélet színvonalának emeléséhez, illetve elismerésre méltó hagyományainak fenntartásához.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003415",
+      "régi_nyilvántartási_száma": "3415/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-28",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "Kata",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "140 336 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 204 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "257 574 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "438 205 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tailor Dance Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,56 @@
+{
+  "search_adoszam": "19241607",
+  "scraped_at": "2026-02-21T14:39:16.465040",
+  "organization_id": "123682",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zuglói Medvék Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1142 Budapest, Kacsóh Pongrác utca 119. 4/16.",
+      "x_koordináta": "47.5230916",
+      "y_koordináta": "19.1295806",
+      "adószám": "19241607-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-24",
+      "statisztikai_számjel": "19241607-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A rendszeres sportolás, mozgás és – különösen, de nem kizárólagosan – civilek labdarúgó testedzésének biztosítása, illetve az ehhez és az egészséges életmódhoz kapcsolódó igények felkeltése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017389",
+      "régi_nyilvántartási_száma": "17389/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-26",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Dennis",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-06-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "294 630 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

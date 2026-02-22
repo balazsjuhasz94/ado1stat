@@ -1,0 +1,294 @@
+{
+  "search_adoszam": "18689682",
+  "scraped_at": "2026-02-14T14:57:51.092682",
+  "organization_id": "119621",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Regens-Wagner Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8647 Balatonmáriafürdő, Rákóczi utca 2.",
+      "x_koordináta": "46.7055254",
+      "y_koordináta": "17.3717029",
+      "adószám": "18689682-2-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-01-09",
+      "statisztikai_számjel": "18689682-8730-569-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Az Alapítvány minden hátrányos helyzetű és sérült vagy fogyatékos embernek segít, ápolja, gondozza, tanácsadással vagy egyéb módon gondjukat viseli az élet minden területén nemzeti, faji vagy vallási hovatartozásra tekintet nélkül, az általa követendőnek tekintett keresztény életfelfogás követelményeinek megfelelően.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0002004",
+      "régi_nyilvántartási_száma": "2004/2000",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-01",
+      "alkalmazottak_száma": "48",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Reille",
+        "Képviselő keresztneve": "Gerhard",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "1399",
+        "Leírás": "Egyéb textiláru gyártása m.n.s."
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "2732",
+        "Leírás": "Egyéb elektronikus, villamos vezeték, kábel gyártása"
+      },
+      {
+        "Kód": "3821",
+        "Leírás": "Nem veszélyes hulladék kezelése, ártalmatlanítása"
+      },
+      {
+        "Kód": "5510",
+        "Leírás": "Szállodai szolgáltatás"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "0128",
+        "Leírás": "Fűszer-, aroma-, narkotikus, gyógynövény termesztése"
+      },
+      {
+        "Kód": "1320",
+        "Leírás": "Textilszövés"
+      },
+      {
+        "Kód": "1392",
+        "Leírás": "Konfekcionált textiláru gyártása (kivéve: ruházat)"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "3299",
+        "Leírás": "Egyéb m.n.s feldolgozóipari tevékenység"
+      },
+      {
+        "Kód": "4753",
+        "Leírás": "Takaró, szőnyeg, fal-, padlóburkoló kiskereskedelme"
+      },
+      {
+        "Kód": "4764",
+        "Leírás": "Sportszer-kiskereskedelem"
+      },
+      {
+        "Kód": "4776",
+        "Leírás": "Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme"
+      },
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      },
+      {
+        "Kód": "4751",
+        "Leírás": "Textil-kiskereskedelem"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "9311",
+        "Leírás": "Sportlétesítmény működtetése"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "166 162 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 324 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 685 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "173 737 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "244 541 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "421 841 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "425 208 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "448 313 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "102",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "548 246 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "714 203 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "604 190 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens-Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens-Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens-Wagner Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Regens-Wagner Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

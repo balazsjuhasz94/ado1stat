@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19050546",
+  "scraped_at": "2026-02-14T12:19:45.472106",
+  "organization_id": "86578",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Border Collie Fajtamentő és Rehabilitációs Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2060 Bicske, Nagy Baboshegy dűlő 7078/3",
+      "x_koordináta": "47.6172524",
+      "y_koordináta": "19.1891657",
+      "adószám": "19050546-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-06-11",
+      "statisztikai_számjel": "19050546-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Border Collie fajtájú és fajta jellegű kutyák mentése és rehabilitációja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007359",
+      "régi_nyilvántartási_száma": "7359/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Papinóth Bartos",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "675",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 721 039 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "931",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 661 923 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1042",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 387 052 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "923",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 836 819 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "893",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 327 448 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Border Collie Fajtamentő és Rehabilitációs Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Border Collie Fajtamentő és Rehabilitációs Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

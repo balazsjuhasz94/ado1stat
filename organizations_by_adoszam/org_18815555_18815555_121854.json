@@ -1,0 +1,122 @@
+{
+  "search_adoszam": "18815555",
+  "scraped_at": "2026-02-21T13:56:50.959564",
+  "organization_id": "121854",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szabolcsi Jégsport Egyesület",
+      "rövid_név": "Szabolcsi Jég SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, István utca 7.",
+      "x_koordináta": "47.9583857",
+      "y_koordináta": "21.7269765",
+      "adószám": "18815555-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-06-28",
+      "statisztikai_számjel": "18815555-9319-521-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A nyíregyházi jégkorongsport, -műkorcsolya, -gyorskorcsolya és görkorcsolya megszervezése felnőtt és utánpótlás korcsoportokban. Az ifjúság egészséges életmódra nevelése, különös tekintettel a jégkorongsport, műkorcsolyázás, gyorskorcsolyázás és görkorcsolyázás megszerettetésére. Továbbá egészségmegőrző, betegségmegelőző tevékenység, egészségügyi rehabilitációs tevékenység.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0002614",
+      "régi_nyilvántartási_száma": "2614/2006",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-10",
+      "a_nyilvántartott_adatok_verziószáma": "28",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zsukk",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2030-05-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hegedűs",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "Koppány",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "78 240 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 694 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 573 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "178 397 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 205 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "356 166 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szabolcsi Jégsport Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szabolcs Jégsport Egyesület"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szabolcs Jégsport Egyesület"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szabolcsi Jégsport Egyesület"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szabolcs Jégsport Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szabolcsi Jégsport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szabolcsi Jégsport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

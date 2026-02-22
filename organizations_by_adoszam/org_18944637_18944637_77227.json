@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18944637",
+  "scraped_at": "2026-02-21T12:39:24.298205",
+  "organization_id": "77227",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rátkai Iskolásokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3908 Rátka, Iskola tér 2.",
+      "x_koordináta": "48.2134878",
+      "y_koordináta": "21.2265361",
+      "adószám": "18944637-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-11-28",
+      "statisztikai_számjel": "18944637-8569-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "a gyerekek testi, lelki, szellemi fejlődésének elősegítése; - önismereti tudásának növelése, a tudatos életvezetés megismertetése; - a hátrányos és halmozottan hátrányos helyzetű gyerekek felkarolása, foglalkoztatása; - a határon túli, testvértelepülési kapcsolatok erősítése és támogatása, a cserekapcsolatok elősegítése; - a tehetséges tanulók lehetőségeinek gazdagítása, bővítése; - segítségnyújtás az iskolai rendezvények szervezésében, s a lehetőségekhez mérten azok támogatása; - a szabadidő hasznos, kulturált eltöltésének támogatása; - segítségnyújtás az iskolai oktatás fejlesztéséhez szükséges eszközök beszerzésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064367",
+      "régi_nyilvántartási_száma": "64367/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10400322-50526966-55571006",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Müllerné Borbély",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Spéderné Sebő",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "228 942 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 323 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "466 761 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "525 561 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rátkai Iskolásokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

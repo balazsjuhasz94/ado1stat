@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18920934",
+  "scraped_at": "2026-02-21T14:14:32.938661",
+  "organization_id": "62697",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Balatonfűzfői Szakközépiskola Jövőjéért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8171 Fűzfőgyártelep, Gagarin utca 27.",
+      "x_koordináta": "47.0759295",
+      "y_koordináta": "18.0331296",
+      "adószám": "18920934-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-01-25",
+      "statisztikai_számjel": "18920934-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Az alapítvány célja, hogy az Irányítástechnikai Szakközépiskola és 303.sz. Ipari Szakmunkásképző Intézetben, illetve annak tanműhelyeiben és kollégiumában folyó oktató-nevelőmunka színvonalát emelje, korszerű eszközökkel segítse az intézményt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0000802",
+      "régi_nyilvántartási_száma": "802/1995",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "246 606 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 662 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": [
+      {
+        "Név": "BALATONFZFI SZAKKZPISKOLA JVJRT ALAPTVNY",
+        "Év": "2016"
+      }
+    ]
+  },
+  "error": null
+}

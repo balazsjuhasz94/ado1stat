@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "18751529",
+  "scraped_at": "2026-02-21T12:48:39.738999",
+  "organization_id": "32809",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fényeslitkéért Faluvédő Közalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4621 Fényeslitke, Kossuth Lajos utca 96.",
+      "x_koordináta": "48.2673726",
+      "y_koordináta": "22.097409",
+      "adószám": "18751529-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-06-20",
+      "statisztikai_számjel": "18751529-9699-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Fényeslitke község lakói, a település területén működő gazdálkodó szervek dolgozói, a község vonzáskörzetéhez kapcsolódó egyének - mint szélesebb érdekkörbe tartozók - épített és természeti környezetének védelme, a településfejlesztés és településrendezés, a köztisztaság és településtisztaság helyzetének javítása, az óvodai és iskolai nevelés, oktatás, az egészségügyi és szociális ellátás, a közösségi élet feltételeinek, a közművelődési, tudományos művészeti tevékenységnek, a népi kultúra emlékeinek ápolása, sportnak a támogatása, falusi turizmus, egyéb szálláshely szolgáltatás nyújtása, testvér-települési kapcsolat, egészséges életmód közösségi feltételeinek elősegítése, a földművelési, állattartási tevékenység támogatás, fenti célok egyházi és civil kezdeményezéseinek segítése, a helyi nyilvánosság (újság, falutévé, falurádió) felkarolása. 1. egészségmegőrzés, betegségmegelőzés, gyógyító-, egészségügyi rehabilitációs tevékenység, 2. szociális tevékenység, családsegítés, idős korúak gondozása, 3. nevelés és oktatás, képességfejlesztés, ismeretterjesztés, 4. kulturális tevékenység, 5. kulturális örökség megóvása, 6. műemlékvédelem, 7. természetvédelem állatvédelem, 8. környezetvédelem, 9. gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet, 10. hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése, 11. a magyarországi és nemzeti etnikai kisebbségeken és a határon túli magyarsággal kapcsolatos tevékenység, 12. a munkaviszonyban és a polgári jogi jogviszonykeretében megbízás alapján folytatott sporttevékenység kivételével, 13. egyéb szálláshely-szolgáltatás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002167",
+      "régi_nyilvántartási_száma": "2167/2005",
+      "alapítvány_típusa": "Közalapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lőrinczi",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 014 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 897 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "461 970 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "496 745 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fényeslitkéért Faluvédő Közalapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

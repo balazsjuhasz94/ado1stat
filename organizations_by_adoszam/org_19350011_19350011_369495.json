@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19350011",
+  "scraped_at": "2026-02-21T12:39:00.782967",
+  "organization_id": "369495",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egenus Gyermekekért és Környezetükért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2131 Göd, Lánchíd utca 43.",
+      "adószám": "19350011-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-06",
+      "statisztikai_számjel": "19350011-9499-569-13",
+      "x_koordináta": "47.6789027",
+      "y_koordináta": "19.1572094"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány elsődleges célja a hazai hátrányos helyzetű, nehéz körülmények között élő vagy egyéb okból rászoruló kiskorú gyermekek, a klasszikus és csonka családok, továbbá a hazai bölcsődék, óvodák és általános iskolák támogatása és fejlesztése pénzadománnyal, illetve természetbeni juttatással (pl. játékok, óvodai és iskolai eszközök beszerzése, szórakoztató, ismeretterjesztő rendezvények szervezése stb.). Az alapítvány célja továbbá a hazai társadalmi egyenlőtlenségek elsimítása, hátrányos helyzetű gyermekek felzárkóztatása, továbbá nevelési, oktatási környezetük minden módon történő fejlesztése. Az alapítvány további céljai: - a bölcsődébe, óvodába és alsó tagozatos általános iskolába járó gyermekek testi, szellemi és erkölcsi fejlődésének elősegítése - a magyar kuturális értékek megismertetése a gyerekekkel, valamint a megismertetett értékek védelme - a gyermekek környezetének szebbé és egészségesebbé tétele - a bölcsődék, óvodák udvarának és az udvaron található játékok felújítása, fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004341",
+      "régi_nyilvántartási_száma": "4341/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szilágyi",
+        "Képviselő keresztneve": "Botond (kurátor)",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "526 232 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

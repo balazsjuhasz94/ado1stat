@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19345907",
+  "scraped_at": "2026-02-21T13:16:47.450646",
+  "organization_id": "369145",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Muraszemenyei Otthonban Élő Értelmi Fogyatékosokért Alapítvány",
+      "rövid_név": "Muraszemenyei Fogyatékosokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8800 Nagykanizsa, Jókai út 5.",
+      "adószám": "19345907-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-22",
+      "statisztikai_számjel": "19345907-9499-569-20",
+      "x_koordináta": "46.4448315",
+      "y_koordináta": "16.9759849"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Szivárvány Integrált Szociális Intézmény Zala Vármegye Hóvirág Otthon Muraszemenye telephelyen fogyatékkal élő gondozottak kulturált és élményekben gazdag szabadidős tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001256",
+      "régi_nyilvántartási_száma": "1256/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sándor",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "429 387 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

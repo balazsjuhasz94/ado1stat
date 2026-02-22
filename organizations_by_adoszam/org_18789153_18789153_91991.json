@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18789153",
+  "scraped_at": "2026-02-14T12:16:37.895323",
+  "organization_id": "91991",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ürömi Duhajdombi Állatotthon Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2096 Üröm, Külterület 021/53. hrsz.",
+      "x_koordináta": "47.598213",
+      "y_koordináta": "19.013075",
+      "adószám": "18789153-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-17",
+      "statisztikai_számjel": "18789153-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja elérése érdekében az állatvédelemmel kapcsolatos minden területen aktív részvételt, segítséget nyújt, annak oktatása, hirdetése területein folytat tevékenységet. Ezen tevékenységek keretében az alapítvány célja a bármilyen körülmények között rászoruló állatok mentése, a megfelelő állattartás széles körben történő elterjesztése és az ehhez kapcsolódó minden körben történő aktív munka végzése és segítségnyújtás. Fentieken túl kiemelten fontos a gazdátlan, kóbor állatok mentése, befogása, valamint olyan állatmenhely létrehozása, működtetése, mely ezen állatok gondozását, szocializációját, rehabilitációját, valamint gazdához juttatását segítené.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003817",
+      "régi_nyilvántartási_száma": "3817/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-01-07",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-13",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10700392-69718321-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szűcsné Mércse",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "896",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 799 877 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "972",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 079 326 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 519 369 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1121",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 002 383 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1363",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 565 705 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1268",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 622 650 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1612",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "18 956 446 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ürömi Duhajdombi Állatotthon Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ürömi Duhajdombi Állatotthon Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ürömi Duhajdombi Állatotthon Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ürömi Duhajdombi Állatotthon Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

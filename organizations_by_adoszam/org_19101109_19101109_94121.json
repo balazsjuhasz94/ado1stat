@@ -1,0 +1,107 @@
+{
+  "search_adoszam": "19101109",
+  "scraped_at": "2026-02-14T13:08:15.408690",
+  "organization_id": "94121",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CSUPACSODA Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1204 Budapest, Tátra tér 1.",
+      "x_koordináta": "47.4355269",
+      "y_koordináta": "19.1285217",
+      "adószám": "19101109-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-05",
+      "statisztikai_számjel": "19101109-8520-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány elsődleges célja a Kreatív Iskola létrehozása, fenntartása, támogatása és a Csupacsoda Óvoda fenntartói jogának átvétele, fenntartása, támogatása. Az Alapítvány további céljai az Iskolában és az Óvodában, valamint azoktól függetlenül is a következők: - Tanulói csoportok szervezése, működésének támogatása - Sajátos nevelési igényű gyermekek nevelésének, oktatásának, fejlesztésének megszervezése és támogatása. - Az óvoda-iskola átmenet megszervezése, iskola-előkészítő tevékenységek szervezése, vezetése, támogatása. -Sajátos nevelési igényű gyermekek, tanulók integrált nevelése, oktatása - Egyéni fejlesztő foglalkozások megszervezése gyermekek, tanulók részére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012710",
+      "régi_nyilvántartási_száma": "12710/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-11-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-29",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-10",
+      "bankszámlaszám": "11720001-22472410",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Polcz-Csiszár",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "414 673 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 002 610 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 430 085 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "105",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 530 372 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 527 191 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSUPACSODA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSUPACSODA ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

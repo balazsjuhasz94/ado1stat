@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18654147",
+  "scraped_at": "2026-02-21T13:04:39.373077",
+  "organization_id": "101073",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Metronóm Zenei Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2440 Százhalombatta, Berzsenyi Dániel utca 1.",
+      "x_koordináta": "47.3176924",
+      "y_koordináta": "18.9019366",
+      "adószám": "18654147-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-07-31",
+      "statisztikai_számjel": "18654147-8552-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Kulturális örökség megóvása, kulturális tevékenység végzése. A ritmushangszerek népszerűsítése. A dob, mint mozgáskoordinációt fejlesztő eszköz megismertetése. A zenekultúra (könnyűzene, népzene műzene, a világ és egyházi zene) értékeinek feltárása és ápolása, kiemelkedő szerepet biztosítva a magyar zenei értékeknek. Az egyesület tagjainak, tagszervezeteinek érdekképviselete, érdekvédelme. Gyermek, ifjúsági, felnőtt és idős generációk szabadidő kihasználásának támogatása művészeti igényeik kielégítése. Együttműködés a magyar könnyűzenei mozgalom fejlődésében érdekelt állami, egyházi, társadalmi, civil szervezetekkel és mozgalmakkal, valamint gazdasági társulásokkal vállalkozásokkal. Az egyesület tagjaitól információk begyűjtése, részekre az egyesület rendelkezésére álló információk megadása. A szakmai együttműködés erősítése más zenei társaságokkal és a hivatásos zenei élet képviselőivel, valamint más amatőr művészeti ágak szervezeteivel. Társadalmi és kulturális érték létrehozatala, amely a későbbiekben más településeken is folytatható.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006778",
+      "régi_nyilvántartási_száma": "6778/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-04-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10101119-68618900-01004003",
+      "számlavezető_pénzintézet_neve": "Budapest Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buzás",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2024-04-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "160 414 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 474 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 109 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 487 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "392 007 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "457 825 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "METRONÓM Zenei Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Metronóm Zenei Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Metronóm Zenei Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

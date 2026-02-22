@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18905821",
+  "scraped_at": "2026-02-14T14:22:50.496052",
+  "organization_id": "70203",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élet Kis Virága Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2017 Pócsmegyer , Hóvirág út 43.",
+      "x_koordináta": "47.705811",
+      "y_koordináta": "19.148798",
+      "adószám": "18905821-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-02",
+      "statisztikai_számjel": "18905821-8696-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az extrém koraszülés szövődményei által súlyosan károsodott Völgyi Luca Dóra (1039 Budapest, Gyűrű utca 13. I. em.5., anyja: Zörgő Sára, születési hely és idő: Budapest, 2008.augusztus 8.) ápolása és gondozása, maradandó egészségkárosodásának enyhítése, életvitelének, társadalmi beilleszkedésének megkönnyítése, illetve a hasonló helyzetbe került családok segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003866",
+      "régi_nyilvántartási_száma": "3866/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-02-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "663 292 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "680 480 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "890 163 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "831 657 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "751 152 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Élet Kis Virága Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Élet Kis Virága Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

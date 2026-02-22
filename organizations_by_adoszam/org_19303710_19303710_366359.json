@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19303710",
+  "scraped_at": "2026-02-14T13:28:22.287636",
+  "organization_id": "366359",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fenevadak Földje Karakán Mentés és Állatvédő Egyesület",
+      "rövid_név": "Karakán Mentés",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4183 Kaba, Kossuth Lajos utca 11. A",
+      "adószám": "19303710-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-26",
+      "statisztikai_számjel": "19303710-9499-529-09",
+      "x_koordináta": "47.356037",
+      "y_koordináta": "21.2982785"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Elsődlegesen karakán kutyafajták és Kabai kutyák mentése és gazdához juttatása. A karakán kutyafajták tartásának sajátosságait megismertetni a kutyatartókkal, valamint az érdeklődőkkel. A nagytestű (karakán) kutyafajták és pásztorkutyák fajtajellegének megfelelő tartásának előmozdítása, tartási követelményeinek javítása. Területileg és országosan is ismert szervezetekkel való aktív szakmai kapcsolat ápolása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005148",
+      "régi_nyilvántartási_száma": "5148/2021",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-25",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Domokos",
+        "Képviselő keresztneve": "Norbertné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [
+      {
+        "Folyamatban lévő eljárás típusa": "NAV végrehajtás",
+        "Folyamatban lévő eljárás kezdete": ""
+      }
+    ],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "130",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 141 871 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 158 075 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

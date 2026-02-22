@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19297873",
+  "scraped_at": "2026-02-14T13:40:56.937379",
+  "organization_id": "365889",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mohácsi Speciális Mentő és Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Mohácsi Speciális Mentők",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7700 Mohács, Pécsi út 8.",
+      "adószám": "19297873-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-18",
+      "statisztikai_számjel": "19297873-8425-529-02",
+      "x_koordináta": "46.0076217",
+      "y_koordináta": "18.6650251"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az Egyesület azért alakult meg, hogy elősegítse a térségben az önkéntesség és a tűzoltói hivatás népszerűsítését a civil lakosság körében, valamint az egyesület célja a térségben működő hivatásos katasztrófavédelmi szervek anyagi, technikai és személyi támogatása különös tekintettel a szakmai és sportversenyek területén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0004000",
+      "régi_nyilvántartási_száma": "4000/2021",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-03-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "May-Varga",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "603 535 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "121",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 033 170 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

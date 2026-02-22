@@ -1,0 +1,123 @@
+{
+  "search_adoszam": "19551511",
+  "scraped_at": "2026-02-14T14:47:13.347738",
+  "organization_id": "75128",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nemesnádudvari Női Kézilabda- és Szabadidő Egyesület",
+      "rövid_név": "Nemesnádudvari NKSZE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6345 Nemesnádudvar, Hunyadi utca 16.",
+      "x_koordináta": "46.339225",
+      "y_koordináta": "19.048056",
+      "adószám": "19551511-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-09-18",
+      "statisztikai_számjel": "19551511-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A község női kézilabda igényeinek felmérése, kielégítése, tömegsport és minőségi versenysport szervezése, feltételeinek biztosítása, utánpótlás nevelése, jó sporthagyományok kialakítása és ápolása és elsősorban részvétel a megyei női kézilabda bajnokságban. A kézilabda szakmai színvonalának lehetőségekhez mérten történő emelése, a sportág népszerűsítése. A sportegyesület tagjai részére a rendszeres edzés és versenyzés biztosítása. A diáksport fejlesztése, a helyi oktatási intézményekkel szoros együttműködés kiépítése. Utánpótlás-nevelés, az ifjúság rendszeres testnevelésének és sporttevékenységének elősegítése, a sportolás népszerűsítése. A sportegyesület olyan civil szervezet, amelynek alaptevékenysége a sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése. A sportegyesület a magyar sport hagyományos szervezeti alapegysége, a szabadidősport, a versenysport, a tehetséggondozás és az utánpótlás-nevelés műhelye.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0002946",
+      "régi_nyilvántartási_száma": "2946/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-10",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kleinné Simon",
+        "Képviselő keresztneve": "Zsuzsanna Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Oláh-Hermanutz",
+        "Képviselő keresztneve": "Angéla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 211 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "295 849 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 794 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "120 607 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 622 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "136 412 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 579 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "636 841 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemesnádudvari Nói Kézilabda-és Szabadidő Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemesnádudvari Nói Kézilabda-és Szabadidő Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "NNNKSZ Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemesnádudvari Női Kézilabda- és Szabadidő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemesnádudvari Női Kézilabda- és Szabadidő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

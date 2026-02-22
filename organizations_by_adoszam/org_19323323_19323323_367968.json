@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19323323",
+  "scraped_at": "2026-02-14T12:14:54.902887",
+  "organization_id": "367968",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Hang Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1095 Budapest, Mester utca 33-35. félemelet/7.",
+      "adószám": "19323323-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-04",
+      "statisztikai_számjel": "19323323-9499-569-01",
+      "x_koordináta": "47.4595567",
+      "y_koordináta": "19.079809"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A társadalmi felelősségvállalás erősítése a társadalmi igazságosság jegyében; segítségnyújtás az anyagilag és szociálisan a társadalom peremére szorultaknak sorsuk bemutatásával és számukra adományok gyűjtésével; környezetvédelemre és fenntartható fejlődésre való nevelés erősítése; közpénzek, közvagyon felhasználásának és hasznosításának feltárása és bemutatása; határokon átívelő együttműködés erősítése, magyar közösségek életének hiteles bemutatása, az ilyen tevékenység támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013256",
+      "régi_nyilvántartási_száma": "13256/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-03-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-24"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "György",
+        "Képviselő keresztneve": "Zsombor",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2508",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 256 697 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

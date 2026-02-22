@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19279293",
+  "scraped_at": "2026-02-21T13:47:29.604053",
+  "organization_id": "364769",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fantasy Dance Company Tánc-Sport és Légtornász Egyesület",
+      "rövid_név": "FantasyDC TSLE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Székelytelepi utca 2",
+      "adószám": "19279293-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-24",
+      "statisztikai_számjel": "19279293-8552-521-03",
+      "x_koordináta": "46.8818884",
+      "y_koordináta": "19.7076783"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A tánckultúra, a mozdulatművészet és a légtorna fejlesztése. Az Egyesület további célja, hogy a táncot kedvelő, művelő, illetve a tánc iránt érdeklődő, szimpátiát érző embereket összefogja; a tánc önkifejező és közösségszervező erejét minél szélesebb körben megismertesse és a légtornát népszerűsítése. A tehetség gondozás: táncművészet iránt érdeklődő fiatal tehetségek támogatása, oktatása. Tehetséges fiatalok felkutatása, fejlesztése. Hátrányos helyzetű fiatalok támogatása, közösség szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003850",
+      "régi_nyilvántartási_száma": "3850/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-11",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-24",
+      "bankszámlaszám": "11732002-23565957-00000000",
+      "számlavezető_pénzintézet_neve": "Otp Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Darányi",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "346 214 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "590 131 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 375 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

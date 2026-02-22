@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "19141480",
+  "scraped_at": "2026-02-14T12:58:11.702331",
+  "organization_id": "105380",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ajka és Térsége Mentésügyéért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8400 Ajka, Ipari Park 5708/1. hrsz.",
+      "x_koordináta": "47.117163",
+      "y_koordináta": "17.540395",
+      "adószám": "19141480-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-08",
+      "statisztikai_számjel": "19141480-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az ajkai mentőállomás tárgyi feltételeinek javítása, a mentésben részt vevők és a város gazdálkodó szervezetei közötti, a szükség esetén felmerülő mentési munkák megkönnyítését, késedelemnélküliségét biztosító együttműködés, a rendszeres konzultáció és tapasztalatcsere elősegítése, mentéssel kapcsolatos ismeretterjesztés, a mentők munkájának elismerése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001825",
+      "régi_nyilvántartási_száma": "1825/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-14",
+      "bankszámlaszám": "10101133-29006000-01005003",
+      "számlavezető_pénzintézet_neve": "Budapest Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Imre",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "161",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "994 118 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "169",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 256 307 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "137",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 089 803 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "209",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 796 173 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ajka és Térsége Mentésügyéért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

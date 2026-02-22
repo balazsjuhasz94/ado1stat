@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19064518",
+  "scraped_at": "2026-02-21T14:22:58.881088",
+  "organization_id": "88517",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Péri Motorosok Baráti Köre Egyesület",
+      "rövid_név": "Péri Motorosok",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9099 Pér, Petőfi utca 1.",
+      "x_koordináta": "47.6111707",
+      "y_koordináta": "17.8007431",
+      "adószám": "19064518-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-10",
+      "statisztikai_számjel": "19064518-9329-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Pér településen és környékén élő motorosok összefogása és közösségteremtés azzal a céllal, hogy a régió motorosainak fejlődését elősegítse, a motorosokat integrálja. A motorozás népszerűsítése minden korosztályban, és a motoros hagyományok ápolása. A motorosok érdekvédelmének ellátása, érdekképviselet hatékonyabbá tétele. Motoros túrák és programok szervezése, tekintet nélkül a motorok típusára. Baráti összejövetelek szervezése, lebonyolítása, csapatépítés. Szakmai tanácsadás, amely kiterjed a motorgépészeti, valamint vezetési, közlekedési ismeretekre is. Hazai és nemzetközi motoros rendezvényeken (túrák, fesztiválok, bemutatók stb.) való részvétel, kulturális és sport rendezvények szervezése. Közlekedés biztonsági képzések szervezése a biztonságos közlekedés elősegítése, és a balesetek csökkentése érdekében. Fiatal motorosok patronálása. A környezetvédelem iránt elkötelezett emberek összefogásának, tevékenységük elismertségének elősegítése oktatási, ismeretterjesztési és gyakorlati képzések által. Környezetvédelem iránti elkötelezettség iskoláskorban történő nevelésének elősegítése. Az egészséges, élhető környezetet népszerűsítő rendezvények szervezése, népszerűsítő kiadványok, informatikai oktatóprogramok készítése, kiadása, adatbázisok létrehozása, kezelése, és azok támogatása. A természet közeli turizmus népszerűsítése, a természetben való sportos, aktív túrázás népszerűsítése, az ifjúsági és diák korosztályokkal a motoros kirándulások megismertetése és megszerettetése. Természeti és környezeti értékek megismertetése, védelmük aktív elősegítése. Határon túli kapcsolatok kialakítása és azok ápolása, különösen a határon túli magyar motoros egyesületekkel, Karitatív tevékenység és segítségnyújtás a rászorulóknak. Hasonló célú civil szervezetekkel, önkormányzatokkal, vállalkozásokkal hazai és nemzetközi együttműködések kialakítása, meglévők ápolása. A mozgássérült személyek társadalmi beilleszkedést segítő közösségi szolgáltatások nyújtása az életvitel, a sport, a szabadidősport, a versenysport és az egyéb szabadidős tevékenységek, a pihenés, a rekreáció, a fejlesztés, a képzés, a rehabilitációs célú foglalkoztatás területén. A fenntartható fejlődés jegyében az alternatív meghajtású járművek propagálása, új üzemanyagok kifejlesztésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063034",
+      "régi_nyilvántartási_száma": "63034/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegyi",
+        "Képviselő keresztneve": "Benjamin",
+        "Képviselő titulusa": "Richárd",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-03",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kolonics",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-08-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 902 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "315 659 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19089528",
+  "scraped_at": "2026-02-14T12:19:04.989272",
+  "organization_id": "90736",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bárka Cicamentő Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2100 Gödöllő, Havas utca 42.",
+      "x_koordináta": "47.5869962",
+      "y_koordináta": "19.3985725",
+      "adószám": "19089528-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-10-24",
+      "statisztikai_számjel": "19089528-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja a székhelyén és a környékbeli települések utcáin élő, gazdátlan, kidobott cicák helyzetének segítése, életkörülményeinek javítása, a nem kívánt szaporulatok megelőzése. A cicák mindennapi ellátása mellett nagy hangsúlyt fektetünk az ivartalanítás, az orvosi ellátás fontosságára, a téli menedék biztosítására. Olyan magánszemélyek segítése, akik a cicáik ivartalanítását önerőből nem tudják teljes egészében finanszírozni, de felelősen gondolkodnak, és szeretnék a további szaporulatok megszületését megelőzni. Felhívni a figyelmet a cicatulajdonosok számára szükséges védőoltások beadatására. A kidobott, utcán élő cicák gazdihoz segítése, az átmeneti időszakra ideiglenes befogadás biztosítása a számukra szükséges orvosi ellátás és élelmezés mellett. Magánszemélyeknek vagy szervezeteknek való segítségnyújtás befogadással kapcsolatosan. Fellépés az állatkínzókkal szemben, az állatvédelmi törvények betartására való figyelmeztetés. Felelős állattartás témában szakkörök, iskolai órák tartása és tartásának segítése. Vállakozások bevonása az állatmantés támogatásába. Együttműködés a működései területen lévő települések önkormányzataival. Együttműködés hazai és külföldi állatmentő szervezetekkel, magánszemélyekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003983",
+      "régi_nyilvántartási_száma": "3983/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-03-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10700796-70986895-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Karsai",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "776",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 447 607 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "986",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 343 737 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "966",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 489 276 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1084",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 908 163 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bárka Cicamentő Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

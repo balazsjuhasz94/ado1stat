@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18749298",
+  "scraped_at": "2026-02-21T13:49:06.121296",
+  "organization_id": "98465",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gladiators Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4034 Debrecen, Asztalos utca 42/3.",
+      "x_koordináta": "47.5173701",
+      "y_koordináta": "21.6465343",
+      "adószám": "18749298-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-23",
+      "statisztikai_számjel": "18749298-9312-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "- Az egyesület célja, hogy a lovassport sportágakban sportoló gyermekeket összefogva, és az egyesület keretein belül biztosítsa számukra az egészséges életmódhoz, testmozgáshoz, sportoláshoz és versenyzéshez szükséges feltételeket; - Lovasturizmus népszerűsítése; - Lovassport hagyományok megőrzése, népszerűsítése; - Gyermek és felnőtt lovasoktatás feltételeinek biztosítása; - Magyar és sport lófajták megismertetés, tenyésztésük elősegítése; - Egyesületi cél továbbá a folyamatos utánpótlás nevelés, és tehetséggondozás biztosítása; - Az egyesület célja továbbá, hogy a lovas sportok népszerűsítése által elősegítse a napi szintű testmozgásra, a szabadidő hasznos és egészséges eltöltésére való nevelést",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004675",
+      "régi_nyilvántartási_száma": "4675/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-30",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buka",
+        "Képviselő keresztneve": "Sára",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "156 217 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "44 317 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 536 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "31 323 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "369 648 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gladiators Sporegyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gladiators Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gladiators Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gladiators Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,123 @@
+{
+  "search_adoszam": "18481769",
+  "scraped_at": "2026-02-14T13:20:07.556097",
+  "organization_id": "37760",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ALBA REGIA ATLÉTIKAI KLUB",
+      "rövid_név": "ARAK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Bregyó köz 1.",
+      "x_koordináta": "47.2026394",
+      "y_koordináta": "18.4012658",
+      "adószám": "18481769-2-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1993-12-18",
+      "statisztikai_számjel": "18481769-9319-521-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Atlétika és tájfutás sportágakban magas színvonalú szakmai tevékenység végzése, a sportág népszerűsítése, az ifjúság sporttevékenységének elősegítése, az utánpótlás nevelés fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0000938",
+      "régi_nyilvántartási_száma": "938/1993",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-11-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-28",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tölgyesi",
+        "Képviselő keresztneve": "Előd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "413 301 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "482 860 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "463 222 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "474 517 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "632 485 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "500 893 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "799 229 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "814 693 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "116",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 287 921 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alba Regia Atlétikai Klub"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alba Regia Atlétikai Klub"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alba Regia Atlétikai Klub"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alba Regia Atlétikai Klub"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALBA REGIA ATLÉTIKAI KLUB"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ALBA REGIA ATLÉTIKAI KLUB"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

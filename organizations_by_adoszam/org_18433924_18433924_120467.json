@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18433924",
+  "scraped_at": "2026-02-21T14:13:43.497170",
+  "organization_id": "120467",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mikóházi Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3989 Mikóháza, Szabadság utca 10.",
+      "x_koordináta": "48.4610727",
+      "y_koordináta": "21.6184065",
+      "adószám": "18433924-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-03-29",
+      "statisztikai_számjel": "18433924-9312-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja, hogy az egyesület tagjai részére biztosítja a rendszeres testedzés és sportolás lehetőségét versenyszerű körülmények között, ápolja és fejleszti hazai és nemzetközi sportkapcsolatait ugyanakkor nem zárja ki, hogy tagjain kívül más is részesülhessen a szolgáltatásaiból.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0002859",
+      "régi_nyilvántartási_száma": "2859/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-05",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dudás",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "121",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "744 719 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "122",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "736 079 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "332 974 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

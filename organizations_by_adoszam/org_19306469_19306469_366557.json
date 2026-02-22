@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19306469",
+  "scraped_at": "2026-02-21T13:56:18.356188",
+  "organization_id": "366557",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Törökbálinti Tündérkert Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2045 Törökbálint, Kazinczy Ferenc utca 12.",
+      "adószám": "19306469-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-28",
+      "statisztikai_számjel": "19306469-8891-569-13",
+      "x_koordináta": "47.4393394",
+      "y_koordináta": "18.9113983"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A bölcsődés gyermekek életkorának és szellemi fejlettségének megfelelő szabadidős, ünnepi, nevelési, oktatási programok szervezése. Olyan eszközök beszerzése /játékok, bútorok, egyéb használati tárgyak/, melyek az alapellátást meghaladó szintű működést segítik elő, emelve ezzel a bölcsőde pedagógiai és szakmai munkájának fejlesztését. A bölcsődébe járó gyermekek számára, színvonalas bölcsődei környezet biztosítása, költségvetés keretein túl. Szociális tevékenység, hátrányos helyzetű családok esély egyenlőségének elősegítése. A kisgyermeknevelők minőségi szakmai továbbképzésének a segítése, szakmai folyóiratok biztosításával, szakirodalmi és egyéb oktatási anyagok beszerzésével. Egészségnevelés, oktatás, ismeretterjesztés, képességfejlesztés, tárgyi munkafeltételek biztosítása, gépek, eszközök beszerzése révén. Szakmai képzéseken, Konferenciákon való részvétel támogatása, tanulmányi utakon való részvétel támogatása a költségvetés keretein túl.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004201",
+      "régi_nyilvántartási_száma": "4201/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10918001-00000099-49160006",
+      "számlavezető_pénzintézet_neve": "Unicredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Megyaszai",
+        "Képviselő keresztneve": "Antalné (elnök)",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 701 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "361 891 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

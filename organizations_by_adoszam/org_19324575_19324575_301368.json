@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19324575",
+  "scraped_at": "2026-02-21T12:33:54.662725",
+  "organization_id": "301368",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Tegyünk együtt a szívbeteg gyermekekért\"Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3524 Miskolc, Mednyánszky László utca 26 3/4",
+      "adószám": "19324575-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-26",
+      "statisztikai_számjel": "19324575-8230-569-05",
+      "x_koordináta": "48.0912316",
+      "y_koordináta": "20.772176"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "1. A szívbeteg újszülöttek, csecsemők és gyermekek gyógyulásának segítése, életminőségük javítása, kórházi ellátási színvonalánakemelése, műtéti és gyógyulási esélyeinek javítása; 2. A betegség újbóli kialakulásának megelőzése, a rejtett szívbetegségek feltárásának és gyermekkori kialakulásuk megelőzésének elősegítése; 3. Testi-lelki rehabilitáció elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064606",
+      "régi_nyilvántartási_száma": "64606/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10402764-50526971-69821007",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kubonyi",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "290 028 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "543 133 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

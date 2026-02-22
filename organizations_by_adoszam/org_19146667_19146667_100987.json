@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19146667",
+  "scraped_at": "2026-02-14T14:51:20.787550",
+  "organization_id": "100987",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dunakeszi Óvodásokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Fő út 75-81.",
+      "x_koordináta": "47.6355306",
+      "y_koordináta": "19.1299061",
+      "adószám": "19146667-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-16",
+      "statisztikai_számjel": "19146667-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja az óvodai nevelés Dunakeszin történő korszerű kialakítása, a gyermekek nevelésének, oktatásának, képességeik fejlesztésének, az iskolai előkészítés biztosítása, az esélyegyenlőség szem előtt tartásával, beleértve a speciális nevelési igényű gyermekeket is. Az alapítvány célja a gyermekek és Dunakeszi város lakossága - különösen a hátrányos szociális helyzetben lévő polgárok - jobb életminőségének és személyiségfejlesztésének támogatása, az egészséges életmódra, táplálkozásra nevelés elősegítése, a művészetek, ideges nyelv, számítástechnika, és az aktív sportolás iránti érdeklődés feltételeinek megteremtése. Az alapítvány célja Dunakeszi városában komplex egészségmegőrző, fejlesztő programok támogatásával, a kor színvonalának megfelelő gyógyító megelőző eljárások alkalmazásának elősegítésével, az ehhez szükséges orvosi műszerek, berendezések beszerzésével, az ellátást nyújtó orvosok, asszisztensek, ápolók szakmai ismereteinek bővítésével, az egészségtudatos életmód elterjesztésével, a lakosság általános egészségi állapotának javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003858",
+      "régi_nyilvántartási_száma": "3858/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-11-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dombováriné dr. Kozák",
+        "Képviselő keresztneve": "Nikolett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "436 782 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "709 226 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "596 699 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "628 137 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dunakeszi Óvodásokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

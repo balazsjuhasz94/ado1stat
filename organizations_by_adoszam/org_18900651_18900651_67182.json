@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18900651",
+  "scraped_at": "2026-02-14T12:29:35.711977",
+  "organization_id": "67182",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Komondor Fajtamentő, Fajtamegőrző Állatvédő és Oktató Alapítvány",
+      "rövid_név": "Komondor Fajtamentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Schmidt Mihály utca 10. 2/5.",
+      "x_koordináta": "47.9784569",
+      "y_koordináta": "21.7233955",
+      "adószám": "18900651-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-18",
+      "statisztikai_számjel": "18900651-0162-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A komondor, mint 1000 éves, ősi magyar fajta megmentése, hajdani értékeinek helyreállítása, egyedeinek mentése (gyepmesteri telepekről, utcáról stb.) önkéntesek bevonásával. (Komondor) Rehabilitációs Állomás létrehozása, a mentett egyedek gondozására, ismertető előadások tartásának helyszínére, wesen-tesztek (ösztönpróbák) tartására és a hajdani magyar pásztorélet bemutatására. A mentett egyedek, chipezése, oltása, féregtelenítése, esetleges gyógyítása, rehabilitációja, szocializációja és végül újra családba helyezése. A fajta népszerűsítése, fajtanépszerűsítő séták szervezése, fajtabemutatók szervezése pl. általános iskolákban, belföldi és nemzetközi fajtanépszerűsítés. A fajta tulajdonságainak, kezelésének, használhatóságának ismertetése, ismereteinek terjesztése (Komondoros \"tankönyvirodalom\" kialakítása, kiadatása), tenyésztők, komondor tartók és laikusok felé is. Oktató anyagok kidolgozása (könyvek, albumok, CD-k stb.) a fajta külső, belső tulajdonságairól, ismert betegségeiről, neveléséről, etetéséről, tartásáról stb. A komondor belső tulajdonságainak a küllemmel egyenrangra helyezése, ösztön-tesztek szervezése, azok eredményeinek is nyílt adatbázisba való vonása. A magyar-lakta területek komondorainak felkutatása, külső és belső tulajdonságainak felmérése és nyílt adatbázisba tömörítése. Wesen-tesztek (ösztön próbák szervezése, azok szervezésének támogatása, mely a fajta belső tulajdonságainak kutatásához ad alapot.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002506",
+      "régi_nyilvántartási_száma": "2506/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-03-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-03",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegedűs",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "0162",
+        "Leírás": "Állattenyésztési szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "216",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 496 888 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "264",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 394 218 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "296",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 830 371 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "420",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 458 082 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Komondor Fajtamentő, Fajtamegőrző Állatvédő és Oktató Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19252872",
+  "scraped_at": "2026-02-21T13:14:26.313903",
+  "organization_id": "301139",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kooperatív Oktatásért Regionális Alapítvány",
+      "rövid_név": "KORA Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6724 Szeged, Tó utca 4. B.",
+      "adószám": "19252872-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-28",
+      "statisztikai_számjel": "19252872-8559-569-06",
+      "x_koordináta": "46.2639605",
+      "y_koordináta": "20.1348953"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Leonardo Médiaakadémia Gimnázium, Szakgimnázium és Általános Iskola szegedi KoRa Iskolájában folyó oktató-nevelő munka szakmai és tárgyi feltételeinek javítása, az iskola tanulóinak nevelés-oktatása, képességfejlesztése, számukra ismeretterjesztés, kulturális tevékenység biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001733",
+      "régi_nyilvántartási_száma": "1733/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-07-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kis",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "375 333 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "623 873 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "435 258 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

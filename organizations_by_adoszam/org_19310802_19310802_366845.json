@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19310802",
+  "scraped_at": "2026-02-14T13:12:10.241159",
+  "organization_id": "366845",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Játszd újra Áron! Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7741 Nagykozár, Alkony utca 8.",
+      "adószám": "19310802-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-06",
+      "statisztikai_számjel": "19310802-9499-569-02",
+      "x_koordináta": "46.0629888",
+      "y_koordináta": "18.3238008"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A 2018. évben közlekedési balesetben koponyasérülést szenvedett Gergely Áron teljeskörű gyógykezelésének, gyógyulásának, állapotjavulásának, valamint az ezekre vonatkozó terápiás kezeléseknek az elősegítse, valamint a fenti célok teljesítéséhez kapcsolódó adományok, illetve gyűjtés szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001932",
+      "régi_nyilvántartási_száma": "1932/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fischer-Sárközi",
+        "Képviselő keresztneve": "Julianna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "130",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 428 871 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "18909234",
+  "scraped_at": "2026-02-21T12:31:21.458593",
+  "organization_id": "71883",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Színes Kockák Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Kiscelli utca 104.",
+      "x_koordináta": "47.520743",
+      "y_koordináta": "18.990873",
+      "adószám": "18909234-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-28",
+      "statisztikai_számjel": "18909234-8510-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Óvodás és kisiskolás korú gyermekek iskolai felkészítése, nevelésének támogatása, készségfejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012486",
+      "régi_nyilvántartási_száma": "12486/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sindulár",
+        "Képviselő keresztneve": "Marianna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "212 505 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "215 889 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "498 256 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "400 320 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Színes Kockák Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

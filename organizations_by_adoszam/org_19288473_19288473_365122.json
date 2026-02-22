@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19288473",
+  "scraped_at": "2026-02-14T12:50:41.374748",
+  "organization_id": "365122",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ZOO KOMLÓ ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7300 Komló, Munkácsy Mihály utca 46.",
+      "adószám": "19288473-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-02",
+      "statisztikai_számjel": "19288473-9499-569-02",
+      "x_koordináta": "46.1989923",
+      "y_koordináta": "18.2619741"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A jövő generációjának környezeti és természetvédelmi oktatása, szemléletformálása. A hazai vad és egzotikus állatok mentése, rehabilitációja. Lehetőség szerint a vadak rehabilitáció utáni szabadon engedése, egzotikus állatok esetében pedig a megfelelő életkörülmények biztosítása más intézményekkel együttműködve. Fajmegőrző programban való részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001918",
+      "régi_nyilvántartási_száma": "1918/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11731063-21456310-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Faragó",
+        "Képviselő keresztneve": "Endre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "208",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 771 553 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "216",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 099 588 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19294935",
+  "scraped_at": "2026-02-14T12:40:07.988836",
+  "organization_id": "365664",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tamási Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7090 Tamási, Honvéd út 45.",
+      "adószám": "19294935-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-05",
+      "statisztikai_számjel": "19294935-9499-529-17",
+      "x_koordináta": "46.636476",
+      "y_koordináta": "18.2980343"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, a gazdátlan állatok problémájának térségi megoldása. Az egyesület tevékenysége: céljai érdekében az alábbi fő tevékenységeket végzi: a) utcán és menhelyen élő állatok megfelelő gazdához juttatása; b) állatkísérleteket helyettesítő alternatív módszerek bevezetésének támogatása; c) ifjúság állat- és természetvédelmi szakismeretek népszerűsítése, tudatformálás; d) megyei, országos és nemzetközi kapcsolatok kiépítése és együttműködés hasonló célú szervezetekkel; e) kiállítások, örökbefogadó-napok, bemutatók szervezése; f)i ivartalanítás népszerűsítése, gyakorlása; g.) ideiglenes befogadás és önkéntesség népszerűsítése, támogatása; h) pénzbeli és tárgyi adománygyűjtés; i) szocializálás: a szociálisan sérült kutyák társadalomba való beilletése; j) állatotthon kialakítása és működtetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002245",
+      "régi_nyilvántartási_száma": "2245/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-10",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Anett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-11-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "407",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 629 075 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "399",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 847 852 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

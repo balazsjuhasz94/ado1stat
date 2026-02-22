@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19238399",
+  "scraped_at": "2026-02-14T15:00:54.750257",
+  "organization_id": "118631",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sürgi Kapitány – Dél-Dunántúli Gyermekek Sürgősségi Ellátásáért Alapítvány",
+      "rövid_név": "Sürgi Kapitány Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7623 Pécs, József Attila utca 7.",
+      "x_koordináta": "46.0708939",
+      "y_koordináta": "18.2224816",
+      "adószám": "19238399-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-23",
+      "statisztikai_számjel": "19238399-8610-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "- Az alapítvány célja az, hogy a Dél-Dunántúli Régióban a gyermekek sürgősségi ellátását javítsa, valamint a gyermeksürgősségi ellátáshoz szükséges eszközöket, műszereket, berendezéseket fejlessze; a szükséges infrastruktúrát kialakítsa. - Az alapítvány érdekelt a feladata és konkrét céljai megvalósítását segítő feltételek felkutatásában, céljai folyamatos fenntartható feltételeinek megteremtésében, valamint támogatások igénybevételében és nyújtásában. - Az alapítvány törekszik a saját tevékenységeinek és céljainak széleskörű társadalmi és szakmai elismertetésére, illetve elérhetővé tételére a megvalósításban érdekelt csoportok, valamint ezek hazai és nemzetközi szervezetei, intézményei számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001904",
+      "régi_nyilvántartási_száma": "1904/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10916001-00000110-89630004",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "509 355 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "595 021 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

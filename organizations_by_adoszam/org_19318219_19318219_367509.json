@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19318219",
+  "scraped_at": "2026-02-14T13:23:46.885914",
+  "organization_id": "367509",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tanulj Tesó Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3752 Szendrő, Fő út 19.",
+      "adószám": "19318219-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-02",
+      "statisztikai_számjel": "19318219-8899-569-05",
+      "x_koordináta": "48.3942821",
+      "y_koordináta": "20.7296181"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A hátrányos helyzetű, legtöbbször roma családból származó gyerekek, fiatalok tanításának, felzárkóztatásának, a munka világába való elindításának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064672",
+      "régi_nyilvántartási_száma": "64672/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-06-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09",
+      "bankszámlaszám": "11711003-21478619",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Juhász",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Gyula",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "693 718 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 226 277 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

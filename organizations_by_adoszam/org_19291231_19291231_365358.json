@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19291231",
+  "scraped_at": "2026-02-14T14:03:47.676329",
+  "organization_id": "365358",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FÓKUSZ MENTŐ- ÉS SEGÍTŐKUTYÁS EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4532 Nyírtura, Szabadság utca 4.",
+      "adószám": "19291231-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-17",
+      "statisztikai_számjel": "19291231-0148-529-15",
+      "x_koordináta": "48.0008597",
+      "y_koordináta": "21.8365235"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "1. Az egyesület célja: 1.1 A tagok céljaik elérése érdekében képzik magukat és a kiválasztott kutyáikat. 1.2 Az egyesület által képzett mentőkutyák, segítőkutyák vizsgáztatása, tevékenységi körüknek megfelelő alkalmazása. 1.3 Az Egyesület tevékenységéből eredően szinte kizárólag másnak nyújt közhasznú szolgáltatást, mely szolgáltatást bármely személy igénybe veheti. 1.4 A mentőkutyák és a segítőkutyák alkalmazhatóságának megismertetése, figyelemfelkeltés alkalmazásuk fontosságára szemléletformálással, oktatás, kampányolás segítségével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004170",
+      "régi_nyilvántartási_száma": "4170/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Emese",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-11-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "812 418 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "839 960 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

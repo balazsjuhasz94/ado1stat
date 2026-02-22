@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19295747",
+  "scraped_at": "2026-02-21T14:08:27.364249",
+  "organization_id": "366936",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mária Ház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3925 Prügy, Dobó Katica utca 7.",
+      "adószám": "19295747-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-11",
+      "statisztikai_számjel": "19295747-9491-569-05",
+      "x_koordináta": "48.0814027",
+      "y_koordináta": "21.2496152"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "A Tarcal-i Mária Ház működésének, funkcióinak támogatása, az alapítványi vagyon kezelése. Az épületfenntartás, rendezvények szervezése és a házban folyó oktatási, valamint hitéleti tevékenység anyagi bázisának megszervezése, felelős vagyongazdálkodás folytatása. Az alapítvány kifejezett célja a hátrányos helyzetű családok segítése, a deprimált élethelyzetű emberek problémáinak kezelése a Mária Ház működésén keresztül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064637",
+      "régi_nyilvántartási_száma": "64637/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-27",
+      "bankszámlaszám": "50463433-10000939",
+      "számlavezető_pénzintézet_neve": "Takarékbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tiszlavicz",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9491",
+        "Leírás": "Egyházi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "338 592 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "329 314 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

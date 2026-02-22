@@ -1,0 +1,186 @@
+{
+  "search_adoszam": "19006994",
+  "scraped_at": "2026-02-14T12:26:27.211119",
+  "organization_id": "113549",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Végtaghiányos Gyermekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1113 Budapest, Bartók Béla utca 106-110. B. lph. 7. em./29.",
+      "x_koordináta": "47.507121",
+      "y_koordináta": "19.045669",
+      "adószám": "19006994-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1988-09-01",
+      "statisztikai_számjel": "19006994-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A Semmelweis Orvostudományi Egyetem Ortopédiai Klinikáján működő Gyermek Habilitációs Csoport végtaghiányos gyermekekkel kapcsolatos munkájának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0000299",
+      "régi_nyilvántartási_száma": "299/1990",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-02-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-03",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lévay",
+        "Képviselő keresztneve": "Petra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csesznegi-Fényes",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "Mónika",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "7912",
+        "Leírás": "Utazásszervezés"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "251",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 325 665 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "354",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 974 229 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "427",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 603 267 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "382",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 462 184 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "439",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 531 857 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "429",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 872 928 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "521",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 470 550 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Végtaghiányos Gyermekekért Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "A Vgtaghinyos Gyermekekrt Alaptvny",
+        "Év": "2018"
+      }
+    ]
+  },
+  "error": null
+}

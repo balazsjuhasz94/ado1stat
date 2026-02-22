@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19327963",
+  "scraped_at": "2026-02-21T14:06:36.801189",
+  "organization_id": "368328",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tanítsunk Magyarországért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1015 Budapest, Hattyú utca 14.",
+      "adószám": "19327963-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-05",
+      "statisztikai_számjel": "19327963-9499-569-01",
+      "x_koordináta": "47.5057031",
+      "y_koordináta": "19.0326003"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja a korai iskolaelhagyás csökkentése, a pályaorientáció, a középiskolai átlépés megkönnyítése, mindezekkel a sikeres jövőbeli munkaerőpiaci elhelyezkedés támogatása Magyarországon.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013283",
+      "régi_nyilvántartási_száma": "13283/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-01-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-02",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-16",
+      "bankszámlaszám": "11600006-00000000-97762201",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Zita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Losonc",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 465 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

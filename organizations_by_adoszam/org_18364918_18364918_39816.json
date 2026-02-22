@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18364918",
+  "scraped_at": "2026-02-14T13:53:18.139349",
+  "organization_id": "39816",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hetényegyházi Városrész Szépítő Egyesület",
+      "rövid_név": "HVSZE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6044 Kecskemét, Hetény-Belsőnyír tanya 321/D.",
+      "x_koordináta": "46.9350103",
+      "y_koordináta": "19.5785567",
+      "adószám": "18364918-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2003-10-07",
+      "statisztikai_számjel": "18364918-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Elsősorban Hetényegyháza, mint Kecskemét városrészének szépítését, környezetének védelmét tekinti céljának. E cél érdekében felvállalja, hogy akciókat és programokat szervez a városrész szépítése, zöldfelületének növelése, környezetének védelme és lakóinak együttműködése, kapcsolatainak erősítése érdekében. Tevékenységét Kecskemét területén, de a városrészen túl is végzi az Alapszabály 2.pontja szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0002313",
+      "régi_nyilvántartási_száma": "2313/2003",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Süli Csontos",
+        "Képviselő keresztneve": "Ottó László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zsámboki",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zsámboki",
+        "Képviselő keresztneve": "Béla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "312 703 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "466 285 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "850 678 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "906 273 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HETÉNYEGYHÁZI VÁROSRÉSZ SZÉPÍTŐ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

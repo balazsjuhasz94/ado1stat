@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19164481",
+  "scraped_at": "2026-02-14T13:50:35.211073",
+  "organization_id": "119226",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Caraka Természetes Gyógymódok Tudományos Kutatása Alapítvány",
+      "rövid_név": "Caraka Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6100 Kiskunfélegyháza, Dr. Holló Lajos utca 23. 1.",
+      "x_koordináta": "46.7108345",
+      "y_koordináta": "19.8529733",
+      "adószám": "19164481-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-05",
+      "statisztikai_számjel": "19164481-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység (pl. természettudomány, társadalomtudomány)",
+      "céljának_leírása": "Nemzetközi pénzügyi alap megteremtése tudományos kutatásokra, melynek segítségével olyan kutatások finanszírozhatók, melyek előmozdítják a magyar és nemzetközi természetes, hagyományos gyógyászat színvonalának emelkedését, a nyugati és a keleti, vagy természetes gyógyászat jobb együttműködését, ősi ismeretek tudományos újraértékelését, a gyógyításra alkalmas és alkalmatlan módszerek különválasztását, a jelenleginél gazdaságosabb és hatékonyabb életmód- és terápiás módszerek megismerését. Ismeretbővítés, tudásbázis létrehozása, mely elősegíti a nyugati rendszerű orvosok továbbképzését a természetes gyógymódok terén és a jobb kooperációt a két oldal között. Technikai bázis létrehozása, melynek segítségével mind a világ hagyományos orvostudományi ismeretei, mind pedig a napról napra bővülő tudományos kutatási eredmények közkinccsé tehetők. Hiteles információk nagyközönség felé való közvetítése, tudományos eredmények publikálása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002609",
+      "régi_nyilvántartási_száma": "2609/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tamasi",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "556 174 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "748 676 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 077 975 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "927 544 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Caraka Természetes GYógymódok Tudományos Kutatása Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

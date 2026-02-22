@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "18941861",
+  "scraped_at": "2026-02-21T12:57:59.854314",
+  "organization_id": "124094",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Integrált Betegellátásért Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1048 Budapest, Homoktövis utca 101-103 fszt.",
+      "x_koordináta": "47.418855",
+      "y_koordináta": "18.8971531",
+      "adószám": "18941861-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-17",
+      "statisztikai_számjel": "18941861-8412-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "INtegrált betegellátás keretében a sürgősségi betegellátás, valamint gyógyító és orvosi rehabilitációs szolgáltatások javítása, és az ehhez kapcsolódó oktatás, továbbképzés támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003901",
+      "régi_nyilvántartási_száma": "3901/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-10-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-23",
+      "bankszámlaszám": "1210001110328620",
+      "számlavezető_pénzintézet_neve": "GRÁNIT BANK Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gaál",
+        "Képviselő keresztneve": "Szabolcs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fenyves Bánk",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ádám",
+        "Képviselő keresztneve": "Kornél",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 068 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "564 412 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "603 729 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "419 257 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Integrált Betegellátásért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

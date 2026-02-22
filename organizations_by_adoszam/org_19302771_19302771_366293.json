@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19302771",
+  "scraped_at": "2026-02-21T12:34:34.633075",
+  "organization_id": "366293",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SkyCU légimentő és légi betegszállító egyesület",
+      "rövid_név": "SkyCU egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1137 Budapest, Jászai Mari tér 5-6.",
+      "adószám": "19302771-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-10",
+      "statisztikai_számjel": "19302771-9499-529-01",
+      "x_koordináta": "47.5159638",
+      "y_koordináta": "19.0489688"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célja az egyesület külföldön egészségkárosodást szenvedő tagjai számára támogassa a hozzáférést a légi úton történő hazaszállításhoz, légi mentés és légi betegszállítás és az ahhoz kapcsolódó oktatás technikai színvonalának fejlesztése, az utóbbi kapcsán eszközökhöz való hozzáférés biztosítása, oktatás vagy akár anyagi támogatás nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017631",
+      "régi_nyilvántartási_száma": "17631/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Túri",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "540 792 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

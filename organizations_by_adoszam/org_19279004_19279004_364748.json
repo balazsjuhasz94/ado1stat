@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19279004",
+  "scraped_at": "2026-02-14T14:28:58.143322",
+  "organization_id": "364748",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mezőtúri Úszó- és Vizilabda Sportegyeselület",
+      "rövid_név": "MÚV SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5400 Mezőtúr, Bajcsy-Zsilinszky utca 18.",
+      "adószám": "19279004-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-17",
+      "statisztikai_számjel": "19279004-9312-521-16",
+      "x_koordináta": "46.9903869",
+      "y_koordináta": "20.6030129"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Utánpótlás-nevelés, a hazai és nemzetközi élvonalban kimagasló eredményeket elérő sportolók nevelése, felkészítése, versenyeztetése, a sportágak népszerűsítése, részvétel az egyesület vonzáskörzetébe tartozó ifjúság és lakosság szabadidőprogramjában. Az egyetemes magyar sport és az olimpiai mozgalom fejlődésének elősegítése, a hazai és nemzetközi sportkapcsolatok ápolása. Mezőtúr város sportkoncepciójában megfogalmazott célok felvállalása, a feladatok végrehajtásának támogatása. Együttműködés és kapcsolat kialakítása a működési területén lévő önkormányzatokkal, illetve annak szerveivel, az egyesület szponzoraival, a társadalmi szervekkel, valamint az egyesület szurkolóival és minden szimpatizánsával. Ennek keretében az egyesület -és vele tagsági viszonyban lévő jogi személyek, valamint jogi személyiséggel nem rendelkező szervezete- tagjai továbbá a sportegyesület működési körzetébe tartozó nevelési, oktatásiintézmények tanulói (hallgatói) részére a sportolási, testedzési lehetőségek megteremtése, a lakossági szabadidő sport segítése, az egyesület társadalmi bázisának szélesítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002834",
+      "régi_nyilvántartási_száma": "2834/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-12",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Major",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "465 097 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "494 720 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "707 593 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

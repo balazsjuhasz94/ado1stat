@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "18741661",
+  "scraped_at": "2026-02-21T14:27:41.628041",
+  "organization_id": "121920",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sport-Önként Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2131 Göd, Erdész utca 18/B.",
+      "x_koordináta": "47.559857",
+      "y_koordináta": "19.1216289",
+      "adószám": "18741661-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-03-12",
+      "statisztikai_számjel": "18741661-9499-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A hazai önkéntes tevékenység kultúrájának fejlesztése, az önkéntesség eszméjének terjesztése, önkéntes közösség építése, fejlesztése. Az önkéntesek számára a szakmai fejlődés érdekében oktatások szervezése, Sporttevékenységek támogatása. Hazai sportrendezvények szervezése kapcsán támogatás nyújtása, a hazai sportélet fellendítésében való aktív részvétel, sportolás népszerűsítése, aktív életmód előtérbe helyezésének támogatása, népszerűsítése, sport iránt érdeklődő önkéntesek egységbe tömörítése, a sport ágazatban elhelyezkedni kívánók segítése támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016079",
+      "régi_nyilvántartási_száma": "16079/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-02-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-15",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bíró",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "Márton",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-09-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Deák",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-09-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Albert",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-09-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "100 712 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "84 178 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "128 995 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "210 502 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 910 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport-Önként Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sport-Önként Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

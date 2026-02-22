@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18495748",
+  "scraped_at": "2026-02-14T12:16:12.225477",
+  "organization_id": "104557",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Mentőszolgálat Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2400 Dunaújváros, Papírgyári út 11.",
+      "x_koordináta": "46.9674806",
+      "y_koordináta": "18.939949",
+      "adószám": "18495748-2-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2004-03-11",
+      "statisztikai_számjel": "18495748-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A magyarországi civil mentőszolgálatok támogatása, a tevékenységük elősegítése oktatással, prevenciós programokkal, tömegtájékoztatással és a működésükhöz szükségess egyéb feltételek megteremtésével. Utcai szociális szolgáltatás, éjjeli menedékhely, nappali melegedő, hajléktalanok átmeneti szállása, hajléktalanok otthona.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0000772",
+      "régi_nyilvántartási_száma": "772/2003",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2004-03-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-03",
+      "alkalmazottak_száma": "39",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Samók",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "368",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 635 548 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "2827",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 143 865 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2531",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "20 103 926 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1843",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 457 362 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1846",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 137 011 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mentőszolgálat Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Mentőszolgálat Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

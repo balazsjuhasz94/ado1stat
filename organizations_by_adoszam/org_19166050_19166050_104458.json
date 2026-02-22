@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19166050",
+  "scraped_at": "2026-02-14T14:20:33.758758",
+  "organization_id": "104458",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tündér Szolgálat Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6200 Kiskőrös, Petőfi Sándor út 69.",
+      "x_koordináta": "46.6140334",
+      "y_koordináta": "19.2923431",
+      "adószám": "19166050-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-08-01",
+      "statisztikai_számjel": "19166050-7500-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célja az állatok védelme, elsősorban a gazdátlan kisállatok összegyűjtése és számukra új gazda találása. Az egyesület célja a talált állatok eredeti gazdájának felkutatása. Célja továbbá a megfelelő állattartás elősegítése, a felelős állattartás szemléletének elősegítése, szükség esetén a bajba jutott kisállatok megmentése, a gazdátlan kutyák, kisállatok gondozása, tartása. Az egyesület célja továbbá az állatbarát kultúra terjesztése, a magyar kutyafajták népszerűsítése, fajtamentés alapjainak megteremtése, állatvédelemmel kapcsolatos rendezvények tartása, szervezése, azokon való részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003523",
+      "régi_nyilvántartási_száma": "3523/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Laura",
+        "Képviselő titulusa": "Tünde",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-04-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "150",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 099 725 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "745 997 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

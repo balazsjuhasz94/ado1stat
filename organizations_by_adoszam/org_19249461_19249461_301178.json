@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19249461",
+  "scraped_at": "2026-02-21T13:38:28.596828",
+  "organization_id": "301178",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szexpozitív SzomatoSzexológia és Bodywork Egyesület",
+      "rövid_név": "Szexpozitív Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1062 Budapest, Bajza utca 50.",
+      "adószám": "19249461-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-15",
+      "statisztikai_számjel": "19249461-8559-529-01",
+      "x_koordináta": "47.5134215",
+      "y_koordináta": "19.0641372"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az Egyesület célja az érzéki testtudatosság, a test-és tapasztalatorientált önismeret, intimitás és minőségi szexualitás képviselete, valamint az ehhez kapcsolódó testpozitív és szexpozitív szemlélet szélesebb körű terjesztése és elfogadtatása Magyarországon. Ennek része a szomatikus jellegű testismeret és testi fejlesztés, illetve a minőségi kapcsolati kultúra megismertetése. Az Egyesület célja továbbá a Magyarországon szomato-szexuális témában képzett szakemberek, szomatikus szexológusok összefogása, tudásuk szakmai színvonalra emelése, szakmai képzésük létrehozása, valamint megfelelő szakmai érdekvédelmi képviseletük megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017402",
+      "régi_nyilvántartási_száma": "17402/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kékes",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "Enikő",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-03-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "318 309 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 797 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18788334",
+  "scraped_at": "2026-02-14T15:01:31.301947",
+  "organization_id": "88367",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fülöp Márton Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Testvérhegyi út 28.",
+      "x_koordináta": "47.5668199",
+      "y_koordináta": "19.0129338",
+      "adószám": "18788334-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-06",
+      "statisztikai_számjel": "18788334-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Sport, kiemelten a labdarúgás és a tehetséges labdarúgók támogatása, ezzel kapcsolatos események, táborok, versenyek szervezése, rendezése; daganatos gyermekek gyógyítása, gyógyíttatása, támogatása; oktatási segédeszközök, tanulmányi versenyek és táborok megszervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012288",
+      "régi_nyilvántartási_száma": "12288/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-05-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-12-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bodrogi",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "Sándor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "367 731 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "345 231 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "440 482 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "707 049 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "594 012 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fülöp Márton Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fülöp Márton Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

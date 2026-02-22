@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18942123",
+  "scraped_at": "2026-02-14T12:56:02.120108",
+  "organization_id": "89580",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mogyoró Menedék Állat és Természetvédelmi Egyesület",
+      "rövid_név": "Mogyoró Menedék Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6034 Helvécia, Matkó tanya 6.",
+      "x_koordináta": "46.806951",
+      "y_koordináta": "19.6449984",
+      "adószám": "18942123-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-25",
+      "statisztikai_számjel": "18942123-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Állat és természetvédelem, a gazdátlan, vagy veszélybe került állatok mentése, életminőségének javítása, gazdához juttatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003665",
+      "régi_nyilvántartási_száma": "3665/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-08-14",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Tiborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "104",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "540 417 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "396 792 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "127",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "732 087 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "182",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "973 965 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "219",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 307 291 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOGYORÓ MENEDÉK EGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOGYORÓ MENEDÉK EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOGYORÓ MENEDÉK EGYESÜLET"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Mogyoró Menedék Állat és Természetvédelmi Egyesület",
+        "Év": "2023"
+      }
+    ]
+  },
+  "error": null
+}

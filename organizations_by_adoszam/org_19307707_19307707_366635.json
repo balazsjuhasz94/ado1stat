@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19307707",
+  "scraped_at": "2026-02-21T14:27:27.331184",
+  "organization_id": "366635",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Terminus Ismeretterjesztő Egyesület",
+      "rövid_név": "Terminus Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4220 Hajdúböszörmény, Bocskai tér 4.",
+      "adószám": "19307707-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-12",
+      "statisztikai_számjel": "19307707-9499-529-09",
+      "x_koordináta": "47.6934932",
+      "y_koordináta": "21.4782302"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A természetvédelemmel, csillagászattal és ezek rokon területeivel hivatásszerűen vagy amatőrként foglalkozókat vagy az iránt érdeklődőket kívánja minél nagyobb számban tömöríteni. Hatékonyan közreműködni az Európai Unió, Magyarország és kiemelten a Kelet-magyarországi régió környezetének védelmében, természeti, kulturális értékeinek feltárásában, ápolásában, az ökológiai, csillagászati és etnográfiai kutatásban, az egészséges, környezetbarát, fenntartható életmód és gazdálkodás terjesztésében, a fényszennyezés elleni küzdelemben, az esélyegyenlőség segítésében és a fentiekkel kapcsolatos szemléletformálásban, ismeretterjesztésben, különös tekintettel az ifjúságra és a hátrányos helyzetűekre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005156",
+      "régi_nyilvántartási_száma": "5156/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Marjai",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-06-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-06-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Forgács",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-06-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "253 852 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 072 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

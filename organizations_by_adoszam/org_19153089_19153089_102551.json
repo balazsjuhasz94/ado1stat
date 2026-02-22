@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19153089",
+  "scraped_at": "2026-02-21T12:43:59.988250",
+  "organization_id": "102551",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Szent Lukács Kórházért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7200 Dombóvár, Hunyadi tér 7.",
+      "x_koordináta": "46.374629",
+      "y_koordináta": "18.130925",
+      "adószám": "19153089-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-08",
+      "statisztikai_számjel": "19153089-8412-569-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány célja annak elősegítése, hogy a Dombóvári Szent Lukács Kórház (székhelye: 7200 Dombóvár, Kórház utca 39-41., továbbiakban: Kórház) az általa ellátott területen – nem alapellátásnak minősülő – betegségmegelőző és gyógyító munkáját minél eredményesebben és minél jobb hatásfokkal végezhesse. Az alapítvány célja továbbá a lakosság egészségi állapotának javítása, jobb életminőség elősegítése, valamint az egészségkárosító környezeti, társadalmi és egyéb hatások elleni eredményes fellépés. Egészségmegőrzés, betegség megelőzés, egészséges életmódra nevelés, egészségügyi propaganda tevékenység, gyógyító- és egészségügyi rehabilitációs tevékenység, továbbá a kórház dolgozóinak rekreációja, szabadidős tevékenységek támogatása. A kórház műszerezettségének, diagnosztikai, oktatási és tudományos célú eszközeinek fejlesztése, a Dombóvári Szent Lukács Kórház gyógyító tevékenységéhez szükséges műszerezettség általános színvonalának emelése, annak javítása. Célja továbbá a kórházban foglalkoztatott orvosok és egészségügyi személyzet szakmai továbbképzésének, tudományos munkájának támogatása, egészségügyi szakmai, tudományos rendezvények támogatása, az intézményi tájékoztató kiadványok, betegoktatást célozó, segítő kiadványok, előadások, rendezvények támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000183",
+      "régi_nyilvántartási_száma": "183/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-04-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11746043-24624235-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt. Dél-Dunántúli Régió Dombóvári Fiók"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bakonyi",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 234 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "510 607 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

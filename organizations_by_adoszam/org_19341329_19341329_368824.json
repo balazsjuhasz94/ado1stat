@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19341329",
+  "scraped_at": "2026-02-14T12:30:35.572445",
+  "organization_id": "368824",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fót és Környéke Természet- és Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2151 Fót, Keszihegyi utca 17.",
+      "adószám": "19341329-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-08",
+      "statisztikai_számjel": "19341329-9499-529-13",
+      "x_koordináta": "47.6087285",
+      "y_koordináta": "19.1886356"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Természet- és állatvédelem, a gazdátlan állatok problémájának térségi megoldása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008229",
+      "régi_nyilvántartási_száma": "8229/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "377",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 248 253 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

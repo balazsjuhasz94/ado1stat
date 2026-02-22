@@ -1,0 +1,107 @@
+{
+  "search_adoszam": "18328514",
+  "scraped_at": "2026-02-21T14:08:51.001097",
+  "organization_id": "109545",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csillag Mazsorett Egyesület",
+      "rövid_név": "CSME",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7691 Pécs, C utca 23.",
+      "x_koordináta": "46.1333399",
+      "y_koordináta": "18.322269",
+      "adószám": "18328514-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-01-03",
+      "statisztikai_számjel": "18328514-9312-521-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Az ifjúsági testi, értelmi fejlődésének elősegítése; tánc népszerűsítése; az ifjúság közösségbe tartozásának elősegítése; kapcsolat más hasonló célú szervezetekkel; részvétel különböző kulturális, sport stb. rendezvényeken",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0002683",
+      "régi_nyilvántartási_száma": "2683/2006",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-05",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ábel",
+        "Képviselő keresztneve": "Tamásné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-07",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kelemen",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Barics",
+        "Képviselő keresztneve": "Lili",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "92 976 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 468 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "355 857 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "302 838 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 608 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csillag Mazsorett Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csillag Mazsorett Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

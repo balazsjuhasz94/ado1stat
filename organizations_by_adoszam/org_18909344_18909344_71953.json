@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18909344",
+  "scraped_at": "2026-02-14T12:43:42.361270",
+  "organization_id": "71953",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Újhold Állatélelmezési és Állatvédelmi Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1158 Budapest, Rákospalotai körvasút sor 53",
+      "x_koordináta": "47.3567698",
+      "y_koordináta": "19.1105674",
+      "adószám": "18909344-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-08-01",
+      "statisztikai_számjel": "18909344-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célja a Magyarország területén működő állatmenhelyek, gyepmesteri telepek, más állatvédelmi egyesületek és állatvédelemmel élethivatásszerűen foglalkozó egyéni vállalkozók, valamint magánszemélyek támogatása, adományosztó szervezetként, természetben, például tápadomáynokkal, illetve tápvásárlása, az állatok gyógyszerezése, védőoltása, gyógykezelése céljából pénzbeli szolgáltatás juttatásával, illetve rászoruló állatok mentése, rehabilitációja és rehabilitációjának segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007290",
+      "régi_nyilvántartási_száma": "7290/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sallai",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "Éva",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "224",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 463 870 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "157",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 166 946 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "264",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 199 859 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "251",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 450 997 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "250",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 549 728 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÚJHOLD Állatvédelmi és Állatélelmezési Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÚJHOLD Állatélelmezési és Állatvédelmi Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

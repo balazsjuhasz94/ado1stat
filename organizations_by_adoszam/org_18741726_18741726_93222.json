@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18741726",
+  "scraped_at": "2026-02-21T13:51:34.232085",
+  "organization_id": "93222",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vanyolai Szőlőhegy Zártkerti Kertbarát Egyesület",
+      "rövid_név": "Vanyolai Kertbarát Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8552 Vanyola, Petőfi Sándor utca 10.",
+      "x_koordináta": "47.3825604",
+      "y_koordináta": "17.5949014",
+      "adószám": "18741726-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-13",
+      "statisztikai_számjel": "18741726-9499-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Vanyola és környéki telektulajdonosok, családtagjaik ill. a telkeket használó megművelő emberek összefogása; az ingatlanok értékének növelése, állagának megőrzése; öko-házak,- épületek állagmegőrzése, építése; régi pincék felmérése, borászati eszközök gyűjtése; kezdeményezés a villanyhálózat kiépítésére; környezettudatos gazdálkodás; bio gazdálkodás; parkosítás, füvesítés; parlagfű irtás; közösségi épületek létrehozása; közösségi eszközök készítése (táblák, tárolók); segítségnyújtás a szőlőhegyben lévő utak állapotának megőrzéséhez, karbantartásához; kulturális értékek védelme, őrzése, népszerűsítése, népi- és haladó hagyományok ápolása; a település és a térség kulturális életének színesítése; tájjellegű (honos) növények megóvása, telepítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003608",
+      "régi_nyilvántartási_száma": "3608/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ruip",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-03-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "194 866 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "162 917 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "293 059 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "395 456 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 089 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vanyolai Szőlőhegy Zártkerti Kertbarát Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vanyolai Szőlőhegy Zártkerti Kertbarát Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

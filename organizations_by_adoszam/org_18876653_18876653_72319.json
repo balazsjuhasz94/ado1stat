@@ -1,0 +1,120 @@
+{
+  "search_adoszam": "18876653",
+  "scraped_at": "2026-02-21T12:38:58.973778",
+  "organization_id": "72319",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Játékidő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2142 Nagytarcsa, Cinkotai utca 28. hrsz..0128/157",
+      "x_koordináta": "47.51194",
+      "y_koordináta": "19.195805",
+      "adószám": "18876653-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-10",
+      "statisztikai_számjel": "18876653-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "Az alapítvány céljai: adományozás, fiatal tehetségek támogatása, felkutatása, közösségi segítségnyújtás, adományosztás, ösztöndíj alapítás, kulturális tevékenység, környezetvédelem, szemléletformálás, ismeretterjesztés, társadalmi párbeszéd, gyermek, szak és felnőttképzés, település és közösségfejlesztés, sporttevékenység, állatvédelmi tevékenység. Az alapítvány célja, hogy a felsorolt tevékenységeket minél eredménysebben lássa el annak érdekében, hogy egymásra figyelő társadalom alakuljon ki az élet bármely területén az arra rászorulóknak nyújtott alapítványi segítséggel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012408",
+      "régi_nyilvántartási_száma": "12408/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács-Müller",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "588 541 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "575 381 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "736 243 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "638 679 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "530 379 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Játékidő Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Játékidő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19050412",
+  "scraped_at": "2026-02-14T13:28:40.992803",
+  "organization_id": "110964",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kónyi Hagyományőrző és Kulturális Egyesület",
+      "rövid_név": "KHKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9144 Kóny, Rákóczi utca 24.",
+      "x_koordináta": "47.627018",
+      "y_koordináta": "17.3569369",
+      "adószám": "19050412-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-07-10",
+      "statisztikai_számjel": "19050412-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Kónyi Hagyományőrző és Kulturális Egyesület célja a magyar néptánc, népzene, népi kultúra és hagyományainak felkutatása, ápolása, őrzése; nevelés, oktatás és készségfejlesztés; kulturális tevékenység; rendezvények szervezése és lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063025",
+      "régi_nyilvántartási_száma": "63025/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "548 752 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "628 401 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "949 417 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "118",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 288 046 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 152 925 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kónyi Hagyományőrző és Kulturális Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kónyi Hagyományörző és Kultúrális Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

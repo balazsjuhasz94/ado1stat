@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19300645",
+  "scraped_at": "2026-02-14T15:08:05.531606",
+  "organization_id": "366121",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SISSY ÁLLATVÉDŐ ÉS TERMÉSZETVÉDELMI EGYESÜLET",
+      "rövid_név": "SISSY Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1204 Budapest, Pöltenberg utca 68.",
+      "adószám": "19300645-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-13",
+      "statisztikai_számjel": "19300645-9499-529-01",
+      "x_koordináta": "47.4295417",
+      "y_koordináta": "19.1319293"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az Egyesület célja a társadalom, a helyi közösség és az egyén közös érdekeinek kielégítésére irányuló állatvédelmi, természetvédelmi és környezetvédelmi tevékenységek ellátása különös tekintettel a kóbor, a kidobott és a menhelyi kutyák, valamint más állatok mentése, befogása, gondozása, szocializációja és rehabilitációja, valamint a gazdához juttatása , s az ezzel kapcsolatos információ biztosítása, és a szemléletformálás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017608",
+      "régi_nyilvántartási_száma": "17608/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bajnoczi",
+        "Képviselő keresztneve": "Bianka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "578 549 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

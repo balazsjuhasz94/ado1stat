@@ -1,0 +1,120 @@
+{
+  "search_adoszam": "18358315",
+  "scraped_at": "2026-02-14T14:53:26.229094",
+  "organization_id": "82867",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szalkszentmártoni Önkéntes Tűzoltó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6086 Szalkszentmárton, Jókai utca 2.",
+      "x_koordináta": "46.9763639",
+      "y_koordináta": "19.010568",
+      "adószám": "18358315-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-03-22",
+      "statisztikai_számjel": "18358315-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "Az egyesület célja a tűzoltással, tűzmegelőzéssel, műszaki mentéssel, baleset elhárítással kapcsolatban felmerülő feladatok elvégzése. Feladatainak ellátása érdekében együttműködik, illetve közreműködik a hivatásos tűzoltósággal. Az egyesület tűzoltási, műszaki-mentési munkát (vagy tevékenységet) vállal a Kunszentmiklósi Önkormányzat Tűzoltó-parancsnokság működési területén az alábbiak szerint: - alapesetben Szalkszentmárton, Tass, Kunszentmiklós területén, - egyéb esetben a mindenkori kunszentmiklósi szolgálatvezető vagy parancsnok elbírálása alapján. Az egyesület elsődlegesen gazdasági tevékenységet nem végez, működése közhasznú, azonban a célok megvalósítása érdekében gazdasági-vállalkozási tevékenységet a célja szerinti tevékenység megvalósítását nem veszélyeztetve végez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0000124",
+      "régi_nyilvántartási_száma": "124/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-02-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lengyel",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pinczel",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 244 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "157",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "687 574 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "173",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "715 469 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "185",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "905 637 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "651 888 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "615 939 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Szalkszentmárton"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Szalkszentmárton"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Önkéntes Tűzoltó Egyesület Szalkszentmárton"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

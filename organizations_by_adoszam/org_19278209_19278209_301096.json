@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19278209",
+  "scraped_at": "2026-02-21T12:47:52.446180",
+  "organization_id": "301096",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Selyem Rét Lovas Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Kézai Simon utca 9/a.",
+      "adószám": "19278209-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-03",
+      "statisztikai_számjel": "19278209-8569-521-13",
+      "x_koordináta": "47.6361095",
+      "y_koordináta": "19.1413794"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A lovassport népszerűsítése. A lovassport segítségével a kistérségi életminőség javítása. A gyermekek és a felnőttek részére rendszeres testedzés és sportolási lehetőség biztosítása, egészség megőrzés a lovassport által. A hobbilovasok felkarolása, munkájuk segítése. A gyermekek fizikai, szellemi és morális fejlődésének elősegítése. Speciális helyzetű gyermekek részére a lovaglához kapcsolódó sportolási, testmozgási lehetőségek megteremtése. A világhírű magyar lófajtáink népszerűsítése. Az ember, állat és környezet kapcsolata, a környezettudatos nevelés elősegítése. A lovas hagyományok, tradíciók megőrzése. A lovas íjászat népszerűsítése. A nemzeti értékeinket, hagyományainkat aktívan őrző és értékeit védő fiatal nemzedék nevelésének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007846",
+      "régi_nyilvántartási_száma": "7846/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-12",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Juhász-Bónis",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-05-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "353 780 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "549 224 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "485 747 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

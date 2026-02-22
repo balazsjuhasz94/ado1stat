@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "18595965",
+  "scraped_at": "2026-02-21T14:04:03.690949",
+  "organization_id": "84384",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Társadalomklinika Egyesület",
+      "rövid_név": "Társadalomklinika",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7635 Pécs, Forduló köz 1.",
+      "x_koordináta": "46.077286",
+      "y_koordináta": "18.1992709",
+      "adószám": "18595965-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-05-28",
+      "statisztikai_számjel": "18595965-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A Társadalom Klinika Egyesület célja elősegíteni a pozitív irányú társadalmi változásokat, hozzájárulni a társadalmi kohézió erősítéséhez, a tényleges integráció megvalósulásához. Célja továbbá a társadalmi egyenlőtlenség-, a szegénység-, a depriváció-, valamint a társadalmi exluzió csökkentése. A hátrányos helyzetű egyének, csoportok, közösségek életkörülményeinek javítása, foglalkoztatásuk elősegítése. További cél az esélyegyenlőség megvalósulásában történő közreműködés, generációk közötti kapcsolat erősítése. A cél megvalósulása érdekében az egyesület komplex programokat dolgoz ki és működtet, melyek érintik a kultúra, sport és szabadidő területeit is. Kiemelt cél, hogy az egyesület az egész országot lefedő, értékeket és normákat teremtő módon legyen képes innovatív szolgáltatásokat nyújtani. Az ifjúsági szociális munka, a fiatalok hasznos szabadidő eltöltésének segítése kiemelt fontossággal bír az egyesület számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003438",
+      "régi_nyilvántartási_száma": "3438/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2014-04-12",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Székely",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "513 034 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "527 252 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "344 386 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

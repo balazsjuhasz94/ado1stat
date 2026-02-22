@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19103840",
+  "scraped_at": "2026-02-14T12:19:07.094318",
+  "organization_id": "106024",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Állatvédő Egyesület Kiskapudért és Kóbor kutyák Álmaiért",
+      "rövid_név": "Kiskapudért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3600 Ózd, Nemzetőr utca 16. 8/3",
+      "x_koordináta": "48.2191118",
+      "y_koordináta": "20.27438",
+      "adószám": "19103840-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-11",
+      "statisztikai_számjel": "19103840-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Egyesület fő célja: Állatvédelem, a gazdátlan állatok problémájának térségi megoldása. További célok - Ózdon és környékén élő állatok helyzetének javítása, a kóborló állatok számának csökkentése; - a Kiskapudon épülő állatmenhely kiépítése, fenntartása, működtetése; -az Egyesület pártfogásába kerülő állatok gyógyítása, ivartalanítása, egyéb állatorvosi kezelése, szocializálása, ellátása, örökbe adása; - az ivartalanítások minél szélesebb körű támogatása, elősegítése és szükségességének megértetése; -az állatkínzás minden formája elleni fellépés; -együttműködés az önkormányzatokkal, állatvédelmi hatóságokkal, más, hasonló célú szervezetekkel az állat-és természetvédelemre irányuló feladatok és célkitűzések megvalósításában; -az állatbarát civilek, önkéntesek összefogása; -a társadalomnak –elsősorban az ifjúságnak- az élővilág, különösen az állatok megismerésére, szeretetére, tiszteletére való nevelése; -az állattartási kultúra fejlesztése; Az egyesület politikai pártoktól független, azok tevékenységét nem támogatja. Az egyesület pártoktól támogatást nem fogad el. Választásokon jelöltet nem támogat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065845",
+      "régi_nyilvántartási_száma": "65845/2018",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-01-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11734121-23501007-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fazekas",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-11-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "910",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 659 946 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1466",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 892 757 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1193",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 276 776 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 731 319 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Állatvédő Egesület Kiskapudért és a Kóborkutyák Álmaiért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

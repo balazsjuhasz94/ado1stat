@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "18349159",
+  "scraped_at": "2026-02-21T13:30:00.889956",
+  "organization_id": "44362",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Őszi Napfény Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6454 Bácsborsód, Dózsa Gy. utca 9.",
+      "x_koordináta": "46.095806",
+      "y_koordináta": "19.160178",
+      "adószám": "18349159-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-05-01",
+      "statisztikai_számjel": "18349159-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Az Őszi Napfény Időskorúak Szociális Otthonában elhelyezett lakók ellátásának szintentartása, lehetőség szerinti javítása. Az intézmény fejlesztése a lakók életkörülményeinek komfortosabbá tétele érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0000813",
+      "régi_nyilvántartási_száma": "813/1996",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-08-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Monori",
+        "Képviselő keresztneve": "Antalné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "153 453 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "403 425 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Őszi Napfény Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,128 @@
+{
+  "search_adoszam": "18876701",
+  "scraped_at": "2026-02-21T13:00:44.701526",
+  "organization_id": "65200",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mórahalmi Fúvószenéért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6782 Mórahalom, Szentháromság tér 1. 894/8.hrsz",
+      "x_koordináta": "46.2160594",
+      "y_koordináta": "19.8914926",
+      "adószám": "18876701-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-28",
+      "statisztikai_számjel": "18876701-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A civil szervezet célja: - a fúvószenével, fúvószenei csoportok életre hívásával közösség létrehozása, támogatása - közösség fiatal tagjainak nevelése - tehetséggondozás - régión belüli fúvósegyüttesekkel való folyamatos együttműködés - fúvószenei közösségek felkutatása Magyarországon és külföldön, kapcsolattartás - fúvószenei rendezvények (pl. fesztiválok, táborok, koncertek, cserekapcsolatok) szervezése - magyarországi, nemzetközi és világi fúvószene ápolása, az egyetemes és magyar fúvószene népszerűsítése - az egyesület működéséhez szükséges eszköztár (egyenruha, hangszerek, kottaállomány) létrehozása és gondozása - a fúvószenei hagyományok ápolása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003262",
+      "régi_nyilvántartási_száma": "3262/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-12-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Czifra",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1820",
+        "Leírás": "Egyéb sokszorosítás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "265 146 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "249 115 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "241 884 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 857 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "448 719 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "467 735 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mórahalmi Fúvószenéért Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mórahalmi Fúvószenéért Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mórahalmi Fúvószenéért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

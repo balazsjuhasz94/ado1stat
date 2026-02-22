@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19239778",
+  "scraped_at": "2026-02-14T12:22:02.130206",
+  "organization_id": "121953",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CsodaCsoport Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1182 Budapest, Királyhágó utca 73. D.lph. fsz./2.",
+      "x_koordináta": "47.420777",
+      "y_koordináta": "19.209895",
+      "adószám": "19239778-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-06",
+      "statisztikai_számjel": "19239778-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Beteg, sérült, fogyatékkal élő gyermekek gyógyulásának és felépülésének segítése vagy állapotuk további romlásának megakadályozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012918",
+      "régi_nyilvántartási_száma": "12918/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-10-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tasi",
+        "Képviselő keresztneve": "Nikoletta",
+        "Képviselő titulusa": "Éva",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sántha- Benkó",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "Andrea",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lázár",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "331",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 258 907 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "270",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 251 241 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "790",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 442 732 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

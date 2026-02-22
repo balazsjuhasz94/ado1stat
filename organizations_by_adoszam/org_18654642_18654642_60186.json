@@ -1,0 +1,123 @@
+{
+  "search_adoszam": "18654642",
+  "scraped_at": "2026-02-14T12:38:36.170642",
+  "organization_id": "60186",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MELLRÁKINFÓ Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2016 Leányfalu, Kilátók útja 24.",
+      "x_koordináta": "47.432981",
+      "y_koordináta": "18.975405",
+      "adószám": "18654642-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-08-12",
+      "statisztikai_számjel": "18654642-8696-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Felhívni a társadalom figyelmét a mellrákos megbetegedés elterjedtségére, annak megelőzésének lehetőségeire és fontosságára, a mellrákos betegek részére lelki segítségnyújtás, támogatás, tájékoztatás nyújtása, a betegségből kigyógyultak tapasztalatainak megosztása, csoportos programok szervezése, sportolási és rekreációs tevékenységek szervezése a megbetegedettek és a kigyógyultak részére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006827",
+      "régi_nyilvántartási_száma": "6827/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-31",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Halom",
+        "Képviselő keresztneve": "Borbála",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "959 324 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 033 676 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "219",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 212 123 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "246",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 676 254 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "199",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 688 669 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "346",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 068 855 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "230",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 298 386 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "291",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 001 193 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mellrákinfó Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mellrákinfó Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mellrákinfó Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MELLRÁKINFÓ Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MELLRÁKINFÓ Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

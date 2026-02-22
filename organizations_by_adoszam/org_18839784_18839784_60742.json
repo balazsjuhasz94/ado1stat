@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18839784",
+  "scraped_at": "2026-02-21T12:58:54.915042",
+  "organization_id": "60742",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Haltani Társaság",
+      "rövid_név": "MHTT",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5350 Tiszafüred, külterület 1442/50. hrsz",
+      "x_koordináta": "47.618177",
+      "y_koordináta": "20.757171",
+      "adószám": "18839784-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-12-21",
+      "statisztikai_számjel": "18839784-7499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "A Kárpát-medence és környéke természetes vizeinek halaira irányuló faunisztikai, ökológiai és természetvédelmi kutatások ösztönzése, az eredmények és tapasztalatok közkinccsé tétele, vizeink és halállományuk megóvásának és bölcs hasznosításának elősegítése, valamint a halakkal kapcsolatos ismeretterjesztés és a kulturális hagyományok ápolása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002095",
+      "régi_nyilvántartási_száma": "2095/2005",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Sándor Alex",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "203 611 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 350 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "430 590 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "471 917 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Haltani Társaság"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

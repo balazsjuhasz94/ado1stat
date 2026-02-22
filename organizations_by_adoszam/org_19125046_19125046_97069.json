@@ -1,0 +1,136 @@
+{
+  "search_adoszam": "19125046",
+  "scraped_at": "2026-02-21T14:35:49.580583",
+  "organization_id": "97069",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kulcs a Jövőhöz Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4060 Balmazújváros, Szabadság sor 8.",
+      "x_koordináta": "47.496174",
+      "y_koordináta": "21.656772",
+      "adószám": "19125046-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-11-13",
+      "statisztikai_számjel": "19125046-8730-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Egyesületünk célja a hátránnyal élők, perifériára szorult csoportok (fogyatékkal élő, pszichiátriai beteg, szenvedélybeteg emberek) társadalmi beilleszkedésének elősegítése, elsősorban szociális szolgáltatások nyújtásán keresztül (ezen belül támogatott lakhatás, támogató szolgálat, nappali ellátás, szociális foglakoztatás kereteiben). Egyesületünk célként tűzi ki akkreditált foglakoztatások szervezésének és létrehozásának támogatását. Az egyesület célja továbbá, olyan információs szolgáltató iroda működtetésének támogatása, amely segíti ellátottjait és a következő alapszolgáltatások helyben történő elérését: irodai szolgáltatások, szociális ügyintézés, segítségnyújtás, közhasznú tájékoztatás, tanácsadás; helyi nyilvánosság megteremtése. Az egyesület fontos céljának tartja ellátottjainak, az etnikai kisebbség kultúrájának és az önazonosságának megőrzésének és fejlesztésének elősegítését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0000811",
+      "régi_nyilvántartási_száma": "811/1991",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-22",
+      "alkalmazottak_száma": "15",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Prém",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Anikó",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó-Kis",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Leiter",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "0163",
+        "Leírás": "Betakarítást követő szolgáltatás"
+      },
+      {
+        "Kód": "1399",
+        "Leírás": "Egyéb textiláru gyártása m.n.s."
+      },
+      {
+        "Kód": "1512",
+        "Leírás": "Táskafélék, szíjazat gyártása"
+      },
+      {
+        "Kód": "3213",
+        "Leírás": "Divatékszer gyártása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      },
+      {
+        "Kód": "8720",
+        "Leírás": "Mentális, szenvedélybeteg bentlakásos ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 612 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

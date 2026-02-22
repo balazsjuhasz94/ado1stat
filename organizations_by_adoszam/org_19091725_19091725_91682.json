@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19091725",
+  "scraped_at": "2026-02-14T13:15:23.463884",
+  "organization_id": "91682",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KIKAPCS. Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1097 Budapest, Vaskapu utca 7. I/4.",
+      "x_koordináta": "47.477976",
+      "y_koordináta": "19.071056",
+      "adószám": "19091725-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-07",
+      "statisztikai_számjel": "19091725-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány különös gondot fordít olyan hátrányos helyzetű családok nyaraltatására, ahol Down szindrómás, fogyatékos vagy mozgássérült gyermekek vannak. Célja, hogy ezeknek a családoknak kedvezményes szállodai kikapcsolódást biztosítson, gyógypedagógust és animátort biztosítva a sérült gyermekeknek. Ezzel egyidejűleg az alapítvány lehetőséget kínál a szállodáknak a hátrányos családok támogatására, társadalmi elfogadásuk példaértékű bemutatására.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012677",
+      "régi_nyilvántartási_száma": "12677/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-01-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-25",
+      "alkalmazottak_száma": "9",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bárdió",
+        "Képviselő keresztneve": "Luca",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Valyon-Krisztián",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "173",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 002 653 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "185",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 398 585 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "220",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 780 265 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "192",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 891 153 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "169",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 359 940 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KIKAPCS. Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KIKAPCS. Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

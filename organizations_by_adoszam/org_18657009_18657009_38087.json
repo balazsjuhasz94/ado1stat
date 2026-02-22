@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18657009",
+  "scraped_at": "2026-02-21T14:10:57.652449",
+  "organization_id": "38087",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kiskunfélegyházi Fiatalokért Sportegyesület",
+      "rövid_név": "KFSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6100 Kiskunfélegyháza, Szilfa utca 40. /",
+      "x_koordináta": "46.896425",
+      "y_koordináta": "19.668805",
+      "adószám": "18657009-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-23",
+      "statisztikai_számjel": "18657009-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület küldetése, hogy a kiskunfélegyházi lakosság és az egyesület tagjai részére sportolási lehetőségek széles körének biztosításával segítse elő egészségük megóvását, társadalmi öntevékenységük és ezzel a közösségi élet kibontakoztatását. Az egyesület fő célja a sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003411",
+      "régi_nyilvántartási_száma": "3411/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-20",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Isán",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "92 485 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "154 517 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 271 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

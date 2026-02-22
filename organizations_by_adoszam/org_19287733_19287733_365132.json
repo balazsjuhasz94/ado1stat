@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19287733",
+  "scraped_at": "2026-02-21T14:05:23.440671",
+  "organization_id": "365132",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alba Túrakör Természetbarát Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2519 Piliscsév, Ady Endre utca 18.",
+      "adószám": "19287733-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-25",
+      "statisztikai_számjel": "19287733-9499-529-11",
+      "x_koordináta": "47.6769403",
+      "y_koordináta": "18.8201946"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Alapvető célkitűzésünk a természetjárás céljainak, eszméinek, intézményeinek és lehetőségeinek a népszerűsítése a gyermekek, a fiatalok, a családok és az idősebb korosztály körében. Lehetőséget kívánunk teremteni a különböző korosztályok számára a szabadidő tartalmas eltöltésére, külön figyelmet fordítva a nyugdíjas korosztályra. Kiemelt célunk Magyarország és a környező országok természeti, történeti, építészeti és kulturális értékeinek megismerése és megismertetése, szervezett gyalogtúrák, kirándulások, kerékpártúrák, versenyek és ismeretterjesztő programok keretében. Fontosnak tartjuk a közösségi célok együttes megvalósítására irányuló ösztönzést, az egészséges életmód népszerűsítését, az egészségmegőrzést, betegség-megelőzést, tájékoztatást, az egészségügyi prevenció és rehabilitációs tevékenységeket.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007914",
+      "régi_nyilvántartási_száma": "7914/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-03",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "563 440 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 798 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "341 902 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

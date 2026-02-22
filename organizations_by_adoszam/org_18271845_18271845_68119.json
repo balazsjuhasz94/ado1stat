@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18271845",
+  "scraped_at": "2026-02-21T13:11:20.311425",
+  "organization_id": "68119",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cseperedőkért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8100 Várpalota, Bercsényi utca 10.",
+      "x_koordináta": "47.2005948",
+      "y_koordináta": "18.1707315",
+      "adószám": "18271845-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-11-23",
+      "statisztikai_számjel": "18271845-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "Várpalota-Inotai városrészében bölcsődét, illetve óvodát igénybe vevő gyerekek programjainak támogatása, a 2-7 éves korú gyermekek harmonikus testi és szellemi fejlődésének elősegítése, a gyermekek nevelési és oktatási színvonalának emelése. A tehetséges vagy az átlagostól eltérő gyermekek képességeinek fejlesztése, folyamatos tehetséggondozás. A szociális hátrányos helyzetű gyermekek segítése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001629",
+      "régi_nyilvántartási_száma": "1629/2011",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Domján",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "151 410 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "367 211 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "430 724 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "442 473 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cseperedőkért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

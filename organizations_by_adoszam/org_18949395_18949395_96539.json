@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18949395",
+  "scraped_at": "2026-02-21T13:36:48.855386",
+  "organization_id": "96539",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bodor Tibor Kulturális Egyesület",
+      "rövid_név": "BTKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1046 Budapest, Erdősor út 2. II/11.",
+      "x_koordináta": "47.513986",
+      "y_koordináta": "19.122617",
+      "adószám": "18949395-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-26",
+      "statisztikai_számjel": "18949395-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Látássérült személyek számára kulturális tevékenységek (és tevékenységi körök) elérésének bővítése a már jól bevált, valamint új, innovatív eszközökkel. Közösségi terek szervezése, fenntartása, más hasonló célú szervezetekkel történő együttműködés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016792",
+      "régi_nyilvántartási_száma": "16792/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Puskás",
+        "Képviselő keresztneve": "Kata",
+        "Képviselő titulusa": "Szidónia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "397 103 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 946 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "569 708 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "390 585 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bodor Tibor Kultúrális Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

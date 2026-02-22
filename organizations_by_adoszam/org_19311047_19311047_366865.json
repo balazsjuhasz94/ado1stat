@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19311047",
+  "scraped_at": "2026-02-14T13:35:08.230597",
+  "organization_id": "366865",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Viru Védencei Állatvédelmi Alapítvány",
+      "rövid_név": "Viru Védencei",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1125 Budapest, Istenhegyi út 86/B. A épület fszt./3.",
+      "adószám": "19311047-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-07",
+      "statisztikai_számjel": "19311047-9499-569-01",
+      "x_koordináta": "47.5076043",
+      "y_koordináta": "18.9941659"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelmi prevenció hátrányos helyzetű területeken. Menhelyeken dolgozók, önkétesek oktatása és segítése. Állatvédelmi előadások oktatási intézményekben, cégek, vállalatok számára érzékenyítés. Állatok-emberek ellen elkövetett erőszakos cselekmények közötti összefüggések beépítése a köztudatba. Írott és elektronikus kiadványok létrehozása (külföldi kiadványok magyarra fordítása), angol nyelvű videókhoz magyar feliratok gyártása önkéntesek bevonásával ismeretterjesztés céljával. Részt kívánunk venni nemzetközi pályázatokon és együttműködni hazai valamint külföldi állatvédelmi szervezetekkel. Egy központ létrehozása, ahol más menhelyekről átvett, viselkedésproblémás kutyákat rehabilitálunk.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002276",
+      "régi_nyilvántartási_száma": "2276/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "16200223-10193820",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 070 146 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

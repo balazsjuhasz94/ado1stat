@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19305475",
+  "scraped_at": "2026-02-21T12:43:03.550725",
+  "organization_id": "366399",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kavicsos-tó Tulajdonosainak Egyesülete",
+      "rövid_név": "K.T.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2310 Szigetszentmiklós, Szák utca 1.",
+      "adószám": "19305475-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-14",
+      "statisztikai_számjel": "19305475-9499-529-13",
+      "x_koordináta": "47.3627033",
+      "y_koordináta": "19.0416257"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Létrehozni a Csepel-Szigetszentmiklós Kavicsos-tó közvetlen vízpartján élők közösségét. Előtérbe helyezve a tulajdonosi szemléletet. A tó és környékének védelmére elvégzett fejlesztéseket hivatottak elősegíteni, melyeket a lehetőségeihez képest anyagi hozzájárulással is támogat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008027",
+      "régi_nyilvántartási_száma": "8027/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gubacsi",
+        "Képviselő keresztneve": "Géza",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "514 388 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

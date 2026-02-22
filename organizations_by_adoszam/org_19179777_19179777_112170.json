@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19179777",
+  "scraped_at": "2026-02-21T13:18:22.490155",
+  "organization_id": "112170",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Monor Hegyessy Lions Klub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2200 Monor, Hegyessy tanya 57.",
+      "x_koordináta": "47.3389473",
+      "y_koordináta": "19.4219765",
+      "adószám": "19179777-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-09-02",
+      "statisztikai_számjel": "19179777-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "céljának_leírása": "Tagjai jószolgálati, segítő tevékenységet, kulturális összejöveteleket szervezzenek, leginkább a vakoknak és gyengén látóknak, de a gyermekeknek és az időseknek is közvetlenül vagy Alapítványokon keresztül a következő területeken: alsó és középfokú oktatási intézmények, szociálisan rászorult idős emberek és közösségek, vakok és gyengén látók egyéni és Egyesületi szinten.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0001093",
+      "régi_nyilvántartási_száma": "1093/1991",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2008-10-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hajdu",
+        "Képviselő keresztneve": "Vanda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "164 868 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 732 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "373 734 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "425 710 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Monor Hegyessy Lions Klub"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

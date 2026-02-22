@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19914310",
+  "scraped_at": "2026-02-21T13:04:13.054531",
+  "organization_id": "108282",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "JUSTITIA Fuji-Yama Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3525 Miskolc, Toldi utca 9.",
+      "x_koordináta": "48.109008",
+      "y_koordináta": "20.775208",
+      "adószám": "19914310-2-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19914310-9312-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület szakosztályaiban sportoló tagjainak és családtagjaik sportolásának (versenyeztetésének) testedzésének, felüdülésének szervezése és biztosítása. E cél érdekében: a.) sportversenyeket, mérkőzéseket rendez, edzéseket tart, biztosítja tagjai részvételét a saját illetőleg anyagi lehetőségeihez mérten más sportszervezetek által rendezett versenyeken, b.) sportlétesítményeket tart fenn, illetőleg bérel és gondoskodik azok karbantartásáról, c.) biztosítja testnevelési és sportmozgalom népszerűsítését, a baráti, közösségi szellem kialakítása érdekében összejöveteleket, sportbemutatókat szervez, d.) tagjait egészséges, sportszerű életre neveli, e.) megszervezi és lebonyolítja a tagság rendszeres tagdíjfizetését, sportszereket, felszereléseket vásárol és gondoskodik azok megóvásáról, rendben tartásáról.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0000472",
+      "régi_nyilvántartási_száma": "472/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-08-30",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pálinkás",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "243 186 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 763 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 336 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "515 618 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "458 553 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "JUSTITIA FUJI-YAMA SE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "JUSTITIA FUJI-YAMA SE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19233992",
+  "scraped_at": "2026-02-21T14:21:14.247873",
+  "organization_id": "113009",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kezdetektől fogva Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2013 Pomáz, Koppány utca 5.",
+      "x_koordináta": "47.645517",
+      "y_koordináta": "19.017357",
+      "adószám": "19233992-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-24",
+      "statisztikai_számjel": "19233992-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja az amatőr- és versenysportok népszerűsítése, sport utánpótlás nevelés és annak támogatása, valamint a versenyzés támogatása. Az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtése, a sportolók edzettségének, állóképességének javítása, valamint a sportsérülések rehabilitációjának segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007763",
+      "régi_nyilvántartási_száma": "7763/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-06-14",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sájer",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 972 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 402 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "317 866 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

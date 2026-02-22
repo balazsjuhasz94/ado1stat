@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19087856",
+  "scraped_at": "2026-02-21T13:55:37.817113",
+  "organization_id": "88411",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mozogj Velünk Csanád Sportegyesület",
+      "rövid_név": "MOVE Csanád",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6347 Érsekcsanád, Hunyadi János utca 57.",
+      "x_koordináta": "46.250115",
+      "y_koordináta": "18.9864927",
+      "adószám": "19087856-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-10-09",
+      "statisztikai_számjel": "19087856-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Érsekcsanád község lakosainak ösztönzése a rendszeres sportolásra és ezáltal az egészséges életmódra, a tagok szabadidő sportjának támogatása, a település lakóinak testmozgás iránti igényének felkeltése, a mozgás népszerűsítése és az erre irányuló közösségi élet kibontakoztatása; ennek érdekében részvétel a településfejlesztési konzultációkban, a településfejlesztési célok megvalósításában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003727",
+      "régi_nyilvántartási_száma": "3727/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-05",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csengeri",
+        "Képviselő keresztneve": "Klára",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Veszteg",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Takács",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "236 705 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "269 081 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 947 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "320 211 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "358 307 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOZOGJ VELÜNK CSANÁD SPORTEGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOZOGJ VELÜNK CSANÁD"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

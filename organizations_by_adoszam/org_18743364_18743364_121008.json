@@ -1,0 +1,364 @@
+{
+  "search_adoszam": "18743364",
+  "scraped_at": "2026-02-21T13:23:52.787057",
+  "organization_id": "121008",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kemence Hagyományőrző Gasztro-kulturális és Közösségfejlesztő Egyesület",
+      "rövid_név": "Kemence Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2921 Komárom, Kossuth L. utca 81.",
+      "x_koordináta": "47.727615",
+      "y_koordináta": "18.1693539",
+      "adószám": "18743364-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-03-19",
+      "statisztikai_számjel": "18743364-9499-529-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület célja, hogy segítsen összességében látni azt a kultúr-világot, amely egy-egy étel, vagy ital mögött jelen van, hordozva az adott tájegység jellemzőit, környezeti adottságait, történelmét, hagyományait.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002018",
+      "régi_nyilvántartási_száma": "2018/2016",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-02-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-29",
+      "alkalmazottak_száma": "45",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-29",
+      "bankszámlaszám": "11600006-00000000-94484720",
+      "számlavezető_pénzintézet_neve": "ERSTE Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schmelcz",
+        "Képviselő keresztneve": "Géza Imréné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0113",
+        "Leírás": "Zöldségféle, dinnye, gyökér-, gumósnövény termesztése"
+      },
+      {
+        "Kód": "0124",
+        "Leírás": "Almatermésű, csonthéjas termesztése"
+      },
+      {
+        "Kód": "0143",
+        "Leírás": "Ló, lóféle tenyésztése"
+      },
+      {
+        "Kód": "0145",
+        "Leírás": "Juh, kecske tenyésztése"
+      },
+      {
+        "Kód": "0146",
+        "Leírás": "Sertéstenyésztés"
+      },
+      {
+        "Kód": "0147",
+        "Leírás": "Baromfitenyésztés"
+      },
+      {
+        "Kód": "0161",
+        "Leírás": "Növénytermesztési szolgáltatás"
+      },
+      {
+        "Kód": "1039",
+        "Leírás": "Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás"
+      },
+      {
+        "Kód": "1073",
+        "Leírás": "Tésztafélék gyártása"
+      },
+      {
+        "Kód": "1082",
+        "Leírás": "Édesség gyártása"
+      },
+      {
+        "Kód": "1084",
+        "Leírás": "Fűszer, ételízesítő gyártása"
+      },
+      {
+        "Kód": "1399",
+        "Leírás": "Egyéb textiláru gyártása m.n.s."
+      },
+      {
+        "Kód": "1512",
+        "Leírás": "Táskafélék, szíjazat gyártása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "2059",
+        "Leírás": "M.n.s. egyéb vegyi termék gyártása"
+      },
+      {
+        "Kód": "3213",
+        "Leírás": "Divatékszer gyártása"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7430",
+        "Leírás": "Fordítás, tolmácsolás"
+      },
+      {
+        "Kód": "7810",
+        "Leírás": "Munkaközvetítés"
+      },
+      {
+        "Kód": "7820",
+        "Leírás": "Munkaerőkölcsönzés"
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8292",
+        "Leírás": "Csomagolás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8720",
+        "Leírás": "Mentális, szenvedélybeteg bentlakásos ellátása"
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "0128",
+        "Leírás": "Fűszer-, aroma-, narkotikus, gyógynövény termesztése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "0162",
+        "Leírás": "Állattenyésztési szolgáltatás"
+      },
+      {
+        "Kód": "1089",
+        "Leírás": "M.n.s. egyéb élelmiszer gyártása"
+      },
+      {
+        "Kód": "3299",
+        "Leírás": "Egyéb m.n.s feldolgozóipari tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6020",
+        "Leírás": "Televízióműsor összeállítása, szolgáltatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "4776",
+        "Leírás": "Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4721",
+        "Leírás": "Zöldség, gyümölcs kiskereskedelme"
+      },
+      {
+        "Kód": "4722",
+        "Leírás": "Hús-, húsáru kiskereskedelme"
+      },
+      {
+        "Kód": "4724",
+        "Leírás": "Kenyér-, pékáru-, édesség-kiskereskedelem"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7739",
+        "Leírás": "Egyéb gép, tárgyi eszköz kölcsönzése"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "78 808 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "122 906 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "133 523 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 191 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "370 602 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "411 096 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kemence Hagyományőrző Gasztro-kult. Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kemence Hagyományőrző Gasztro-kult. Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kemence Hagyományőrző Gasztro-kult. Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

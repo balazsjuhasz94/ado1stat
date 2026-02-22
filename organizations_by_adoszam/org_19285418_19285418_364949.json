@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19285418",
+  "scraped_at": "2026-02-14T14:49:11.363453",
+  "organization_id": "364949",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vámosszabadi Gyermekmosoly Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9061 Vámosszabadi, Szabadi utca 53.",
+      "adószám": "19285418-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-28",
+      "statisztikai_számjel": "19285418-9499-569-08",
+      "x_koordináta": "47.7522447",
+      "y_koordináta": "17.6376797"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Vámosszabadi társadalmi s közösségi felzárkóztatás segítése, a magyar oktatási versenyképességhez való hozzájárulás, a szellemi élet, a kultúra és főleg a hátrányos helyzetű fiatalok segítésén keresztül. Az alapítvány célja a Vámosszabadi Vackor Óvoda és Bölcsőde támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051456",
+      "régi_nyilvántartási_száma": "51456/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gulyásné Csatlós",
+        "Képviselő keresztneve": "Annamária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "537 031 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "630 588 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

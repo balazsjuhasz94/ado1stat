@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18945580",
+  "scraped_at": "2026-02-21T14:04:35.163013",
+  "organization_id": "123499",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Viktória Alapítvány a központi idegrendszer sérült gyermekekért",
+      "rövid_név": "Viktória Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2045 Törökbálint, Őrház utca 22.",
+      "x_koordináta": "47.4488503",
+      "y_koordináta": "18.8990692",
+      "adószám": "18945580-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-08",
+      "statisztikai_számjel": "18945580-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Településfejlesztési és lakásügyi tevékenység (pl. helyi és regionális településfejlesztés, kommunális és közlekedésfejlesztés, közösségfejlesztés, ingatlantulajdonosok szervezetei, lakásellátás javítása)",
+      "céljának_leírása": "A fejlődési rendellenességgel, oxigénhiánnyal született gyerekek, az értelmi fogyatékkal élők, a tanulásban akadályozott, a halmozottan sérült gyerekek folyamatos fejlesztése mind értelmi, beszéd, és moztás fejlesztése, számukra megfelelő további terápiák felkutatása, megismerése. Óvodai, iskolai érettség vizsgálata, szűrése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003915",
+      "régi_nyilvántartási_száma": "3915/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-01",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hanák-Üveges",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szilágyi",
+        "Képviselő keresztneve": "Marianna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Toma",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "76 560 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "251 781 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 716 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "343 548 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "VIKTÓRIA Alapítvány - a központi idegrendszer sérült gyermekekért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

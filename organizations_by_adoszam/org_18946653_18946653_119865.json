@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18946653",
+  "scraped_at": "2026-02-14T13:25:33.325370",
+  "organization_id": "119865",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vietnami Buddhista Kulturális Központ",
+      "rövid_név": "VINABUDH",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1181 Budapest, Gyömrői út 79-83. 18.lph. 1.em.",
+      "x_koordináta": "47.4579376",
+      "y_koordináta": "19.1741386",
+      "adószám": "18946653-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-19",
+      "statisztikai_számjel": "18946653-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A vietnámi hagyományos buddhista-jellegű kultúrák, életvezetési módok megőrzése, továbbfejlesztése, szélesebb körben történő megismertetése, elsősorban az itt élő vietnámiak, de a magyar lakosság körében is vallási elkötelezettségtől függetlenül, ezzel segítve a buddhizmus magyar társadalom általi elfogadását, magyar társadalomba integrálását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016687",
+      "régi_nyilvántartási_száma": "16687/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-11-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pham",
+        "Képviselő keresztneve": "Van",
+        "Képviselő titulusa": "Khue",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Phan",
+        "Képviselő keresztneve": "Anh",
+        "Képviselő titulusa": "Son",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Duong",
+        "Képviselő keresztneve": "Dac",
+        "Képviselő titulusa": "Dang",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nguyen",
+        "Képviselő keresztneve": "Thi",
+        "Képviselő titulusa": "Bao",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9491",
+        "Leírás": "Egyházi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "38 513 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "311",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 203 322 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

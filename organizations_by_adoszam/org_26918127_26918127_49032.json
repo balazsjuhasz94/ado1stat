@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "26918127",
+  "scraped_at": "2026-02-21T12:47:44.470161",
+  "organization_id": "49032",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cecei Óvodásokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7013 Cece, Deák Ferenc utca 35.",
+      "x_koordináta": "46.765642",
+      "y_koordináta": "18.631239",
+      "adószám": "26918127-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-01-14",
+      "statisztikai_számjel": "26918127-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A minőségjavító, színvonalas óvodai szolgáltatások biztosítása érdekében az alapellátáson túli fejlesztések (eszközök, anyagok felszerelések) anyagi fedezetének biztosítása, hozzájárulás az óvoda nevelési ? oktatási feltételeinek javításához; az óvodás gyermekek egészséges életmódjához, sportolásához szükséges eszközök biztosítása; az óvónők részére szakmai továbbképzések szervezése, hozzájárulás azok költségeihez, a kiemelkedő munkát végző óvodai dolgozók elismerése, az esélyegyenlőség biztosításával minden gyermek részére ? az óvodás évek alatt ? lehetőségek nyújtása tényleges képességeik kibontakoztatására, önmaguk kipróbálására; az előzőekben felsorolt alapítványi célok megvalósítása érdekében fejtsen ki hatékony szervező, ösztönző és felvilágosító tevékenységet, gyűjtse össze az anyag forrásokat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001065",
+      "régi_nyilvántartási_száma": "1065/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2014-10-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fésü",
+        "Képviselő keresztneve": "Lajosné",
+        "Képviselő titulusa": "sz. Dozmati Andrea",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "140",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "520 123 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "153",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "565 975 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "104",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 175 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 575 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "381 174 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "499 413 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cecei Óvodásokért Alapítvánx"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cecei Óvodásokért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cecei Óvodásokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19341518",
+  "scraped_at": "2026-02-14T13:54:17.254675",
+  "organization_id": "368830",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ég-Ígérő Érdligeti Református Óvodáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Duna utca 77.",
+      "adószám": "19341518-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-08",
+      "statisztikai_számjel": "19341518-9499-569-13",
+      "x_koordináta": "47.3723018",
+      "y_koordináta": "18.9212725"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány alapvető célja az Ég-Ígérő Érdligeti Református Óvoda működésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004310",
+      "régi_nyilvántartási_száma": "4310/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vallyonné dr. Tóth",
+        "Képviselő keresztneve": "Laura",
+        "Képviselő titulusa": "Rózsa",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "929 822 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

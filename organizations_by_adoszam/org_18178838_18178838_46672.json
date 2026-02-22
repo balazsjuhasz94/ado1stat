@@ -1,0 +1,170 @@
+{
+  "search_adoszam": "18178838",
+  "scraped_at": "2026-02-14T12:27:22.926995",
+  "organization_id": "46672",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Súlyosan Beteg Gyermekek Ellátásért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1131 Budapest, Madarász Viktor utca 22-24.",
+      "x_koordináta": "47.5485323",
+      "y_koordináta": "19.0755704",
+      "adószám": "18178838-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2003-03-05",
+      "statisztikai_számjel": "18178838-7210-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A súlyosan beteg gyermekek ellátásának, gyógyításának az elősegíté- se és támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0008522",
+      "régi_nyilvántartási_száma": "8522/2001",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-10-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lódi",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Schnur",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "Lajos",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 442 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "232",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 049 102 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "195",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "927 503 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "190",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 044 430 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "225",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 338 194 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "258",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 805 228 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "217",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 424 427 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "259",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 841 297 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "312",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 403 196 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "350",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 080 679 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "442",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 730 291 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "408",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 042 141 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A SÚLYOSAN BETEG GYERMEKEK ELLÁTÁSÁÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A SÚLYOSAN BETEG GYERMEKEK ELLÁTÁSÁÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ASÚLYOSAN BETEG GYERMEKEK ELLÁTÁSÁÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Súlyosan Beteg Gyermekek Ellátásáért Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Súlyosan Beteg Gyermekek Ellátásáért Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Súlyosan Beteg Gyermekek Ellátásáért Alapitvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A SÚLYOSAN BETEG GYERM.ALAPITV."
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A SÚLYOSAN BETEG GYERM.ALAPITV."
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A SÚLYOSAN BETEG GYERM.ALAPITV."
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A SÚLYOSAN BETEG GYERM.ALAPITV."
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

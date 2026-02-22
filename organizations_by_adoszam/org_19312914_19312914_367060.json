@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19312914",
+  "scraped_at": "2026-02-21T14:00:54.907652",
+  "organization_id": "367060",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MVM Az Energikus Gyermekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1031 Budapest, Szentendrei út 207-209.",
+      "adószám": "19312914-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-06",
+      "statisztikai_számjel": "19312914-8891-569-01",
+      "x_koordináta": "47.5726359",
+      "y_koordináta": "19.0462898"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "- Elősegíteni a bölcsődébe/óvodába járó gyermekek személyiségének fejlődését, fejlesztését, képességeik, készségeik kibontakozását, a gyermek életre való nevelését. - Élmény gazdag, tevékenység gazdag és egészséges környezet biztosítása a bölcsődébe/óvodába járó gyerekek számára. - A gyerekek – testi és mentális – egészséges életmódja megalapozásának elősegítése. - A fenntarthatóság fontosságának – életkornak megfelelő – megismertetése, az egyén ebbéli felelősségének megalapozása. - Segítségnyújtás az intézmény dolgozóinak szakmai megújulásához, anyagi támogatás a belső rendezvényekhez, továbbképzésekhez, előadásokhoz. - Utánpótlás szemléletű nevelés, melyben kiemelt szerepet kap a céges identitás megalapozása. - Rászoruló családok támogatása a nevelésben történő részvétel biztosításával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013198",
+      "régi_nyilvántartási_száma": "13198/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-09",
+      "alkalmazottak_száma": "17",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-04",
+      "bankszámlaszám": "10700024-72801581-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zártkörűen Működő Részvénytársaság"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gál",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bally",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Goldfárthné Veres",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Antal",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 954 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

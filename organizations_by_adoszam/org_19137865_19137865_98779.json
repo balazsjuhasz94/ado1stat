@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19137865",
+  "scraped_at": "2026-02-14T13:14:25.075786",
+  "organization_id": "98779",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nyílt Ivartalanítás Szponzorálását Támogató Alapítvány",
+      "rövid_név": "NYISTA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2340 Kiskunlacháza, Északi lejáró 3.",
+      "x_koordináta": "47.1945699",
+      "y_koordináta": "18.9586583",
+      "adószám": "19137865-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-20",
+      "statisztikai_számjel": "19137865-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "A kutyák és macskák túlszaporodásának visszaszorítása, a nem kívánt szaporulatok elkerülése, ezzel biztosítva a menhelyekre, gyepmesteri telepekre, utcára kerülő kutyák és macskák számának csökkenését. Elsősorban magánszemélyek háziállatainak ivartalanítási költségének fedezése és a bajba jutott állatok segítése, támogatása. Célunk egy olyan támogatási folyamat létrehozása, ahol minden kapott adomány az alapítvány weboldalán publikusan nyomon követhetően jut el a támogatást igénylőhöz vagy rászorulóhoz.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004011",
+      "régi_nyilvántartási_száma": "4011/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10400140-50526890-65531012",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "Csilla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "277",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 549 239 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "239",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 589 550 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "204",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 696 767 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "170",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 387 171 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "NYISTA"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

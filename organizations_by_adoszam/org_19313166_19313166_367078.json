@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19313166",
+  "scraped_at": "2026-02-14T15:02:02.926942",
+  "organization_id": "367078",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Miskolci Mazsorett Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3532 Miskolc, Andrássy utca 8. 3/12",
+      "adószám": "19313166-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-08",
+      "statisztikai_számjel": "19313166-9312-521-05",
+      "x_koordináta": "48.1259988",
+      "y_koordináta": "20.7190359"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület céljai: - a sport társadalmi fontosságának képviselete, ezen belül kiemelten a mazsorett, a mazsorett sport társadalmi elismerésének növelése, megismertetése, megszerettetése, a mazsorett, mint sport és szabadidős tevékenység népszerűsítése a gyermekek és a fiatalok körében; - a mazsorett útján a gyermekek és a fiatalok mozgáskultúrájának a javítása, - a gyermekekben és a fiatalokban a rendszeres testedzés igényének felkeltése és megtartása, - a gyermekek és a fiatalok életében a rendszeres testmozgás és sportolás biztosítása a mazsorett segítségével, - tehetséggondozás, utánpótlás nevelés, - egészségmegőrzés, az egészséges életmód népszerűsítése, - az esélyegyenlőség jegyében a gyermek- és ifjúsági sport, és a hátrányos helyzetű társadalmi csoportok sportolási lehetőségeinek a támogatása, - a szabadidő hasznos eltöltésének elősegítése, - a közösségi kapcsolatok erősítése, a közösségi élet fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0066081",
+      "régi_nyilvántartási_száma": "66081/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-08-26",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dudás",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "556 818 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "592 802 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

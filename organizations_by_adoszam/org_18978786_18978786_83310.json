@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18978786",
+  "scraped_at": "2026-02-21T13:44:42.247924",
+  "organization_id": "83310",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zebegény Garvittax Sportegyesület",
+      "rövid_név": "Zebegény GSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2627 Zebegény, Naphegy utca 21.",
+      "x_koordináta": "47.792461",
+      "y_koordináta": "18.913138",
+      "adószám": "18978786-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-03-26",
+      "statisztikai_számjel": "18978786-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Zebegény és vonzáskörzete sporttevékenységének segítése, az általános testkultúra javítása. Célja továbbá, a sportegyesület által felvállalt sportágakban az utánpótlás bázis szélesítése, ifjúsági és gyermeksportolók, felnőtt férfi és női sportolók képzését is ideértve, versenyeztetése, minőségi sport eredmények eléréséhez szükséges személyi és tárgyi feltételek megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007420",
+      "régi_nyilvántartási_száma": "7420/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-15",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ferenci",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "167 199 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "124 656 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 155 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 070 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "377 269 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zebegény Garvittax Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zebegény Garvittax Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

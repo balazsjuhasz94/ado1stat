@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19301536",
+  "scraped_at": "2026-02-21T14:25:27.024362",
+  "organization_id": "366192",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "AVIÁTOR Repüléstörténeti Alapítvány",
+      "rövid_név": "AVIÁTOR Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8600 Siófok, Szekszárdi út 094.hrsz.",
+      "adószám": "19301536-2-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-28",
+      "statisztikai_számjel": "19301536-9499-569-14",
+      "x_koordináta": "46.8954533",
+      "y_koordináta": "18.0396824"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyar katonai repülés tárgyi, személyi emlékeinek felkutatása, restaurálása, azok kiállíthatóvá tétele a magyar és külföldi érdeklődők részére, a fiatalok hazafias honvédelmi nevelése és a pályára irányítása elősegítése. Lehetőség szerint a HM kadétprogramban való részvétel, a szabadidős tevékenység biztosítása. A katonai hagyományőrzés, a bajtársi találkozók megszervezése, biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003443",
+      "régi_nyilvántartási_száma": "3443/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-05-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "478 168 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "312 841 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

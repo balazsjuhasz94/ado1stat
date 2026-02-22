@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19238368",
+  "scraped_at": "2026-02-14T13:48:08.920124",
+  "organization_id": "120786",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Aktív Mancsok Segítőkutyás Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5661 Újkígyós, Béke utca 1/2.",
+      "x_koordináta": "46.5919613",
+      "y_koordináta": "21.0305641",
+      "adószám": "19238368-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-19",
+      "statisztikai_számjel": "19238368-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Pszichésen vagy fizikálisan hátrányos helyzetű emberek életminőségének javítása, társadalmi integrációjának előmozdítása speciális feladatok ellátására alkalmas segítőkutyák kiképzésével és azoknak a fogyatékossággal élő személyekhez történő eljuttatásával. A társadalmi szolidaritás erősítése, az állatvédelem és a felelős állattartás népszerűsítése, továbbá terápiás kutyák alkalmazása gyógypedagógiai, pszichológiai, pszichiátriai, konduktív pedagógia habilitációs és rehabilitációs folyamatokban. A kutyás terápiát és/vagy segítő intézmények, szervezetek és személyek érdekének védelme.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003537",
+      "régi_nyilvántartási_száma": "3537/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-14",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gulyás",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gulyás",
+        "Képviselő keresztneve": "Bianka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "527 855 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "755 202 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "974 237 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

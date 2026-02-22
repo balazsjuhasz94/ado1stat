@@ -1,0 +1,169 @@
+{
+  "search_adoszam": "18661026",
+  "scraped_at": "2026-02-14T12:14:42.125549",
+  "organization_id": "59441",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zöld Menedék Állatvédő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Piac utca 1.",
+      "x_koordináta": "47.7783124",
+      "y_koordináta": "19.1297713",
+      "adószám": "18661026-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1993-05-07",
+      "statisztikai_számjel": "18661026-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "A kóbor állatok begyüjtése, uj gazda keresése, ideiglenesen kitett állatok panzióban való elhelyezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0000758",
+      "régi_nyilvántartási_száma": "758/1993",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-05-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-07-29",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jess",
+        "Képviselő keresztneve": "Kinga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sági",
+        "Képviselő keresztneve": "Barbara",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "2725",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 364 228 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "3152",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 606 235 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "3407",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 605 163 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "3032",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 138 890 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "3135",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 225 842 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "3201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "16 417 441 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "3341",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 929 358 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "3317",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 209 367 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "2886",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 307 401 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "3709",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "31 147 588 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "3448",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "33 025 960 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "3327",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "36 729 716 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld Menedék Állatvédő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

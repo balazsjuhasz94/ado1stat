@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19300009",
+  "scraped_at": "2026-02-21T14:11:24.879736",
+  "organization_id": "366061",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Erdőszéli Lovaséden a családokért és gyermekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4028 Debrecen, Korponay utca 15/ 1.",
+      "adószám": "19300009-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-13",
+      "statisztikai_számjel": "19300009-9499-569-09",
+      "x_koordináta": "47.5443541",
+      "y_koordináta": "21.6373137"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Alapítványunkkal a térségben élő gyermekek és családok részére kívánunk szabadidős tevékenység lehetőségét biztosítani, hiánypótló jelleggel. Olyan gyermekeknek és családoknak szervezünk programokat, akik adottságaiknál fogva nem tudnak lovak, állatok közelségébe kerülni, és ezáltal nem tudják megtapasztalni az állatokkal kapcsolatban érzett kölcsönös szeretet élményét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002266",
+      "régi_nyilvántartási_száma": "2266/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-16",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Andó",
+        "Képviselő keresztneve": "Pál",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "494 386 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "332 631 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

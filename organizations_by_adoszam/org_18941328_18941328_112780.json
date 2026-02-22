@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18941328",
+  "scraped_at": "2026-02-14T13:46:44.546976",
+  "organization_id": "112780",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egyenlő Esélyekkel az Iskolapadban Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1089 Budapest, Orczy út 46-48.",
+      "x_koordináta": "47.4347616",
+      "y_koordináta": "18.9244144",
+      "adószám": "18941328-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-13",
+      "statisztikai_számjel": "18941328-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Egyenlő Esélyekkel az Iskolapadban Egyesület (a továbbiakban: egyesület) közvetlen távú célja egy tanoda-típusú szolgáltatás létrehozása és működtetése elsősorban szakgimnáziumba és szakközépiskolába járó fiatalok számára, ahol az iskolai előmenetelhez kapott segítség mellett lehetőségük nyílik a fiataloknak, hogy alternatív módszerek használatával, a kritikai pedagógia eszközein keresztül ismerjék meg az őket körülvevő világot. Az egyesület közvetett célja, hogy a szolgáltatást igénybevevő fiatalokból egy olyan önsegítő csoport (közösség) alakuljon, amely a jövőben is megtartó erővel bír a tagok számára, és elősegíti, hogy aktívan részt vegyenek saját jövőjük formálásában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007328",
+      "régi_nyilvántartási_száma": "7328/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-06-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-21",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-18",
+      "bankszámlaszám": "12100011-17902375",
+      "számlavezető_pénzintézet_neve": "Gránit Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fuxreiter",
+        "Képviselő keresztneve": "Fanny",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "363 758 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "616 196 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "572 532 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "703 317 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "821 109 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "961 526 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egyenlő Esélyekkel az Iskolapadban Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egyenlő Esélyekkel az Iskolapadban Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egyenlő Esélyekkel az Iskolapadban Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

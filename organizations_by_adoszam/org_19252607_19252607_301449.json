@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19252607",
+  "scraped_at": "2026-02-21T14:10:32.642214",
+  "organization_id": "301449",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Generációk Hangja Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1152 Budapest, Fazekas sor 78. I/1.",
+      "adószám": "19252607-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-24",
+      "statisztikai_számjel": "19252607-9499-569-01",
+      "x_koordináta": "47.5577585",
+      "y_koordináta": "19.1498445"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja egy közösség és médiaműhely létrehozása. Célunk az, hogy a különböző generációs szakadékok áthidalásával a korosztályok közötti párbeszéd elősegítésével olyan műhelyt hozzunk létre, amelyben a tagok egymás között, főképp egymástól tanulhatnak. Ennek eszköze egy jelenleg online, később frekvencián működő rádióállomás működtelése, amely számára az alapítvány biztosítja az anyagi és tárgyi feltételeket és amely részére a tagok műsorokat, interjúkat, közszolgálati tartalmakat állítanak elő. A létrehozott műhely jellegét tekintve egy nyitott közösség, amelyhez bárki csatlakozhat és bármiféle előzetes képesítés nélkül részt vehet a közös munkában. Az alapítvány célja az ismeretek áramlásának biztosításán túl a párbeszéd elősegítése. A már fent említett rádióadó üzemeltetésén keresztül szeretnénk interakcióra bírni a különböző generációk sokszor teljesen eltérő álláspontú tagjait, hogy azok ezen „virtuális közösségen” keresztül beszélhessék meg az őket érintő problémákat, kérdéseket, történéseket. Célunk továbbá a fősodratú (mainstream) médiából kiszoruló témáknak, kezdeményezéseknek, csoportosulásoknak megszólalási és bemutatkozási lehetőséget biztosítani. Fontosnak gondoljuk, hogy az eddig csak kisebb csoportokat elérő, a társadalom számára hasznos munkát végző szervezetek mindennapjaival a közösség tagjai és a hallgatók is megismerkedhessenek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012961",
+      "régi_nyilvántartási_száma": "12961/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-07-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "16200106-11662246",
+      "számlavezető_pénzintézet_neve": "MagNet Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "6010",
+        "Leírás": "Rádióműsor-szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "464 977 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "378 341 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "334 108 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

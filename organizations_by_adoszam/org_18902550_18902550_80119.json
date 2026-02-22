@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18902550",
+  "scraped_at": "2026-02-14T13:05:19.296254",
+  "organization_id": "80119",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szekszárdi Kutató-Mentő Egyesület",
+      "rövid_név": "SZKME",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7100 Szekszárd, Szőlőhegy utca 28.",
+      "x_koordináta": "46.3125488",
+      "y_koordináta": "18.6912945",
+      "adószám": "18902550-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-05",
+      "statisztikai_számjel": "18902550-8425-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az egyesület tagjainak fő célja, hogy a speciális felkészültségük és ismereteik, felszereléseik, illetve a speciálisan képzett mentőkutyák felhasználásával olyan tevékenységet folytassanak, amely a közösség számára hasznosak, így többek között: 1.) Az emberi élet és anyagi javak mentése 2.) Eltűnt személyek felkutatásában való részvétel, mentőkutyás keresés 3.) Embertársak kimentése speciális helyzetekből, vízi mentés 4.) Balesetek helyszínén történő segítségnyújtás 5.) Speciális kereső, vakvezető, terápiás kutyák képzése 6.) Rendezvények és táborok szervezése 7.) Vagyoni értékek megóvásában való közreműködés 8.) Természeti és ipari katasztrófák felszámolásban való közreműködés és segítségnyújtás 9.) A fenti tevékenységet a katasztrófavédelemről szóló 2011. évi CXXVIII. törvény 1. § (1), a 2. § (1), a 18. § (1) bekezdése alapján a Tolna Megyei Katasztrófavédelmi Igazgatósággal kötött megállapodás alapján végzi.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002126",
+      "régi_nyilvántartási_száma": "2126/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-06-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Badacsonyi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "460 115 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "608 044 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "648 985 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "172",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 557 613 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "153",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 195 385 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "168",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 585 993 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szekszárdi Kutató-Mentő Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szekszárdi Kutató-Mentő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szekszárdi Kutató-Mentő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

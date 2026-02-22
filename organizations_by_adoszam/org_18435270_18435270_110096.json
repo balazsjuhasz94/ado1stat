@@ -1,0 +1,119 @@
+{
+  "search_adoszam": "18435270",
+  "scraped_at": "2026-02-21T13:18:32.200601",
+  "organization_id": "110096",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rotary Club Miskolc",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3527 Miskolc, Sajó út 4.",
+      "x_koordináta": "48.1070008",
+      "y_koordináta": "20.8272794",
+      "adószám": "18435270-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-09-27",
+      "statisztikai_számjel": "18435270-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A. Kölcsönös-segítségnyújtás és szolgálatkészség a mindennapi életben. B. A barátság ápolása, amely alkalmat ad mások megsegítésére. C. Magas erkölcsi követelmények elfogadása és követése a hivatás gyakorlása és a gazdasági tevékenység során, bármely hasznos foglalkozás értékének elismerése és minden rotarysta foglalkozásának megbecsülése, mivel éppen ezáltal nyílik alkalom a közösség szolgálatára. D. A szolgálat és a segítés eszméje szerinti magatartás minden rotarysta magán-, gazdasági és közösségi életében. E. A nemzetközi megértés, a jó szándék és a béke ápolása. F. A hivatásukban tevékenykedő személyeket a magasztos eszmék befogadása egyesítette a világszervezetben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0002913",
+      "régi_nyilvántartási_száma": "2913/2000",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-10-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "31",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Montvai",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "66 154 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "81 609 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "43 942 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "47 204 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 761 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "133 589 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "402 318 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "425 342 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ROTARY CLUB MISKOLC"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ROTARY CLUB MISKOLC"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ROTARY CLUB MISKOLC"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ROTARY CLUB MISKOLC"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ROTARY CLUB MISKOLC"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

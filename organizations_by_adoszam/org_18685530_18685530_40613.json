@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18685530",
+  "scraped_at": "2026-02-21T14:14:28.182774",
+  "organization_id": "40613",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Európai Útmutatók és Cserkészek Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Szent László tér 1.",
+      "x_koordináta": "47.647113",
+      "y_koordináta": "19.140208",
+      "adószám": "18685530-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1999-12-08",
+      "statisztikai_számjel": "18685530-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "céljának_leírása": "Kultura, sport.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0002711",
+      "régi_nyilvántartási_száma": "2711/1999",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Volpe",
+        "Képviselő keresztneve": "Carlo",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-07-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jankovics",
+        "Képviselő keresztneve": "Máté",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-11-03",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Melo Moharos",
+        "Képviselő keresztneve": "Eduarda",
+        "Képviselő titulusa": "Cecilia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-11-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "30 257 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 225 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 792 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

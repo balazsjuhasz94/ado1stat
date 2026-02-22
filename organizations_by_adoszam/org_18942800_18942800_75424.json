@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18942800",
+  "scraped_at": "2026-02-14T13:35:10.324011",
+  "organization_id": "75424",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ady Iskola Gyermekeiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1188 Budapest, Ady Endre utca 31/ b.",
+      "x_koordináta": "47.4115951",
+      "y_koordináta": "19.1826249",
+      "adószám": "18942800-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-11-02",
+      "statisztikai_számjel": "18942800-8569-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Ady Endre Általános Iskola oktatási-nevelési tevékenységének, magas színvonalának fenntartása érdekében kifejtett támogatói tevékenység. Az oktatás-nevelés tárgyi feltételeinek javítása, műszaki, technikai berendezések beszerzése, a tanórák taneszközökkel, szemléltető eszközökkel történő ellátása, információ hordozók, IKT eszközök, taneszközök, könyvek beszerzése. Tanulmányi versenyek, vetélkedők szervezésének támogatása, nyertesek díjazása. Belső diákpályázatok támogatása. Egyéni és csoportos tanulmányutak, szakmai kirándulások támogatása. Bármely területen tehetséges, szociálisan rászoruló gyermekek támogatása. Iskolai dekoráció, iskolai rendezvények támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012518",
+      "régi_nyilvántartási_száma": "12518/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-08-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10918001-00000092-14740009",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Birkásné Berényi",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 953 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "608 846 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "881 767 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "99",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 069 940 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ady Iskola Gyermekeiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

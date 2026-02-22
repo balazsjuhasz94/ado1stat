@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19307910",
+  "scraped_at": "2026-02-21T14:27:32.038075",
+  "organization_id": "366642",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SMART KYO SPORTEGYESÜLET",
+      "rövid_név": "SMART KSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6300 Kalocsa, Ciglédi kert 3/ A.",
+      "adószám": "19307910-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-13",
+      "statisztikai_számjel": "19307910-9312-521-03",
+      "x_koordináta": "46.5146344",
+      "y_koordináta": "19.0046437"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A Smart Kyo Sportegyesület célja: 1. Sport Az egyesület célja - tevékenysége keretében - önvédelem, harcművészeti és egyéb mozgás terápiák oktatásával, egészségügyi tanácsadással, edzések megtartásával, utánpótlás neveléssel, versenyeztetéssel, versenyek, nyílt edzések megszervezésével és lebonyolításával, továbbá edzőtáborok szervezésével foglalkozik. Az egyesület különös gondot fordít a fiatal tehetséges versenyzők felkutatására, illetves sportszakmai előmenetelük biztosítására. 2. Egészségmegőrzés Az egyesület másik célja az egészség, mint alapérték kibontatkoztatásának mindenoldalú segítése, az egészséges életmód, az egészségtudatos magatartás és a betegségmegelőzés ösztönzése, feltételeinek feltárása és kialakítása, az ezzel kapcsolatos korszerű és alternatív ismeretek, készségek elterjesztése és fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003913",
+      "régi_nyilvántartási_száma": "3913/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-14",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szűcs",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "319 920 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

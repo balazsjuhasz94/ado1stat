@@ -1,0 +1,128 @@
+{
+  "search_adoszam": "19305183",
+  "scraped_at": "2026-02-21T12:37:59.448316",
+  "organization_id": "366456",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Resonator Kulturális és Művészeti Alapítvány",
+      "rövid_név": "ResoArt Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1071 Budapest, Városligeti fasor 47.",
+      "adószám": "19305183-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-09",
+      "statisztikai_számjel": "19305183-9121-569-01",
+      "x_koordináta": "47.5064704",
+      "y_koordináta": "19.0803633"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja a magyar iparművészet, képzőművészet és építészet remekműveinek, történetének, a magyar kultúra értékeinek, előadóművészetének minél sokrétűbb bemutatása révén a művelt, széles látókörű, tudás alapú társadalom kialakulásának segítése. Az alapítvány célja különösen a Szabó András és családja tulajdonában álló Zsolnay műgyűjtemény és képzőművészeti gyűjtemény fenntartása, állandó kiállítás keretében történő bemutatása, közkinccsé tétele. Az alapítvány célja e gyűjtemények bővítése (műtárgy vásárlás, műtárgy kölcsönbe vétele vagy letétbe vétele útján), tudományos-szakmai feldolgozása, gondozása, értékének lehetőség szerinti gyarapítása és ezáltal a kulturális örökség megőrzése, védelme, a magyar képző- és kerámiaművészet népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013129",
+      "régi_nyilvántartási_száma": "13129/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-03-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-20",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10700024 - 72656824 - 51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Költő",
+        "Képviselő keresztneve": "Magdolna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4761",
+        "Leírás": "Könyv-kiskereskedelem"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "660 062 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "528 678 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

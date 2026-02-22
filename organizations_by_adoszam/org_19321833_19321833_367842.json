@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19321833",
+  "scraped_at": "2026-02-14T12:43:38.143538",
+  "organization_id": "367842",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PROMONTOR ALAPÍTVÁNY",
+      "rövid_név": "PROMONTOR ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1221 Budapest, Anna utca 13-15.",
+      "adószám": "19321833-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-20",
+      "statisztikai_számjel": "19321833-8531-569-01",
+      "x_koordináta": "47.4348862",
+      "y_koordináta": "19.0220522"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja a Budapest, XXII. Kerületi Budai Nagy Antal Gimnázium (1221 Budapest, Anna utca 13-15.) tanulóinak testi és szellemi fejlődését, nevelését, oktatását segítő eszközök (sportszerek, tanszerek, taneszközök) beszerzésének támogatása, valamint az iskola tanulói közvetlen környezetének, iskolai elhelyezésének javítása részben anyagi, részben természetbeni eszközökkel, külföldi nyelvgyakorlási lehetőségek, iskolai programok anyagi fedezetének biztosítása, hátrányos helyzetű diákok támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013248",
+      "régi_nyilvántartási_száma": "13248/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Biró",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kincses",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "194",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 587 973 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

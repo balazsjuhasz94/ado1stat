@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18746154",
+  "scraped_at": "2026-02-14T14:59:43.239916",
+  "organization_id": "111567",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Tégy egy lépést!\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1145 Budapest, Korong utca 8. fszt./1.",
+      "x_koordináta": "47.5157647",
+      "y_koordináta": "19.097757",
+      "adószám": "18746154-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-02",
+      "statisztikai_számjel": "18746154-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány közérdekű célja: egészségmegőrzés, betegségmegelőzés, gyógyító-, egészségügyi rehabilitációs tevékenység; nevelés és oktatás, képességfejlesztés, ismeretterjesztés. Az alapítvány közérdekű célját az alapító okiratban meghatározott konkrét tevékenységekkel kívánja megvalósítani.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001086",
+      "régi_nyilvántartási_száma": "1086/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-10-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Forgács",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Balázs",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 913 940 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 428 076 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 119 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "552 522 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "598 662 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tégy egy lépést Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tégy egy lépést Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

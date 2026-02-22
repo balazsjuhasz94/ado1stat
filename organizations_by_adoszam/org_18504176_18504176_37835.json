@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18504176",
+  "scraped_at": "2026-02-21T14:13:07.409328",
+  "organization_id": "37835",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sárréti Kézilabda Club",
+      "rövid_név": "Sárréti KC.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5520 Szeghalom, Dózsa György utca 1-3. A. fsz.1.",
+      "x_koordináta": "47.025469",
+      "y_koordináta": "21.1745791",
+      "adószám": "18504176-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-05-15",
+      "statisztikai_számjel": "18504176-9312-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "a kézilabda sport magas szintű művelésének elősegítése, a sportág népszerűsítése, utánpótlás nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003138",
+      "régi_nyilvántartási_száma": "3138/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-06",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szalai",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vigné Csikós",
+        "Képviselő keresztneve": "Nikolett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-25",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 478 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "329 964 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": [
+      {
+        "Név": "Pék Dojo Sport EGyesület",
+        "Év": "2021"
+      }
+    ]
+  },
+  "error": null
+}

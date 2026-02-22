@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "19037772",
+  "scraped_at": "2026-02-14T12:22:04.216627",
+  "organization_id": "102691",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pécsi Morpheus Állatmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7632 Pécs, Erdély utca 29.",
+      "x_koordináta": "46.05183",
+      "y_koordináta": "18.2231129",
+      "adószám": "19037772-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-06-05",
+      "statisztikai_számjel": "19037772-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Kóbor és bántalmazott állatok mentése, állategészségügyi ellátása, elhelyezése és örökbe adása. A kulturált és felelős állattartás feltételeinek megteremtése, elősegítése, oktatása, a vadállomány megőrzése, őshonos állatok fennmaradásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001864",
+      "régi_nyilvántartási_száma": "1864/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-20",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-29",
+      "bankszámlaszám": "50800111-15613048",
+      "számlavezető_pénzintézet_neve": "Dél TAKARÉK Szövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nyilas",
+        "Képviselő keresztneve": "Dalma",
+        "Képviselő titulusa": "Lili",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5221",
+        "Leírás": "Szárazföldi szállítást kiegészítő szolgáltatás"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1190",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 218 738 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1264",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 664 670 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "943",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 668 807 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1077",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 360 584 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "915",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 305 390 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PÉCSI MORPHEUS ÁLLATMENTŐ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PÉCSI MORPHEUS ÁLLATMENTŐ ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

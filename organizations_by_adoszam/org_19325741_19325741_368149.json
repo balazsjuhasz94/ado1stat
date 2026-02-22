@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19325741",
+  "scraped_at": "2026-02-21T12:41:56.029268",
+  "organization_id": "368149",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egy-s-Ég a Jövőért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1182 Budapest, Marosvásárhely utca 33.",
+      "adószám": "19325741-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-07",
+      "statisztikai_számjel": "19325741-9499-529-01",
+      "x_koordináta": "47.4228745",
+      "y_koordináta": "19.2046256"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A természet eltartó képességének a korlátait figyelembe vevő gazdasági rendszer kialakítása, amiben az emberi életminőség fejlődni, javulni képes. A mai társadalmi problémák, mint pl. a szegénység, a gazdasági válságok, a környezetszennyezés, a romló egészségi állapotok, a népesség ingadozó mentális-szellemi állapota, és ezen okok ismeretében egy olyan termelői és fogyasztói szerkezet, és ehhez kapcsolódóan egy olyan köz-igazgatási és oktatási rendszer kialakítása, ami megszünteti a fent felsorolt problémák kiváltó okait. Közösségfejlesztés, közösségi alapú gazdaságfejlesztés, és az állampolgárok részvételén alapuló társadalmi szerkezet kialakítása. Egy a közösségek fejlesztésére, az együttműködésre építő társadalom felépítéséhez szükséges eszközrendszer kialakítása. A globális kihívásokra választ adni képes társadalom megteremtése oktatással, ismeretterjesztéssel, kutatással, valamint a gyakorlatban alkalmazott tanulási folyamatokkal.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017825",
+      "régi_nyilvántartási_száma": "17825/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Antal",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Demján-Antal",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 668 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

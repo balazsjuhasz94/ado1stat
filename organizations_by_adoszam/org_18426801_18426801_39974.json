@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18426801",
+  "scraped_at": "2026-02-21T14:38:31.914026",
+  "organization_id": "39974",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egészséges Életért Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3815 Abaújlak, Fő út 23.",
+      "x_koordináta": "48.0634571",
+      "y_koordináta": "20.7881899",
+      "adószám": "18426801-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-11-21",
+      "statisztikai_számjel": "18426801-9319-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja a tagok és minden érdeklődő részére a természetjárás különböző módjainak megismertetése, a környezettudatosságra és egészséges életmódra nevelés elősegítése, illetve mindezen tevékenységek szervezeti keretének megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0002435",
+      "régi_nyilvántartási_száma": "2435/1997",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sándorné Firtkó",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "231 933 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "279 373 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "432 686 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 639 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "295 497 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egészséges Életért Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egészséges Életért Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

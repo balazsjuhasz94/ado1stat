@@ -1,0 +1,242 @@
+{
+  "search_adoszam": "18919374",
+  "scraped_at": "2026-02-14T13:51:38.881411",
+  "organization_id": "100491",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Molnár Gábor Műhely Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8400 Ajka, Móra F. utca 30.",
+      "x_koordináta": "47.107547",
+      "y_koordináta": "17.5507183",
+      "adószám": "18919374-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-07-03",
+      "statisztikai_számjel": "18919374-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Értelmi fogyatékosok, szociálisan hátrányos helyzetűek, és deviánsok foglalkoztatása érdekében munkahelyteremtés, és fenntartása, illetve foglalkoztatásul egyéb lehetőségeinek megteremtése, - művészi alkotó tevékenységének elősegítése, támogatása, terápiás célú fejlesztése. -társadalmi beilleszkedésének elősegítése, támogatása, - terápiás célzatú kulturális és sportrendezvényeinek szervezése, és támogatása. Hasonló célú nemzetközi szervezetekkel kapcsolattartás. .",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0000731",
+      "régi_nyilvántartási_száma": "731/1995",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-10-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-01",
+      "alkalmazottak_száma": "58",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lovas",
+        "Képviselő keresztneve": "Irén",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "8292",
+        "Leírás": "Csomagolás"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8121",
+        "Leírás": "Általános épülettakarítás"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "2712",
+        "Leírás": "Áramelosztó, -szabályozó készülék gyártása"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "1393",
+        "Leírás": "Szőnyeggyártás"
+      },
+      {
+        "Kód": "4725",
+        "Leírás": "Ital-kiskereskedelem"
+      },
+      {
+        "Kód": "4721",
+        "Leírás": "Zöldség, gyümölcs kiskereskedelme"
+      },
+      {
+        "Kód": "4753",
+        "Leírás": "Takaró, szőnyeg, fal-, padlóburkoló kiskereskedelme"
+      },
+      {
+        "Kód": "4776",
+        "Leírás": "Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme"
+      },
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "154",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "407 773 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "149",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "461 531 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "161",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "500 531 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "129",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "398 856 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "154",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 760 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "487 528 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "104",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "510 033 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "619 555 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "461 983 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "592 044 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "795 544 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "920 116 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnár Gábor Műhely Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

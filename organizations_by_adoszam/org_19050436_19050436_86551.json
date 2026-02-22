@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19050436",
+  "scraped_at": "2026-02-14T12:31:11.180051",
+  "organization_id": "86551",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ÚJ ESÉLY ÁLLATVÉDŐ ÉS ÁLLATMENTŐ ALAPÍTVÁNY",
+      "rövid_név": "ÚJ ESÉLY ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6640 Csongrád, Új utca 11.",
+      "x_koordináta": "46.712921",
+      "y_koordináta": "20.1392501",
+      "adószám": "19050436-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-07-09",
+      "statisztikai_számjel": "19050436-9499-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Bajba jutott, segítségre szoruló, hontalan állatok (elsősorban kutyák) mentése, befogadása Csongrád városából és annak térségéből. Az alapítvány gondozása alá kerültek élelmezése, egészségügyi ellátása, őrzése, képzése. Ennek érdekében állatotthon létrehozása, folyamatos fejlesztése. A befogadott állatok végleges elhelyezése örökbe adókhoz, fajtamentő szervezetekhez, csökkentve ezáltal a kóbor állatok által okozott köz- és állategészségügyi veszélyeket. Az emberekben tudatosítani az ivartalanítás és a felelős állattartás fontosságát, állatvédelmi oktatás, társadalmi szemlélet átalakítása, az állatokkal szembeni emberi magatartás európai elveinek tudatosítása. Nyilvános kampányok, rendezvények szervezése, környezetvédelem, természetvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001691",
+      "régi_nyilvántartási_száma": "1691/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-09",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Domokos",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Máté",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "296",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 567 962 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "322",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 916 630 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "413",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 728 305 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "486",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 858 872 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "481",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 096 365 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Új Esély Állatvédő és Állatmentő Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Új Esély Állatvédő és Állatmentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

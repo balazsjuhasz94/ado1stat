@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "19037181",
+  "scraped_at": "2026-02-14T14:16:22.356289",
+  "organization_id": "84743",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Boldogságcseppek Alapítvány",
+      "rövid_név": "Boldogságcseppek",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2131 Göd, Alkotmány utca 6.",
+      "x_koordináta": "47.683186",
+      "y_koordináta": "19.132186",
+      "adószám": "19037181-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-25",
+      "statisztikai_számjel": "19037181-8899-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Elsősorban Pest megye területén, de lehetőségeinkhez mérten az ország bármely pontján élő, hátrányos szociális helyzetben lévő családok támogatása, az érdekükben és értük cselekvők együttműködésének szolgálata, a cselekvési lehetőségek feltételeinek bővítése, továbbá a célcsoport jogainak védelme, segítése és a velük való emberi és méltóságteljes bánásmód minél szélesebb körben történő terjesztése. Ezen felül alkalmanként segíteni kívánjuk a határainkon túli, hasonló céllal működő civil szervezetek, vagy magán támogatói szervezeteket is",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003949",
+      "régi_nyilvántartási_száma": "3949/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-12",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "622 108 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "559 110 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "636 377 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "150",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 016 184 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "738 657 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Boldogságcseppek Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Boldogságcseppek Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

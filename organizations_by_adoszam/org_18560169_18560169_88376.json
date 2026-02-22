@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18560169",
+  "scraped_at": "2026-02-21T12:44:41.351911",
+  "organization_id": "88376",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Debreceni Honvéd Sport- és Diáksport Egyesület",
+      "rövid_név": "Debreceni Honvéd SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4032 Debrecen, Tessedik Sámuel utca 16.",
+      "x_koordináta": "47.5317594",
+      "y_koordináta": "21.6150235",
+      "adószám": "18560169-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-07-28",
+      "statisztikai_számjel": "18560169-9319-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A honvédség kötelékébe bevonult állomány /sportolók/ aktív sportolási/versenyzési/ lehetőségének biztosítása. Utánpótlás nevelése az iskolás kortól a felnőtt korig Debrecen város és vonzáskörzete területéről. A helyőrség hivatásos és polgári állományának, ezek családtagjainak sportolási lehetőség biztosítása. A sportegyesület céljainak megvalósítása érdekében együttműködik a város és a megye sportéletének fellendítése érdekében - a működési területén lévő sportegyesületekkel, állami és társadalmi szervezeteivel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0002186",
+      "régi_nyilvántartási_száma": "2186/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-30",
+      "a_nyilvántartott_adatok_verziószáma": "32",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegedűs",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hegedűs",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "117 803 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "124 060 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 238 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "27 206 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "253 735 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Debreceni Honvéd Sport- és Diáksport Egyesület"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Debreceni Honvd Sport- s Diksport Egyeslet",
+        "Év": "2018"
+      },
+      {
+        "Név": "Debreceni Honvéd Sport- és Diáksport Egyesület",
+        "Év": "2019"
+      },
+      {
+        "Név": "Debreceni Honvéd Sport- és Diáksport Egyesület",
+        "Év": "2023"
+      }
+    ]
+  },
+  "error": null
+}

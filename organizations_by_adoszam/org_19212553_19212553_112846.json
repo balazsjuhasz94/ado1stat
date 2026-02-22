@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19212553",
+  "scraped_at": "2026-02-14T13:47:20.207612",
+  "organization_id": "112846",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Állami Operaház Balettnövendékeiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1118 Budapest, Dayka Gábor utca 3. 203.",
+      "x_koordináta": "47.508199",
+      "y_koordináta": "19.028163",
+      "adószám": "19212553-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-07",
+      "statisztikai_számjel": "19212553-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Elsődlegesen a Magyar Nemzeti Balettintézet szakmai és oktatási tevékenységének támogatása, hazai és nemzetközi viszonylatban egyaránt. Az Alapítvány célul tűzte ki egy, a Magyar Nemzeti Balettintézet egyedi szellemiségét és metodikáját tükröző alapfokú művészeti képzés szakmai, tárgyi és személyi feltételeinek megteremtését, előmozdítását, művészeti koncepció kidolgozásához nyújtott támogatását. Az Alapítvány hozzá kíván járulni a hazai balettutánpótlás képzés népszerűsítéséhez, szakmai és pénzügyi támogatás révén új produkciók létrehozásához, továbbá támogatni kívánja a növendékek színpadi produkciókban való szerepvállalását, illetve ún. „junior company” létrehozásában is segítséget kíván nyújtani. Az Alapítvány célja továbbá nemzetközi balett szakmai együttműködések előmozdítása, beleértve külföldi mesterek hazai szerepvállalásának előmozdítását is, illetve egy mecenatúra rendszer létrehozása és működtetése. Az Alapítvány ösztöndíjakkal kívánja támogatni az arra érdemes és rászoruló növendékek oktatását, valamint támogatni kívánja az intézeti balettmesterek oktatási tevékenységét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012843",
+      "régi_nyilvántartási_száma": "12843/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-01-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-07",
+      "bankszámlaszám": "10700598-71586436-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rozgonyi",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "201 153 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "651 288 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "931 240 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "956 428 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Állami Operaház Balettnövendékeiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

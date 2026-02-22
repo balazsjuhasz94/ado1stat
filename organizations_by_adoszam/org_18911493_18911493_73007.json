@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18911493",
+  "scraped_at": "2026-02-14T15:04:19.159816",
+  "organization_id": "73007",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Orosházi Kórházért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5900 Orosháza, Könd utca 59.",
+      "x_koordináta": "46.5599399",
+      "y_koordináta": "20.6593488",
+      "adószám": "18911493-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-08-29",
+      "statisztikai_számjel": "18911493-8696-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "- a kórházban ápolt betegek gyógyításához szükséges modern gyógyászati eszközök, gyógyászati segédeszközök, berendezések beszerzése, illetve ezekhez anyagi támogatás nyújtása - a kórházban, illetve a rendelőintézetben ápolt betegek korszerű ellátásának biztosítása, kényelmi szolgáltatások bővítésének támogatása - a gyógyító tevékenység és a kórház üzemeltetés infrastrukturális hátterének biztosítása - az egészség megőrzés területén szükséges felvilágosító tevékenység tájékoztató és prevenciós rendezvények szervezése - a kórház által végzett egészségügyi ellátáshoz, szűrő-megelőző tevékenységéhez szükséges anyagi eszközök, források bővítése - a kórház, rendelőintézet orvosai, szakdolgozói továbbképzésének, tudományos rendezvényeken való megjelenésének támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002732",
+      "régi_nyilvántartási_száma": "2732/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Duray",
+        "Képviselő keresztneve": "Gergő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "503 895 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "444 624 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "402 582 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "836 200 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "808 165 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "588 607 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Orosházi Kórházért Alapitvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Orosházi Kórházért Alapitvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Orosházi Kórházért Alapitvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

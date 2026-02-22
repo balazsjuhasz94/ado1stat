@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19311078",
+  "scraped_at": "2026-02-14T12:31:17.694011",
+  "organization_id": "366863",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ferencz Laura Gyógyulásáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2241 Sülysáp, Kossuth Lajos utca 18.",
+      "adószám": "19311078-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-09",
+      "statisztikai_számjel": "19311078-9499-569-13",
+      "x_koordináta": "47.4613317",
+      "y_koordináta": "19.5006158"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Genetikai betegségben szenvedő, mozgásában és értelmében a kortársaihoz képest súlyosan elmaradott Ferencz Laura egészségügyi ellátási költségeinek viselése, ápolása, gondozása, tartása, maradandó egészségkárosodásának enyhítése, életvitelének, társadalmi beilleszkedésének megkönnyítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004216",
+      "régi_nyilvántartási_száma": "4216/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buzás",
+        "Képviselő keresztneve": "Ervin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "482",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 218 244 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "429",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 145 062 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

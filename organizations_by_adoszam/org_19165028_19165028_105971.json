@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19165028",
+  "scraped_at": "2026-02-14T15:08:12.476342",
+  "organization_id": "105971",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CosHelp Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1027 Budapest, Margit körút 56. 5/6.",
+      "x_koordináta": "47.5103461",
+      "y_koordináta": "19.0309734",
+      "adószám": "19165028-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-18",
+      "statisztikai_számjel": "19165028-9020-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A magyarországi kórházak gyerekosztályainak látogatása, abból a célból, hogy az ott kezelt gyermekeknek a kórházi mindennapokból kizökkentő, másokkal megosztható különleges élményt nyújtson, hozzájárulva ezzel lelkiállapotuk javításához.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017226",
+      "régi_nyilvántartási_száma": "17226/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-06-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Honfi",
+        "Képviselő keresztneve": "Júlia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2024-06-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "712 360 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "719 448 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "850 791 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "577 989 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CosHelp Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

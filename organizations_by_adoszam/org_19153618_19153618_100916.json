@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19153618",
+  "scraped_at": "2026-02-14T12:52:18.721636",
+  "organization_id": "100916",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lépésről Lépésre Leventével Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Virág utca 11.",
+      "x_koordináta": "47.640966",
+      "y_koordináta": "19.155183",
+      "adószám": "19153618-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-16",
+      "statisztikai_számjel": "19153618-8810-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Cerebrális parézissel (CP) diagnosztizált súlyosan halmozottan sérült Bujtár Levente (született: Győr, 2010.02.06.) élethosszig tartó gyógykezelésének, fejlesztésének, rehabilitációjának, teljes körű ápolásának, gondozásának, eltartásának, egészségügyi ellátásának biztosítása, költségeinek viselése, illetve életének és társadalmi beilleszkedésének megkönnyítése, életviteléhez szükséges eszközök beszerzése, valamint segítségnyújtása a hasonló helyzetben lévő sérült gyermekek fiatalok, felnőttek és őket nevelő családok részére. Bujtár Levente halála esetén a temetés és kapcsolódó költségek fedezése. Az alapítvány hosszú távú célja továbbá egy a sérült gyermekek, fiatalok, felnőttek fejlesztése, gondozása, ápolása céljára kialakított intézmény létrehozása, valamint fenntartása, együttműköüdés egy ilyen jellegű intézmény létrehozásában, fenntartásában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004012",
+      "régi_nyilvántartási_száma": "4012/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-10-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Eck",
+        "Képviselő keresztneve": "Amália",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "183",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 430 990 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "293",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 367 290 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "176",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 813 676 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "175",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 030 242 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Lépésről Lépésre Leventével Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19213042",
+  "scraped_at": "2026-02-14T13:06:13.024255",
+  "organization_id": "112744",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ZAZI A HÁZBAN Állatvédő Alapítvány",
+      "rövid_név": "ZAZI A HÁZBAN Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3525 Miskolc, Kazinczy Ferenc utca 18 1/2",
+      "x_koordináta": "48.1054967",
+      "y_koordináta": "20.7857755",
+      "adószám": "19213042-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-18",
+      "statisztikai_számjel": "19213042-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Gazdátlan, elhagyott, bántalmazott, beteg vagy egyéb okból segítségre szoruló állatok, elsősorban, de nem kizárólagosan macskák és kutyák mentése, körülményeik kedvező irányba történő megváltoztatásával élethelyzetük javítása és javításának elősegítése, rászorultságuk csökkentése és megszüntetése, átmeneti és végleges elhelyezésük, lakhatásuk biztosítása, ill. megszervezése, részükre ideiglenesen vagy véglegesen befogadó gazdák megtalálása, táplálásuk, élelemhez és orvosi ellátásokhoz történő hozzáférésük biztosítása, ivartalanításuk, ill. szaporodásuk szabályozása. Az alapítvány küldetésének tekinti az állatkínzás elleni küzdelmet - annak csökkenése és megszűnése érdekében. Az alapítvány céljának és feladatának tekinti a felelős állattartás elveinek népszerűsítését a társadalmi gyakorlatba történő átültetését, általánossá tételét. Az alapítvány törekszik céljainak minél szélesebb körben történő elfogadtatására, az ebbe az irányába ható társadalmi tudatformálásra. Az alapítvány céljai közé tartozik a településegészségügyi szabályok betartásának és környezettudatos életmód fontossága elfogadottságnak növelése, a társadalmat, ill. az egyes társadalmi közösségeket érő negatív hatások csökkentése - elsődlegesen Miskolcon és térségében, de regionális és országos szinten is. Az alapítvány törekszik önkéntesek bevonására, az általa esetlegesen foglalkoztatott, ill. közreműködő személyek a társadalmi és munkaerő piaci integrációjának elősegítésére, az ehhez szükséges, ill. ezt segítő motivációk, készségek és képességek kialakítására, fejlesztésére. Az alapítvány törekvése az alapítványi céloknak megfelelő szemlélet és szempont-rendszer mentén az egyének és a társadalmi közösségek együttműködésének növelése, s mindezen célok megvalósításához szükséges humán, tárgyi és pénzügyi feltételek megteremtése, támogatások szerzése és felhasználása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064565",
+      "régi_nyilvántartási_száma": "64565/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-05-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Török",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "793 110 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "122",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 028 559 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "138",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 366 310 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "138",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 566 469 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zazi a Házban Állatvédő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19236373",
+  "scraped_at": "2026-02-14T14:14:06.652601",
+  "organization_id": "118925",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SZÍV-KÖR Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1126 Budapest, Gyimes utca 2. 1./1.",
+      "x_koordináta": "47.195116",
+      "y_koordináta": "18.4559987",
+      "adószám": "19236373-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-25",
+      "statisztikai_számjel": "19236373-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az egyesület célja a szívbeteg gyermekeket nevelő családok segítése információ-megosztással, hiteles közösségi fórumok működtetésével, a rászoruló beteg gyermekek gyógyulását elősegítő anyagi támogatása. A szívbeteg gyermekek és szüleik, továbbá a gyógyító intézmények közötti kommunikációs híd betöltése, a kapcsolattartás elősegítése. Figyelemfelkeltő média-megjelenések szervezése és lebonyolítása szívbetegséggel élő gyermekeket érintő ügyekben. Érdekképviselet ellátsa az egészségügyi és szociális kormányzat irányában a szívbeteg gyermekeket és családtagjaikat érintő ügyekben. A szívbeteg gyermekek egészségügyi ellátását végző gyógyító intézmények anyagi és közösségi támogatása. Közösségi programok, táborok szervezése a szívbeteg gyermekek részére. Továbbá az alapszabályban meghatározott egyéb célok.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003242",
+      "régi_nyilvántartási_száma": "3242/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bauer",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Frigyes",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Simóka",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szeginé Becker",
+        "Képviselő keresztneve": "Szandra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "546 462 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "462 058 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "778 170 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

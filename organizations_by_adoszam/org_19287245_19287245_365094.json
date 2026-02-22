@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19287245",
+  "scraped_at": "2026-02-14T12:37:33.979458",
+  "organization_id": "365094",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bütyök Állatotthon és Állatvédelmi Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7500 Nagyatád, Táncsics utca 27",
+      "adószám": "19287245-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-13",
+      "statisztikai_számjel": "19287245-9499-529-14",
+      "x_koordináta": "46.2075587",
+      "y_koordináta": "17.3666325"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, természet- és környezetvédelem. Ismeretterjesztés, nevelés és oktatás, képességfejlesztés. Társadalmunknak, különösen az ifjúságnak a környezet, a természet és élővilág szeretetére való nevelése. Az egészséges életmód és az állatok szeretetének népszerűsítése. Az egész élővilág iránt felelősséget érző emberek összefogása. Az állatok kizsákmányolásának megszüntetése, védelmük előmozdítása. Kulturált, állatbarát állattartás elterjesztése. Természetbarát és állatbarát életmód terjesztése. Kulturális tevékenység. A társadalmi öntevékenység és a közösségi élet kibontakoztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-02-0004616",
+      "régi_nyilvántartási_száma": "4616/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentkirályiné Falusi",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "480 863 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "130",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "897 212 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "448",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 104 049 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19236861",
+  "scraped_at": "2026-02-14T12:43:23.367101",
+  "organization_id": "123391",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Harcos Nimród és kis barátai Lépteiért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8247 Hidegkút, Fő utca 46.",
+      "x_koordináta": "47.0006987",
+      "y_koordináta": "17.830763",
+      "adószám": "19236861-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-24",
+      "statisztikai_számjel": "19236861-8899-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az oxigénhiányos állapot következtében agykárosodást szenvedett gyermekek fejlesztéséhez szükséges eszközök beszerzését, az egészségpénztári kereteken kívül eső kezelések módszereinek igénybevételének, valamint távoli gyógykezelésekhez az utazások finanszírozását. A hasonló esetekkel kapcsolatos információgyűjtést és az információk megosztását, melyhez információs bázis létrehozását, közzétételét, fenntartását és frissítését kívánja végezni. Kapcsolattartásra kíván lehetőséget teremteni a sérült gyerekek családjai között. Az Alapítvány céljaival összefüggő rendezvények szervezése és azokon való részvétel lehetővé tétele alapítványi támogatással.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001838",
+      "régi_nyilvántartási_száma": "1838/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-28",
+      "bankszámlaszám": "11748007-24819486",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bárdosi",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nemesné László",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "561",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 565 139 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "465",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 733 087 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "221",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 568 575 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

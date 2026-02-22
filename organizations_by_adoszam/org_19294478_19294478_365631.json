@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19294478",
+  "scraped_at": "2026-02-21T14:20:23.775964",
+  "organization_id": "365631",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egervölgye Táncműhely Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Napsugár utca 25. II/7.",
+      "adószám": "19294478-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-29",
+      "statisztikai_számjel": "19294478-8412-569-10",
+      "x_koordináta": "47.9293607",
+      "y_koordináta": "20.4163058"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyar néptánckultúra minél szélesebb körben való terjesztése, különös tekintettel a 3-18 éves életkor közötti korosztályra. A magyar néptáncpedagógián belül egyedülálló, a Táncházmozgalomból eredeztetett Tímár-módszer minél szélesebb körben való megismertetése. A saját pedagógiai módszereken és tapasztalatokon alapuló néptáncpedagógiai és színpadi tevékenység széles körű megismertetése és támogatása különös tekintettel a Kelet-magyarországi régióra. A Csillagszeműek Egri Tagozata néptáncegyüttes segítése. Az Egervölgye Táncműhely Társulat néptáncfesztiválokon, versenyeken és egyéb rendezvényeken történő megjelenésének támogatása. Óvodákban, iskolákban a néptánc népszerűsítése. A 3-18 éves korosztály a tehetséges táncosok segítése, tehetséggondozás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001213",
+      "régi_nyilvántartási_száma": "1213/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Énekes",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "318 851 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

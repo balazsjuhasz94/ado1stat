@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19225359",
+  "scraped_at": "2026-02-14T14:56:16.312570",
+  "organization_id": "114472",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dr. Nánási Illés Alapítvány a Bírósági Dolgozókért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5000 Szolnok, Kossuth út 1.",
+      "x_koordináta": "47.1741404",
+      "y_koordináta": "20.2000864",
+      "adószám": "19225359-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-18",
+      "statisztikai_számjel": "19225359-9499-569-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Szolnoki Törvényszék és az illetékességi területén működő bíróságok bíráinak, igazságügyi és egyéb alkalmazottainak szociális rászorultság alapján történő anyagi támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-01-0001249",
+      "régi_nyilvántartási_száma": "1249/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-03-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-12-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11745004-24514909",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kissné dr. Szabó",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "421 249 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "697 088 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "608 324 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19237817",
+  "scraped_at": "2026-02-14T14:48:14.407481",
+  "organization_id": "120417",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány Valentináért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8318 Lesencetomaj, Petőfi utca 66.",
+      "x_koordináta": "46.8483798",
+      "y_koordináta": "17.3637518",
+      "adószám": "19237817-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-12",
+      "statisztikai_számjel": "19237817-8799-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Hoffman Valentina ápolása, gondozása, tartása, egészségügyi ellátási költségeinek viselése. Az anyagi lehetőségek függvényében bármely más olyan természetes személy támogatása, aki fiatalon baleset miatt maradandó egészségkárosodást szenvedett.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001841",
+      "régi_nyilvántartási_száma": "1841/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóthné Bosnyák",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "Bianka",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "182",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 089 198 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "762 859 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "633 219 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

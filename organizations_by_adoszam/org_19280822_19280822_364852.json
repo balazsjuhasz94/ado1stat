@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19280822",
+  "scraped_at": "2026-02-14T12:56:12.969598",
+  "organization_id": "364852",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kiss Csillag Közhasznú Alapítvány - Mindenkinek Jár Egy Esély",
+      "rövid_név": "Kiss Csillag Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6772 Deszk, . 1301. hrsz.",
+      "adószám": "19280822-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-08",
+      "statisztikai_számjel": "19280822-9499-569-06",
+      "x_koordináta": "46.2093689",
+      "y_koordináta": "20.261131"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "„Amit tehát szeretnétek, hogy az emberek veletek cselekedjenek, ti is ugyanazt cselekedjetek velük, mert ez a törvény, és ezt tanítják a próféták” Máté 7,12 A fenti mondat credo a mindennapokban. Azt jelenti, hogy egy gömb alakú térben élünk, és amit cselekszünk, az visszahat ránk az univerzum erői szerint. Hisszük, hogy mindannyian tehetünk azért, hogy egy emberibb világban éljünk, ahol törődnek egymással az emberek, ahol számít a másik. A Kiss Csillag Alapítvány arra hivatott, hogy fényt gyújtson a sötétségben, a nehéz helyzetből kiutat mutasson, világosság legyen, ahol reményt vesztettek, és segítség, ahol megtévelyedtek. Ezért is Csillag a neve – jelentése: fény, világosság, remény, hit -. Már Jézus születését is egy csillag jelezte, a hozzá vezető utat mutatta. Ez mind a szeretet jelképe, ami abban nyújt segítséget, hogy azok a családok, akik nehéz helyzetbe kerültek, kiutat találjanak belőle a nehéz hétköznapokban. Hivatásunk, hogy támogassunk a nehéz körülmények között élő gyermekeket, segítsük lelki, testi fejlődésüket minden lehető eszközzel, lehetőséggel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001735",
+      "régi_nyilvántartási_száma": "1735/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-06-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-01",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss-Hanzsa",
+        "Képviselő keresztneve": "Eugénia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "190",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 081 451 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "273",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 727 456 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "230",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 865 646 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,159 @@
+{
+  "search_adoszam": "18100978",
+  "scraped_at": "2026-02-14T13:00:50.328161",
+  "organization_id": "75379",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pár-Beszéd és Kapcsolat Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1027 Budapest, Margit körút 1. I. em./5.",
+      "x_koordináta": "47.5147462",
+      "y_koordináta": "19.0380062",
+      "adószám": "18100978-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-12-07",
+      "statisztikai_számjel": "18100978-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Szociális szempontból nehéz helyzetbe került családok, illetve személyek segítése, újfajta ellátási, támogatási formák és rendszerek kialakításának támogatása és szervezése, a számukra ellátásokat nyújtó ( így egyebek közt a házastársi és családi kapcsolatokat építő és erősítő ) intézmények, programok támogatása, illetve szervezése, a lakhatási lehetőségekkel kapcsolatos problémákra is figyelemmel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0008066",
+      "régi_nyilvántartási_száma": "8066/2000",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-10-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Liszka-Kaposi",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "490 700 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "385 191 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "105",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "554 888 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "528 807 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "128",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "711 816 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "734 358 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "546 399 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "504 500 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "832 534 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "761 604 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "993 372 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "137",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 727 736 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pár-Beszéd és Kapcsolat Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

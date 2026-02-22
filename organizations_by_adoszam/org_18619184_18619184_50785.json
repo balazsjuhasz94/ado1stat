@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18619184",
+  "scraped_at": "2026-02-14T12:33:42.326601",
+  "organization_id": "50785",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mosolyt Minden Arcra Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5510 Dévaványa, Kossuth Lajos utca 11.",
+      "x_koordináta": "47.0297762",
+      "y_koordináta": "20.9529124",
+      "adószám": "18619184-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-09-01",
+      "statisztikai_számjel": "18619184-8899-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A gyermekek szabadidejének aktív és hasznos eltöltésének elősegítése. Rászoruló, hátrányos helyzetű gyermekek és családok élhetőbb körülményeinek, egészségesebb életvitelének elősegítése. Játszóház működtetése az egészen fiatalok számára. Családi sport rendezvények, versenyek, gyermekprogramok szervezése. AIDS és drogellenes felvilágosító előadások gyermekkorúak számára. Mindenki számára elérhető programok szervezése és ezek keretei között olyan támogatók felkutatása, akik anyagi segítséget tudnak nyújtani a nehezebb körülmények között élő családok támogatására.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002666",
+      "régi_nyilvántartási_száma": "2666/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Borbíró",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gusztafik",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "508 751 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "364",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 643 088 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "463",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 311 128 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "489",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 658 479 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "560",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 371 222 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "512",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 600 568 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOSOLYT MINDEN ARCRA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOSOLYT MINDEN ARCRA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MOSOLYT MINDEN ARCRA ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

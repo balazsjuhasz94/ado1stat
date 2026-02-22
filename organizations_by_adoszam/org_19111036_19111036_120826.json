@@ -1,0 +1,169 @@
+{
+  "search_adoszam": "19111036",
+  "scraped_at": "2026-02-14T12:47:45.891064",
+  "organization_id": "120826",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Kölcsey-Iskoláért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9024 Győr, Szent Imre utca 33.",
+      "x_koordináta": "47.672778",
+      "y_koordináta": "17.644457",
+      "adószám": "19111036-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-11-29",
+      "statisztikai_számjel": "19111036-8520-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A Kölcsey Általános Iskolában folyó oktató-nevelő munka színvonalának fejlesztése, az iskolai tanulók támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0000266",
+      "régi_nyilvántartási_száma": "266/1991",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csüdömné Szalai R",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnárné Pintér",
+        "Képviselő keresztneve": "Piroska",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "402",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 567 273 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "414",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 859 179 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "436",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 006 538 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "339",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 715 465 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "286",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 661 540 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "249",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 600 370 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "214",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 510 995 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "191",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 351 201 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "178",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 491 883 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "187",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 975 071 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "179",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 945 173 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "183",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 311 268 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KÖLCSEY ISKOLÁÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KÖLCSEY ISKOLÁÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kölcsey Iskoláért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

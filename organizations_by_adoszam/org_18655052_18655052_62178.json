@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18655052",
+  "scraped_at": "2026-02-21T12:34:03.029750",
+  "organization_id": "62178",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Spárta\" Kempo Harcművészeti Sport- és Életmód Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4032 Debrecen, Illyés Gyula utca 136.",
+      "x_koordináta": "47.5453026",
+      "y_koordináta": "21.6229049",
+      "adószám": "18655052-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-06-04",
+      "statisztikai_számjel": "18655052-9312-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja, hogy a Zen Bu Kan Kempo harcművészeti ágat gyakorlókat összefogja, azoknak folyamatos edzés - vizsga - és versenyzési lehetőséget biztosítson, illetve, hogy a harcművészetek gyakorlásához elengedhetetlen egészséges életmódot is propagáljuk, oktassuk minél szélesebb körben. Célunk tovább, hogy a harcművészettel ne csak mint testmozgással foglalkozzunk, hanem annak lelki gyakorlatára is hangsúlyt helyezzünk. Ezért fontos célkitűzés, hogy a tagok és szimpatizánsok részére karitatív, a hátrányos helyzetű társadalmi csoportok megsegítését célzó programokban részt vehessenek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004525",
+      "régi_nyilvántartási_száma": "4525/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-01",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Keresztesi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "382 282 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "600 255 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "542 915 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

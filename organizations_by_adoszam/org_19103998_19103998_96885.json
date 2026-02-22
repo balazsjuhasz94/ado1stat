@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19103998",
+  "scraped_at": "2026-02-21T13:00:55.656185",
+  "organization_id": "96885",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Ateista Társaság",
+      "rövid_név": "MATT",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1138 Budapest, Népfürdő utca 7. 3. emelet/4.",
+      "x_koordináta": "47.5191443",
+      "y_koordináta": "19.0558712",
+      "adószám": "19103998-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-15",
+      "statisztikai_számjel": "19103998-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesület célja ateista közösség szervezése, ateista filozófia, szekuláris értékek megismertetése. A racionális, kritikus, tudományosan alátámasztott tényekre alapozó gondolkodás népszerűsítése. Az egyetemes emberi értékek, a szekuláris etika, és az ezeket vallók érdekeinek védelme. Az egyesület céljait népszersítő rendezvények, előadások szervezése, lebonyolítása, kiadványok készítése, terjesztése. Közösségi oldal üzemeltetése a fenti célok megismertetése végett.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017073",
+      "régi_nyilvántartási_száma": "17073/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Waldmann",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Kornél",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "751 734 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "661 792 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "467 153 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19340689",
+  "scraped_at": "2026-02-21T14:37:14.893473",
+  "organization_id": "368774",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rákóczitelepért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5903 Orosháza, Lóránttfy utca 37.",
+      "adószám": "19340689-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-29",
+      "statisztikai_számjel": "19340689-9499-529-04",
+      "x_koordináta": "46.5564163",
+      "y_koordináta": "20.6047661"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Településfejlesztési és lakásügyi tevékenység (pl. helyi és regionális településfejlesztés, kommunális és közlekedésfejlesztés, közösségfejlesztés, ingatlantulajdonosok szervezetei, lakásellátás javítása)",
+      "céljának_leírása": "Az egyesület elsősorban olyan közösség kialakítására alakult, melynek tagjai és pártoló tagjai Orosháza Rákóczitelep városrészének fejlődéséért kívánnak tenni. A szebb és élhetőbb városrész érdekében közreműködik az élő környezet rendszeres gondozásában, közösségi rendezvények megszervezésében és lebonyolításában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003632",
+      "régi_nyilvántartási_száma": "3632/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Petrányiné Balog",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "297 706 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

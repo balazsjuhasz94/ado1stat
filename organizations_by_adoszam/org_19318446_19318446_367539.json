@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19318446",
+  "scraped_at": "2026-02-21T14:39:25.952563",
+  "organization_id": "367539",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Együtt Hidegkútért Egyesület",
+      "rövid_név": "EHE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8247 Hidegkút, Fő utca 67. A.",
+      "adószám": "19318446-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-14",
+      "statisztikai_számjel": "19318446-9499-529-19",
+      "x_koordináta": "47.0110459",
+      "y_koordináta": "17.8432354"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "a) Hidegkút lakosságának szorosabb összefogásra ösztönzése, a köztük lévő kommunikáció és információáramlás megkönnyítése, értéktudatos jövőkép alakítása; b) a gyökerekkel nem rendelkező helyi fiatalok és a Hidegkútra látogatók megismertetése a falu múltjával, az ősök népszokásaival, a településre jellemző német nemzetiségi, természeti, építészeti értékekkel, hogy a kulturális élmények által érzelmileg kötődjenek a településhez. (Az egyesület további céljait az alapszabály II. fejezete tartalmazza.)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0004018",
+      "régi_nyilvántartási_száma": "4018/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Révész-Jordanits",
+        "Képviselő keresztneve": "Anett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "289 065 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "294 408 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

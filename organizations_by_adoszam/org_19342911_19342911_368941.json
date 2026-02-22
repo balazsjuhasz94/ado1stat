@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19342911",
+  "scraped_at": "2026-02-21T13:20:44.251561",
+  "organization_id": "368941",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány a Lepramisszióért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1163 Budapest, Veres Péter út 51.",
+      "adószám": "19342911-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-08-09",
+      "statisztikai_számjel": "19342911-9499-569-01",
+      "x_koordináta": "47.5091702",
+      "y_koordináta": "19.175228"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az 1974-ben alapított Lepramisszió-Magyarország egyházi jogi személy a) tevékenységének népszerűsítése a magyar lakosság körében; b) szellemi, tárgyi és anyagi eszközökkel, a személyi jövedelemadó 1%-nak felajánlásával a tevékenységének támogatása, c) a társadalmi felelősségvállalás erősítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013328",
+      "régi_nyilvántartási_száma": "13328/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dénesné Mihály",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "Ramona",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "420 843 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

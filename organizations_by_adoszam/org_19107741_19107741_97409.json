@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19107741",
+  "scraped_at": "2026-02-21T13:48:59.461324",
+  "organization_id": "97409",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Taviovi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Palotai út 70.",
+      "x_koordináta": "47.1807469",
+      "y_koordináta": "18.4028258",
+      "adószám": "19107741-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-24",
+      "statisztikai_számjel": "19107741-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a gyerekek nevelésének, oktatásának és képességeik fejlesztésének biztosítása, személyiségfejlesztésük támogatása, utat nyitva a boldog és egészséges gyermekek neveléséhez, akik fontosnak tartják egészségük védelmét, testi-lelki harmónia megvalósítását, a természet védelmét, a környezettudatos szemléletet. Lehetőségeikhez képest anyagi és erkölcsi támogatás nyújtása az óvodapedagógiai eljárások eszköz- és anyagszükségleteinek biztosításához, valamint a szükséges szakmai háttér kialakításához. Esetlegesen ösztöndíj alapítása arra méltó gyerekek részére. Pályázat kiírása a gyermekek kreativitásának ösztönzésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001129",
+      "régi_nyilvántartási_száma": "1129/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fürjes-Stepanek",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "410 705 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "369 724 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

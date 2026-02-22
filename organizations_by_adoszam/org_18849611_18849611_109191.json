@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18849611",
+  "scraped_at": "2026-02-14T14:57:16.496960",
+  "organization_id": "109191",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kulcsár Kutató- Mentőkutyás Szolgálat Alapítvány",
+      "rövid_név": "KKMSZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8457 Bakonypölöske, Petőfi Sándor utca 58.",
+      "x_koordináta": "47.1633931",
+      "y_koordináta": "17.5433596",
+      "adószám": "18849611-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-22",
+      "statisztikai_számjel": "18849611-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Társadalmilag hasznos, önkéntes tevékenységek kezdeményezése és segítése, ezáltal ellátatlan társadalmi szükségletek kielégítéshez való hozzájárulás a közhasznú feladatok körében. Kiemelten: önkéntes mentő, kutató és segítő kutya kiképzés, vizsgáztatás, vízen vízből való mentés, búvárok képzése és segítése, hátrányos helyzetűek segítése, mentése, és katasztrófa elhárítása. bajba jutottak mentése, személy felkutatás, oktatás, képzés, vizsgáztatás. Adományok gyűjtése, Szociálisan rászoruló családok és gyerekek segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001767",
+      "régi_nyilvántartási_száma": "1767/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kulcsár",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "90 440 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "261 520 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "219 546 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "141",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "869 540 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "706 032 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "605 667 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kulcsár Kutató Mentőkutyás Szolgáltató Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kulcsár Kutató-Mentőkutyás Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kulcsár Kutató-Mentőkutyás Szolgálat Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

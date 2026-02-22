@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18876354",
+  "scraped_at": "2026-02-21T14:08:38.476791",
+  "organization_id": "64672",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tápiószentmártoni Zöldike Természetjáró Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2711 Tápiószentmárton, Kossuth Lajos út 11.",
+      "x_koordináta": "47.340083",
+      "y_koordináta": "19.747368",
+      "adószám": "18876354-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-09",
+      "statisztikai_számjel": "18876354-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "- a természetjárás, a testnevelés, a diáksport, a szabadidősport, a verseny- és élsport, minőségi fejlesztésének megvalósítása helyi sporttevékenység útján, - a közösségi természetjáró hagyományok és értékek megóvása, ápolása, sporttevékenység útján, - az egészséges életmód, a társaséletre szerveződő sportélettel kapcsolatos közösségi tevékenység fejlesztése sporttevékenység útján, - a helyi lakosság egészséges életmódja minőségi javítására szolgáló természetjáró, természetvédő környezeti célok megvalósításának támogatása sporttevékenység útján, - a lakosság természetjárással, kiránduló, séta és szabadidős sporttevékenységével kapcsolatos kezdeményezéseinek, önszerveződéseinek támogatása sporttevékenység útján, -a környezetvédelmi alkotó sportmunka tevékenység feltételeinek javítása, sporttevékenység útján, - a helyi természeti jelenségek, természetvédelmi értékek kihasználtságának segítése, sporttevékenység útján, - a helyi lakosság testedzési igényeinek kielégítése érdekében sportesemények létrehozása, - a testedzés és természetjárás céljaira is alkalmas sportterületek kialakítása, fenntartása, ezek védelme, - az egészségügyi, sport vagy ezekkel összefüggő célokat szolgáló sportlétesítményekben elsődlegesen az alapvető rendeltetés megvalósulásának biztosítása, ezek használata, működtetése, a természettudomány, a természetvédelem, a biológia megszerettetése a természetjáró sporttevékenységek útján.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007196",
+      "régi_nyilvántartási_száma": "7196/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-10",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rigó",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 580 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "381 552 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 050 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

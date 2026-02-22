@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19248594",
+  "scraped_at": "2026-02-21T13:33:42.623298",
+  "organization_id": "121593",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Baracsi Egymásért Baráti Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2427 Baracs, Kossuth utca 11.",
+      "x_koordináta": "46.912027",
+      "y_koordináta": "18.86502",
+      "adószám": "19248594-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-14",
+      "statisztikai_számjel": "19248594-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Baracs község település és testvértelepüléseinek, határon túli magyarok lakta települések közötti kapcsolat ápolása, és a kapcsolat elősegítése, valamint a települések kulturális hagyományainak ápolása, gondozása, gyakorlása. A határon túl élő magyarság és az ott élők részéről pedig a magyarországiak életmódjának megismerése, személyes kapcsolatok kiépítése és fenntartása a magyar-erdélyi, legfőképpen a két település és környékén élők közösségeivel és civil szervezetekkel. A kulturális, művészeti értékek kölcsönös megismerése, a hagyományok megőrzésének segítése. Egymás természeti és környezeti értékeinek megismerése, védelme, épített környezetének fejlesztése, megóvása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003255",
+      "régi_nyilvántartási_száma": "3255/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Supliczné Fekete",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "467 569 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "396 753 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

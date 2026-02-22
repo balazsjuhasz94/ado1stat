@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "18943894",
+  "scraped_at": "2026-02-14T13:53:16.042532",
+  "organization_id": "76099",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gesztenyevilág Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1021 Budapest, Hűvösvölgyi út 119. 1.lph. fszt./1.",
+      "x_koordináta": "47.5295711",
+      "y_koordináta": "18.9799584",
+      "adószám": "18943894-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-11-17",
+      "statisztikai_számjel": "18943894-8510-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja q Hűvösvölgyi Gesztenyéskert Óvoda, valamint az intézménybe járó gyermekek támogatása, a nevelési, oktatási munka segítése ezen belül: a) Az óvodai nevelés anyagi, technikai feltételeinek javítása, műszaki, technikai berendezések beszerzése. Az óvodai nevelői tevékenység eszközrendszere bővítésének, felújításának elősegítése. b) A gyermekek egészséges életmódra nevelésének, egészséges testi fejlődésének elősegítésének, az ehhez szükséges biztonságos, egészséges tárgyi környezet kialakításának támogatása. c) Szemléltetőeszközök, mozgásfejlesztő, szerepjátszást elősegítő készség- és képességfejlesztő játékok, eszközök vásárlásának támogatása, nevelési-fejlesztési programba beépítése. d) A környezeti nevelés és fenntarthatóság pedagógiájának segítése. e) Az óvodába járó gyermekeknek és családjaiknak az óvodán belül közös programok szervezése, valamint a gyermekeknek és családoknak óvodán kívüli ismeretterjesztő programok, táborok szervezése és támogatása. f) Az óvónők szakmai felkészültségének, továbbképzésének támogatása (szakmai könyvek beszerzése, szakmai konferenciákon való részvétel). g) A családok szociális és egészségügyi támogatása (a gyógyuláshoz vagy egészségmegőrzéshez szükséges eszközök, tárgyi feltételek megteremtésének támogatása). h) Speciális nevelésű igényű, különleges bánásmódot igénylő gyermekek ellátásához, fejlesztéséhez szükséges eszközök beszerzése. i) Szakmai segítség (pl. fejlesztő pedagógus, gyógypedagógus) alkalmazása. j) Az Alapítványt működtető külsős szakemberek költségeihez szükséges anyagi erőforrások előteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012527",
+      "régi_nyilvántartási_száma": "12527/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-12-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "Dalma",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "429 113 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "736 849 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "932 858 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

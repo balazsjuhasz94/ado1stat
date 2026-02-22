@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "18909179",
+  "scraped_at": "2026-02-14T13:52:44.152212",
+  "organization_id": "71936",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Bajba jutott állatokért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5350 Tiszafüred, Csillag utca 10.",
+      "x_koordináta": "47.613993",
+      "y_koordináta": "20.7596829",
+      "adószám": "18909179-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-10",
+      "statisztikai_számjel": "18909179-7500-569-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Elsősorban a tiszafüredi, illetve a környékbeli gazdátlan állatok ideiglenes gondozásának, mihamarabbi gazdához juttatásának támogatása. A tiszafüredi állatmenhely befogadott kutyáinak táplálékhoz juttatása, megfelelő élettér kialakításának támogatása. Valamennyi gazdátlan, kóbor állat egyedi megjelölésének (mikrochip), vezsettség elleni védőoltás biztosítása, támogatása. Gazdátlan ebek folyamatos állatorvosi ellátásának támogatása. Gazdátlan beteg állatok gyógyításának támogatása. A felelős állattartás érdekében ismeretterjesztő előadások tartása. Tiszafüred és környékén rendezett állatbemutatók, versenyek támogatása. A gyermekek állatok iránti felelős magatartás kialakítása érdekében rendezett iskolai közösségi rendezvények támogatása. Az állatvédelem területén kiemelkedő tevékenységet végző személyek, jogi személyek díjazása, rendszeresen odaítélhető díj létrehozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-01-0001222",
+      "régi_nyilvántartási_száma": "1222/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11745059-21447910",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Koska",
+        "Képviselő keresztneve": "Hedvig",
+        "Képviselő titulusa": "Dóra",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "667 956 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "777 354 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "911 117 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

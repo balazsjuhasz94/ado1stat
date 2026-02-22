@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18874905",
+  "scraped_at": "2026-02-21T13:04:17.861382",
+  "organization_id": "80301",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csudafa Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1097 Budapest, Óbester utca 9.",
+      "x_koordináta": "47.475131",
+      "y_koordináta": "19.0824779",
+      "adószám": "18874905-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-21",
+      "statisztikai_számjel": "18874905-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja, hogy segítséget nyújtson a Csudafa Óvodában boldog és egészséges óvodás gyermekek oktatásához, neveléséhez, képességeinek fejlesztéséhez, támogassa és elősegítse az óvodai nevelés és oktatás feltételeinek javítását, továbbá anyagilag hozzájáruljon a Csudafa Óvoda épületetének bővítéséhez és berendezésének korszerűsítéséhez, állagvédelemhez, az óvodapedagógusok szakmai továbbképzéséhez, a szülők ismereti bővítéséhez, a neveléshez szükséges szakmai és egyéb eszközök megvásárlásához, a szociálisan rászoruló gyermekek megsegítéséhez. Az alapítvány célja továbbá az óvodás gyermekek korszerű, színvonalas nevelésének támogatása, testi és szellemi képességeinek kibontakoztatását segítő nevelési programok kidolgozásának, alkalmazásának segítéséhez eszközök vásárlása, tárgyi feltételek javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012393",
+      "régi_nyilvántartási_száma": "12393/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-11-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pál",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "245 843 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "183 510 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 859 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "377 863 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "580 499 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "458 390 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csudafa Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csudafa Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csudafa Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

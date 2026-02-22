@@ -1,0 +1,273 @@
+{
+  "search_adoszam": "18719662",
+  "scraped_at": "2026-02-21T12:34:40.847246",
+  "organization_id": "89853",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Diverzitás Közhasznú Alapítvány",
+      "rövid_név": "Diverzitás Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2100 Gödöllő, Honvéd utca 19.",
+      "x_koordináta": "47.5904549",
+      "y_koordináta": "19.3460929",
+      "adószám": "18719662-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-03-06",
+      "statisztikai_számjel": "18719662-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "-a Magyarországon élő, hátrányos helyzetű társadalmi csoportok, különös tekintettel a fogyatékkal élő emberek, a pszichiátriai betegek ? gyermekek, felnőttek és családjuk, és a megváltozott munkaképességű emberek esélyegyenlőségének javítása -hátrányos helyzetben lévő társadalmi rétegek, különös tekintettel a fogyatékkal élő emberek, a pszichiátriai betegek ? gyermekek, felnőttek és családjuk, és -a megváltozott munkaképességű emberek integrációjának elősegítése helyi, regionális és országos szinten -szemléletformálás a társadalmi befogadás érdekében, kiemelten a különböző társadalmi csoportok egymáshoz közelítése érdekében érzékenyítés, információ átadás és kommunikációs hídépítés -innovatív inkluzív, valós szükségleteken alapuló, új szolgáltatási modellek kidolgozása, elméleti-módszertani megalapozása, és a gyakorlatba való átültetése, ill. elterjesztése -munkaerő-piaci integrációt, illetve reintegrációt célzó, személyre szabott egyéni tanácsadás, mentorálás, tréning szolgáltatás nyújtása -több szintű együttműködések kialakítása hazai és nemzetközi hírek, események megismertetése az érintettekkel, valamint a társadalom ép tagjaival egyaránt -kommunikációs híd-szerep felvállalása a fogyatékos-ügyben tevékenykedő ernyőszervezetek, valamint civil társadalom között a társadalmi felelősségvállalás (CSR) elterjedéséhez és az ezzel kapcsolatos személetváltáshoz való hozzájárulás",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003014",
+      "régi_nyilvántartási_száma": "3014/2007",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2008-02-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-11",
+      "alkalmazottak_száma": "9",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csapó",
+        "Képviselő keresztneve": "Beatrix",
+        "Képviselő titulusa": "Erzsébet",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Murguly-Volentér",
+        "Képviselő keresztneve": "Anett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0113",
+        "Leírás": "Zöldségféle, dinnye, gyökér-, gumósnövény termesztése"
+      },
+      {
+        "Kód": "0124",
+        "Leírás": "Almatermésű, csonthéjas termesztése"
+      },
+      {
+        "Kód": "0125",
+        "Leírás": "Egyéb gyümölcs, héjastermésű termesztése"
+      },
+      {
+        "Kód": "1084",
+        "Leírás": "Fűszer, ételízesítő gyártása"
+      },
+      {
+        "Kód": "1813",
+        "Leírás": "Nyomdai előkészítő tevékenység"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7810",
+        "Leírás": "Munkaközvetítés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4721",
+        "Leírás": "Zöldség, gyümölcs kiskereskedelme"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "4761",
+        "Leírás": "Könyv-kiskereskedelem"
+      },
+      {
+        "Kód": "3299",
+        "Leírás": "Egyéb m.n.s feldolgozóipari tevékenység"
+      },
+      {
+        "Kód": "0119",
+        "Leírás": "Egyéb, nem évelő növény termesztése"
+      },
+      {
+        "Kód": "0128",
+        "Leírás": "Fűszer-, aroma-, narkotikus, gyógynövény termesztése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 996 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "40 367 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 265 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "34 361 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "41 377 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "129 698 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "88 539 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 994 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 684 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "540 072 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Diverzitás Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Diverzitás Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DIVERZITÁS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DIVERZITÁS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DIVERZITÁS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DIVERZITÁS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DIVERZITÁS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DIVERZITÁS KÖZHASZNÚ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DIVERZITÁS KÖZHASZNÚ ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

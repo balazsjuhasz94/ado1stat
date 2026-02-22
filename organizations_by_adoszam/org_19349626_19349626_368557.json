@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "19349626",
+  "scraped_at": "2026-02-14T13:52:10.270123",
+  "organization_id": "368557",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Katonasír Kutató és Ápoló Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1148 Budapest, Bagolyvár utca 7/A. 2. em./11. a.",
+      "adószám": "19349626-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-25",
+      "statisztikai_számjel": "19349626-9499-529-01",
+      "x_koordináta": "47.5116674",
+      "y_koordináta": "19.1226729"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység (pl. természettudomány, társadalomtudomány)",
+      "céljának_leírása": "A Katonasír Kutató és Ápoló Egyesület elsődleges célja az értékmentés, főként a Budaihegyekben található egykori lőállások, bunkerek, fővárosunk légvédelmét ellátó ütegállások rendbetétele, karbantartása. Tanösvények kialakítása, emlék- és ismertetőtáblák állítása, még élő idős emberekkel, veteránokkal riportok készítése, összeállítása, megosztása ingyenesen elérhető videómegosztókon, hadisírgondozás, a Hadtörténeti Intézet és Múzeum Katonai Emlékezet és Hadisírgondozó Igazgatóság szakembereivel, valamint a Német Hadisírgondozó Népi Szövetség munkatársaival egyeztetve, munkájukat segítve részt venni katonai temetők ápolásában, külön álló, nehezen megközelíthető, elhagyatott katonasírok felújításában. Az egyesület céljai közé tartozik továbbá a hadszíntérkutatás, kutató és értékmentő munkák elvégzése. Az eddig nem ismert területeken derítés végzése, a második világháborús tömegsírok, elföldelési helyszínek felkutatása, valamint emléktúrák, megemlékezések segítése, támogatása, önállóan szervezett emlék- és ismertetőtúrák szervezése. Az Egyesület olyan szakmai szerveződés, amely aktívan támogatja a hadsírgondozást, felhívja a figyelmet a régészet fontosságára, céljának tekinti a hadszíntérkutatás népszerűsítését, törekszik együttműködésre hasonló célú szervezetekkel. Feladatának tekinti megemlékezések és ismertetőtúrák szervezését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017871",
+      "régi_nyilvántartási_száma": "17871/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Alkay",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5913",
+        "Leírás": "Film-, video- és televízióprogram terjesztése"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "916 135 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

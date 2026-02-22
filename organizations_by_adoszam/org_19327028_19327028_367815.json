@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19327028",
+  "scraped_at": "2026-02-14T14:17:08.733912",
+  "organization_id": "367815",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szívfény Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Thököly utca 50. A.",
+      "adószám": "19327028-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-29",
+      "statisztikai_számjel": "19327028-8559-569-06",
+      "x_koordináta": "46.228948",
+      "y_koordináta": "20.1946968"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány tartós és közérdekű célja, hogy elősegítse az emberek lelki egészségének megőrzését, jó lelkiállapotuk felépítését tanfolyamok, meditációk, könyvek, kártyák hanganyagok és egyéb segédeszközök segítségével. Az élet nehézségeinek kezelésére megküzdési technikák kidolgozása és ezek átadása. Az emberek közérzetének javítása és ezzel boldog, békés családok létrejöttének elősegítése. Az Alapítvány népszerűsítése érdekében logóval, vagy erősítő mondatokkal ellátott különféle termékek értékesítése, és minden más olyan eszköz árusítása, ami az alapítvány alapcéljának megfelelően segítséget nyújt az emberek lelki egészségének, közérzetének javításában. Az életben állandóan jelenlévő stressz csökkentése, az arra adott testi tünetek enyhítése, megszüntetése annak érdekében, hogy az immunrendszer működése fenntartható legyen, elkerülve ezzel számos krónikus és egyéb betegség kialakulását",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001765",
+      "régi_nyilvántartási_száma": "1765/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Siketné Joó",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zohány-Huray",
+        "Képviselő keresztneve": "Helga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Morvaközi-Bozóki",
+        "Képviselő keresztneve": "Lili",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "762 103 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

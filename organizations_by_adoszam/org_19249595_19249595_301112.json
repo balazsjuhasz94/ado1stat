@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19249595",
+  "scraped_at": "2026-02-14T12:42:32.199047",
+  "organization_id": "301112",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "TISZA Állat -és Természetvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5000 Szolnok, Petőfi út 14.",
+      "adószám": "19249595-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-22",
+      "statisztikai_számjel": "19249595-9499-529-16",
+      "x_koordináta": "47.189921",
+      "y_koordináta": "20.1767987"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az elhanyagolt , utcán lévő kóbor kutyák és más állatok mentése, befogadása, gondozása, rehabili-tációjuk és szocializációjuk valamint gazdához juttatásuk, jelenlegi és jövőbeni állattartók,ill. a felelős állattartás társadalmi szemléletformálása, az állatok kulturált , jogi normáknak megfelelő tartá-sának elterjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002818",
+      "régi_nyilvántartási_száma": "2818/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-07-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "László",
+        "Képviselő keresztneve": "Karina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-02-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "392",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 700 461 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "244",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 931 847 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "290",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 614 758 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

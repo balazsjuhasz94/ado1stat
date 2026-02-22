@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "19063342",
+  "scraped_at": "2026-02-21T12:28:55.115424",
+  "organization_id": "85560",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Napsugaras Óvodásokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2536 Nyergesújfalu, Kossuthh L. utca 57.",
+      "x_koordináta": "47.7619929",
+      "y_koordináta": "18.5465228",
+      "adószám": "19063342-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-08-27",
+      "statisztikai_számjel": "19063342-8510-569-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Nyergesújfalui Napsugár Óvodával jogviszonyban álló gyermekek óvodai nevelésének anyagi támogatása, az alapellátásnál kedvezőbb körülmények megteremtése, a gyermekek fejlődését segítő mindennapos és tervezett tevékenységek megvalósításának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001095",
+      "régi_nyilvántartási_száma": "1095/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-11",
+      "bankszámlaszám": "11740092-24090957",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt. É-Dunántúli Régió"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rábl",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bauer",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "352 605 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "445 653 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "558 533 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

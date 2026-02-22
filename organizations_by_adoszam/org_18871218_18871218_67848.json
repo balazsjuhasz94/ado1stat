@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18871218",
+  "scraped_at": "2026-02-14T14:50:03.391528",
+  "organization_id": "67848",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Betterbell Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1063 Budapest, Kmety György utca 22. 3//22.",
+      "x_koordináta": "47.5123575",
+      "y_koordináta": "19.069906",
+      "adószám": "18871218-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2025-04-03",
+      "statisztikai_számjel": "18871218-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Szabadidő sport és utánpótlás nevelés a következő sportágakban: kettlebell, sízés, snowboard, műugrás, vitorlázás és küzdősportok",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016378",
+      "régi_nyilvántartási_száma": "16378/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-01",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "537 775 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "503 374 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "626 638 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

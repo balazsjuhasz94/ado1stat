@@ -1,0 +1,169 @@
+{
+  "search_adoszam": "18044311",
+  "scraped_at": "2026-02-14T12:30:41.901316",
+  "organization_id": "106498",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Angéla Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1024 Budapest, Ady Endre utca 3. (Ált.Iskola)",
+      "x_koordináta": "47.5144711",
+      "y_koordináta": "19.0301584",
+      "adószám": "18044311-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1993-02-06",
+      "statisztikai_számjel": "18044311-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "A Szent Orsolya Rend szellemi erkölcsi, támogatásával egyházi intézményeket működtetett tanintézet létrehozásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0003764",
+      "régi_nyilvántartási_száma": "3764/1993",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-09-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Makláry",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hodász",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "324",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 690 104 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "286",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 160 701 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "269",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 120 607 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "296",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 183 569 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "329",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 488 957 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "294",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 916 143 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "284",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 457 800 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "263",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 207 882 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "233",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 115 581 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "275",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 304 432 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "252",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 632 501 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "274",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 290 757 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Angéla Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

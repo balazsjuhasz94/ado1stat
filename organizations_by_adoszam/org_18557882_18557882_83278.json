@@ -1,0 +1,284 @@
+{
+  "search_adoszam": "18557882",
+  "scraped_at": "2026-02-14T12:14:31.421354",
+  "organization_id": "83278",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Igazgyöngy Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4100 Berettyóújfalu, Sinka István utca 7.",
+      "x_koordináta": "47.2265716",
+      "y_koordináta": "21.5369343",
+      "adószám": "18557882-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1999-09-21",
+      "statisztikai_számjel": "18557882-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Alapfokú művészeti oktatatás (képző- és iparművészeti ág, táncművészeti ág), alapfokú oktatás, tehetséggondozás, ezen belül kiemelten a szociálisan hátrányos helyzetűek és a roma tanulók tehetséggondozása, a szociális helyzetből adódó hátrány kompenzálása, felzárkóztatás, ösztöndíjas tehetséggondozás, mélyszegénységben élő gyerekek ösztöndíjas támogatása, a mélyszegénységben élő gyerekek és családjaik számára adományozás, ezen családok pénzügyi támogatása krízishelyzetek elhárítása esetén, családgondozási tevékenység, gyermekvédelmi feladatok, roma integráció, identitás fejlesztés, továbbképzések, tanfolyamok, pedagógus továbbképzés, gyermek iparművészeti alkotások árusításának támogatása, felnőtt iparművészeti alkotások, és kézművestermékek árusításának támogatása, népi iparművészeti vásárok rendezése, tanulmányok (könyvek, folyóiratok) szerkesztése, illusztrálása, számítógépes grafikusképzés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0001285",
+      "régi_nyilvántartási_száma": "1285/1999",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "1999-10-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-10",
+      "alkalmazottak_száma": "22",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balog",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lisztesné Ritók",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "Eleonóra",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Veress",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0111",
+        "Leírás": "Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése"
+      },
+      {
+        "Kód": "0129",
+        "Leírás": "Egyéb évelő növény termesztése"
+      },
+      {
+        "Kód": "1039",
+        "Leírás": "Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "0113",
+        "Leírás": "Zöldségféle, dinnye, gyökér-, gumósnövény termesztése"
+      },
+      {
+        "Kód": "0128",
+        "Leírás": "Fűszer-, aroma-, narkotikus, gyógynövény termesztése"
+      },
+      {
+        "Kód": "4721",
+        "Leírás": "Zöldség, gyümölcs kiskereskedelme"
+      },
+      {
+        "Kód": "4761",
+        "Leírás": "Könyv-kiskereskedelem"
+      },
+      {
+        "Kód": "4762",
+        "Leírás": "Újság-, papíráru-kiskereskedelem"
+      },
+      {
+        "Kód": "0119",
+        "Leírás": "Egyéb, nem évelő növény termesztése"
+      },
+      {
+        "Kód": "4751",
+        "Leírás": "Textil-kiskereskedelem"
+      },
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "443",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 994 266 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "1049",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 914 284 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "975",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 022 052 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "1652",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 369 355 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "1827",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 007 311 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "1810",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 191 763 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "2233",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "18 735 470 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "2651",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "23 005 918 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "2702",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "26 023 369 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2835",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 253 853 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "3377",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "43 420 074 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2812",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "38 724 267 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igazgyöngy Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

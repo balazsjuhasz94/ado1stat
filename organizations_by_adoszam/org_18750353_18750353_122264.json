@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18750353",
+  "scraped_at": "2026-02-14T14:40:14.748875",
+  "organization_id": "122264",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tűzliliom Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1161 Budapest, Pál utca 44.",
+      "x_koordináta": "47.5364073",
+      "y_koordináta": "19.1656302",
+      "adószám": "18750353-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-03-08",
+      "statisztikai_számjel": "18750353-8230-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A szervezet célja a 929. sz. Szent Mihálycserkészcsapat működéséhez szükséges anyagi feltételek biztosítása, cserkészei részére önálló cserkészotthon megteremtése vagy bérlése, valamint berendezése és fenntartása. A 929. sz. Szent Mihálycserkészcsapat működéséhez szükséges táborozási felszerelések biztosítása, környezetvédelmi és egyéb ismeretterjesztő programok szervezése. Hátrányos helyzetben lévő vagy nagycsaládos cserkészek cserkészprogramon való részvételének elősegítése, ruházatuknak, felszerelésüknek beszerzése. Hozzájárulás a cserkész nevelése munkához, a Cserkészcsapat cserkészeinek egészséges testi fejlődéséhez segítség nyújtása és a pályakezdő cserkészek támogatása. A szervezet célja továbbá a Cserkészcsapat számára könyvtár, szertár, valamint ruhatár kialakítása és a határon túli cserkészek vendégül látása is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015761",
+      "régi_nyilvántartási_száma": "15761/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Téglás",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-08-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Csenge",
+        "Képviselő titulusa": "Hajna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-08-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Járó",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-08-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 625 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "156 962 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "406 298 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "531 747 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "659 666 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TŰZLILIOM EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TŰZLILIOM EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

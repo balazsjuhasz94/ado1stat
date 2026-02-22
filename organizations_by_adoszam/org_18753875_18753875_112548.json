@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18753875",
+  "scraped_at": "2026-02-14T12:58:28.183966",
+  "organization_id": "112548",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Együtt Gyermekeinkért Zalában\" Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Iskola utca 1",
+      "x_koordináta": "46.864646",
+      "y_koordináta": "16.797571",
+      "adószám": "18753875-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-06-22",
+      "statisztikai_számjel": "18753875-9499-569-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Oktatás és nevelés anyagi, technikai feltételeinek javítása, a gyermekek idegennyelvtudásának javítása, a tanulmányi és egyéb versenyek, vetélkedők szervezésének támogatása, iskolai, óvodai és egyéb kulturális, szabadidős programok, illetve ennek keretében a diáksport támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001169",
+      "régi_nyilvántartási_száma": "1169/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-11-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-09-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ruszinné Antal",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "297 224 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "119",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "729 504 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "871 448 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "841 166 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "162",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 785 525 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 783 287 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Együtt Gyermekeinkért Zalában\" Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Együtt Gyermekeinkért Zalában\" Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Együtt Gyermekeinkért Zalában\" Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19338925",
+  "scraped_at": "2026-02-21T14:32:10.510640",
+  "organization_id": "368628",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zalaegerszegi Kétkerék Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Lőrinc Barát utca 8",
+      "adószám": "19338925-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-24",
+      "statisztikai_számjel": "19338925-9312-529-20",
+      "x_koordináta": "46.840173",
+      "y_koordináta": "16.8401659"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Zalaegerszeg térségének (Zala megye) kosárlabda és kerékpáros sportjának összefogása és minőségi szintre emelése, • versenyzési lehetőség biztosítása, • szakmai utánpótlásképzés a kerékpáros- és kosárlabdasportban, • kerékpáros- és kosárlabda-rendezvények szervezése, • a kerékpáros- és kosárlabda sport népszerűsítése, • nemzetközi sportkapcsolatok ápolása, • egészséges életmódra nevelés, • a fentiekkel kapcsolatos reklámtevékenység folytatása, • törekszik a tevékenységéhez szükséges tömegbázis megteremtésére, • csapatait, játékosait bajnoki rendszerben versenyezteti, • megteremti a tevékenységéhez szükséges gazdasági, pénzügyi kereteket • részt vehet hazai, illetve nemzetközi szerveztek munkájában, azokhoz tagként csatlakozhat • a céljai megvalósításához kapcsolódó rendezvényeket szervez • A sportszervezet keretében sporttevékenységet folytató versenyző számára a sportszervezet köteles biztosítani a sportág jellege szerinti biztonságos sporttevékenység folytatásához szükséges feltételeket. o A sportegyesület elsődleges célja: • tagjai részére a rendszeres testedzés, a sportolás és a versenyzési lehetőségének biztosítása, • a társadalmi öntevékenység és közösségi élet kibontakoztatása, • hazai és nemzetközi sportkapcsolatok létesítése és fenntartása o A sportegyesület céljainak megvalósítása érdekében – megállapodás alapján – szoros kapcsolatot tart mindazokkal az állami, társadalmi és gazdálkodó szervezetekkel, amelyek elősegítik azok megvalósulását, részt vállalnak a sportegyesület működési feltételeinek biztosításában és fejlesztésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0003131",
+      "régi_nyilvántartási_száma": "3131/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-30"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vámosi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9311",
+        "Leírás": "Sportlétesítmény működtetése"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "304 068 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

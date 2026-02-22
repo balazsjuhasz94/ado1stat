@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18907108",
+  "scraped_at": "2026-02-14T13:06:27.670208",
+  "organization_id": "70937",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vizsla Bárkája Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9400 Sopron, Színház utca 15. I.",
+      "x_koordináta": "47.6865888",
+      "y_koordináta": "16.5892425",
+      "adószám": "18907108-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-03",
+      "statisztikai_számjel": "18907108-9499-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az állatvédelem támogatása, mely célkitűzést az alapítvány a veszélybe, illetve utcára került kutyák, különös tekintettel a Magyar Vadászkutya , így a Magyar Vizslafajta , és annak különböző keverékei megmentésével kíván ellátni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051401",
+      "régi_nyilvántartási_száma": "51401/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-05-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "16200137-18532047",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mosó",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "170",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "894 502 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "155",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 068 984 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "160",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 182 705 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "159",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 270 660 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "136",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 332 576 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "144",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 561 757 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vizsla Bárkája Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vizsla Bárkája Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vizsla Bárkája Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

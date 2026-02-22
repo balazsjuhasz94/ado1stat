@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19236122",
+  "scraped_at": "2026-02-21T13:13:24.302103",
+  "organization_id": "118884",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A SZÍV BAJNOKAI Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2014 Csobánka, Szegfű utca 6/II.",
+      "x_koordináta": "47.641703",
+      "y_koordináta": "18.9627",
+      "adószám": "19236122-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-18",
+      "statisztikai_számjel": "19236122-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a veleszületett szívbeteg gyermekek önismereti, önfejlesztési és rehabilitációs törekvéseinek támogatása, mentális egészségük megőrzésére irányuló egyéni törekvéseik segítése, sporttevékenységük támogatása és sporttal kapcsolatos élmények szerzésére megfelelő lehetőségek biztosítása, mindezeken keresztül pedig társadalmi beilleszkedésük támogatása. A fent megfogalmazott célokon keresztül az alapítvány az erőszakmentesség, a szolidaritás, a tolerancia és az együttérzés, mint alapvető értékek megszilárdítását kívánja elérni, mely olyan alapvető szociálpszichológiai problémák és társadalmi jelenségek megoldásához járul hozzá, mint az elidegenedés és az egészségtelen életmód.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004093",
+      "régi_nyilvántartási_száma": "4093/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-01-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csontosné Beck",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bojtos",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "658 547 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "675 524 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "437 745 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

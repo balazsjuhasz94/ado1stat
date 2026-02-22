@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19300535",
+  "scraped_at": "2026-02-21T12:51:03.031265",
+  "organization_id": "366116",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Idegsebészet 21 Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1145 Budapest, Amerikai út 84-86. 1/6.",
+      "adószám": "19300535-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-16",
+      "statisztikai_számjel": "19300535-8696-569-01",
+      "x_koordináta": "47.5178642",
+      "y_koordináta": "19.1007947"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Idegsebészeti betegellátás minőségi ellátása. Tudományos kutatások anyagi támogatása. Oktatáshoz, kutatáshoz szükséges berendezések, szakirodalmak, könyvek biztosítása. Orvosok, szakápolók, gyógytornászok továbbképzésének biztosítása. Orvosok, szakápolók, gyógytornászok hazai, illetve külföldi konferenciákon történő részvételének biztosítása (pl.: útiköltség térítése). Idegsebészeti betegek rehabilitációjának elősegítése oktatással, neveléssel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013098",
+      "régi_nyilvántartási_száma": "13098/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Székely",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Pál",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "491 460 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

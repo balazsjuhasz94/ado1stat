@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18264564",
+  "scraped_at": "2026-02-14T14:16:32.879862",
+  "organization_id": "77387",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Liverpool Szurkolók Magyarországi Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1133 Budapest, Zsilip utca 6. fszt./15/a.",
+      "x_koordináta": "47.5308667",
+      "y_koordináta": "19.0646101",
+      "adószám": "18264564-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-05-14",
+      "statisztikai_számjel": "18264564-9319-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Az egyesület tagjai mind a Liverpool FC labdarúgócsapatának szurkolói, akik azon túlmenően, hogy a csapatnak szurkolnak, különböző összejöveteleket, rendezvényeket szerveznek abból a közösségi célból, hogy az azonos érdeklődésű embereket összehozza.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0013078",
+      "régi_nyilvántartási_száma": "13078/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Takács",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "531 792 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "503 103 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "775 140 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

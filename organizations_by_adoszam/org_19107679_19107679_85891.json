@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19107679",
+  "scraped_at": "2026-02-14T13:25:10.348215",
+  "organization_id": "85891",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Shunt-ös életek Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1148 Budapest, Bánki Donát utca 36.",
+      "x_koordináta": "47.514126",
+      "y_koordináta": "19.117819",
+      "adószám": "19107679-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-05",
+      "statisztikai_számjel": "19107679-8412-561-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A szervezet célja a shunt-tel élők érdekképviselete. Információs rendszer működtetése a shunt-tel élők és családtagjaik, z egészségügyi dolgozók, pedagógusok számára, ennek érdekében információs anyagok készítése (kiadványok, weboldal), előadások, szakmai napok szervezése, melyen gondosan kiválasztott elismert szakemberek tartanak előadást. Cerebrális parézissel (CP) élő gyermekek számára programok, találkozók szervezése, lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012690",
+      "régi_nyilvántartási_száma": "12690/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-29",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Leimsider",
+        "Képviselő keresztneve": "Rózsa",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "569 983 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "731 562 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "745 804 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "954 340 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "124",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 205 521 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Shunt-ös életek Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Shunt-ös életek Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

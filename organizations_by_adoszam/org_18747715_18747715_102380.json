@@ -1,0 +1,158 @@
+{
+  "search_adoszam": "18747715",
+  "scraped_at": "2026-02-14T13:15:11.002083",
+  "organization_id": "102380",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Utcajogász Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1084 Budapest, Auróra utca 11.",
+      "x_koordináta": "47.5030497",
+      "y_koordináta": "19.0617243",
+      "adószám": "18747715-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-13",
+      "statisztikai_számjel": "18747715-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Jogvédő tevékenység (pl. állampolgári jogok védelme, fogyasztói jogvédelem, kisebbségvédelem)",
+      "céljának_leírása": "Az egyesület olyan non-profit társadalmi szervezet, amelynek célja jogsegély nyújtása és jogi érdekvédelem biztosítása hajléktalan, illetve lakásszegénységben élő emberek számára. Az egyesület tagjai a város mindenkié hajléktalan érdekvédő csoport tagjai is, akik elsődlegesen a kikényszeríthető lakhatáshoz való jog, valamint a hajléktalanságban és lakásszegénységben élő emberek jogainak érvényesítése érdekében működnek együtt, különös tekintettel az emberi méltósághoz való jogra, az egészséghez való jogra, a szociális biztonsághoz való jogra, a munkához való jogra, a művelődéshez való jogra, valamint az egyenlő bánásmódhoz és tisztességes eljáráshoz való jogra. Az egyesület célja a tanácsadás, az információnyújtás és a hajléktalan embereket érintő problémák összegyűjtése és stratégiai képviselete annak érdekében, hogy az egyesület és a város mindenkié csoport szervezetten léphessen fel a hatóságok, az állampolgárok, valamint az intézmények túlkapásai, valamint megalázó, megkülönböztető vagy kirekesztő gyakorlatai ellen, a társadalmi igazságosság és a valódi jogegyenlőség megteremtéséért.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003636",
+      "régi_nyilvántartási_száma": "3636/2016",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-08-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kerese",
+        "Képviselő keresztneve": "Virág",
+        "Képviselő titulusa": "Mercedes",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Magassy",
+        "Képviselő keresztneve": "Mercédesz",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szatmári",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-01-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "130",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "815 378 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "608 664 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "141",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 050 383 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "907 741 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "185",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 841 623 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "151",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 898 104 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 363 580 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcajogász Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcajogász Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcajogász Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcajogász Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

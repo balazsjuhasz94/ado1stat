@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19188359",
+  "scraped_at": "2026-02-14T13:25:06.192189",
+  "organization_id": "111149",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A JÖVŐ A GYERMEKEKÉ Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Széna tér 5. tetőtér/5.",
+      "x_koordináta": "47.9003919",
+      "y_koordináta": "20.377484",
+      "adószám": "19188359-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-22",
+      "statisztikai_számjel": "19188359-8559-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Gyermek-, szülő-és pedagógusbarát tanulási környezet kialakítása, az oktató -nevelő munka humán és tárgyi feltételeinek javítása az Eszterházy Károly Gyakorló Általános Iskola Bartók téri épületé-ben. Tehetséggondozás, tehetséggondozó programok kidolgozása, megvalósítása, felzárkóztató programok kidolgozása és megvalósítása, differenciált oktatás és egyéni tanulói utak segítése, szem-léletformáló programok szervezése szülők és pedagógusok számára, alumni diákok csoportjának lét-rehozás, bővítése, programjainak szervezése az Eszterházy Károly Gyakorló Általános Iskola Bartók téri épületében. Közösségi programok, rendezvények szevezése, lebonyolítása, közösségi terek létre-hozása az Eszterházy Károly Gyakorló Általános Iskola Bartók téri épületében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001192",
+      "régi_nyilvántartási_száma": "1192/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csohány-Hüse",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "632 650 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "978 807 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "794 414 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 206 390 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Jövő a Gyermekeké Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

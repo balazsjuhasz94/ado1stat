@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18395978",
+  "scraped_at": "2026-02-21T13:05:58.933349",
+  "organization_id": "54014",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Farkasodu Taekwondo és Kick-box Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8196 Litér, Kossuth utca 14.",
+      "x_koordináta": "47.0946955",
+      "y_koordináta": "18.0108032",
+      "adószám": "18395978-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-02-18",
+      "statisztikai_számjel": "18395978-9312-521-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület olyan kulturális, sport, nonprofit társadalmi szervezet, amely célul tűzi ki a magyar sportélet támogatását, a tömegsport kultúra fejlesztését és minél szélesebb körű terjesztését. Ezen belül: az önvédelem fejlesztése és tanítása, Litér és vonzáskörzetében meghonosítani és népszerűvé tenni a koreai Taekwond-do és a japán kick-box alapjait, mindemellett célul tűzi ki az erkölcsös életre nevelést, minél több versenyen részt venni, egy ütőképes csapatot kialakítani, mely Litér, valamint a taekwond-do és kick-box egyesület nevét öregbíti, a sportolók támogatása felszereléssel, utazással és a versenyekkel kapcsolatos költségekben, versenyző kinevelése mellett tömegsport célokat is kíván megvalósítani azzal, hogy 6-66 éves korig bárki részt vehet az edzéseken akár szabadidő-töltés, akár önvédelem-fejlesztés céljából. Lehetővé tenni minden érdeklődőnek, hogy elsajátítsa az önvédelem alapvető fogásait, melyre a mai világban mindenkinek szüksége lehet, a gyermekek védelme, a társadalomban való beilleszkedés elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003405",
+      "régi_nyilvántartási_száma": "3405/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Talián",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-08-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Baksa",
+        "Képviselő keresztneve": "Hajnalka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-08-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 601 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 833 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

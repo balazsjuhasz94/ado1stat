@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19290601",
+  "scraped_at": "2026-02-21T14:00:48.636086",
+  "organization_id": "365143",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KÖSZ Kisvárosi Önkéntes Szemétszedők Egyesülete",
+      "rövid_név": "KÖSZ Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2900 Komárom, Péczeli J. utca 5.",
+      "adószám": "19290601-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-24",
+      "statisztikai_számjel": "19290601-9499-529-11",
+      "x_koordináta": "47.7207846",
+      "y_koordináta": "18.0906773"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A KÖSZ Kisvárosi Önkéntes Szemétszedők Egyesületének elsődleges céljai és fő tevékenységei közé tartozik elsősorban Komárom, és Eger, - távlati célként pedig minél több magyarországi vagy, külhoni - települések és környékének szemétmentesítése és tisztán tartása. Célunk, hogy lakossági szemléletformálással és alternatíva mutatásával csökkentsük és megelőzzük a szemetelést és az illegális hulladék lerakási hajlandóságot. Az Egyesület célja, hogy a különböző szemétszedési akciókkal, preventív-jellegű kommunikációval, valamint szemléletformáló projektekkel felhívja a magánemberek, a közintézmények, valamint a gazdasági szereplők figyelmét arra, hogy valójában mennyire szignifikáns a társadalmi és az egyéni felelősség a hulladékképződés megelőzésében, a már felhalmozódott hulladék megfelelő feldolgozásában, illetve szelektív hulladékgyűjtés népszerűsítésében, alkalmazásában. Továbbá, véljük, hogy a szemétszedésre lehet úgy tekinteni, mint egy hobbira, egy szabadidős tevékenységre, amely nem csak jóformán bárki által űzhető, de rendkívül magas a hozzáadott értéke is. Ahogyan az előző bekezdésekben is deklaráltuk; a hulladékhierarchia Öt szintjének megfelelően az Egyesületünk nem csupán az illegális hulladéklerakások és a szeméttel borított területek felszámolásával foglalkozik. Kiemelt hangsúlyt helyezünk a hulladékok keletkezésének megelőzésére és csökkentésére, valamint a keletkező hulladékok megfelelő szelektív gyűjtésre és hasznosítására is Ennek keretében célunk a környezeti nevelés fejlesztése, egy gondolkodó, környezettudatosabb lakosság elérése érdekében minden korosztályban és minden ágazatban. Az Egyesület céljainak elérése érdekében az Egyesület: - szemétszedéseket szervez az egyesület tagjaival együttműködve, a helyi lakosság, helyi közintézmények, valamint helyi gazdasági társaságok, valamint Önkéntesek bevonásával, - rendezvényeket tart hulladékcsökkentés és megelőzés témakörben, - kapcsolatot tart a települési oktatási intézményekkel, hivatalokkal és vállalatokkal a hulladékkezelésük hatékonyságának növelése érdekében, - tájékoztatót, hírlevelet és egyéb anyagokat ad ki, saját oldalt működtet közösségi portálon, - propagálja az Egyesület céljait és eredményeit, - projekteket, programokat tervez, szervez és vezet, - hulladék megelőzést szolgáló eszközöket szerez be, szolgáltat és helyez ki.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002232",
+      "régi_nyilvántartási_száma": "2232/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-10",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-05",
+      "bankszámlaszám": "11740030-24036825",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fehérvári",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "3811",
+        "Leírás": "Nem veszélyes hulladék gyűjtése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "221 637 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "350 146 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

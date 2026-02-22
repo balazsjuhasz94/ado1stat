@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19339373",
+  "scraped_at": "2026-02-14T12:23:45.375244",
+  "organization_id": "368663",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "DUNAHARASZTI ÖNKÉNTES TŰZOLTÓ EGYESÜLET",
+      "rövid_név": "DUNAHARASZTI ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2330 Dunaharaszti, Golgota utca 37. B",
+      "adószám": "19339373-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-09",
+      "statisztikai_számjel": "19339373-8425-529-13",
+      "x_koordináta": "47.3412532",
+      "y_koordináta": "19.1082805"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "A szakmai szolgáltatást végző egyesület célja, elsődlegesen Dunaharaszti településen tűzvédelem biztosítása, tűzoltási, kárelhárítási, műszaki mentési szaktevékenység végzése önkéntesek által.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008218",
+      "régi_nyilvántartási_száma": "8218/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simor",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Somogyi",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "656",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 936 087 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

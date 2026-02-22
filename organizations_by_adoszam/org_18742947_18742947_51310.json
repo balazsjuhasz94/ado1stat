@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18742947",
+  "scraped_at": "2026-02-14T12:35:14.024368",
+  "organization_id": "51310",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pelyhes Peti Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2890 Tata, Toldi M. utca 12/ A.",
+      "adószám": "18742947-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-04-07",
+      "statisztikai_számjel": "18742947-9499-569-11",
+      "x_koordináta": "47.629452",
+      "y_koordináta": "18.303389"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Gazdátlan (egészséges vagy sérült, beteg) macskák befogása, ivartalanítása, szükség esetén gyógykezelése, majd végleges gazdához való elhelyezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001069",
+      "régi_nyilvántartási_száma": "1069/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "73600149-11131535-00000000",
+      "számlavezető_pénzintézet_neve": "Takarékbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Auer",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "355",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 981 398 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "408",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 643 811 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "479",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 931 555 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "456",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 168 826 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "476",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 864 310 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "363",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 338 845 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "310",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 423 605 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pelyhes Peti Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pelyhes Peti Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pelyhes Peti Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pelyhes Peti Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

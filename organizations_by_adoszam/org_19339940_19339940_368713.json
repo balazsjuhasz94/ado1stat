@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19339940",
+  "scraped_at": "2026-02-21T13:57:57.727279",
+  "organization_id": "368713",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mesemalom Bölcsőde Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3525 Miskolc, Dózsa György utca 36",
+      "adószám": "19339940-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-13",
+      "statisztikai_számjel": "19339940-9499-569-05",
+      "x_koordináta": "48.1179674",
+      "y_koordináta": "20.7653642"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Mesemalom Bölcsődében gondozott gyermekek ellátásának segítése: a tárgyi feltételek, a játékeszközök bővítése, az épület állagának karbantartása, a nevelés-gondozás feltételeinek fejlesztése. A sajátos nevelési igényű, gyermekek integrált bölcsődei csoportban történő nevelése, gondozása, rehabilitációja, illetve azon gyermekek, akiknek fejlesztésre, megsegítésre van szükségük, végül pedig az egészséges gyermekek nevelése, gondozása, támogatása, azaz korai fejlesztés, intervenció. Családi programok eszközeinek biztosítása, szervezési feladatok támogatása. Egészségnevelés, prevenció. A család és a magánélet összeegyeztetése. A dolgozók munkakörülményeinek javítása, továbbképzések, szaktudás szinten tartása. Társintézmények közötti együttműködés létrehozása, támogatása, Kárpát-medencei kapcsolatok építése. Játszóházak, gyermekfelügyelet, játszócsoport szolgáltatás támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064694",
+      "régi_nyilvántartási_száma": "64694/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11734035-21443497-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Siku",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sóvári",
+        "Képviselő keresztneve": "Lídia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "354 258 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

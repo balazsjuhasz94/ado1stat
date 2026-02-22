@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19154774",
+  "scraped_at": "2026-02-14T13:41:59.721959",
+  "organization_id": "105669",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CATherina Cicamentés Állatvédő Egyesület",
+      "rövid_név": "CATherina Cicamentés",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1151 Budapest, Károlyi Sándor út 112.",
+      "x_koordináta": "47.57942",
+      "y_koordináta": "19.126493",
+      "adószám": "19154774-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-31",
+      "statisztikai_számjel": "19154774-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az egyesület céljának megfelelően az alábbi (konkrét) közhasznú tevékenységet fejti ki: [Ectv. 34. § (1) bekezdés a) pont] Állatvédelem: Az Egyesület végzi kóbor, gazdátlan macskák, mentését, befogadását, gondozását, orvosi kezeléseit, szocializációját és rehabilitációját, valamint gazdához juttatását. Az Egyesület közreműködik a jogszabályi előírásoknak megfelelő állattartás megvalósulásában, szükség esetén az állatvédelmi hatóságnál a hatáskörébe tartozó intézkedés megtételét kezdeményezi. 1998. évi XXVIII. törvény az állatok védelméről és kíméletéről 48/A. § (3) 45/B. §, 48. § Nevelés és oktatás, képességfejlesztés, ismeretterjesztés: Az állatok kulturált és a vonatkozó jogi normáknak megfelelő tartásának megteremtése, illetve elősegítése, gazdik informálása a megfelelő jogszabályok betartásáról, az állat érdekeinek vélelmében. Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 43/A. § A természet védelméről szóló 1996. évi LIII. törvény 64. § (1) Természetvédelem: Az Egyesület a természeti területek és értékek jogellenes károsítása, veszélyeztetése esetén a természet védelme érdekében fellép annak érdekében, hogy az állami szervektől, az önkormányzatoktól a megfelelő és a hatáskörükbe tartozó intézkedés megtételét kezdeményezze. A természet védelméről szóló 1996. évi LIII. törvény 65. § (1) és (2) bekezdései",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017186",
+      "régi_nyilvántartási_száma": "17186/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-07-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10300002 - 13435699 - 00014902",
+      "számlavezető_pénzintézet_neve": "MKB BANK"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Karl-Pethő",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "996 208 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 007 841 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

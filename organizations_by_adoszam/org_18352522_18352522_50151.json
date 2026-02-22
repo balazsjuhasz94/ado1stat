@@ -1,0 +1,162 @@
+{
+  "search_adoszam": "18352522",
+  "scraped_at": "2026-02-14T12:45:21.825205",
+  "organization_id": "50151",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kecskeméti Gyermekosztályért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Nyíri út 38.",
+      "x_koordináta": "46.8972365",
+      "y_koordináta": "19.6695056",
+      "adószám": "18352522-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-08-11",
+      "statisztikai_számjel": "18352522-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A kecskeméti gyermekosztályon az orvosi és nővéri gyógyító és megelőző munka agyagi hátterének megteremtése. Egészségmegőrzés, betegségmegelőzés, gyógyító-, egészségügyi rehabilitációs tevékenység, gyermek, ifjúságvédelem, gyermek-, és ifjúsági érdekképviselet. A korszerű és hatékony betegellátáshoz nélkülözhetetlen műszerek, felszerelések biztosítása. A technikai és infrastrukturális háttér megteremtése. Az osztályon dolgozó orvosok és nővérek szakmai továbbképzésének a pénzügyi támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0000971",
+      "régi_nyilvántartási_száma": "971/1997",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-12-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10402506-25020153-00000000",
+      "számlavezető_pénzintézet_neve": "K &amp; H Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nyilas",
+        "Képviselő keresztneve": "Marianna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "323",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "996 617 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "300",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 398 138 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "450",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 690 724 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "441",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 696 752 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "390",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 728 314 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "393",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 749 917 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "292",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 563 344 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "309",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 584 908 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "211",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 413 895 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "289",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 141 043 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "269",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 224 389 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "249",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 454 151 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kecskeméti Gyermekosztályért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

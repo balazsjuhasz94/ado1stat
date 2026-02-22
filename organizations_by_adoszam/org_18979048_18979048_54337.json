@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18979048",
+  "scraped_at": "2026-02-21T13:07:23.611610",
+  "organization_id": "54337",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jobb Életet Érdemlünk Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1068 Budapest, Benczúr utca 28. 3/2.",
+      "x_koordináta": "47.484208",
+      "y_koordináta": "19.0651911",
+      "adószám": "18979048-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-03-27",
+      "statisztikai_számjel": "18979048-8569-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "• mélyszegénységben élő gyermekek oktatásának támogatása; • hátrányos helyzetű térségekben működő oktatási intézmények támogatása; • hátrányos helyzetű gyermekekkel foglalkozó alapítványok és egyesületek támogatása; • hátrányos helyzetű társadalmi csoportok esélyegyenlőségének elősegítése; • mélyszegénységben élő gyermekek és családjaik számára adomány nyújtása; • a szociális helyzetből adódó hátrány kompenzálása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012607",
+      "régi_nyilvántartási_száma": "12607/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Unger",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "412 246 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "396 086 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 238 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "451 662 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jobb Életet Érdemlünk Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

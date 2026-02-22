@@ -1,0 +1,107 @@
+{
+  "search_adoszam": "18789885",
+  "scraped_at": "2026-02-21T14:15:35.397190",
+  "organization_id": "57855",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kanizsai Fiatalok Közössége",
+      "rövid_név": "KFK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8800 Nagykanizsa, Május 1 utca 2",
+      "x_koordináta": "46.4519843",
+      "y_koordináta": "16.991632",
+      "adószám": "18789885-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-16",
+      "statisztikai_számjel": "18789885-9499-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Nevelés, oktatás, képességfejlesztés – ismeretterjesztés, közösségfejlesztés – fenntartható életmódra való nevelés – kulturális, közművelődési tevékenység,- környezetvédelem – hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése – sporttevékenység – tehetséggondozás – önkéntesség és az iskolai közösségi szolgálat elterjesztése – gyermek és ifjúsági táborok, fesztiválok, sportversenyek, rendezvények szervezése – ifjúsági, művészeti, karitatív csoportok működtetése – jótékonysági rendezvények szervezése, családsegítés, adománygyűjtés – az ifjúsággal kapcsolatos feladatok ellátása, közösségi tér biztosítása – tánc, előadó művészeti, karitatív csoportok működtetése – művészetoktatás – sport szakosztály működtetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002867",
+      "régi_nyilvántartási_száma": "2867/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szollár-Nikolics",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "Margit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "109 388 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "226 619 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "442 205 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "325 849 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kanizsai Fiatalok Közössége"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

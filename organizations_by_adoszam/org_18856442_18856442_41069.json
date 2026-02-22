@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "18856442",
+  "scraped_at": "2026-02-21T13:07:54.212420",
+  "organization_id": "41069",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Györkönyi Önkéntes Tűzoltó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7045 Györköny, Fő utca 53-55.",
+      "x_koordináta": "46.636454",
+      "y_koordináta": "18.693455",
+      "adószám": "18856442-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-07-13",
+      "statisztikai_számjel": "18856442-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "A tűz ellni védekezésről, a műszaki mentésről és tűzoltóságról szóló 1996. évi XXXI. törvény (Tvt.) 33. § (1)-(2) bekezdéseire figyelemmel a székhely településen és a környező településeken tűzmegelőzési, valamint tűzoltási és műszaki mentési feladatok ellátásában közreműködés, a tűzmegelőzés körében a lakosság tájékoztatása az időszerű tűzvédelmi feladatokról, a lakosság részére tűzvédelemmel kapcsolatos más információs tevékenység végzése, valamint tűzoltó hagyományok megőrzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0000117",
+      "régi_nyilvántartási_száma": "117/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Koloh",
+        "Képviselő keresztneve": "Marcell",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "368 888 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "399 477 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "419 928 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "450 332 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Györkönyi Önkéntes Tűzoltó Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

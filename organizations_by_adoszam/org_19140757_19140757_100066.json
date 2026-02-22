@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "19140757",
+  "scraped_at": "2026-02-14T13:05:40.083486",
+  "organization_id": "100066",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Krisztus Király Római Katolikus Általános Iskola Diákjaiért Alapítvány",
+      "rövid_név": "Krisztus Király Iskola Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Táncsics utca 4-6.",
+      "x_koordináta": "47.63074",
+      "y_koordináta": "19.131863",
+      "adószám": "19140757-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-01",
+      "statisztikai_számjel": "19140757-9329-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az Alapítvány kiemelt célja a Krisztus Király Iskolához (a továbbiakban: iskola) köthető szabadidős és hobbitevékenységek (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági szervezetek, gyűjtőtevékenység, horgászat) előmozdítása, valamint az alábbi célok támogatása és előmozdítása: - előadók meghívása az iskolához köthető gyerekekhez, pedagógusokhoz, szülőkhöz; - tanárok továbbképzésének támogatása; - diákok díjazása; - határon belüli és határon túli iskolai programok esetében diákok és pedagógusok támogatása; - az iskola publikációs lehetőségeinek megteremtése, támogatása; - az intézményi környezet szépítésének támogatása; - infrastrukturális- és eszközfejlesztések; - tanulmányi- és sportversenyek szervezése; - hitéleti rendezvények szervezése; - iskolai rendezvények, ünnepélyek, jótékonysági események szervezése, lebonyolítása, támogatása; - karitatív, szociális tevékenységek szervezése, támogatása; - iskolai és alapítványi reklám- és marketing; - testi és érzelmi lemaradásban lévő diákok felzárkóztatásának támogatása; valamint - valamennyi olyan esemény, kezdeményezés és program támogatása, amely az iskolához köthető és előmozdítja mind az iskola, mint intézmény fejlődését, mind az iskolához köthető személyek (diákok, tanárok, családtagok) testi és szellemi fejlődését, szórakozását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004023",
+      "régi_nyilvántartási_száma": "4023/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-12-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Puskás",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "Balázs",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "124",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 050 220 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "156",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 398 025 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 442 807 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 576 471 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Krisztus Király Római Katolikus Általános Iskola Diákjaiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

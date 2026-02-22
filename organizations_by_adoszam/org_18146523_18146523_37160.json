@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18146523",
+  "scraped_at": "2026-02-21T12:49:53.818439",
+  "organization_id": "37160",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alba Union Pro Squash Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8095 Pákozd, Széchenyi utca 5-7.",
+      "x_koordináta": "47.1925447",
+      "y_koordináta": "18.4013048",
+      "adószám": "18146523-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-12-08",
+      "statisztikai_számjel": "18146523-9312-521-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A squash, a fitness és az atlétika, mint sportágak magyarországi népszerűsítése, illetve a sportágakban tevékenykedve részt vállalni a felnőtt, illetve a fogyatékos sportolók képzésében és versenyeztetésében. Ennek keretében a sportegyesület elsődleges célja: a) tagjai részére rendszeres testedzés, a sportolás és a versenyzés lehetőségének biztosítása; b) a társadalmi öntevékenység és a közösségi élet kibontakoztatása; c) hazai és nemzetközi sportkapcsolatok létesítése és fenntartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0002682",
+      "régi_nyilvántartási_száma": "2682/2010",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-03",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szüts",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "53 717 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "471 806 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "494 101 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alba-Török Squasch Sportegyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alba-Török Squash Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

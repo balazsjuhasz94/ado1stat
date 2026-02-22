@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "18444931",
+  "scraped_at": "2026-02-21T13:53:24.888338",
+  "organization_id": "119134",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\" TISZAÚJVÁROS GIMNASZTRÁDÁÉRT \" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3580 Tiszaújváros, Deák Ferenc tér 10. 4/2.",
+      "x_koordináta": "47.9339629",
+      "y_koordináta": "21.0326679",
+      "adószám": "18444931-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2004-05-05",
+      "statisztikai_számjel": "18444931-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Anyagi eszközökkel biztosítsa, és segítse a Magyar Gimnasztráda Válogatott Tiszaújvárosi Csoport (Tiszaújvárosi Gimnasztráda) céljainak megvalósítását, saját eszközök felkutatása, támogatások igénybe vétele és nyújtása, szociálisan rászorúlt tagok költségtámogatása, egészséges életmódra nevelő csoportok, annak eszméit hirdető események támogatása, sportevékenység, a mindennapos testedzés feltételei megteremtésének és fejlesztésének elősegítése, támogatása az általános torna mozgalom kiterjesztése a régióban, a sportág megismertetése és elterjesztése, egészséges életmódra való nevelés, a magasabb színvonalú működés előmozdítása, Tiszaújváros sport és kulturális életének színesítése, a csoport bővítése, főként utánpótlás nevelés keretében, szereplés hazai bemutatókon, valamint külföldi fesztiválszerepléseken, marketing anyagok, és honlap készítése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0002070",
+      "régi_nyilvántartási_száma": "2070/2004",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-11-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-18",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Madár",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "494 098 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "362 081 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tiszaújvárosi Gimnasztrádáért Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tiszaújváros Gimnasztrádáért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tiszaújváros Gimnasztrádáért AlapÍtvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tiszaújvárosi Gimnasztrádáért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tiszaújváros Gimnasztrádáért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18629097",
+  "scraped_at": "2026-02-21T14:33:18.867855",
+  "organization_id": "97392",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alföldi Szabadidő Egyesület",
+      "rövid_név": "ASZE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6800 Hódmezővásárhely, Kisfaludy utca 113.",
+      "x_koordináta": "46.4222955",
+      "y_koordináta": "20.336401",
+      "adószám": "18629097-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-03-26",
+      "statisztikai_számjel": "18629097-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A civil szervezet megváltozott célja: a. A hagyományos értékek ápolása. b. Természeti, környezeti értékek védelme. c. A társadalom civil közösségeinek erősítése. d. A fiatalok valódi egészséges értékekre, életmódra nevelése. e. Tömegsport erősítése. f. A Baranta hagyományos magyar harcművészeti stílusú sporttevékenység, az ehhez kapcsolódó hagyományok megelevenítése, megőrzése. g. A motorsport népszerűsítése, a biztonságos és szabályos motorozás népszerűsítése, gyakorlása. Magyarországi és külföldi túrák szervezése és lebonyolítása. h. Ösztönzi a természetjárást, elősegíti a lakosság és elsősorban a gyermekek és fiatalok természetben végzett testedzését és sportolását, hozzájárul a természeti értékek védelméhez. i. Falmászás, sziklamászás, barlangászat népszerűsítése, képzések és foglalkozások szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003084",
+      "régi_nyilvántartási_száma": "3084/2014",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-12-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bereczky",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "Bence",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "187 740 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 027 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "279 621 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "366 168 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 860 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "302 651 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alföldi Szabadidő Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alföldi Szabadidő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alföldi Szabadidő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

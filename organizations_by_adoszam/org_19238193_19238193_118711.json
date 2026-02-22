@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19238193",
+  "scraped_at": "2026-02-21T12:35:59.544303",
+  "organization_id": "118711",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élményekkel teli Nyírbátorért Család-barát Egyesület",
+      "rövid_név": "Élményekkel teli Nyírbátorért Család-barát Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4300 Nyírbátor, Sóhordó utca 42.",
+      "x_koordináta": "47.8286239",
+      "y_koordináta": "22.1244568",
+      "adószám": "19238193-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-16",
+      "statisztikai_számjel": "19238193-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Minden olyan program, esemény élményszerű megvalósítása, amely a Nyírbátorban és környékén élő családok testi-lelki-mentális egészségének kialakítását, fenntartását elősegíti. Minden társadalmi réteg összefogása. Szabadidős és szórakoztató programok szervezése a kultúra, a sport, a hagyományőrzés, a természet- és a környezetvédelem terén. Elősegítse a családbarát-családcentrikus attitűd megerősödését, és ehhez különböző támogatásokat, támogató szolgáltatásokat nyújtson. Alapjában véve Oktatási, Kulturális, és Szabadidős egyesület, mivel ezen tevékenységi körök mentén valósítjuk meg céljainkat. Oktatási hiszen: az egyéni készség, képességek fejlesztése, gyermek foglalkozások szervezése, a közösség érdekében. Pedagógusok rekreációjának támogatása. Ismeretek bővítése képzésekkel, programokkal. Oktatás-nevelés által az embernek az emberhez és természethez való viszonyának javítása. Kulturális szinten: nemzeti hagyományok ápolása, kulturális előadások, programok szervezése. A kultúra, környezet és természetvédelem és az egészséges életmódhoz kapcsolódó események létrehozása, támogatása. Hivatásos és nem hivatásos előadóművészek számára bemutatkozási, fellépési lehetőség biztosítása. Szabadidő szintjén: A szabadidő hasznos eltöltésének támogatása. Ehhez lehetőségek biztosítása. Lovassport, labdajátékok, egyéb játékok lehetőségének biztosítása. Vetélkedők szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004111",
+      "régi_nyilvántartási_száma": "4111/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-03-03",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gönczőné Kovács",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "223 348 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "417 574 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "543 837 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

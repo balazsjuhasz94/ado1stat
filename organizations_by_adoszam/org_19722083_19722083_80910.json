@@ -1,0 +1,290 @@
+{
+  "search_adoszam": "19722083",
+  "scraped_at": "2026-02-21T14:04:28.627442",
+  "organization_id": "80910",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rádiós Segélyhívó és Infokommunikációs Országos Egyesület",
+      "rövid_név": "RSOE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1089 Budapest, Elnök utca 1.",
+      "x_koordináta": "47.4803573",
+      "y_koordináta": "19.0943205",
+      "adószám": "19722083-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1983-03-24",
+      "statisztikai_számjel": "19722083-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "A Rádiós Segélyhívó és Infokommunikációs Országos Egyesület tagsága és támogatói elkötelezettek a kívánatos és hasznos célokat segítő információs és kommunikációs szolgáltatások, technológiai újítások széleskörű nyilvánosságra hozatalában és élenjáró alkalmazásában. Ennek során az Egyesület küldetésének tekinti a vészhelyzeti híradást, annak minden formáját, a balesetek és katasztrófák megelőzésében való együttműködést, a közszolgálatot. Működése során, céljai sikerérét használja a legmodernebb technológiákat és újításokat különösen a vízi és szárazföldi közlekedés, a katasztrófavédelmi és baleset-megelőzési alkalmazások körében. Az Egyesület vezető szerepet vállal a lakosság veszélyhelyzeti tájékoztatásában, a folyami információs szolgáltatások (RIS) üzemeltetésében és fejlesztésében, valamint a belvízi hajózás és szárazföldi közlekedés arculatának fejlesztésében, biztonságának fokozásában. A folyami információs szolgáltatások, a vész- és segélyhívó rendszerek fejlesztése és üzemeltetése révén értékteremtő módon járul hozzá a hajózási és vízi közlekedés, a baleset-megelőzési tevékenység során pedig a közlekedésbiztonság, a közlekedés kultúra növeléshez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0000801",
+      "régi_nyilvántartási_száma": "801/1989",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-01-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-26",
+      "alkalmazottak_száma": "59",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dobai",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-26",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1820",
+        "Leírás": "Egyéb sokszorosítás"
+      },
+      {
+        "Kód": "4321",
+        "Leírás": "Villanyszerelés"
+      },
+      {
+        "Kód": "4690",
+        "Leírás": "Vegyestermékkörű nagykereskedelem"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5821",
+        "Leírás": "Számítógépes játék kiadása"
+      },
+      {
+        "Kód": "5829",
+        "Leírás": "Egyéb szoftverkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5913",
+        "Leírás": "Film-, video- és televízióprogram terjesztése"
+      },
+      {
+        "Kód": "6110",
+        "Leírás": "Vezetékes távközlés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7112",
+        "Leírás": "Mérnöki tevékenység, műszaki tanácsadás"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7430",
+        "Leírás": "Fordítás, tolmácsolás"
+      },
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      },
+      {
+        "Kód": "8553",
+        "Leírás": "Járművezető-oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "2630",
+        "Leírás": "Híradás-technikai berendezés gyártása"
+      },
+      {
+        "Kód": "4399",
+        "Leírás": "Egyéb speciális szaképítés m.n.s."
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6190",
+        "Leírás": "Egyéb távközlés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "7420",
+        "Leírás": "Fényképészet"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "376 037 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "345 343 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "323 011 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "398 941 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "345 672 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "250 875 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 164 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 103 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "321 118 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "362 303 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "413 685 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "343 657 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokommunikációs Országos Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokomm. Orsz. ES."
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokommunikációs Országos Egyesület"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokomm.Orsz.Egy."
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokomm.Orsz.Egy."
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélíhívó és Infokommunikációs Országos Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokommunikációs Országos Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokomm.Orsz.Egy."
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokomm.Orsz.Egy."
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Rádiós Segélyhívó és Infokomm.Orsz.Egy."
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18879230",
+  "scraped_at": "2026-02-14T14:17:00.295881",
+  "organization_id": "66561",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kőbányai Bölcsődéket Támogató Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2143 Kistarcsa, Balczó István utca 94.",
+      "x_koordináta": "47.560023",
+      "y_koordináta": "19.255656",
+      "adószám": "18879230-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-28",
+      "statisztikai_számjel": "18879230-8569-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Bölcsődei ellátásban részesülő gyermekek támogatása, bölcsődei dolgozók támogatása, infrastrukturális fejlesztések és állagmegóvás. Az alapítvány célja az alapító okirat II. pontjában részletesen rögzítésre került.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003857",
+      "régi_nyilvántartási_száma": "3857/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-02-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-78435599",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fehérváriné Mészáros",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "483 150 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "116",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 097 222 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "989 537 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "891 560 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kőbányai Bölcsődéket Támogató Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

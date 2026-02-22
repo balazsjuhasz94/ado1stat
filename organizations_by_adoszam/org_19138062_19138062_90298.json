@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19138062",
+  "scraped_at": "2026-02-14T12:22:10.541742",
+  "organization_id": "90298",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csellengő Tappancsok Állatmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6760 Kistelek, Kossuth utca 88. B.",
+      "x_koordináta": "46.4800586",
+      "y_koordináta": "19.9709395",
+      "adószám": "19138062-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-21",
+      "statisztikai_számjel": "19138062-9699-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A felelőtlen állattartásból eredő, és az ennek következtében fellépő kutyák és macskák esetében tapasztalható túlszaporodás mértékének csökkentése, a gazdátlan állatok gazdásítása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001706",
+      "régi_nyilvántartási_száma": "1706/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-07-31",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-31",
+      "bankszámlaszám": "11735098-21446469-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Onozó",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "634",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 772 108 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "568",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 003 572 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "617",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 859 952 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "852",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 248 069 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csellengő Tappancsok Állatmentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

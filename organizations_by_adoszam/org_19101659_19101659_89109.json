@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "19101659",
+  "scraped_at": "2026-02-14T14:13:22.243812",
+  "organization_id": "89109",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dél-alföldi Biliárd Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6800 Hódmezővásárhely, Kisfaludy utca 52.",
+      "x_koordináta": "46.4126957",
+      "y_koordináta": "20.3281",
+      "adószám": "19101659-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-12",
+      "statisztikai_számjel": "19101659-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az aktív biliárd – kiemelten a magyarbiliárd – sportélet és a kapcsolódó szabadidős tevékenységek, programok szervezése és megrendezése. Az egyesület céljai továbbá: – országos bajnoki csapat, egyéni pontszerző és egyéb helyi, országos és nemzetközi (pl. eurokegel) bábus biliárd versenyeken történő részvétel, valamint azok szervezése, – a tagok, fentiekben felsorolt versenyeken történő részvételének ösztönzése és támogatása, – a kulturált biliárdjáték és a versenyzés tárgyi feltételeinek megteremtése, – biliárd oktatás és utánpótlás nevelés biztosítása, – a magyarbiliárd népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003373",
+      "régi_nyilvántartási_száma": "3373/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-29",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dajka",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Klein",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Zsolt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vígh",
+        "Képviselő keresztneve": "Szabolcs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "448 430 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "633 994 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "530 995 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "781 641 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DÉL-ALFÖLDI BILIÁRD EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

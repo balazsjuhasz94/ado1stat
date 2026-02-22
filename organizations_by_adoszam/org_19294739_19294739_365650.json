@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19294739",
+  "scraped_at": "2026-02-14T12:23:16.596364",
+  "organization_id": "365650",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gólyaváró Alapítvány a vágyott gyermekekért",
+      "rövid_név": "Gólyaváró Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1083 Budapest, Korányi Sándor utca 2. B. ép.",
+      "adószám": "19294739-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-29",
+      "statisztikai_számjel": "19294739-9499-569-01",
+      "x_koordináta": "47.4852062",
+      "y_koordináta": "19.081627"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Semmelweis Egyetem, Szülészeti és Nőgyógyászati Klinika Asszisztált Reprodukciós Centrumának (a továbbiakban: Centrum) támogatása, segítése, fejlesztése: - tudományos tevékenység és kutatás elősegítése; - szakemberek, munkatársak szakmai képesítésének előmozdítása; - meddőséggel, asszisztált reprodukcióval kapcsolatos ismeretterjesztő, tudományos rendezvények, konferenciák szervezése; - Centrum megjelenítésével, arculatával kapcsolatos kommunikáció tervezése, elősegítése; - Centrum egészségügyi gép- és műszerbeszerzéseinek támogatása, műszerezettségének fejlesztése; annak érdekében, hogy a gyógyító munka, valamint az egészségügyi ellátás színvonala jelentősen emelkedhessen.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013046",
+      "régi_nyilvántartási_száma": "13046/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sipos",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "403",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 142 864 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "528",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 460 923 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

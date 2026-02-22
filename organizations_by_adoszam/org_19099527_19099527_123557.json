@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19099527",
+  "scraped_at": "2026-02-21T13:06:11.815502",
+  "organization_id": "123557",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EGY MINDENKIÉRT Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2112 Veresegyház, Újiskola utca 15.",
+      "x_koordináta": "47.6568675",
+      "y_koordináta": "19.2822281",
+      "adószám": "19099527-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-16",
+      "statisztikai_számjel": "19099527-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Veresegyházi Egységes Gyógypedagógiai és Módszertani Intézmény tanulói iskolai tevékenységének támogatása, az intézmény feladat ellátásának anyagi támogatása. Részletesen: -Tanulmányi kirándulások és táborok támogatása -Tanulók továbbtanulásának segítése -A számítástechnikai oktatás fejlesztése -A tehetséggondozási tevékenység támogatása -A diáksport támogatása -A közösségi nevelés támogatása -Intézményi eszközbeszerzés -Közművelődési és kulturális programok támogatása, -Szakmai megújulást szolgáló programok támogatása, -Szakmai rendezvények, konferenciák támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003990",
+      "régi_nyilvántartási_száma": "3990/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Katonáné Hargitai",
+        "Képviselő keresztneve": "Angéla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 818 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "466 765 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "533 599 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "608 526 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "453 939 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egy Mindenkiért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Egy Mindenkiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

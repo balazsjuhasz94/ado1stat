@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19237831",
+  "scraped_at": "2026-02-14T14:36:26.984696",
+  "organization_id": "120531",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "8i Oktatási Alapítvány",
+      "rövid_név": "8i Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2800 Tatabánya, Stúdium tér 1.",
+      "x_koordináta": "47.572175",
+      "y_koordináta": "18.405954",
+      "adószám": "19237831-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-16",
+      "statisztikai_számjel": "19237831-8520-569-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány létrehozásának és működésének célja iskola létesítésével és fenntartásával a magyar oktatás- és nevelésügy megújulásához való közvetlen hozzájárulás, valamint további célja a pedagógiai innováció támogatása. Az alapítvány jellege és időtartama: Nyílt és határozatlan időtartamú a csatlakozás lehetőségének biztosításával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001114",
+      "régi_nyilvántartási_száma": "1114/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-24",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jónási",
+        "Képviselő keresztneve": "Krisztián",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 939 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

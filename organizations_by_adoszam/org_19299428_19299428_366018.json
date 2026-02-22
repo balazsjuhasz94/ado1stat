@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19299428",
+  "scraped_at": "2026-02-14T15:02:30.502586",
+  "organization_id": "366018",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tri Dogs Mentett Mancsok Állatvédő és Rehabilitációs Alapítvány",
+      "rövid_név": "Tri Dogs Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2060 Bicske, . hrsz.6454/6.",
+      "adószám": "19299428-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-30",
+      "statisztikai_számjel": "19299428-9499-569-07",
+      "x_koordináta": "47.5054401",
+      "y_koordináta": "18.6239527"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "forrásokat biztosít a mentett állatok körülményeinek javításához, gondozásához, etetéséhez, orvosi ellátásához · támogatást nyújt a mentett állatok, kutyák rehabilitációjához, fejlesztéséhez, szükség esetén ivartalanításához · tudatosítja az állatokkal való bánásmód fontosságát, · tudatosítja az erkölcsi értékek meg őrzésének fontosságát, · tudatosítja a kutyák szocializációjához fűződő társadalmi érdek fontosságát, · elősegíti a civilek és szakszolgálatok együttműködését az állatok érdekében, · támogatást nyújt az állatok kiképzéséhez, rehabilitációjához szükséges szakemberek szakmai továbbképzéséhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013089",
+      "régi_nyilvántartási_száma": "13089/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kálbori",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nyulasi-Makó",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Karina",
+        "Képviselő titulusa": "Katrin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "591 904 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

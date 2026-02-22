@@ -1,0 +1,120 @@
+{
+  "search_adoszam": "18399680",
+  "scraped_at": "2026-02-14T12:37:06.376307",
+  "organization_id": "80598",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Macskaárvaház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1034 Budapest, Selmeci utca 26. II/6.",
+      "x_koordináta": "47.536102",
+      "y_koordináta": "19.035856",
+      "adószám": "18399680-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-04-15",
+      "statisztikai_számjel": "18399680-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Általában a hazai állatmentés fenntartásának és megújításának elősegítése, a természet, az állatok védelme és a környezeti kultúra fejlesztése. Egyben az alapítvány támogat minden olyan kezdeményezést, tevékenységet és programot, mely a természet és az állatok védelmét, valamint a környezeti kultúra fejlesztését szolgálja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0011562",
+      "régi_nyilvántartási_száma": "11562/2011",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-10-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bóday",
+        "Képviselő keresztneve": "Pál",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "465",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 978 769 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "495",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 493 373 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "474",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 841 654 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "464",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 909 097 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "418",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 897 566 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "364",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 925 200 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "338",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 082 581 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "296",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 136 380 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Macskaárvaház Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MACSKAÁRVAHÁZ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Macskaárvaház Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Macskaárvaház Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Macskaárvaház Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

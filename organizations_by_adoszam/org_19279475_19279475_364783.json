@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19279475",
+  "scraped_at": "2026-02-21T13:02:29.832222",
+  "organization_id": "364783",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hétköznapok Angyalai Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9011 Győr, Jacobi Viktor utca 3.",
+      "adószám": "19279475-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-29",
+      "statisztikai_számjel": "19279475-9499-569-08",
+      "x_koordináta": "47.7011408",
+      "y_koordináta": "17.7581623"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja egyrészt az, hogy a hátrányos helyzetbe került fiatalokat a születésüktől a társadalomba való beilleszkedésükig támogassa annak érdekében, hogy tanulmányaikat, iskoláztatásukat, szállásukat támogassa, másrészt általában vallási, vagy bármi egyéb feltételre tekintet nélkül a hátrányos helyzetbe került rászorulókat támogassa szociális, családsegítő és érdekvédelmi tevékenységet támogassa, mindezen feladatok ellátása finanszírozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051450",
+      "régi_nyilvántartási_száma": "51450/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-08-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Markszné Koncz",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 400 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "463 080 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

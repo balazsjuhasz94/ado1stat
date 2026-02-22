@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19087124",
+  "scraped_at": "2026-02-14T14:31:38.828635",
+  "organization_id": "89696",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ányási Kanyar Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6723 Szeged, Retek utca 9. B. 2/7.",
+      "x_koordináta": "46.2667369",
+      "y_koordináta": "20.1642113",
+      "adószám": "19087124-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-27",
+      "statisztikai_számjel": "19087124-9329-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Tisza folyó 211 és 212 folyamkilométer közötti partszakaszán az Ányási Kanyarban a természet védelme, a civilizációs ártalmakról való megóvása, környezetszennyezés megakadályozása. Az ott kialakult nyaralóhely működésének segítése különös tekintettel a környezet védelmére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001697",
+      "régi_nyilvántartási_száma": "1697/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11735177-21453977",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bagány",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "615 608 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "577 395 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "116",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "753 835 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "694 509 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ányási Kanyar Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

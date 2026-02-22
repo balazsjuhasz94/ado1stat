@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18911668",
+  "scraped_at": "2026-02-14T14:51:09.266864",
+  "organization_id": "111939",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Talentum Tollaslabda Sportegyesület",
+      "rövid_név": "TTSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1048 Budapest, Falemez utca 3. fszt./1.",
+      "x_koordináta": "47.5796711",
+      "y_koordináta": "19.1119331",
+      "adószám": "18911668-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-01",
+      "statisztikai_számjel": "18911668-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Rendszeres testedzés és sportolás (tollaslabda) lehetőségének biztosítása. Társadalmi öntevékenység és közösségi élet kibontakoztatása, sportolási alkalom megteremtése. Tollaslabda versenyek szervezése és lebonyolítása. Általános testkultúra javítása. Sportkapcsolatok létesítése és javítása. Utánpótlás folyamatos kiválasztása és nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016626",
+      "régi_nyilvántartási_száma": "16626/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-13",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szűcs",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "398 834 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "426 857 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "394 755 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "518 950 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "623 365 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Talentum Tollaslabda Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Talentum Tollaslabda Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

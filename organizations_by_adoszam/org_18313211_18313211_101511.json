@@ -1,0 +1,144 @@
+{
+  "search_adoszam": "18313211",
+  "scraped_at": "2026-02-14T12:25:21.110311",
+  "organization_id": "101511",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Irgalmasrendi Kórház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1023 Budapest, Frankel Leó út 54.",
+      "x_koordináta": "47.5194435",
+      "y_koordináta": "19.0362758",
+      "adószám": "18313211-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1998-02-24",
+      "statisztikai_számjel": "18313211-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A kórház beteggyógyitásának és müködésének segitése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001122",
+      "régi_nyilvántartási_száma": "1122/1998",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-04-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "26",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kövér",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "1211",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 072 546 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "304",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 339 389 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "242",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 904 245 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "258",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 204 280 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "370",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 901 648 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "423",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 046 003 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "452",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 034 065 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Irgalmasrendi Kórház Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Irgalmasrendi Krhz Alaptvny",
+        "Év": "2018"
+      },
+      {
+        "Név": "Irgalmasrendi Kórház Alapítvány",
+        "Év": "2019"
+      }
+    ]
+  },
+  "error": null
+}

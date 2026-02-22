@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19152167",
+  "scraped_at": "2026-02-14T13:27:19.775075",
+  "organization_id": "101369",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rákosmenti Bölcsődékért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1173 Budapest, Kaszáló utca 50.",
+      "x_koordináta": "47.4808177",
+      "y_koordináta": "19.2534022",
+      "adószám": "19152167-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-18",
+      "statisztikai_számjel": "19152167-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Rákosmenti Egyesített Bölcsődék tagintézményeinek támogatása. Az intézmények dolgozóinak segítése lelki-testi egészségük megőrzésében, egészségfejlesztésben és rekreációjukban, valamint az intézményeket igénybe vevő rászoruló családok támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012767",
+      "régi_nyilvántartási_száma": "12767/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11717009-22470566",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pusztai",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "Aurélné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "589 719 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "774 019 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "130",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 101 577 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 170 815 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "RÁKOSMENTI BÖLCSŐDÉKÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

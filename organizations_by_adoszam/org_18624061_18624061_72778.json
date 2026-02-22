@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18624061",
+  "scraped_at": "2026-02-21T13:27:22.565333",
+  "organization_id": "72778",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "JÁTSZÓ-TÉR Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7625 Pécs, Tettye utca 19.",
+      "x_koordináta": "46.0823899",
+      "y_koordináta": "18.2335908",
+      "adószám": "18624061-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-12-15",
+      "statisztikai_számjel": "18624061-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Népszerűsítse a játék, társasjáték, közös alkotás, közös célok megvalósításának közösségépítő, fejlesztő, környezetformáló értékeit. Színvonalas és tartalmas együttlét biztosítása a játékot, társasjátékot kedvelő embereknek, összehozása új, illetve megerősítése régi közösségeknek. Tér, hely és játék biztosítása baráti körök, családok és már meglévő játékpartnerek számára. A játékon keresztül szakemberekkel együttműködve segítség nyújtása a fiatalok szocializációjában, szellemi és erkölcsi fejlődésében. Tudatosítása a játék, mint személyiségfejlesztő és közösségépítő tényező társadalmi és pedagógiai hasznosságának. Az egyén emberi kapcsolatain túl célja az egyén környezetéhez való viszonyának javítása is. A játékon keresztül, foglalkozások, kézműves foglalkozások, interaktív előadások keretein belül felhívni a figyelmet a gyerekek és a felnőttek körében az újrahasznosítás, a környezettudatosság, a környezetvédelem és a fenntarthatóság fontosságára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003463",
+      "régi_nyilvántartási_száma": "3463/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-08-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csizmadia",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "123 351 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "137 449 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "183 084 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "281 450 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 050 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "350 421 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "407 251 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Játszó-Tér Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Játszó-Tér Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jásztótér Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Játszó-Tér Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

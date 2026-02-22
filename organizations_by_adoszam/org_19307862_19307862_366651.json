@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19307862",
+  "scraped_at": "2026-02-21T13:04:16.267924",
+  "organization_id": "366651",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "JóSZágos Szív Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3903 Bekecs, Bem József utca 29",
+      "adószám": "19307862-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-09",
+      "statisztikai_számjel": "19307862-9499-569-05",
+      "x_koordináta": "48.1343628",
+      "y_koordináta": "21.1695279"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja: - a fiatal generáció sportra , állatszeretetre nevelése, a természet felfedezése, a tanyasi élet megismertetése; - a lovas sport segítségével Bekecs község és a kistérség életminőségének javítása, az idegenforgalom fellendítése; - lovas hagyományok megőrzése, megismerése; - hányatott sorsú állatok, főként lovak megmentése, befogadása, azok állapotának feljavítása, gyógyítása, szerető gazda keresése; - lovas és népi hagyományok felkutatása, a tradíciók megőrzése és megismertetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064664",
+      "régi_nyilvántartási_száma": "64664/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-12-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kopcsó",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "458 448 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

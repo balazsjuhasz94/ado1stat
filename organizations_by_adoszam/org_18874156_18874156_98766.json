@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18874156",
+  "scraped_at": "2026-02-21T13:29:13.251092",
+  "organization_id": "98766",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Harcos Útja Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1237 Budapest, Őrgébics utca 2. 2//8.",
+      "x_koordináta": "47.4161815",
+      "y_koordináta": "19.1331659",
+      "adószám": "18874156-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-04",
+      "statisztikai_számjel": "18874156-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Tagjai tevékenységének biztosítása, versenyek, tanfolyamok szervezése, továbbá, hogy közös érdekeik védelméről gondoskodjék,ezen belül a harcművészetek, és a kung-fu népszerűsítése. Önvédelmi és sportképzés iskolai foglalkozások keretében. Tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása, a társadalmi öntevékenység és közösségi élet kibontakoztatása. Sportkapcsolatok létesítése és fejlesztése, kiváló sportolók kinevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016398",
+      "régi_nyilvántartási_száma": "16398/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-10-20",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "Erzsébet",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "117 314 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 010 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 774 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 494 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 637 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "404 475 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Harcos Útja Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Harcos Útja Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Harcos Útja Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

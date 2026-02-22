@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "18734847",
+  "scraped_at": "2026-02-14T14:27:14.823847",
+  "organization_id": "51331",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Ágota gyermekekért, családokért, közösségért Alapítvány",
+      "rövid_név": "Szent Ágota Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2241 Sülysáp, Uri utca 54/a",
+      "x_koordináta": "47.443019",
+      "y_koordináta": "19.529218",
+      "adószám": "18734847-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-17",
+      "statisztikai_számjel": "18734847-8696-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A hátrányos helyzetben lévő személyek és csoportok társadalmi esélyegyenlőségének biztosítása. Az alapítvány méltányos és hatékony segítséget kíván nyújtani a gyermekek és fiatalok számára, valamint megélhetési gondokkal küzdő családok részére. Célja, hogy segítse a hátrányos helyzetűek életminőségének javítását, társadalmi integrációjukat, egyéni és közösségi kompetenciáik fejlesztését, minőségi információkkal történő ellátásukat, az iskola és a munka világába történő helytállásukat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003734",
+      "régi_nyilvántartási_száma": "3734/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-07-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Seprősné Cseri",
+        "Képviselő keresztneve": "Ágota",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "246 456 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "436 156 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "435 540 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "467 428 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "716 686 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Ágota gyermekekért, családokért közösségért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent Ágota gyermekért, családokért, közösségért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

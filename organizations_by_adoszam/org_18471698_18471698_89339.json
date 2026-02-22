@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "18471698",
+  "scraped_at": "2026-02-21T13:16:57.038687",
+  "organization_id": "89339",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alföldi Repülő és Vitorlásklub Sportegyesület",
+      "rövid_név": "Alföldi Repülő és Vitorlásklub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6763 Szatymaz, Reptéri bekötőút 1.",
+      "x_koordináta": "46.2598306",
+      "y_koordináta": "20.1412036",
+      "adószám": "18471698-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2003-09-22",
+      "statisztikai_számjel": "18471698-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja: Szabadidős és sportcélú repüléssel és vitorlázással foglalkozók egyesületbe tömörítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0001961",
+      "régi_nyilvántartási_száma": "1961/2003",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-02-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-10",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-19",
+      "bankszámlaszám": "10918001-00000015-39860002",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-09-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 878 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "289 807 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "281 178 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "428 799 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alföldi Repülő és Vitorlásklub Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

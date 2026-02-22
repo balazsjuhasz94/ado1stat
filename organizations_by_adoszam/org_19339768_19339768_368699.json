@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19339768",
+  "scraped_at": "2026-02-21T13:55:48.620983",
+  "organization_id": "368699",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ruzsai Keresztény Egyesület",
+      "rövid_név": "RKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6786 Ruzsa, Pipacs tér 7.",
+      "adószám": "19339768-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-13",
+      "statisztikai_számjel": "19339768-9491-529-06",
+      "x_koordináta": "46.2947599",
+      "y_koordináta": "19.7597577"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A civil szervezet célja: A keresztény értékek megőrzése, továbbadás a környezetünkben élő embereknek, fiatalabb generációnak. A Ruzsai Pünkösdi Gyülekezet erkölcsi, anyagi és gyakorlati támogatása céljai és elhívása megvalósításában. Cél, hogy a ke resztény értékek felmutatásával minél több embert elérhessünk, bemutathassuk nekik az egyetlen igaz utat, Jézus Krisztust.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003581",
+      "régi_nyilvántartási_száma": "3581/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11735115-23589038-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Péter",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9491",
+        "Leírás": "Egyházi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "357 883 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

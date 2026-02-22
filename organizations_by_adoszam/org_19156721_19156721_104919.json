@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19156721",
+  "scraped_at": "2026-02-21T14:15:25.838069",
+  "organization_id": "104919",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SENSHI SZAMURÁJ Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1214 Budapest, Erdősor utca 14. 4/12.",
+      "x_koordináta": "47.4153889",
+      "y_koordináta": "19.0635289",
+      "adószám": "19156721-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-06-19",
+      "statisztikai_számjel": "19156721-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Utánpótlás sportolók nevelése, válogatott sportolók nevelése, lakosság egészségre nevelése, nemzetközi kapcsolatok építése és ápolása, kyokushin karate tradícióinak, értékeinek elmélyítése, megőrzése, a karate és a karatékák fejlesztése, különböző megmérettetésekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017208",
+      "régi_nyilvántartási_száma": "17208/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-06-03",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Keller",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 588 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "212 721 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 426 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 111 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SENSHI SZAMURÁJ SE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19238234",
+  "scraped_at": "2026-02-21T14:30:20.454595",
+  "organization_id": "120941",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csanyteleki Őszikék Nyugdíjas Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6647 Csanytelek, Széchenyi utca 7. B.",
+      "x_koordináta": "46.6044232",
+      "y_koordináta": "20.1079395",
+      "adószám": "19238234-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-19",
+      "statisztikai_számjel": "19238234-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Csanytelek településen élő nyugdíjasok közösségi életének szervezésére, civil kapcsolataik építésére, érdekeik képviseletére és védelmére alakul.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003444",
+      "régi_nyilvántartási_száma": "3444/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Györgyiné Mészáros",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "185 623 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "306 394 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19330422",
+  "scraped_at": "2026-02-14T12:40:18.714335",
+  "organization_id": "122157",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nemzeti Tizenkettő Egyesület",
+      "rövid_név": "Nemzeti 12",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Ungvári utca 44.",
+      "x_koordináta": "48.066239",
+      "y_koordináta": "20.6365891",
+      "adószám": "19330422-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-11-13",
+      "statisztikai_számjel": "19330422-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A magyar labdarúgó válogatott, a Nemzeti 11 mérkőzésein résztvevő szurkolók közösségi élményeinek növelése, közös meccslátogatások, utazások, tematikus programok, amatőr és tömegsportszerű sportrendezvények szervezésével. Népszerűsíti hazánkban a labdarúgó sportot, a szurkolói életet; a nemzeti értékek, hagyományok tisztelete mentén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0064191",
+      "régi_nyilvántartási_száma": "64191/2006",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tüske",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-08-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "261",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 847 879 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

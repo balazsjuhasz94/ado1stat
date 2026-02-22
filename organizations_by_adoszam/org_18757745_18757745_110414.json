@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "18757745",
+  "scraped_at": "2026-02-21T14:35:57.547853",
+  "organization_id": "110414",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FEHÉR DOLOMIT Vadásztársaság",
+      "rövid_név": "FEDvt.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8082 Gánt, József Attila utca 32.",
+      "x_koordináta": "47.38687",
+      "y_koordináta": "18.3830727",
+      "adószám": "18757745-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-06",
+      "statisztikai_számjel": "18757745-9319-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A vadásztársaság célja, hogy az egyesületekre és a vadásztársaságokra, a vadgazdálkodásra, a vadászatra, a fegyver- és lőszertartásra, -használatra vonatkozó szabályzatok megtartásával, az erdő- és mezőgazdaság érdekeivel összhangban, a környezet és természetvédelem előírásai tiszteletben tartásával, a szakszerű és tervszerű vadgazdálkodással óvja a vadon élő állatokat, azok élőhelyét, jól működő egyesületi élettel tagjai részére kulturált vadászati lehetőséget biztosítson.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003031",
+      "régi_nyilvántartási_száma": "3031/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-05",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schüller",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "0111",
+        "Leírás": "Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése"
+      },
+      {
+        "Kód": "0170",
+        "Leírás": "Vadgazdálkodás, vadgazdálkodási szolgáltatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 292 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "299 152 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

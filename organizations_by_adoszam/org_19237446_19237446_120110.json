@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "19237446",
+  "scraped_at": "2026-02-14T12:59:37.010763",
+  "organization_id": "120110",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MátraHegyi Sportlövő Sportegyesület",
+      "rövid_név": "MátraHegyi Sportlövő S.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3000 Hatvan, Huszár út 17.",
+      "x_koordináta": "47.6589612",
+      "y_koordináta": "19.669373",
+      "adószám": "19237446-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-09",
+      "statisztikai_számjel": "19237446-9319-521-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A fiatal és felnőtt sportlövők sportlövészeti tevékenysége kereteinek megteremtése, tárgyi feltételek és helyszínek biztosítása, az utánpótlás toborzása és nevelése, a sportlövészet mint sportág népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002940",
+      "régi_nyilvántartási_száma": "2940/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-05-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-30",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegyi",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 734 920 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

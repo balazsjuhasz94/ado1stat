@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "19087564",
+  "scraped_at": "2026-02-14T12:22:12.662732",
+  "organization_id": "95455",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Galó Tamás Dominik Gyógyulásáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1102 Budapest, Ónodi utca 11. 7.em./28.",
+      "x_koordináta": "47.4892125",
+      "y_koordináta": "19.1340552",
+      "adószám": "19087564-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-10-04",
+      "statisztikai_számjel": "19087564-8412-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az SMA1-es típusú betegséggel született, s ennek következtében recesszíven öröklődő genetikai kórban szenvedő, Galó Tamás Dominik gyógykezelését , gyógyulását, állapotának javulását elősegítse.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012681",
+      "régi_nyilvántartási_száma": "12681/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-12-22",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kecskés",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "238",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 518 585 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "5179",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "37 277 889 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "6163",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "50 585 983 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1549",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 678 114 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "744",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 241 750 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Galó Tamás Dominik Gyógyulásáért Alapitvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Galó Tamás Dominik Gyógyulásáért Alapitvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

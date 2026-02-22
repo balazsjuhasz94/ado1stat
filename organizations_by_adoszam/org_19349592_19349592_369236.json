@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19349592",
+  "scraped_at": "2026-02-14T15:04:16.864783",
+  "organization_id": "369236",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Váchartyáni Iskolás Gyerekeinkért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2164 Váchartyán, Halászi Károly utca 2.",
+      "adószám": "19349592-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-11",
+      "statisztikai_számjel": "19349592-8412-569-13",
+      "x_koordináta": "47.7222665",
+      "y_koordináta": "19.2683549"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Apáczai Csere János Általános Iskola mindenkori tanulóinak korszerű oktatásához és egészséges környezetben történő neveléséhez szükséges személyi és tárgyi feltételek biztosítása: - tanulással összefüggő szociális jóléti célú támogatás - az anyagilag rászoruló – de magatartásuk és tanulmányi munkájuk alapján arra érdemes – tanulók számára táborozási vagy üdültetési lehetőség vagy tanulást segítő eszközök biztosítása - egészséges életmódra nevelés, valamint zöldebb környezet biztosítása - egészség megtartásához szükséges eszközök beszerzése - természetvédelmi kultúra fejlesztése - a tudományos eredmények nevelésben, oktatásban való alkalmazásának elősegítése - tanulmányi ösztöndíj alapítása - az egyéni képességfejlesztés hatékonyabbá tétele, tehetséggondozás - szakmai konferencia támogatása és szak mai felszereltség javítása - idegennyelv választhatóságának minél teljesebb támogatása, feltételeinek biztosítása - tanulmányi kirándulások és szakmai, kulturális programon, rendezvények támogatása - az oktatás tárgyi feltételeinek támogatása, valamint számítástechnikai eszközök beszerzése, karbantartása - iskolaudvar fejlesztése, karbantartása - iskolaépület korszerűsítése, karbantartása - az iskolaújság szerkesztésének, elektronikus kiadvány létrehozásának segítése - az iskola hazai és külföldi kapcsolatainak támogatása - iskolai rendezvények, sportesemények, szabadidős tevékenységek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004328",
+      "régi_nyilvántartási_száma": "4328/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gruchman-Kanizsai",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "588 610 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

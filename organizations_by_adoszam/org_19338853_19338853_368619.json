@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19338853",
+  "scraped_at": "2026-02-14T13:15:35.869971",
+  "organization_id": "368619",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mentők Egyesülete Dabas",
+      "rövid_név": "MEDA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2370 Dabas, Bartók köz 2519/2/B",
+      "adószám": "19338853-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-30",
+      "statisztikai_számjel": "19338853-8412-529-13",
+      "x_koordináta": "47.1761814",
+      "y_koordináta": "19.2615883"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "1. A Dabas térségben történő mentőellátás színvonalának emelése, ezzel párhuzamban magasabb szintű ellátás biztosítása. 2. A sürgősségi beteg és mentőellátás korszerűsítése, fejlesztése, segítése. 3. Emelt szintű sürgősségi ellátáshoz és az emberi élet mentésének szakszerűbb ellátásához szükséges feltételek, eszközök beszerzése, megteremtése. 4. Szakmai továbbképzések szervezése, szakmai fejlődést segítő anyagok, eszközök beszerzése. 5. A térség lakosságának elsősegély nyújtáshoz való hozzáállásának és ismeretének bővítése, tudatosítása, fejlesztése. 6. Az elsősegély nyújtás területén a közintézmények és iskolák támogatása, az ott dolgozók, és tanulók oktatása, képzése. 7. A dabasi mentőállomás fejlesztése, és a dolgozó bajtársak munkakörülményeinek javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008214",
+      "régi_nyilvántartási_száma": "8214/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kollár",
+        "Képviselő keresztneve": "Szilárd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Helik",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szafián",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "152",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 357 759 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

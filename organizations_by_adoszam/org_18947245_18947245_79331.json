@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18947245",
+  "scraped_at": "2026-02-14T12:57:54.827985",
+  "organization_id": "79331",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Catlantis Macskamentő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5600 Békéscsaba, Gábor Áron utca 3. 4./12.",
+      "x_koordináta": "46.6621289",
+      "y_koordináta": "21.1423754",
+      "adószám": "18947245-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-21",
+      "statisztikai_számjel": "18947245-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem. Az egyesület célja a kóbor, kidobott, beteg és/vagy sérült macskák mentése, befogadása, felnevelése, gondozása, szocializációja és rehabilitációja, valamint megfelelő gazdához juttatása, a felnőttek és gyermekek helyes állattartásra nevelése, tanácsadás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003430",
+      "régi_nyilvántartási_száma": "3430/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-07-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Duna",
+        "Képviselő keresztneve": "Anikó Edit",
+        "Képviselő titulusa": "születési neve: Raffay Anikó Edit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jankai",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Raffi",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "231",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 521 919 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "235",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 722 905 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "210",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 733 398 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "225",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 805 567 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Catlantis Macskamentő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18876770",
+  "scraped_at": "2026-02-14T13:02:53.254391",
+  "organization_id": "110888",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Érdi Tanoda Otthon Egyesület",
+      "rövid_név": "ÉRTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Felső utca 123.",
+      "x_koordináta": "47.367221",
+      "y_koordináta": "18.925832",
+      "adószám": "18876770-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-09",
+      "statisztikai_számjel": "18876770-8559-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A társadalmi és oktatási integráció és esélyegyenlőség elősegítése szociálisan hátrányos helyzetű gyermekek és fiatalok körében tanoda keretei között, az érdi járás területén, felekezeti és politikai meggyőződéstől függetlenül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007197",
+      "régi_nyilvántartási_száma": "7197/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-09-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-31",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hankovszky",
+        "Képviselő keresztneve": "Béla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "517 167 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "561 720 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 087 815 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 073 717 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 647 167 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Érdi Tanoda Otthon Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Érdi Tanoda Otthon Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

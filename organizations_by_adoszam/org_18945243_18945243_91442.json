@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18945243",
+  "scraped_at": "2026-02-21T13:56:54.104506",
+  "organization_id": "91442",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "”Adomány” Alapítvány az Egyedülálló Anyák és a Szociálisan Rászorulók Támogatására",
+      "rövid_név": "”Adomány” Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1188 Budapest, Arany János utca 20.",
+      "x_koordináta": "47.506874",
+      "y_koordináta": "19.154952",
+      "adószám": "18945243-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-04",
+      "statisztikai_számjel": "18945243-8899-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja, hogy olyan szociális munkavégzéshez biztosítson keretet, amelyek támogatására az alapítvány létesül. A rendelkezésére álló anyagi források elosztásával gondoskodjon a szociálisan rászorult: egyedülálló anyák támogatásáról; gyermekek napközi ellátásának támogatásáról; idősek, fogyatékosok szociális ellátásáról; jogi tanácsadással, egyéb jogi segítő segítségnyújtással támogatásáról; mentális és szenvedélybetegek bentlakásos ellátásáról, bentlakásos nem kórházi ápolásáról; idősek, fogyatékosok bentlakásos ellátásáról, otthoni szakápolásról. A felsorolt szociálisan rászorultak felsorolt szociális segítését meghaladóan az alapítvány célja, hogy a szociális ellátás, támogatás, segítségnyújtás keretében: gyógyászati segédeszközöket kölcsönözzön, adományboltot működtessen, könyvkiadással nyújtson információt, adjon közérdekű tájékoztatást, alakítsa a közvéleményt. Az alapítvány célja, hogy a felsorolt célok megvalósítása érdekében keretet biztosítson mindazoknak, akik az alapítvány által megfogalmazott célokat magukénak vallják, és ahhoz anyagi támogatást kívánnak és tudnak nyújtani. Az alapítvány célja tehát hogy az elsődleges célok megvalósításához intézményesen gondoskodjon adományok gyűjtéséről.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012538",
+      "régi_nyilvántartási_száma": "12538/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Orosz",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "416 176 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "146 426 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 249 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 475 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "356 021 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Adomány Alapítvány az Egyedülálló Anyák és a Szociálisan Rászorulók Támogatására"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Adomány Alapítvány az Egyedülálló Anyák és a Szociálisan Rászorulók Támogatására"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

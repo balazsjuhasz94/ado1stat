@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19550417",
+  "scraped_at": "2026-02-14T14:19:53.535244",
+  "organization_id": "104307",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kiskunhalasi Utánpótlásnevelő és Kézilabda Sport Club",
+      "rövid_név": "Kiskunhalasi UKSC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6400 Kiskunhalas, Szász Károly utca 21.",
+      "x_koordináta": "46.427881",
+      "y_koordináta": "19.47374",
+      "adószám": "19550417-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-09-14",
+      "statisztikai_számjel": "19550417-9319-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A Kiskunhalason nagy hagyományokkal rendelkező sportág, a kézilabda további népszerűsítése, felnőtt korú játékosok részére nemzeti bajnokságban történő játéklehetőség biztosítása, utánpótláskorú csapatainknak (ifjúsági, serdülő, gyermek) biztosítani azokat a feltételeket, hogy a különböző korosztályos nemzeti bajnokságokban, hazai és nemzetközi kézilabda tornákon minél jobb eredményeket érjenek el. Fontos cél olyan játékosok nevelése és felkészítése, akik az NB I-ben, esetlegesen különböző korosztályos válogatottakban és öregbítik az egyesület, a város és a megye sporthírnevét. Alapvető célnak tekintjük a sportot szerető közösség igényeinek kielégítését, szórakoztatását. A sport sajátos eszközeivel elő kívánjuk segíteni a fiatalok egészséges életszemléletének és életmódjának kialakulását, a sportszerű magatartás elterjedését. Az utánpótlás nevelés rendszerében fontosnak tartjuk a tervszerű együttműködést bázisiskolákkal és kézilabda tagozatos diáksport egyesületekkel. Fontosnak tartjuk az együttműködést és a tagsági viszony fenntartását a Magyar Kézilabda Szövetséggel, valamint a megyei szakszövetséggel. Iskoláikat befejező, valamint továbbtanuló sportolóink számára ?lehetőségeinkhez mérten ? segítséget kívánunk nyújtani az elhelyezkedésben, ill. a továbbtanulásban. Az egyesület alapvető célja a sportolók felkészítéshez, és versenyeztetéséhez szükséges tárgyi, személyi és anyagi feltételek biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0002825",
+      "régi_nyilvántartási_száma": "2825/2007",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-09-06",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Demeter",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "484 102 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "680 548 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "603 086 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "104",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "658 304 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kiskunhalasi UKSC"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

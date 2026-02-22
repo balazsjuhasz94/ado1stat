@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19248226",
+  "scraped_at": "2026-02-21T13:50:54.389639",
+  "organization_id": "123933",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Spirit Tánc Sport Egyesület",
+      "rövid_név": "Spirit TSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6724 Szeged, Kossuth Lajos sugárút 72. E.",
+      "x_koordináta": "46.2458377",
+      "y_koordináta": "20.160273",
+      "adószám": "19248226-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-08",
+      "statisztikai_számjel": "19248226-8520-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Egyesület által működtetett szakosztály(ok)ban rendszeres sportolás, szabadidő kulturált eltöltésének biztosítása. Az Egyesület tagjainak a rendszeres testedzésre, a társadalmi öntevékenység, a közösségi élet kibontakozására való nevelés, a társas- és versenytánc népszerűsítése. Az egyesület fenntartásában lévő intézmény működtetése és abban a minőségi alapfokú művészeti oktatás pedagógiájának biztosítása. Az alapfokú művészeti oktatás pedagógia ismertté és elismertté tétele Tehetséggondozás megvalósítása. Hazánk nemzeti kulturális örökségének megőrzése és a népi kultúra ápolása. Közösségi kulturális hagyományok, értékek ápolásának/művelődésre szerveződő közösségek tevékenységének/a lakosság életmódja javítását szolgáló kulturális célok megvalósításának támogatása; művészeti intézmények/lakossági művészeti kezdeményezések, önszerveződések támogatása, a művészi alkotómunka feltételeinek javítása, a művészeti értékek létrehozásának, megőrzésének segítése. A természetvédelmi kultúra fejlesztése, a természet védelmével kapcsolatos ismeretek oktatása. A gyermekvédelmi rendszerhez kapcsolódó feladatok ellátása - a gyermek családban történő nevelkedésének elősegítése, a gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében. Az Egyesület céljainak megfelelő intézményeket, szervezeteket alapít, és azok létrejötte után segíti működésüket, fejlődésüket; Táncbemutatók, társas és versenytánc versenyek, fesztiválok, gálák, és egyéb kulturális sport és közösségi rendezvények szervezése, lebonyolítása és azokon való részvétel a társastánc és a versenytánc népszerűsítése, utánpótlás nevelése és közösségépítő szerepének erősítése érdekében. Ismeretterjesztő és szakmai előadásokat, előadássorozatokat és egyéb rendezvényeket szervez és tart. Kapcsolatot tart és együttműködik a magyarországi és külföldi hasonló célú intézményekkel és csoportokkal.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003450",
+      "régi_nyilvántartási_száma": "3450/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-10-07",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-20",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-05",
+      "bankszámlaszám": "10402173-50526970-74841002",
+      "számlavezető_pénzintézet_neve": "K &amp;H Bank Zrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zsom",
+        "Képviselő keresztneve": "Olivér",
+        "Képviselő titulusa": "Tibor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "220 632 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "218 453 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "366 091 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

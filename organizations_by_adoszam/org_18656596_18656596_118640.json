@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18656596",
+  "scraped_at": "2026-02-14T14:05:32.660853",
+  "organization_id": "118640",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Városföldi Iskoláért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6033 Városföld, Fő utca 31",
+      "x_koordináta": "46.8166321",
+      "y_koordináta": "19.7582921",
+      "adószám": "18656596-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-05",
+      "statisztikai_számjel": "18656596-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Kecskeméti Belvárosi Zrínyi Ilona Általános Iskola Városföldi Általános Iskolája sajátos pedagógiai arculatának, pedagógiai kultúrájának fejlesztése, a tehetséggondozás lehetőségeinek bővítése, a kiváló tanulók és élsportolók jutalmazása, indokolt esetben támogatása, illetve az iskolai felszereltség bővítése és az iskolai programok anyagi támogatása; a sajátos nevelési igényű tanulók (mozgásszervi fogyatékos, beszédfogyatékos, halmozottan fogyatékos, autizmus spektrumzavar, egyéb pszichés fejlődési zavarral küzdő értelmi fogyatékos - enyhe értelmi fogyatékos, érzékszervi fogyatékos – hallás fogyatékos, érzékszervi fogyatékos – látás fogyatékos) integrált nevelése és oktatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002527",
+      "régi_nyilvántartási_száma": "2527/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sütőné Pelyva",
+        "Képviselő keresztneve": "Dalma Sarolta",
+        "Képviselő titulusa": "kuratóriumi elnök",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 689 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "38 664 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "258 551 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "395 852 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "110",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "696 951 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "104",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "800 816 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "825 880 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Városföldi Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "VÁROSFÖLDI ISKOLÁÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "VÁROSFÖLDI ISKOLÁÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "VÁROSFÖLDI ISKOLÁÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

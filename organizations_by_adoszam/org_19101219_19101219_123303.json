@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19101219",
+  "scraped_at": "2026-02-14T12:41:00.469444",
+  "organization_id": "123303",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Segíts a Macskákon Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6100 Kiskunfélegyháza, Dessewffy utca 8.",
+      "x_koordináta": "46.716676",
+      "y_koordináta": "19.83841",
+      "adószám": "19101219-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-23",
+      "statisztikai_számjel": "19101219-9699-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Kizárólag Kiskunfélegyháza városában kóborló, gazdátlan, mentésre szoruló macskák ideiglenes elhelyezése és gondozása, gazdák keresése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002597",
+      "régi_nyilvántartási_száma": "2597/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-10-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rékasi",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "359",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 762 028 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "352",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 928 091 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "422",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 518 891 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "343",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 445 130 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "342",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 792 256 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Segíts a Macskákon Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Segíts a Macskákon Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

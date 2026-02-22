@@ -1,0 +1,132 @@
+{
+  "search_adoszam": "18078563",
+  "scraped_at": "2026-02-21T12:52:31.050599",
+  "organization_id": "43761",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pogány Frigyes Szakközépiskoláért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1183 Budapest, Thököly út 11.",
+      "x_koordináta": "47.4477589",
+      "y_koordináta": "19.1842992",
+      "adószám": "18078563-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1993-08-19",
+      "statisztikai_számjel": "18078563-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "A budapesti /XVIII.ker./ Pogány Frigyes Szakközépiskola oktató- nevelő stb. tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0004161",
+      "régi_nyilvántartási_száma": "4161/1993",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2002-05-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sütő",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "82 171 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "62 364 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "184 776 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "97 473 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "90 133 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "59 516 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "207 458 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "462 423 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "POGÁNY FRIGYES SZAKKÖZÉPISK. ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "POGÁNY FRIGYES SZAKKÖZÉPISK. ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pogány Frigyes Szakközépiskola Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Pogány Frigyes Szakközépiskoláért Alapítvány",
+        "Év": "2019"
+      },
+      {
+        "Név": "Pogány Frigyes Szakközépiskoláért Alapítvány",
+        "Év": "2020"
+      },
+      {
+        "Név": "Pogány Frigyes Szakközépiskoláért Alapítvány",
+        "Év": "2021"
+      },
+      {
+        "Név": "Pogány Frigyes Szakközépiskoláért Alapítvány",
+        "Év": "2026"
+      }
+    ]
+  },
+  "error": null
+}

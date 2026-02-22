@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "18941548",
+  "scraped_at": "2026-02-14T12:26:42.206775",
+  "organization_id": "80972",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Plüss Kommandó - Alapítvány az Alapítványokért Közhasznú Alapítvány",
+      "rövid_név": "A.A.A.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1137 Budapest, Pozsonyi út 33/ A. Ü-1.ajtó",
+      "x_koordináta": "47.5168777",
+      "y_koordináta": "19.0507056",
+      "adószám": "18941548-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-06",
+      "statisztikai_számjel": "18941548-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "Az Alapítvány célja - alapítványok, egyéb civil szervezetek, tehetséges emberek díjazása különböző rendezvényeken, - az alapítványok megismertetése a nyilvánossággal, - a gyermekek, fiatalok támogatására létrejött alapítványok kiemelt támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012500",
+      "régi_nyilvántartási_száma": "12500/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-03-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-22",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11713036-21451047",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nyilka",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "122 248 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "238",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 180 870 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1001",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 422 428 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "673",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 301 758 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "768",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 218 739 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "646",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 305 072 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alalpítvány az Alapítványokért"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alalpítvány az Alapítványokért"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alalpítvány az Alapítványokért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

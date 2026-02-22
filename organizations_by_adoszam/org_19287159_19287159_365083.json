@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19287159",
+  "scraped_at": "2026-02-21T12:28:02.976332",
+  "organization_id": "365083",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csemete Óvoda Óvodásaiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1185 Budapest, Fráter Lóránd utca 18.",
+      "adószám": "19287159-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-17",
+      "statisztikai_számjel": "19287159-8891-569-01",
+      "x_koordináta": "47.4385288",
+      "y_koordináta": "19.2307649"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja, hogy támogassa és segítse a Pestszentlőrinci Csemete Óvodába (1182 Budapest, Üllői út 679 681.) járó óvodások nevelését, gondozását, képességfejlesztését és javítsa az óvodai nevelés feltételeit, egyben emelje a nevelő munka színvonalát. Az alapítvány különös súlyt helyez a Pestszentlőrinci Csemete Óvodába járó kisgyermekek színvonalas foglalkozási lehetőségeinek bővítésére is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013004",
+      "régi_nyilvántartási_száma": "13004/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Barbara",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "561 008 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

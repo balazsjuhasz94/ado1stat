@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18645840",
+  "scraped_at": "2026-02-21T13:42:54.454977",
+  "organization_id": "50864",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"MAGYAR BÉLBETEGEKÉRT\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3525 Miskolc, Pallos utca 10. 1/3",
+      "x_koordináta": "48.1092009",
+      "y_koordináta": "20.7797674",
+      "adószám": "18645840-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-04-28",
+      "statisztikai_számjel": "18645840-8622-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány működésének célja, hogy segítse és támogassa a Colon Szekció célkitűzéseinek megvalósítását. Egészségmegelőzés, betegség megelőzés, gyógyító, egészségügyi és rehabilitációs tevékenység segítése. A vastagbél betegségek korai felismerésének elősegítése, a vastagbél betegségek komplex kivizsgálásának és kezelésének elősegítése, a betekek rehabilitálásának segítése, támogatások elnyeréséhez szükséges pályázatokkal és egyéb úton pénzeszközök szerzése, és támogatási pályázatok meghirdetése, elbírálása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064371",
+      "régi_nyilvántartási_száma": "64371/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-03-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8622",
+        "Leírás": "Szakorvosi járóbeteg-ellátás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "136 811 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 459 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "334 312 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 023 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 848 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Magyar Bélbetegekért\" Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Magyar Bélbetegekért\" Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19235956",
+  "scraped_at": "2026-02-21T14:29:51.542106",
+  "organization_id": "118877",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "REMIGIUS Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2310 Szigetszentmiklós, Tüske köz 2/A",
+      "x_koordináta": "47.6400176",
+      "y_koordináta": "19.1557192",
+      "adószám": "19235956-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-18",
+      "statisztikai_számjel": "19235956-8569-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Minden olyan gyermek általános és középiskolai és tanórán kívüli oktatása, aki érdeklődik valamely reál tantárgy, illetve tudomány iránt. A kiemelkedő tehetségű gyermekek általános és középiskolai oktatása, valamint a kiemelkedő képességekkel és/vagy tudással rendelkező SNI-s, magasan funkcionáló autizmussal élő gyermekek integrációja, képességeik kibontakoztatása egy olyan oktatási intézményben, ahol cél a személyre szabott, elsősorban természettudományos, logikai játékokon keresztüli és informatikai továbbképzés, mely a hagyományos iskolarendszer keretein kívül megvalósulhat. Célunk, hogy olyan gyermekeknek is biztosítson minőségi oktatást, akik az állami rendszerbe nem illeszthetők be, vagy számukra nem elengedőek az ott tanultak. A mindezekkel együtt felmerülő magatartási problémák kezelése. Nemzetközi tehetséggondozás és magatartásproblémák kezelése nyári tábor formájában. Nyári tehetséggondozó táborok szervezése és más szervezetekkel való együttműködés a tehetséggondozás terén. Magyarországon élő, külföldi diákok oktatása, multikulturális tanulási környezet kialakítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004094",
+      "régi_nyilvántartási_száma": "4094/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bajzát-Hajek",
+        "Képviselő keresztneve": "Nikolett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "451 094 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "329 672 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 251 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

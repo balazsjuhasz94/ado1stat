@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "18511426",
+  "scraped_at": "2026-02-21T12:47:36.445112",
+  "organization_id": "40201",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ANAHITA Tudatos Lélek Egyesület",
+      "rövid_név": "ANAHITA Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2040 Budaörs, Szabadság út 333.",
+      "x_koordináta": "47.5116671",
+      "y_koordináta": "19.0543723",
+      "adószám": "18511426-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-09-23",
+      "statisztikai_számjel": "18511426-9319-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Olyan szellemi műhely létrehozása, amely támogatja és szervezi az egészségtudatos életmód kialakításához és fenntartásához kapcsolódó tevékenységeket.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015142",
+      "régi_nyilvántartási_száma": "15142/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szilasi",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "499 671 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

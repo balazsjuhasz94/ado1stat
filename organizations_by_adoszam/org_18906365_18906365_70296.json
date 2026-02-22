@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18906365",
+  "scraped_at": "2026-02-21T13:10:15.432434",
+  "organization_id": "70296",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "NÁGOCS Sportegyesület",
+      "rövid_név": "NÁGOCS SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8674 Nágocs, Hősök tere 10.",
+      "x_koordináta": "46.6633863",
+      "y_koordináta": "17.9583505",
+      "adószám": "18906365-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-20",
+      "statisztikai_számjel": "18906365-9312-521-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület elsődleges célja a labdarúgó sport szervezése nem hivatásos sporttevékenység keretében. Az egyesület célja labdarúgó csapat létrehozása és működtetése, a labdarúgók felkészítése edzések és mérkőzések szervezésével, a sportolók fizikai erőnlétének és technikai tudásának fejlesztése. A labdarúgó csapat versenyeken való részvételének szervezése és biztosítása, mindezek anyagi feltételeinek megteremtése, a sportolók sporthoz szükséges eszközeinek biztosítása. Az egyesület célul tűzi ki, hogy az általa működtetett labdarúgó csapat bekapcsolódjon a magyar labdarúgó-sport életébe, részt vegyen versenyeken és ezáltal is támogassa a magyar labdarúgó sport hírnevét. Az egyesület célul tűzi ki, hogy utánpótlást neveljen, a gyermekek számára biztosítsa a sportolás lehetőségét. Az egyesület tevékenysége körében kapcsolatokat épít a környező települések és megyék hasonló tevékenységet végző szervezeteivel, valamint az országos sportági szakszövetséggel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-02-0004399",
+      "régi_nyilvántartási_száma": "4399/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-05-26",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fonyódi",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gantner",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Spántler",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bőhm",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "408 609 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

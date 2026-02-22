@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19278340",
+  "scraped_at": "2026-02-21T13:32:24.802760",
+  "organization_id": "301471",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Szigligeti gyermekekért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8300 Tapolca, Lesence utca 3. III./4.",
+      "adószám": "19278340-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-15",
+      "statisztikai_számjel": "19278340-9499-569-19",
+      "x_koordináta": "46.8908069",
+      "y_koordináta": "17.4381375"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Szigligeti Általános Iskolában tanuló gyermekek és az intézményben folyó nevelő-oktató tevékenység támogatása, intézmény tárgyi feltételeinek javítása. A cél elérése érdekében az alapítvány az alábbiakat kívánja megvalósítani: bármely tanulmányi területen tehetséges és kiemelkedő eredményt elérő tanulók támogatása; az intézményben folyó nevelő-oktató tevékenység feltételeinek és az intézmény felszereltségének javítása; egyéb kulturális és szabadidős tevékenységek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001854",
+      "régi_nyilvántartási_száma": "1854/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-06",
+      "bankszámlaszám": "10400724-50526971-67781015",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabóné Marton",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 018 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 340 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "407 356 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

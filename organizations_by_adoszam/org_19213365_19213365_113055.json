@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19213365",
+  "scraped_at": "2026-02-14T12:34:35.695408",
+  "organization_id": "113055",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Teli tál - teli pocak Állatjóléti Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5000 Szolnok, Hild Viktor utca 5. 3//25.",
+      "x_koordináta": "47.195232",
+      "y_koordináta": "20.178643",
+      "adószám": "19213365-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-05",
+      "statisztikai_számjel": "19213365-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület célul tűzi ki a kutyákat és macskákat segítő, perifériára szorult egyesületek, alapítványok, civil személyek munkájának időszakos támogatását. Az egyesület szerepet kíván vállalni kutyákat és macskákat érintő állatjóléti szempontú prevenciós tevékenységekben. Ilyen prevenciós témakörbe tartozik többek között a felelős állattartás megismertetése és elmélyítése minél szélesebb társadalmi rétegben, vagy a vakcinázás és ivartalanítás fontosságának elmélyítése, melyre az egyesület is nagy hangsúlyt kíván fektetni. Az egyesület egyértelmű célja továbbá az embereknek a kisállattartással kapcsolatos szemléletformálása, annak érdekében, hogy a felelős állattartók száma nőjön, a kóbor állatok száma pedig csökkenjen.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002798",
+      "régi_nyilvántartási_száma": "2798/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11745004-24514875",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gulyásné Bán",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "457",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 406 809 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "470",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 845 712 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "385",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 460 544 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

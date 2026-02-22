@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19311164",
+  "scraped_at": "2026-02-14T12:38:57.403001",
+  "organization_id": "366878",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Újerdői Kutya- és Cicaparadicsom Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5100 Jászberény, Újerdő tanya 3.",
+      "adószám": "19311164-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-07",
+      "statisztikai_számjel": "19311164-9499-529-16",
+      "x_koordináta": "47.4900663",
+      "y_koordináta": "19.9128651"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület célja a Jászberényben hányatott sorsú, kidobott, kóbor kutyák és macskák mentése, teljeskörű ellátása, számukra otthon nyújtása, a megbetegedett állatok gyógyítása, gondozása, illetve az állatok számára gondozó gazda keresése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002867",
+      "régi_nyilvántartási_száma": "2867/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kökény",
+        "Képviselő keresztneve": "Csabáné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "308",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 962 810 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

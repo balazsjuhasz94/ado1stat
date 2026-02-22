@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18909760",
+  "scraped_at": "2026-02-21T13:25:52.597434",
+  "organization_id": "72705",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kis muskétások",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1082 Budapest, Baross utca 100",
+      "x_koordináta": "47.59821300000001",
+      "y_koordináta": "19.013075",
+      "adószám": "18909760-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-08-14",
+      "statisztikai_számjel": "18909760-8559-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesület célja, hogy elősegítse a Budapest Főváros és vonzáskörzetében élő, 3-16 éves korú, francia, kettős állampolgárságú, valamint frankofón érdeklődésű, tanulmányaikat nem francia tanítási nyelvű oktatási intézményben folytató gyerekek kapcsolatát a francia nyelvvel és kultúrával, akként, hogy barátságos keretek között, az érintett családok bevonásával, támogatja és szervezi a gyerekek - iskolai rendszerű oktatáson kívül történő - francia nyelvvel és kultúrával kapcsolatos tanítását és egyéb szabadidős tevékenységeit.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007295",
+      "régi_nyilvántartási_száma": "7295/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-13",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Viranyi",
+        "Képviselő keresztneve": "Fontan",
+        "Képviselő titulusa": "Marion",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-06-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 985 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "443 272 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "409 978 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19236469",
+  "scraped_at": "2026-02-14T14:09:45.084582",
+  "organization_id": "119265",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szegletház Gyermekfejlesztő Közhasznú Alapítvány",
+      "rövid_név": "Szegletház Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2143 Kistarcsa, Rózsa utca 22.",
+      "x_koordináta": "47.543478",
+      "y_koordináta": "19.26725",
+      "adószám": "19236469-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-25",
+      "statisztikai_számjel": "19236469-8559-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A kiemelt figyelmet igénylő, tanulási zavarral küzdő, vagy tanulásban akadályozott, illetve kommunikációs, értelmi vagy pszicho szociális károsodással élő gyermekek képességeinek fejlesztése és szinten tartása motoros- szenzormotoros- és egyéb kognitív terápiák, valamint általánosan alkalmazott és speciális módszerek igénybevételével. Ezeknek a gyermekeknek az óvodai és iskolai életre való fejlesztő felkészítése, közoktatásba, köznevelésbe történő integrációjuk, illetve az abban való részvételük támogatása, megsegítése. A mozgásfejlődésben megkésett, elakadt, vagy fejlődési lépcső-fokokat kihagyott gyermekek, a beszédfejlődésbeli elmaradással induló, a beszédészlelésben, beszédmegértésben, beszédprodukcióban zavart szenvedő (diszfázia) gyermekek, az iskolaéretlen, rész-képesség zavaros (diszlexia, diszgráfia, diszkalkulia), tanulásban akadályozott, értelmében akadályozott gyermekek, az organikus és pszichés alapú hiperaktív, aktivitás és figyelem zavaros (ADHD), autisztikus gyermekek, illetve a tehetséges, de a lehetőségeiket kihasználni nem tudó gyermekek fejlesztése az idegrendszeri érettséget elősegítő mozgásterápiák és egyéb pedagógiai, gyógypedagógiai és kognitív terápiák, módszerek igénybevételével. Az alapítvány célja, hogy a fenti tevékenységek megvalósítása érdekében a szükséges anyagi, személyi és eszköz feltételeket megteremtse.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004095",
+      "régi_nyilvántartási_száma": "4095/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-03-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-28",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Beraxa",
+        "Képviselő keresztneve": "Beáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rávai",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "Zsuzsanna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rácz",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "672 188 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "802 596 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

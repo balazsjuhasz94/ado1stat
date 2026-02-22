@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19238791",
+  "scraped_at": "2026-02-14T14:46:50.497471",
+  "organization_id": "118542",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Emberfia Egri Waldorf Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Mátyás király út 52-54.",
+      "x_koordináta": "47.863764",
+      "y_koordináta": "20.472399",
+      "adószám": "19238791-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-26",
+      "statisztikai_számjel": "19238791-8569-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány a társadalom és az egyén közös érdekeit szolgáló alábbi célok megvalósítására törekszik, ennek megfelelően az alapítvány célja: - Nevelési, oktatási tevékenység, ismeretterjesztés, képességfejlesztés; - Ehhez kapcsolva a cél a kultúra, a művészet és az oktatás, nevelés területén tevékenykedő személyek fejlesztésének, továbbképzésének bel- és külföldi tanulmányaiknak anyagi és erkölcsi támogatása, új irányú megvalósítással, mint oktatási módszerrel is; - A Rudolf Steiner által kidolgozott Waldorf-pedagógia módszereinek, eredményeinek megismertetése és népszerűsítése; - Waldorf-iskola alapításával, fenntartásával a magyar oktatás és nevelésügy megújulásához való közvetlen hozzájárulás; - Sajátos nevelési igényű gyermekek oktatása, nevelése, segítése, támogatása, képességfejlesztése, és az ifjúság tehetséggondozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001199",
+      "régi_nyilvántartási_száma": "1199/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-11-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "16200106-11665562",
+      "számlavezető_pénzintézet_neve": "MagnetBank Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Petőné Pászti",
+        "Képviselő keresztneve": "Margit",
+        "Képviselő titulusa": "Judit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Góczáné Némethy",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bóta",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gyurkó- Soltész",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 753 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "413 293 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "637 508 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

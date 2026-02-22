@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19311339",
+  "scraped_at": "2026-02-14T14:29:55.230502",
+  "organization_id": "366891",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szentiváni Öko Szeglet Egyesület",
+      "rövid_név": "SZÖSZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9011 Győr, Zrínyi köz 6.",
+      "adószám": "19311339-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-14",
+      "statisztikai_számjel": "19311339-9499-529-08",
+      "x_koordináta": "47.7011408",
+      "y_koordináta": "17.7581623"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Győrszentiván tisztaságának megóvása (beleértve a köztisztaságot és a levegőtisztaságot) és a helyi lakosság környezet-és egészségtudatos szemléletformálása, valamint az ezekhez és a fenntartható életmódhoz kapcsolódó viselkedésminták terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063265",
+      "régi_nyilvántartási_száma": "63265/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-08-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "702 236 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18508187",
+  "scraped_at": "2026-02-14T12:14:39.961916",
+  "organization_id": "83105",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tudatos Választókért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1074 Budapest, Dohány utca 30/A. 4./5. ajtó",
+      "x_koordináta": "47.4961173",
+      "y_koordináta": "19.0647535",
+      "adószám": "18508187-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-08",
+      "statisztikai_számjel": "18508187-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység",
+      "céljának_leírása": "Erősíteni a plurális, demokratikus gondolkodásmódot, elősegíteni a fiatalok állampolgári, pénzügyi és politikai alapismereteinek bővítését, felhívni a figyelmet a demokratikus jogállam, a demokratikus intézményrendszer fontosságára, amely hosszú távon kihat a társadalom fejlődésére és a fiatal generáció demokráciában való részvételének elősegítésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0011669",
+      "régi_nyilvántartási_száma": "11669/2012",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-01-31",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zaránd",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2920",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "37 018 021 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

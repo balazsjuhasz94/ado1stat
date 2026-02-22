@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19327310",
+  "scraped_at": "2026-02-14T14:11:01.264191",
+  "organization_id": "368279",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vasárnapi Merőkanál Egyesület",
+      "rövid_név": "VMK Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2017 Pócsmegyer, Megyeri fasor 42.",
+      "adószám": "19327310-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-28",
+      "statisztikai_számjel": "19327310-9499-529-13",
+      "x_koordináta": "47.7147908",
+      "y_koordináta": "19.1093393"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A hajléktalan emberek és más hátrányos helyzetű társadalmi csoportok, ingyenes vagy kedvezményes étkezéshez való hozzáférését, a hajléktalanná válásuk megelőzését a gyermekszegénység és a családok szegénységének felszámolását, a szociális, egészségügyi, lakhatási, foglalkoztatási, képzési programokhoz és egyéb közszolgáltatásokhoz való hozzáférésük támogatását célzó karitatív programok megvalósítása. A szegénység, a társadalmi kirekesztés és a megkülönböztetés elleni küzdelem, társadalmi befogadás előmozdítása. A szegénységben élő, a társadalmi kirekesztés kockázatának kitett emberek esélyegyenlőtlenségének csökkentése, társadalmi integrációjuk előmozdítása, a fiatal generáció szociális érzékenységének fejlesztése. Adománygyűjtéssel és önkéntesek bevonásával az arra rászorulók élelmezéssel történő megsegítése, a szegény emberek önsegélyezésének ösztönzése, hajléktalan emberek szociális és egyéb lakhatási lehetőségekhez való hozzáférésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008180",
+      "régi_nyilvántartási_száma": "8180/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nóniusz",
+        "Képviselő keresztneve": "Rita",
+        "Képviselő titulusa": "Mária",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-03-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "795 145 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

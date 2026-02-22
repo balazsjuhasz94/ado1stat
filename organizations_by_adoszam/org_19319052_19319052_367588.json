@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19319052",
+  "scraped_at": "2026-02-21T13:30:07.441101",
+  "organization_id": "367588",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Tádé Dél-Budai Görögkatolikusokért Alapítvány",
+      "rövid_név": "Dél-Budai Szent Tádé Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1082 Budapest, Baross utca 89. 3/9/b.",
+      "adószám": "19319052-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-16",
+      "statisztikai_számjel": "19319052-9499-569-01",
+      "x_koordináta": "47.4869906",
+      "y_koordináta": "19.0740654"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Dél-Budai Görögkatolikus közösség tevékenységének elősegítése, anyagi támogatása, mind személyi, mind dologi vonatkozásban. A Dél-Budai Görögkatolikus Egyházközség és közösség létesítményeinek fenntartása, karbantartása, támogatása és ilyen intézmények, szervezetek létesítése. Képzőművészeti alkotások, egyházzenei művek, sajtó és bizantinológiai kiadványok támogatása. A Budai Görögkatolikus Kórus tevékenységének támogatása. Tudományos képzés, egyéb oktatás, idegen nyelv tanulás és továbbképzés elősegítése. Kulturális-, képzési- és szabadidős tevékenységek támogatása. A Dél-Budai Közösség rendezvényeinek támogatása. Tanulmányok, táborok, zarándoklatok és a közösség rendezvényeinek támogatása. Az egyházközösség tagjainak – amennyiben rászorulnak – szociális támogatása, más görögkatolikus egyházközségek és intézmények megsegítése. A görögkatolikus közösség hagyományőrző törekvéseinek elősegítése, nevelési, oktatási, képességfejlesztési és ismeretterjesztési, továbbá képzési és egyéb szolgáltatások nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013231",
+      "régi_nyilvántartási_száma": "13231/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kocsis",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "403 153 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

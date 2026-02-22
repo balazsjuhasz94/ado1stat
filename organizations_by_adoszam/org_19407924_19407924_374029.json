@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19407924",
+  "scraped_at": "2026-02-14T14:08:43.755780",
+  "organization_id": "374029",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Batthyány-Strattmann László Alapítvány A Gyógyításért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1139 Budapest, Váci út 73/A.",
+      "adószám": "19407924-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2025-01-22",
+      "statisztikai_számjel": "19407924-9499-569-01",
+      "x_koordináta": "47.5369022",
+      "y_koordináta": "19.0756782"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az egyes méltányosságból igénybe vehető egészségügyi szolgáltatások engedélyezése érdekében az Alapítvány célja a keret hatékony felhasználása, illetve, hogy orvostudományi kutatások eredményeit, valamint egészséggazdasági, méltányossági és szolidaritási érdekeket is figyelembe vevő döntések szülessenek, valamint, hogy külső forrásbevonás (pl.: állampolgárok adójának 1%-os SZJA felajánlása) is lehetővé váljon.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013745",
+      "régi_nyilvántartási_száma": "13745/2024",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-01-14",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-12",
+      "alkalmazottak_száma": "8",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-24",
+      "bankszámlaszám": "10032000-01483305-06030012",
+      "számlavezető_pénzintézet_neve": "Magyar Államkincstár"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lengyel",
+        "Képviselő keresztneve": "Györgyi",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8430",
+        "Leírás": "Kötelező társadalombiztosítás"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "815 967 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19314291",
+  "scraped_at": "2026-02-21T13:14:12.928061",
+  "organization_id": "367140",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hunland Szív Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2347 Bugyi, Alsóráda puszta 13.",
+      "adószám": "19314291-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-28",
+      "statisztikai_számjel": "19314291-9499-569-13",
+      "x_koordináta": "47.1955687",
+      "y_koordináta": "19.167969"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány célja munkavégzésük során tartós foglalkozási megbetegedést elszenvedett munkavállalók rehabilitációjának elősegítése, anyagi támogatása, átmeneti segély biztosítása, orvosi rehabilitáció céljából igénybe vehető gyógyászati ellátások költségei , az orvosilag igazolható megbetegedések rendszeres gyógyszerszükségletének, gyógyászati segédeszköz igénylésének támogatása. Célja továbbá a szociálisan rászoruló gyermekek, családok támogatása, sport tevékenység a hátrányos helyzetű társadalmi csoportok, valamint fogyatékosok sportjának támogatása, sportrendezvények szervezése, illetve sportrendezvényeken való részvétel biztosítása. Időskorúak, hátrányos helyzetűek, hajléktalanok szociális felzárkózásának segítése és támogatás nyújtása, illetve egyéb sport-és kulturális rendezvények támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004239",
+      "régi_nyilvántartási_száma": "4239/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss-Kókai",
+        "Képviselő keresztneve": "Dalma",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Huijs-Janssen",
+        "Képviselő keresztneve": "Suzanne",
+        "Képviselő titulusa": "Petronella",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "435 607 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19238430",
+  "scraped_at": "2026-02-14T13:01:27.881026",
+  "organization_id": "120991",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dorombol-lak Macskamentő Alapítvány",
+      "rövid_név": "Dorombol-lak Dunakeszi",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1117 Budapest, Budafoki út 83. A. lh. 7. em./30.",
+      "x_koordináta": "47.4709442",
+      "y_koordináta": "19.0525999",
+      "adószám": "19238430-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-13",
+      "statisztikai_számjel": "19238430-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A telephelyén és a környékbeli települések utcáin élő, gazdátlan, kidobott cicák helyzetének segítése, életkörülményeik javítása, a nem kívánt szaporulatok megelőzése. A cicák mindennapi ellátása mellett nagy hangsúlyt fektetünk az ivartalanítás, az orvosi ellátás fontosságára, a téli menedék biztosítására. Olyan magánszemélyek segítése, akik a cicáik ivartalanítását önerőből nem tudják teljes egészében finanszírozni, de felelősen gondolkodnak és szeretnék a további szaporulatok megszületését megelőzni. Felhívni a figyelmet a cicatulajdonosok számára a gyógyíthatatlan betegségek megelőzésének fontosságára, az állataik számára szükséges védőoltások beadatására. A kidobott utcán élő cicák gazdihoz segítése, az átmeneti időszakra ideiglenes befogadás biztosítása a számukra a szükséges orvosi ellátás és élelmezés mellett. Magánszemélyeknek vagy szervezeteknek való segítségnyújtás befogással kapcsolatosan. Fellépés az állatkínzókkal szemben, az állatvédelmi törvények betartására való figyelmeztetés. Felelős állattartás témában szakkörök, iskolai órák tartása és tartásának segítése. Vállalkozások bevonása az állatmentés támogatásába. Együttműködés a működési területen lévő települések önkormányzataival. Együttműködés hazai és külföldi állatmentő szervezetekkel, magánszemélyekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012909",
+      "régi_nyilvántartási_száma": "12909/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bujdosó",
+        "Képviselő keresztneve": "Brigitta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "199",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 007 865 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "158",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 683 869 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

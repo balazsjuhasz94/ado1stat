@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19091251",
+  "scraped_at": "2026-02-14T13:28:18.175748",
+  "organization_id": "100299",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Újfehértói Nagycsaládosok Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4244 Újfehértó, Obsitos utca 2.",
+      "x_koordináta": "47.8005009",
+      "y_koordináta": "21.6686283",
+      "adószám": "19091251-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-05",
+      "statisztikai_számjel": "19091251-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "1. az élet és az anyaság tiszteletére való nevelés, a házasságért és a jövő generációjáért érzett felelősség erősítése, 2. a nagycsaládosok sajátos érdekeinek képviselete és szolgálata, 3. felmutatni a társadalomnak azokat az értékeket, amelyeket a nagycsaládok képviselnek, 4. a nagycsaládok egymást ismerő és segítő közösségekké való szervezése 5. helyi közösségek fejlesztése, a nemzet hagyományos értékei, valamint az európai kulturális örökség iránt fogékony, elkötelezett és tenni akaró állampolgárok, egyesületek együttműködésének támogatása. 6. a nemzeti és európai értékrend – az erkölcs, a kultúra, a szolidaritás, az egyének boldogulása – képviselete és terjesztése, a jogállamiság, a szociális piacgazdaság és a magyar polgári demokrácia erősítése érdekében, hozzájárulva ezzel Újfehértó város kulturális örökségének ápolásához, polgári városkép megvalósulásához, a város sajátosságait kihasználó új hagyományok megteremtéséhez, a városlakók életminősége fejlesztéséhez. 7. a megfogalmazott célok megvalósítása érdekében a település családjai számára közösségi programok szervezése, illetve a családok bővebb közösségé történő összekovácsolása. 8. célja ezen túlmenően: - szakmai és polgári fórumot teremteni a térség fejlesztésével kapcsolatos társadalmi kezdeményezéseknek és véleményeknek - a nem kormányzati szervek nemzetközi összefogását erősíteni a regionális érdekek, célok erősítésére - a térség polgárait bevonni a hosszú távú célokat szem előtt tartó tevékenységek megszervezésébe - nyilvánosságot biztosítani a későbbi térségi célok, kockázatok, tervek véghezvitelére, illetve az esetleges káros tendenciák megjelenítésére a térség polgárai számára - elősegíteni az egészséges életmódra nevelést - tudatosítani a környezetvédelem fontosságát - évente egynapos sport és kulturális rendezvény szervezése az egyesület tagjai és azok családtagjai részére",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0003992",
+      "régi_nyilvántartási_száma": "3992/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kristóf",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2024-09-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "147",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "461 077 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "170",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "705 089 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "131",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "660 998 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "194",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 166 716 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÚJFEHÉRTÓI NAGYCSALÁDOSOK EGYESÜLETE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18976461",
+  "scraped_at": "2026-02-14T12:20:13.343968",
+  "organization_id": "81385",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Agenor Civil Állatvédő Egyesület",
+      "rövid_név": "Agenor Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1214 Budapest, II. Rákóczi Ferenc út 436.",
+      "x_koordináta": "47.4931973",
+      "y_koordináta": "19.0133936",
+      "adószám": "18976461-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-22",
+      "statisztikai_számjel": "18976461-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, a gazdátlan állatok problémájának térségi megoldása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016826",
+      "régi_nyilvántartási_száma": "16826/2018",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-01-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-06",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Porkoláb",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csery",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-11-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "765",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 246 649 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "823",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 746 856 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "897",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 132 956 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "898",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 666 679 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "996",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 978 160 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Agenor Civil Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Agenor Civil Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

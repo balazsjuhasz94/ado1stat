@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19239228",
+  "scraped_at": "2026-02-14T13:15:02.574909",
+  "organization_id": "121678",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fészek Csillag Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2051 Biatorbágy, Táncsics Mihály utca 9.",
+      "x_koordináta": "47.477104",
+      "y_koordináta": "18.8244011",
+      "adószám": "19239228-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-07",
+      "statisztikai_számjel": "19239228-8552-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "4.1 kód: 0100, kulturális és információs, kommunikációs tevékenység (pl.: művészeti tevékenység), 4.2. kód: 0300, sporttevékenység (pl.: sport, kirándulások, táborok és egyéb programok szervezése), 4.3. kód: 0500, oktatási tevékenység (pl. csökkentett munkaképességű munkanélküli emberek képzése, fejlődésükhöz tanfolyamok, pszichoterápia, zeneterápia, művészetterápia), 4.4. kód: 0800, szociális tevékenység (pl. csökkentett munkaképességű, többségében testi és szellemi megváltozott képességű munkanélküliek munkára való felkészítése és foglalkoztatása, illetve részükre új munkahelyek megteremtése és annak folyamatos biztosítása, esélyegyenlőségük támogatása, családvédelem, pszichiátriai kezelések, pszichológus biztosítása), 4.5. kód: 1500, adományozási tevékenység (pl. többcélú adományozás, pénz és természetbeni adományozás), Ezen felül: - ösztönzi az információ-technológiák alkalmazását a tanítás, a tanulás és a kommunikáció terén, - ún. lakó-otthonok kialakítását és kiépítését is kitűzi céljai között, - kulturális programok, vetélkedők rendezése, színház, múzeum, hangverseny látogatások szervezése, színjátszó kör működtetése. Filmklub, táncház, énekkar, irodalmi színpad, színházbarátok köre, helyi rendezvények, ünnepélyek, művészeti napok támogatása. - az Alapítvány intézményi épületeinek létrehozása, fenntartása és üzemeltetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004103",
+      "régi_nyilvántartási_száma": "4103/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-05-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-09",
+      "bankszámlaszám": "10403208-50526855-57851006",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bálinger",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "721 866 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "99",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 031 847 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 369 405 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

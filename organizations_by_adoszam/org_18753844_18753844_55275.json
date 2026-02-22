@@ -1,0 +1,107 @@
+{
+  "search_adoszam": "18753844",
+  "scraped_at": "2026-02-14T13:43:59.723563",
+  "organization_id": "55275",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Életfácska Református Óvodáért Alapítvány",
+      "rövid_név": "Életfácska Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2483 Gárdony, Bóné Kálmán utca 8.",
+      "x_koordináta": "47.20612",
+      "y_koordináta": "18.6299819",
+      "adószám": "18753844-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-07-05",
+      "statisztikai_számjel": "18753844-8569-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Gárdonyi Református Egyházközség fenntartásában működő Életfácska Református Óvoda működésének támogatása, segítése, az óvodában folyó nevelés anyagi támogatásával a minőségi munka érdekében a működési feltételek javítása, tárgyi eszközök beszerzése, berendezések korszerűsítése a gyerekek képességeinek sokoldalú fejlesztéséhez anyagi feltételeink megteremtése, a közösségi rendezvények támogatása, a családok támogatása. Környezetvédelem és a környezettudatos magatartás kialakítása. A gyerekek egészségének és természetes mozgáskészségének fejlesztése, egészségének védelme. A református szellemiség, valamint a város hagyományainak, tárgyi és szellemi kincseinek megőrzés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001091",
+      "régi_nyilvántartási_száma": "1091/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-11-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11736082-20030188",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kelemen",
+        "Képviselő keresztneve": "Istvánné",
+        "Képviselő titulusa": "(születési neve: Torda-Molnár Enikő)",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "299 407 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "485 761 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 118 238 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "929 648 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 018 942 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Életfácska Református Óvodáért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Életfácska Református Óvodáért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

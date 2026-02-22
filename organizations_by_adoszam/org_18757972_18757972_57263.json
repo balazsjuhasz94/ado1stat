@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18757972",
+  "scraped_at": "2026-02-21T13:08:10.364131",
+  "organization_id": "57263",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Aprófalva Fiatalokért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4485 Nagyhalász-Homoktanya, Virág sor 2.",
+      "x_koordináta": "48.077585",
+      "y_koordináta": "21.739292",
+      "adószám": "18757972-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-06",
+      "statisztikai_számjel": "18757972-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "1. Gyermek és ifjúsági programok szervezése. 2. Színjátszás. 3. Családi programok szervezése. 4. Gyermek és ifjúsági táborok szervezésében való részvétel. 5. Kulturális programok szervezése. 6. Sport tevékenység. 7. A település és az ország hagyományainak ápolása, a kulturális örökség megóvása, műemlékvédelem. 8. Más civil szervezetekkel, önkormányzatokkal való együttműködés, közösségi rendezvényeken, feladatokon való részvétel. 9. Nemzetközi együttműködés határon túli magyarsággal, civil szervezetekkel, városokkal, cserekapcsolatok kiépítése és megőrzése. 10. Szociális tevékenység. 11. Hátrányos helyzetű és fogyatékkal élők segítése, támogatása. 12. Esélyegyenlőség biztosítása. 13. Egészséges életmódra nevelés, prevenció. 14. Adományok gyűjtése, osztása. 15. Közösségfejlesztés, kreatív foglalkozások. 16. Oktatás, felnőttképzés, felzárkóztató képzések szervezése, azokon való részvétel. 17. A település fejlődéséért, haladásáért segítő tevékenységek, zöld övezetek kialakítása, környezetvédelem. 18. A településen élő emberek életminőségének, egészségének, szociális helyzetének segítése, javítása. 19. Az egyesület céljainak megvalósítása érdekében anyagi feltételeinek biztosítására gazdálkodó tevékenységet folytathat, vállalkozhat. 20. Az egyesület ideológiai elkötelezettségétől függetlenül támogat minden olyan kezdeményezést, amely a település kulturális életét gazdagítja. 21. A célok megvalósítása érdekében pályázatokon való részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0003758",
+      "régi_nyilvántartási_száma": "3758/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-30"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lippai",
+        "Képviselő keresztneve": "Istvánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "237 202 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "449 695 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19324616",
+  "scraped_at": "2026-02-21T14:33:28.556503",
+  "organization_id": "368070",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Oroszlányi Meseliget Óvodásokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2840 Oroszlány, Alkotmány utca 56.",
+      "adószám": "19324616-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-22",
+      "statisztikai_számjel": "19324616-9499-569-11",
+      "x_koordináta": "47.4608784",
+      "y_koordináta": "18.3354146"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az oroszlányi Meseliget Óvodában a gyermekek személyiségfejlesztése érdekében a szociális, az egészségügyi, a gyermekvédelmi tevékenység, a szabadidősport összehangolt támogatása. A hátrányos helyzetű gyermekek felzárkóztatása: a nehéz körülmények között élő gyermekeknek a higiénés szokások alapjainak lerakása, az ehhez szükséges eszközök beszerzése, esélyegyenlőség biztosítása a képességfejlesztés terén, szakirodalommal, feladatlapokkal, speciális tornaszerekkel, hangszerekkel, játékokkal. Egészséges életmód: a mozgáslehetőség bővítése, úszásoktatás, tartásjavító testnevelés, gyógytorna, az esztétikus óvodai környezet feltételeinek megteremtése a csoportszobákban és az udvari játszóhelyeken, egészségügyi programok szervezése, támogatása, előadás és bemutató szervezés a gyermekek korszerű táplálkozásáról. A speciális szükségletű és sérült gyermekek fejlődésének elősegítése komplex módon, vegyes csoportok kialakításával, családi napok szervezésével. Kulturális programok, kirándulások, sporttevékenységek tartalmas szervezése: képességfejlesztés, ismeretek bővítése, a feltételek biztosítása. Az alapítvány támogatja a feladatok megvalósításához szükséges programok, szaktanulmányok, pályázatok kidolgozását, előadások, beszámolók megtartását és az ezzel kapcsolatos eszközigények és egyéb költségek megtérítésére törekszik.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001138",
+      "régi_nyilvántartási_száma": "1138/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnárné Magócs",
+        "Képviselő keresztneve": "Noémi",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pintérk",
+        "Képviselő keresztneve": "Róbertné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Karolina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "302 622 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

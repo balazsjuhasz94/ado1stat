@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "19081362",
+  "scraped_at": "2026-02-21T14:03:29.252105",
+  "organization_id": "38696",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PONT a Gyermekekért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6640 Csongrád, Fohász utca 24.",
+      "x_koordináta": "46.708608",
+      "y_koordináta": "20.154095",
+      "adószám": "19081362-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-08-28",
+      "statisztikai_számjel": "19081362-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "– A Csongrád Templom utca Delfin Óvoda működési feltételeinek biztosítása, körülményeinek gazdagítása, javítása. – Hátrányos helyzetű gyermekek esélyegyenlőségének segítése, biztosítása. – Az óvodai nevelés-oktatás szakmai színvonalának emelése, a gyermekek egyéni képességfejlesztésének elősegítése, tárgyi feltételek, szakmai-- és játszóeszközök gazdagítása. – Egészségvédelem, egészségfejlesztés, egészséges életmódra nevelés, sportos életvitelre való nevelés, közösségfejlesztés. – A gyermekek tudatos nevelése a környezet-, természet- és az állatvédelem fontosságára életkori sajátosságainak megfelelően. – A hagyományok ápolása, kirándulások, kulturális-, ünnepi rendezvények szervezése és támogatása. – A családok és óvoda közötti kapcsolat fejlesztése, közösséghez tartozási tudat kialakítása és elmélyítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0000419",
+      "régi_nyilvántartási_száma": "419/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-04-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vigné Dudás",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "155 379 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "95 320 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "138 170 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "155 950 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "124 491 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "345 474 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PONT A GYERMEKEKÉRT EGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PONT A GYERMEKEKÉRT EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PONT A GYERMEKEKÉRT EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

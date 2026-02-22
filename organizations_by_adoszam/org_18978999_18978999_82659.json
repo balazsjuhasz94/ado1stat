@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18978999",
+  "scraped_at": "2026-02-21T12:39:02.438893",
+  "organization_id": "82659",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány a Kalocsai Gyógypedagógiáért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6300 Kalocsa, Tompa Mihály utca 10-14.",
+      "x_koordináta": "46.532278",
+      "y_koordináta": "18.983858",
+      "adószám": "18978999-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-03-27",
+      "statisztikai_számjel": "18978999-8569-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "„Alapítvány a Kalocsai Gyógypedagógiáért” létrehozását határozták el az alábbi feltételek szerint azért, hogy megvalósuljon a Kalocsai Nebuló EGYMI-ben folyó szakmai munka sokoldalú támogatása, valamint az intézménnyel jogviszonyban állók segítése: • a bármely tanulmányi-, művészeti területen vagy sportban tehetséges és rászoruló, sajátos nevelési igényű tanulók támogatása • az egészséges életmód és a szabadidősport feltételrendszerének javítása • a nevelőmunka feltételeinek javítása, korszerűsítése • a tanulókkal kiemelkedő színvonalon foglalkozók, kimagasló eredményeket elérők elismerése, támogatása • egyéni és csoportos tanulmányutak, szakmai kirándulások támogatása • az intézmény rendezvényeinek támogatása • belső diákpályázatok támogatása • egyéb szociális és jóléti célú támogatás • a gyógypedagógia területéhez kapcsolódó pályaorientáció támogatása középiskolás, főiskolás, egyetemista önkéntesek, gyakornokok fogadásának támogatása • a fogyatékkal élő személyek iránti társadalmi érzékenyítés elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002585",
+      "régi_nyilvántartási_száma": "2585/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-02-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "51400075-10005202",
+      "számlavezető_pénzintézet_neve": "Fókusz Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tamás",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "517 200 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 263 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "451 539 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "526 049 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alapítvány a Kalocsai Gyógypedagógiáért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

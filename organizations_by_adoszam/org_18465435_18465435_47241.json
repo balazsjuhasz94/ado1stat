@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "18465435",
+  "scraped_at": "2026-02-14T15:03:16.660312",
+  "organization_id": "47241",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Szegedi Füvészkertért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Lövölde utca 42.",
+      "x_koordináta": "46.23161",
+      "y_koordináta": "20.1591189",
+      "adószám": "18465435-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1999-12-20",
+      "statisztikai_számjel": "18465435-9499-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "A szegedi füvészkerti gyűjtemények fejlesztéséhez, a füvészkerti létesítmények korszerűsítéséhez, a füvészkerti kiadványok készítéséhez és a JATE Növénytani Tanszék és Füvészkert dolgozói szakmai útjainak, tapasztalatcseréinek lebonyolításához támogatás nyújtás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0000805",
+      "régi_nyilvántartási_száma": "805/1997",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bozsóné Dr. Margóczi",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "215 923 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 871 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "835 895 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "621 012 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "625 909 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Szegedi Füvészkertért Alapapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Szegedi Füvészkertért Alapapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "SZEGEDI FVSZKERT ALAPITVNY",
+        "Év": "2016"
+      }
+    ]
+  },
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19038089",
+  "scraped_at": "2026-02-21T12:32:36.035071",
+  "organization_id": "86230",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Huntington Társaság",
+      "rövid_név": "MHT",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Tóth Ilona utca 5. II/6.",
+      "x_koordináta": "47.5097836",
+      "y_koordináta": "19.0325681",
+      "adószám": "19038089-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-06-07",
+      "statisztikai_számjel": "19038089-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A társaság a ritka betegségekben szenvedők érdekképviseletére alakult, ezen belül a huntington betegségben szenvedők számára nyújt segítséget mind a betegeknek, mind a gondozóknak a betegség terheinek viselésére. A társaság célja az érdekvédelem, szolgálat, társadalomba való integráció segítése, közösséggé szerveződés, laikusok és egészségügyi dolgozók oktatása, kutatások támogatása, a betegek gyógyításának segítése, tapasztalatcsere, nemzetközi szervezetekkel kapcsolatfelvétel, betegútszervezés támogatása, új betegek diagnosztikájának javítása, figyelemfelhívás a betegségre. A társaság céljai közé tartozik továbbá a tagjainak folyamatos tájékoztatása, időszakonként kiadványok megjelentetése, összejövetelek és tapasztalatcserék szervezése, a szükséges információk közreadása. A szükséges komplex orvosi, gondozói háttér megszervezésének támogatása. Hiánypótló szolgáltatások szervezése (habilitáció, gyógyító-megelőző ellátás segítése, szabadidős vagy terápiás jellegű tevékenység). A betegek életminőségének javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016711",
+      "régi_nyilvántartási_száma": "16711/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-02-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy-Dávid",
+        "Képviselő keresztneve": "Violetta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "583 872 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "620 716 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "547 060 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

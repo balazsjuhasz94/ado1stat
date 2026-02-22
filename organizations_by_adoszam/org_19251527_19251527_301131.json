@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19251527",
+  "scraped_at": "2026-02-14T12:39:18.863147",
+  "organization_id": "301131",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Malacvédő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3778 Varbó, Rákóczi Ferenc utca 31",
+      "adószám": "19251527-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-25",
+      "statisztikai_számjel": "19251527-9499-569-05",
+      "x_koordináta": "48.1512592",
+      "y_koordináta": "20.5863762"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Magyarország háztáji állatai jólétének biztosítása, valamint az állatkínzásos esetek felderítésének elősegítése és azok visszaszorítása. Az állatkínzást elkövetők elleni hatékony fellépés az együttműködő állami szervek képviselőivel, állami hatóságokkal együtt. Állatok képviseletének ellátása és az állatvédelmi törvények és rendeletek betartatásának segítése. Nagyszámú kéretlen állomány hosszú tavú csökkentése, további szaporulatok megakadályozása. A jövő nemzedékének felelős állattartásra nevelése, környezetbarát szemlélet kialakítása. Távlati és stratégiai partnerség létrehozása állami, valamint más társadalmi szervezetekkel. Ezeken túlmenően a tudatos és egészséges környezetre való nevelés érdekében kapcsolatteremtés a lokális és diszlokális polgárokkal.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064601",
+      "régi_nyilvántartási_száma": "64601/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-12-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "116000060-0000000-93633567",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Földes",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "242",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 679 365 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "207",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 914 814 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "275",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 921 648 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

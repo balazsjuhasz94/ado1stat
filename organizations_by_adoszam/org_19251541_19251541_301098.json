@@ -1,0 +1,117 @@
+{
+  "search_adoszam": "19251541",
+  "scraped_at": "2026-02-14T15:08:42.592110",
+  "organization_id": "301098",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hiányzó Láncszem Alapítvány",
+      "rövid_név": "Hiányzó Láncszem Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3817 Gagybátor, Fő tér 25",
+      "adószám": "19251541-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-25",
+      "statisztikai_számjel": "19251541-9499-569-05",
+      "x_koordináta": "48.4364556",
+      "y_koordináta": "20.9272533"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az országon belüli társadalmi egyenlőtlenségekből adódó hátrányok csökkentése Cserehát településein, azon belül elsősorban Gagybátor településén. Ennek érdekében az alapítvány a Csereháton, azon belül elsősorban Gagybátorban megvalósuló események, rendezvények, programok révén olyan személyes kapcsolatok kiépülését támogatja, amelyek a résztvevők kölcsönös hasznára válnak, és kihatással vannak a település és térsége fejlődésére is. Az alapcél szerinti tevékenységek a fenntartható fejlődés elvei mentén, a társadalmi, környezeti és gazdasági szempontok egyensúlyban tartásával valósulnak meg, a helyben meglévő értékekhez organikusan kapcsolódva.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064602",
+      "régi_nyilvántartási_száma": "64602/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-09-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "16200010-10107177",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Frigyik",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1039",
+        "Leírás": "Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "364 770 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 259 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "595 019 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

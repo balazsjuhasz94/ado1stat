@@ -1,0 +1,124 @@
+{
+  "search_adoszam": "18912281",
+  "scraped_at": "2026-02-14T12:44:39.692063",
+  "organization_id": "83132",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Édesanyám Alapítványa a Szent Margit Kórház Szülészetéért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1032 Budapest, Bécsi út 132.",
+      "x_koordináta": "47.5392811",
+      "y_koordináta": "19.0311747",
+      "adószám": "18912281-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-13",
+      "statisztikai_számjel": "18912281-8610-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A szülészeti és nőgyógyászati osztály dolgozói munkakörülményeinek és munkahelyi közérzetének javítása és a kvalifikált munkaerő megtartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012499",
+      "régi_nyilvántartási_száma": "12499/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-06-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-01-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10102103-01P07204304",
+      "számlavezető_pénzintézet_neve": "Budapest Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tűzkő",
+        "Képviselő keresztneve": "Nándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Magyar",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Telek",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "499 461 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "149",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "923 320 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "152",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 292 126 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "160",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 342 991 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "181",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 478 552 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "146",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 500 667 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Édesanyám Alapítványa a Szent Margit Kórház Szülészetéért"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Édesanyám Alapítványa"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Édesanyám Alapítványa a Szt. Margit Korház Szülészetéért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

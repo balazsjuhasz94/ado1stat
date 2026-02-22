@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18301382",
+  "scraped_at": "2026-02-14T13:35:39.681386",
+  "organization_id": "56273",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pécsi Ritmikus Gimnasztika Egyesület",
+      "rövid_név": "PRGE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7621 Pécs, Zrínyi Miklós utca 9.",
+      "x_koordináta": "46.0744103",
+      "y_koordináta": "18.2255045",
+      "adószám": "18301382-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1993-06-01",
+      "statisztikai_számjel": "18301382-9312-521-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Elsősorban a ritmikus gimnasztika sportág népszerűsítése, oktatása és fejlesztése, másodsorban kiegészítő rokonmozgások, pl. aerobik, torna, tánc, fitnesz, balett, valamint szabadidősportok, egészségmegőrző, kondicionáló, rekreációs testgyakorlatok oktatása, népszerűsítése. A Versenysport területén fejlett testkultúrával rendelkező, magas edzettségi szintű versenyzők nevelése, ritmikus gimnasztika sportág segítségével, utánpótlás nevelés, versenyeztetés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0001037",
+      "régi_nyilvántartási_száma": "1037/1993",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-24",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hesz",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "235 714 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 064 368 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

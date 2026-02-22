@@ -1,0 +1,115 @@
+{
+  "search_adoszam": "18879278",
+  "scraped_at": "2026-02-14T13:37:53.970906",
+  "organization_id": "77935",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zsanai Lovas Sport Klub",
+      "rövid_név": "ZSLSK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6400 Kiskunhalas, Vass Lajos utca 41.",
+      "x_koordináta": "46.4030517",
+      "y_koordináta": "19.469936",
+      "adószám": "18879278-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-04",
+      "statisztikai_számjel": "18879278-9319-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja a lovas sporttevékenység és annak népszerűsítése, ezen belül különösen: a) a ló és a vele kialakult sokrétű kapcsolat népszerűsítése, széles körű terjesztése, b) a tagok számára a versenysportban való bekapcsolódás feltételeinek megteremtése, lovas versenysport művelése, c) lovaglást folytató polgárok egyesületi szervezetbe tömörítése, d) gyermeklovagoltatás, hobbilovaglás népszerűsítése, e) lovas turisztika, lovasterápiás foglalkozások fejlesztése és művelése, f) lovas hagyományok ápolása, lovaglással összefüggő kulturális örökség megóvása, g) a magyar lótenyésztés figyelemmel kísérése, h) szakmai továbbképzések szervezése és lebonyolítása, i) környezetvédelem, környezettudatos nevelés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003627",
+      "régi_nyilvántartási_száma": "3627/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-01",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Husz",
+        "Képviselő keresztneve": "Alexandra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szécsi",
+        "Képviselő keresztneve": "Tünde",
+        "Képviselő titulusa": "Mária",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "24 114 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "129 434 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 169 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "57 612 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "81 764 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 042 497 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZSLSK"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZSLSK"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZSLSK"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

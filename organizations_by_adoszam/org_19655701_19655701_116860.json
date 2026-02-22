@@ -1,0 +1,184 @@
+{
+  "search_adoszam": "19655701",
+  "scraped_at": "2026-02-14T12:49:07.058344",
+  "organization_id": "116860",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1145 Budapest, Erzsébet királyné útja 35-37.",
+      "x_koordináta": "47.5208344",
+      "y_koordináta": "19.1001481",
+      "adószám": "19655701-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-10-05",
+      "statisztikai_számjel": "19655701-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A Vámos Ilona Általános Iskolában folyó oktató-nevelő munka támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0000515",
+      "régi_nyilvántartási_száma": "515/1990",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-12-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zőlde",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fegyóné Vicickó",
+        "Képviselő keresztneve": "Enikő",
+        "Képviselő titulusa": "Erika",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nemes-Szandi",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "151",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "861 015 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "231",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 185 668 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "212",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 066 852 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "234",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 261 728 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "181",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 242 506 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "213",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 593 599 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "195",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 518 020 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "181",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 574 835 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "187",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 828 888 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "233",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 461 711 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "192",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 236 460 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "155",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 208 801 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért Alapítványa\""
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért Alapítványa\""
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola Iskolánkért Alapítványa"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jókai Mór Általános Iskola \"Iskolánkért\" Alapítványa"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

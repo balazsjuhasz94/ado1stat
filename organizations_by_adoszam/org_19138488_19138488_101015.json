@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19138488",
+  "scraped_at": "2026-02-21T13:01:42.863194",
+  "organization_id": "101015",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vándorló Szeretet Karitatív Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6635 Szegvár, Mindszenti utca 76.",
+      "x_koordináta": "46.5733519",
+      "y_koordináta": "20.2238169",
+      "adószám": "19138488-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-26",
+      "statisztikai_számjel": "19138488-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az egyesület célja hátrányos helyzetű, szegény sorsú családok megsegítése, különös tekintettel az ezekben a családokban élő gyermekekre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003384",
+      "régi_nyilvántartási_száma": "3384/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10402836-50526849-72811006",
+      "számlavezető_pénzintézet_neve": "Kereskedelmi és Hitelbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Brezovai",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "Béla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "394 533 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "558 341 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "671 739 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "464 715 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vándorló Szeretet Karitatív Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

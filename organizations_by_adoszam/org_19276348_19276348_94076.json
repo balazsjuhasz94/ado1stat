@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19276348",
+  "scraped_at": "2026-02-21T14:30:29.621353",
+  "organization_id": "94076",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szécsisziget Sport Egyesület",
+      "rövid_név": "Szécsisziget SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8879 Szécsisziget, Rákóczi út 25.",
+      "x_koordináta": "46.5728155",
+      "y_koordináta": "16.5901668",
+      "adószám": "19276348-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-04-10",
+      "statisztikai_számjel": "19276348-9312-521-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Szécsisziget sport életének felélénkítése, a község sport életének fejlődését elősegítő lehetőségek felkutatása, azok biztosítása a községi közösségi élet kibontakoztatása érdekében. A tagság sportolási lehetőségei biztosításának elősegítése, valamint a sport élet megszervezése, gazdagítása, ápolása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0000647",
+      "régi_nyilvántartási_száma": "647/1991",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-16",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 016 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "167 374 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "189 987 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "243 606 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "283 212 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "306 181 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szécsiszigeti SE"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szécsiszigeti SE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szécsiszigeti SE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

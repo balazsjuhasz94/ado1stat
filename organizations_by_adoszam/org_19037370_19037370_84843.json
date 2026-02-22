@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19037370",
+  "scraped_at": "2026-02-14T15:00:06.174810",
+  "organization_id": "84843",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Horváth Rudolf Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3000 Hatvan, Robert Bosch út 3.",
+      "x_koordináta": "47.6663125",
+      "y_koordináta": "19.6429109",
+      "adószám": "19037370-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-06-01",
+      "statisztikai_számjel": "19037370-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a.) szociális támogatás, segítségnyújtás a rászorulók, hátrányos helyzetben lévők részére b.) a közúti közlekedési bűncselekmények megelőzése, a balesetek részeseinek segítése, e körben keletkezett kárainak, fizetési kötelezettségeinek enyhítése c.) egészségvédelem d.) a szakmai végzettség megszerzésének és szakmai továbbképzés támogatása e.) a rászorulók, különösen rászoruló munkavállalók, gépjárművezetők és családtagjaik szabadidejének kulturált eltöltése érdekében különféle programok, sporttevékenységek szervezése, támogatása f.) -az alapítvány célját szolgáló tárgyi eszközök rendelkezésre bocsájtása -jogvédő tevékenység folytatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001166",
+      "régi_nyilvántartási_száma": "1166/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-05-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-12",
+      "bankszámlaszám": "10700299-70812671-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Halmos",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "119",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "721 754 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "543 087 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "935 068 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 010 251 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "597 377 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Horváth Rudolf Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Horváth Rudolf Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

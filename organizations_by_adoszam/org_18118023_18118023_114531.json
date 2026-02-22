@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "18118023",
+  "scraped_at": "2026-02-14T12:48:54.272277",
+  "organization_id": "114531",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mancsos Segítőtársaink Terápiás Állatok és Oktatási Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7038 Pusztahencse, Kossuth utca 34.",
+      "x_koordináta": "46.58978",
+      "y_koordináta": "18.7102429",
+      "adószám": "18118023-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2024-09-26",
+      "adószám_törlésének_dátuma": "2016-03-01",
+      "statisztikai_számjel": "18118023-9499-569-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Tenni az emberekért állatok közreműködésével, és segíteni egy új és felelősségteljesebb nemzedék szemléletének kialakításában. Tenni a környezetért, és az állatokért. Segíteni szeretnénk az olyan beteg embereknek, akiknek gyógyulását állatokkal elő lehet segíteni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0009565",
+      "régi_nyilvántartási_száma": "9565/2005",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-10-09",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gaál",
+        "Képviselő keresztneve": "Györgyi",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [
+      {
+        "Folyamatban lévő eljárás típusa": "NAV végrehajtás",
+        "Folyamatban lévő eljárás kezdete": ""
+      }
+    ],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "204",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 218 142 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

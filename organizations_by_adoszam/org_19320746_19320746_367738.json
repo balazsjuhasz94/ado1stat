@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19320746",
+  "scraped_at": "2026-02-21T13:56:37.209610",
+  "organization_id": "367738",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egyedi Férfi Dalkör",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9314 Egyed, Árpási utca 13.",
+      "adószám": "19320746-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-10",
+      "statisztikai_számjel": "19320746-9499-529-08",
+      "x_koordináta": "47.5156285",
+      "y_koordináta": "17.3431116"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A dalkör működtetésével magyar népdalok és néphagyományok gyűjtése, megőrzése, magyar népdalok, népies műdalok és magyar nóták előadása. Citera hangszer megismertetése, használatának oktatása, valamint zenéjének népszerűsítése az ifjúság körében. Kulturális örökségünk zenei felkutatása, megőrzése helyi és környékbeli kulturális egyesületekkel való kapcsolatok kialakításával és bemutatókon előadással. Határon túli magyarokkal és más nemzetiségiekkel kapcsolatteremtés kulturális együttműködés keretében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063290",
+      "régi_nyilvántartási_száma": "63290/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kuti",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "356 415 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

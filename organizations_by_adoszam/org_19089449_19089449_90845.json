@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19089449",
+  "scraped_at": "2026-02-14T13:24:47.328664",
+  "organization_id": "90845",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bihari Kristófért és Richárdért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Duna utca 54.",
+      "x_koordináta": "47.8598662",
+      "y_koordináta": "17.281956",
+      "adószám": "19089449-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-10-25",
+      "statisztikai_számjel": "19089449-8899-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "2.1. Alapító rögzíti, hogy Bihari Kristóf neuromyelitis ptica spectrum, míg Bihari Richárd autizmus spektrum betegségben szenved, melyre figyelemmel döntött jelen alapítvány létrehozása mellett, a 2.2. pontban foglalt célok elérése és biztosítása érdekében. 2.2. Az Alapítvány az alábbi cél elérésére, egyben a célhoz szükséges feltételrendszer megteremtésére törekszik: - Bihari Kristóf és Bihari Richárd ápolásával, gondozásával, tartásával, egészségügyi ellátásával, gyógyításával összefüggésben felmerülő költségek viselése - Bihari Kristóf és Bihari Richárd önálló életre való felkészítése (a mentális, kognitív, szociális és fizikai adottságok fejlesztését célzó kezelések, foglalkozások költségeinek támogatása). - Bihari Kristóf és Bihari Richárd szállításához szükséges eszközök, járművek megvásárlása (pl. babakocsi, kerekesszék, autó) - Bihari Kristóf és Bihari Richárd közösségbe, társadalomba való integrálásának, beilleszkedésének költségei (pl. osztálykirándulás, közösségi programok) - Bihari Kristóf és Bihari Richárd \"önálló élet\"-ének támogatása (\"önálló élet\": amikor kedvezményezettek kikerülnek a szülők gondozásából, akkor a szükséges ápolás, és a mindennapi életvitelükhöz szükséges költségek, ingó és ingatlan vásárlása)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051417",
+      "régi_nyilvántartási_száma": "51417/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-10-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Klemensits",
+        "Képviselő keresztneve": "Nikoletta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "391",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 233 628 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "155",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 052 555 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "169",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 282 526 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 089 994 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 212 197 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bihari Kristófért és Richárdért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bihari Kristófért és Richárdért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

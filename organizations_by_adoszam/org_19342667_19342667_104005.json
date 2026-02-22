@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19342667",
+  "scraped_at": "2026-02-14T14:41:20.461653",
+  "organization_id": "104005",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "TÜNDÉRKERT ORGONASÍPJAI ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Czuczor Gergely utca 2.",
+      "x_koordináta": "47.9497841",
+      "y_koordináta": "21.7306798",
+      "adószám": "19342667-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-08-04",
+      "statisztikai_számjel": "19342667-8569-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Nyíregyházi Tündérkert Óvoda Orgonasíp Tagintézményben (4400 Nyíregyháza, Czuczor Gergely u. 2.) a gyermekek személyiségfejlesztését szolgáló játékeszközök beszerzése, a játékok színvonalának emelése, skálájának szélesítése, a játékeszközök számának és használhatóságának szinten tartása, bővítése, az óvoda eszközállományának fejlesztése, bővítése, ezáltal olyan játékos környezet megteremtése, mely hosszabb időre biztosítja az óvodások sokoldalú, hatékony fejlődését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002546",
+      "régi_nyilvántartási_száma": "2546/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "Mária",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "555 932 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "630 881 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "655 675 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

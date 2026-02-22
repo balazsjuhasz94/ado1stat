@@ -1,0 +1,160 @@
+{
+  "search_adoszam": "18455852",
+  "scraped_at": "2026-02-21T12:46:32.899558",
+  "organization_id": "50444",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Forráskúti Általános Iskolás Gyermekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6793 Forráskút, Jókai utca 32.",
+      "x_koordináta": "46.3608889",
+      "y_koordináta": "19.9086726",
+      "adószám": "18455852-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-09-01",
+      "statisztikai_számjel": "18455852-9499-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A Forráskúti Általános Iskola tevékenységének támogatása és ezáltal lehetőség biztosítása a gyerekek többoldalú képességfejlődéséhez; az iskolai és más kultúrális szabadidő programok támogatása; tanulmányi és egyéb más versenyek, vetélkedők szervezéséhez támogatás, a nyertesek díjazása; diáksportversenyek, a rendszeres testmozgás ösztönzése; a nyelvtanulás, külföldi cserekapcsolatok kiépítésének segítése; az oktatás anyagi, technikai feltételeinek javítása, műszaki, technikai berendezések beszerzése révén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0000563",
+      "régi_nyilvántartási_száma": "563/1994",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-09-07",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2014-09-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyurisné Kálmán",
+        "Képviselő keresztneve": "Jolán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 710 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "112",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 319 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "131",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "330 900 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 315 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 247 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "252 926 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 970 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 007 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 734 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "462 513 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "461 934 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "503 071 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A FORRÁSKÚTI ÁLTALÁNOS ISKOLÁS GYERMEKEKÉRT ALAPITVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

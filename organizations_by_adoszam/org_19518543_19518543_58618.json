@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19518543",
+  "scraped_at": "2026-02-21T14:24:10.459879",
+  "organization_id": "58618",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sümeg Városi Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8330 Sümeg, Béke tér 7.",
+      "x_koordináta": "46.975636",
+      "y_koordináta": "17.283052",
+      "adószám": "19518543-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1985-02-25",
+      "statisztikai_számjel": "19518543-9319-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Rendszeres sportolási lehetőségek biztosítása a város és a városkörnyéki lakosság azon rétegei számára, akik elfogadják az alapszabályban foglaltakat. Ezen feladatok megvalósítása verseny és tömegsport formájában történik. Feladata a sportolási kedv felkeltése, a közösségi életre való nevelés. Működési területén elősegíti az oktatási intézmények tanulóinak, továbbá az önszerveződő csoportoknak a sportolási lehetőségét. Hazai és nemzetközi sportesemények megrendezése, bajnokságokon és rendezvényeken való részvétel. Sportkapcsolatok létesítése és fejlesztése. Az egyesület a jogszabályi lehetőségeket figyelembe véve nemzetközi tevékenységet is folytathat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0000189",
+      "régi_nyilvántartási_száma": "189/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-09",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Meszlényi",
+        "Képviselő keresztneve": "Dezső",
+        "Képviselő titulusa": "Márk",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "314 485 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

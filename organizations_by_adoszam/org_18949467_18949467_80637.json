@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "18949467",
+  "scraped_at": "2026-02-14T14:45:56.640992",
+  "organization_id": "80637",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Együtt a Kisangyalokkal\" Mozgáskorlátozott gyermekeket támogató Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5741 Kétegyháza, Széchényi utca 30.",
+      "x_koordináta": "46.541137",
+      "y_koordináta": "21.188479",
+      "adószám": "18949467-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-25",
+      "statisztikai_számjel": "18949467-8899-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja: Az ország területén élő mozgáskorlátozott gyermekek és családjaik képviselete, érdekeik érvényesítése, társadalmi integrációjuk, rehabilitációjuk segítése. Célunk megteremteni vidéken is olyan lehetőségeket, amelyek egyenlőre csak Budapesten léteznek és nagyban segítenék mind a szülőt, mind a gyermeket, hogy teljesebb életet éljen. Elsősorban, de nem kizárólag mozgáskorlátozott játszóterek kialakítása, óvodai, iskolai szünetekben a táborok szervezése, gyermekfelügyeleti tevékenységek. Segíteni azon óvodák, iskolák tárgyi feltételeinek megteremtését, javítását, fejlesztését, ahol mozgáskorlátozott kisgyermeket vesznek fel. Kiemelkedő célunk a genetikei betegségből származó korlátozottsággal kapcsolatos terápiás kutatási vagy egyéb, a betegség szempontjából lényeges külföldi információk eljuttatása a magyarországi betegekhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002738",
+      "régi_nyilvántartási_száma": "2738/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-01-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dr. Seres",
+        "Képviselő keresztneve": "Ábel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "159",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "964 265 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "206",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 445 837 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "637 393 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "640 970 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Együtt a Kisangyalokkal Mozgáskorlátozott gyermekeket támogató Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

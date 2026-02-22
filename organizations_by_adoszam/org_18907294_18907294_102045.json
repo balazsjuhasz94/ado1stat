@@ -1,0 +1,264 @@
+{
+  "search_adoszam": "18907294",
+  "scraped_at": "2026-02-14T14:01:06.238253",
+  "organization_id": "102045",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kék Erdő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4079 Debrecen, Vércse utca 12.",
+      "x_koordináta": "47.4721845",
+      "y_koordináta": "21.7373358",
+      "adószám": "18907294-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-03",
+      "statisztikai_számjel": "18907294-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Szenzoros hiperszenzitivitással küzdő gyermekek segítése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002210",
+      "régi_nyilvántartási_száma": "2210/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-09",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hornyák",
+        "Képviselő keresztneve": "Mariann",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sándor-Molnár",
+        "Képviselő keresztneve": "Helga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0161",
+        "Leírás": "Növénytermesztési szolgáltatás"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8621",
+        "Leírás": "Általános járóbeteg-ellátás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4751",
+        "Leírás": "Textil-kiskereskedelem"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4761",
+        "Leírás": "Könyv-kiskereskedelem"
+      },
+      {
+        "Kód": "4762",
+        "Leírás": "Újság-, papíráru-kiskereskedelem"
+      },
+      {
+        "Kód": "4763",
+        "Leírás": "Zene-, videofelvétel kiskereskedelme"
+      },
+      {
+        "Kód": "4764",
+        "Leírás": "Sportszer-kiskereskedelem"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4771",
+        "Leírás": "Ruházat kiskereskedelem"
+      },
+      {
+        "Kód": "4772",
+        "Leírás": "Lábbeli-, bőráru-kiskereskedelem"
+      },
+      {
+        "Kód": "4774",
+        "Leírás": "Gyógyászati termék kiskereskedelme"
+      },
+      {
+        "Kód": "4775",
+        "Leírás": "Illatszer-kiskereskedelem"
+      },
+      {
+        "Kód": "4776",
+        "Leírás": "Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme"
+      },
+      {
+        "Kód": "4777",
+        "Leírás": "Óra-, ékszer-kiskereskedelem"
+      },
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      },
+      {
+        "Kód": "4779",
+        "Leírás": "Használtcikk bolti kiskereskedelme"
+      },
+      {
+        "Kód": "4791",
+        "Leírás": "Csomagküldő, internetes kiskereskedelem"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "257 249 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "371 213 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "850 961 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

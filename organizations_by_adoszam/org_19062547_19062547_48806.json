@@ -1,0 +1,189 @@
+{
+  "search_adoszam": "19062547",
+  "scraped_at": "2026-02-14T12:40:14.382504",
+  "organization_id": "48806",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyulai Mentőalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5700 Gyula, Karácsonyi J. u. 11.",
+      "x_koordináta": "46.642537",
+      "y_koordináta": "21.2755766",
+      "adószám": "19062547-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-09-21",
+      "statisztikai_számjel": "19062547-9499-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Mentéstechnikai eszközök beszerzése, fejlesztése, új eljárások, eszközök, szakfelszerelések előállításának és rendszerbeállításának finanszírozása. A hiradástechnikai lánc fejlesztése. A személyi állomány munkahelyi körülményeinek javítása. A kiemelkedő munkát végző mentődolgozók jutalmazása. Az oktatás, továbbképzés és szakképzés támogatása. Más alapítványokkal való együttműködés a mentés, katasztrófaelhárítás, balesetmegelőzés érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0000275",
+      "régi_nyilvántartási_száma": "275/1998",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-09-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2014-08-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Petrovics",
+        "Képviselő keresztneve": "Hajnalka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szamos",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "467",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 251 137 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "477",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 481 045 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "465",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 557 632 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "437",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 526 861 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "358",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 433 404 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "380",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 538 481 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "452",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 024 001 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "402",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 106 806 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "313",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 926 309 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "312",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 197 328 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "306",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 735 864 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "277",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 842 643 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyulai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyulai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "GYULAI MENTŐALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "GYULAI MENTŐ ALAPTVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "GYULAI MENTŐ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "GYULAI MENTŐALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyulai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyulai Mentő Alapírtvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyulai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyulai Mentőalapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

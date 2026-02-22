@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18744619",
+  "scraped_at": "2026-02-14T14:54:46.131647",
+  "organization_id": "90169",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Gyermekekért, a Fiatalokért és a Családokért Közhasznú Egyesület",
+      "rövid_név": "Gy.F.Cs. Közhasznú Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Május 1. tér 10. fszt./4.",
+      "x_koordináta": "47.9721517",
+      "y_koordináta": "21.7238445",
+      "adószám": "18744619-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-04-08",
+      "statisztikai_számjel": "18744619-8891-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A gyermeknevelés könnítése, gyermekfelügyelet biztosítása, családi funkciók, családi kapcsolatok harmonizálása, erősítése, pszichés fejlődési zavarok mellőzése, a korai ellátása, gyermekek helyes szocializációjának elősegítése, a gyermekek képességeinek fejlesztése, erősítése, hagyományőrzés, értékközvetítés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0003682",
+      "régi_nyilvántartási_száma": "3682/2016",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-10-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Szabina",
+        "Képviselő titulusa": "Erzsébet",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "173 758 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "220 684 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "235 391 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "251 033 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "608 693 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "566 110 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "613 566 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Gyernekekért, a Fiatalokért és a Családokért Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Gyerekekért ,a Fiatalokért és a Családokért Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Gyermekekért , a Fiatalokért és a Családokért Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Gyerekekért és Fiatalokért és Családokért Közh. Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

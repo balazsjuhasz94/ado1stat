@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "19323770",
+  "scraped_at": "2026-02-21T13:46:10.047436",
+  "organization_id": "367633",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dedori Kulturális, Sport és Szociális Alapítvány",
+      "rövid_név": "Dedori Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Gáspár Zoltán utca 6. 9/50.",
+      "adószám": "19323770-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-10",
+      "statisztikai_számjel": "19323770-9499-569-06",
+      "x_koordináta": "46.228948",
+      "y_koordináta": "20.1946968"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az Alapítvány tevékenységét elsősorban Magyarország területén vég zi , határon átnyúló programjai kiterjedhetnek Európa országaira. Elsősorban, de nem kizárólag a nehéz anyagi körülmények között élő, hátrányos helyzetű gyermekek, fiatalkorúak és nappali tagozaton felsőfokú tanulmányokat folytató fiatal felnőttek életkörülményeinek, valamint életminőségük javítása, támogatása. Szabadidejük hasznos eltöltésének segítése, kulturális integrálódás elősegítése. Felkelteni az érdeklődésüket a színházba járás, a színházi kultúra iránt, remélve, hogy minél több fiatal kerülheti el az alkoholt, a drogot, az utcai bűnözést. Környezetvédelem, természetvédelem, természetjáró túrák népszerűsítése, szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001764",
+      "régi_nyilvántartási_száma": "1764/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Denucz",
+        "Képviselő keresztneve": "Jánosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "588 626 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "374 495 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

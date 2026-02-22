@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19164838",
+  "scraped_at": "2026-02-14T14:16:03.242879",
+  "organization_id": "106958",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Hypospadiasis Alapítvány",
+      "rövid_név": "Hypospadiasis Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1125 Budapest, Zalatnai utca 2.",
+      "x_koordináta": "47.5017195",
+      "y_koordináta": "19.0078344",
+      "adószám": "19164838-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-03",
+      "statisztikai_számjel": "19164838-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Anyagi támogatás nyújtása az olyan gyermekbetegek részére, akik nem tudják a saját finanszírozású hypospadias műtétet kifizetni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012546",
+      "régi_nyilvántartási_száma": "12546/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-09-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rády",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "Mária",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "442 544 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "639 156 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "526 177 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "767 518 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Hypospadiasis Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

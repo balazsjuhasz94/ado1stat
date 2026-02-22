@@ -1,0 +1,119 @@
+{
+  "search_adoszam": "18648441",
+  "scraped_at": "2026-02-21T13:33:01.956858",
+  "organization_id": "107823",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dogland Segítőkutya Alapítvány",
+      "rövid_név": "Dogland Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5600 Békéscsaba, Orosházi út 49.",
+      "x_koordináta": "46.662656",
+      "y_koordináta": "21.076285",
+      "adószám": "18648441-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-06-04",
+      "statisztikai_számjel": "18648441-9699-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Személyiségfejlesztő tréningek szervezése, szakemberek képzése. A terápiához szükséges fejlesztő eszközök, felszerelések beszerzése. Terápiás (rehabilitációs folyamatban alkalmazott) kutyák kiképzése, alkalmazása. Segítő kutyák kiképzése és a fogyatékossággal élő személyekhez történő eljuttatása. Olyan kiképző alkalmazása, aki az Országos Képzési Jegyzékben szereplő habilitációs kutyakiképző szakképesítéssel ernedlkezik. Karitatív segítségnyújtás, életvezetési tanácsadás. Ép-, sérült-, testi- és érzékszervi fogyatékos, halmozottan sérült, sajátos nevelési igényű, hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekek, fiatalok és felnőttek állatasszisztált terápián való részvételének támogatása. Kutatás, szakmai konferenciák szervezése, az azokon való megjelenítése. Leendő és már vizsgázott habilitációs, rehabilitációs, jelző, segítő és terápiás állat vásárlásának, tartásának, kiképzésének, vizsgáztatásának, orvosi ellátásának támogatása és vizsgáztatása. Az állat asszisztált terápia népszerűsítésének támogatása, médiában való részvétel, promóciós anyagok elkészítése, megjelentetése. Önkéntes segítői tevékenység megismertetése, terjesztése, szervezése. Szabadidős- és sport tevényenységek népszerűsítése, ifjuságvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002685",
+      "régi_nyilvántartási_száma": "2685/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-06-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pálfi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "222 333 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "191 069 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "161 465 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "314 244 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "453 627 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 419 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "397 994 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dogland segítőkutya Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dogland Segítőkutya Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dogland Segítőkutya Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dogland Segítőkutya Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

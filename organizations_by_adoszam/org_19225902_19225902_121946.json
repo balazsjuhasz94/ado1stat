@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19225902",
+  "scraped_at": "2026-02-21T12:30:41.208266",
+  "organization_id": "121946",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kagami-ryú Harcművészeti Egyesület",
+      "rövid_név": "Kagami-ryú Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3000 Hatvan, Dózsa György utca 6/ A. fszt./8.",
+      "x_koordináta": "47.6633396",
+      "y_koordináta": "19.6888776",
+      "adószám": "19225902-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-19",
+      "statisztikai_számjel": "19225902-9499-529-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Kagami-ryú stílus fejlesztése. Kagami-ryú stílus oktatása tagjai részére. Önvédelmi foglalkozások és képzések tartása, önvédelem és az önvédelmi ismeretek széles körű ismertetése Önvédelmi foglalkozások és képzések szervezése. Harcművészetek és a harcművészetekhez kapcsolódó kulturális ismeretek ápolása, bemutatása. Japán kultúra különös tekintettel a szamuráj kultúra hagyományainak ápolása, a hagyományokkal kapcsolatos ismeretterjesztés. Harcművészetekkel és a japán kultúrával kapcsolatos bemutatók, előadások szervezése. Fiatalkorúak és gyermekek részére önvédelmi foglalkozások szervezése. Harcművészeti tematikájú táborok szervezése fiatal- és felnőtt -korúak részére. Harcművészeti és önvédelmi oktatások szervezésével kapcsolatos feltételek biztosítása. Egyesület tagjai által tartott harcművészeti oktatások összehangolása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002926",
+      "régi_nyilvántartási_száma": "2926/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szmirtnik",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "131 304 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 856 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "390 994 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "552 400 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kagami-Ryú Harcművészeti Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19236050",
+  "scraped_at": "2026-02-21T14:13:45.067198",
+  "organization_id": "118878",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fanatic Táncsport Egyesület",
+      "rövid_név": "Fanatic TSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2093 Budajenő, Telki út 5.",
+      "x_koordináta": "47.553541",
+      "y_koordináta": "18.806167",
+      "adószám": "19236050-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-21",
+      "statisztikai_számjel": "19236050-8552-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Elősegíti az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését (állami feladat, 2004. évi I. törvény a sportról 49.§ c) pontja). A rendszeres testedzés szükségességének felismertetése és a táncsport, mint edzés- és életforma kialakítása, biztosítása elsősorban a versenysport területein. Versenytánc, mint sporttevékenység szervezése, valamint a versenytánc, mint sporttevékenység feltételeinek megteremtése. Gyermek és ifjúsági sport támogatása, Kapcsolatteremtés és közösségformálás kiszélesítése minden gyermek részére. A gyermekek egészséges testi fejlesztése, a biztonságos sporttevékenység folytatásához szükséges feltételek megteremtése. Együttműködés a magyar tánc- és sportszervezetekkel, szövetségekkel, állami szervekkel. Együttműködés és kapcsolatteremtés nemzetközi sportegyesületekkel, szervezetekkel. Versenyzési lehetőségek biztosítása országos és nemzetközi rendezvényeken (bajnokságokon, fesztiválokon).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007775",
+      "régi_nyilvántartási_száma": "7775/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-01-09",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Patona",
+        "Képviselő keresztneve": "Borbála",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-03",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Babócsy",
+        "Képviselő keresztneve": "Júlia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 095 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 653 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "328 837 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18788712",
+  "scraped_at": "2026-02-14T12:55:38.722117",
+  "organization_id": "57686",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nevelési, Oktatási Alapítvány Szent-Györgyi Albert szellemében",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1093 Budapest, Lónyay utca 4-8.",
+      "x_koordináta": "47.4874576",
+      "y_koordináta": "19.0613368",
+      "adószám": "18788712-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-20",
+      "statisztikai_számjel": "18788712-8569-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Budapest IX. ker., Lónyai u. 4-8. sz. alatti iskola fenntartásának támogatása. Az ifjúság testi, szellemi és lelki fejlődésének elősegítése érdekében, a meglévő intézmények fejlesztéséhez való hozzájárulás. Oktató, gondozó közösségek szervezése, az ifjúság nevelése. Ösztöndíjak odaítélése. Az idősek és fiatalok egymást segítő szolgáltatásainak megszervezése. Szakkiadványok szerkesztése, támogatása. Sportrendezvények támogatása, az egészséges életmódra nevelés széles körű terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012291",
+      "régi_nyilvántartási_száma": "12291/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bokó",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-04-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "942 308 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "144",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 627 742 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "139",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 064 048 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 883 795 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nevelési, Oktatási Alapítvány Szent-Györgyi Albert szellemében"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

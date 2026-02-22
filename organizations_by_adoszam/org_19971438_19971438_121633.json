@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "19971438",
+  "scraped_at": "2026-02-21T14:23:36.759473",
+  "organization_id": "121633",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dunapataji Községi Sportegyesület",
+      "rövid_név": "Dp.K.S.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6328 Dunapataj, Vasút utca 2.",
+      "x_koordináta": "46.644061",
+      "y_koordináta": "19.000417",
+      "adószám": "19971438-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19971438-9319-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportegyesület a rendszeres sportolás, versenyzés, testedzés, az ilyen irányú igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása céljából létrehozott civil szervezet. A Sportegyesület nemre, nemzetiségre, korra, világnézetre, vallási hovatartozásra tekintet nélkül tömöríti tagjait és számukra lehetőségei keretei között egyesületi életet és sportolási alkalmat teremt. A Sportegyesület támogatja tagságának és a lakosságnak szabadidő sportját, valamint a diáksportot. Elősegíti a fiatal, tehetséges sportolók kibontakozását; szakosztályai révén a hazai és nemzetközi versenyeken, bajnokságokon, kupákban és mérkőzéseken való részvételét, illetve ilyeneket rendez. Hozzájárul a hazai sportélet céljainak megvalósításához, a válogatott keretek működéséhez. A Sportegyesület céljainak megvalósítása érdekében - a jogszabályokban meghatározott keretek között - nemzetközi tevékenységet is folytathat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0000381",
+      "régi_nyilvántartási_száma": "381/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-01-31",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Takács",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2030-01-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "292 180 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "247 068 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "378 338 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "289 930 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "315 061 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DUNAPATAJI KSK"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dunapataji KSK"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Dunapataji Községi Sportegyesület",
+        "Év": "2026"
+      }
+    ]
+  },
+  "error": null
+}

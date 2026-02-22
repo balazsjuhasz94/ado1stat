@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18750676",
+  "scraped_at": "2026-02-21T13:30:51.301277",
+  "organization_id": "54085",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gerjen Jövőjéért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7134 Gerjen, Béke tér 1.",
+      "x_koordináta": "46.493073",
+      "y_koordináta": "18.9026593",
+      "adószám": "18750676-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-18",
+      "statisztikai_számjel": "18750676-9499-569-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Gerjen község értékeinek védelme, megtartása és népszerűsítése. Az alapítvány kiemelt célja a helyi identitás megerősítését szolgáló tevékenységek támogatása, a környezeti, kulturális értékek megőrzése, népszerűsítése, a település múltjának és jelenének megismerésére irányuló tudományos kutatások és ismeretterjesztő programok megvalósulásának elősegítése, továbbá minden olyan projekt, rendezvény támogatása, mely közvetve vagy közvetlenül hozzájárul a közösség és a település fejlesztéséhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000161",
+      "régi_nyilvántartási_száma": "161/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-06-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Széll",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "82 267 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 108 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 615 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "434 445 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "401 836 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gerjen Jövőjéért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gerjen Jövőjéért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

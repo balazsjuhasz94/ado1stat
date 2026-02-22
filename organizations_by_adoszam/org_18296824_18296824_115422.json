@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18296824",
+  "scraped_at": "2026-02-14T12:54:46.573647",
+  "organization_id": "115422",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Törökbálinti Brazil Jiu Jitsu Sportegyesület",
+      "rövid_név": "T.B.J.J. SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2045 Törökbálint, Meggyes utca 24.",
+      "x_koordináta": "47.5148835",
+      "y_koordináta": "19.0560554",
+      "adószám": "18296824-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-10-01",
+      "statisztikai_számjel": "18296824-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "- Elsősorban sportszervezetként különböző sportágak utánpótlás-nevelésének fejlesztése. - Másodsorban felnőtt sportolók sportolási lehetőségének támogatása. - Verseny-és eseményszervezés támogatása a sport területén. - Továbbá az ifjúság egészséges életmódra nevelésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0014892",
+      "régi_nyilvántartási_száma": "14892/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-18",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szekeres",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "518 655 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "609 406 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "955 931 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 099 353 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 235 680 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 931 269 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budaörsi Brazil Jiu Jitsu és Judo Integrált Küzdősport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budaörsi Brazil Jiu Jitsu és Judo Integrált Küzdősport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Törökbálinti Brazil Jiu Jitsu Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18753095",
+  "scraped_at": "2026-02-14T14:02:41.817372",
+  "organization_id": "54987",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cserháti Szent Hubertus Vadásztársaság",
+      "rövid_név": "Cserháti Szent Hubertus Vt.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2660 Balassagyarmat, Bérczi Károly utca 2.",
+      "x_koordináta": "48.0744698",
+      "y_koordináta": "19.3065032",
+      "adószám": "18753095-2-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-07-01",
+      "statisztikai_számjel": "18753095-9329-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Vadásztársaság célja, hogy az egyesületekre; a vadgazdálkodásra és a vadászatra; a fegyver és a lőszer tartására, illetve használatára vonatkozó jogszabályok; a környezet- és természetvédelmi előírások megtartásával és megtartatásával, valamint szakszerű és tervszerű vadgazdálkodással óvja a vadon élő állatokat, azok élőhelyét, gondozza a vadállományt, és emellett a tagjai, és vendégei részére kulturált vadászati lehetőséget biztosítson. További célja a vadászati kultúra ápolása érdekében a Vadásztársaság kezelésében lévő ingatlan(ok)ban a magyar vadászati hagyományok, mint szellemi kulturális örökség bemutatása és ezen ismeretek átadása, továbbá Mindszenty bíboros életét bemutató, méltó emlékhely kialakítása, zarándokhely létrehozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0002010",
+      "régi_nyilvántartási_száma": "2010/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-18",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Barna",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "0111",
+        "Leírás": "Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése"
+      },
+      {
+        "Kód": "0170",
+        "Leírás": "Vadgazdálkodás, vadgazdálkodási szolgáltatás"
+      },
+      {
+        "Kód": "4632",
+        "Leírás": "Hús-, húskészítmény nagykereskedelme"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "750 902 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "679 629 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "843 284 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

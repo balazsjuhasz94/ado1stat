@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19324283",
+  "scraped_at": "2026-02-21T14:13:48.223092",
+  "organization_id": "368027",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KEREKDOMBÉRT Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6060 Tiszakécske, Galagonya utca 49.",
+      "adószám": "19324283-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-18",
+      "statisztikai_számjel": "19324283-9499-529-03",
+      "x_koordináta": "46.947026",
+      "y_koordináta": "20.0480441"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület célja az egyesült tagjainak, támogatóinak közösségé szervezése a helység /Tiszakécske-Kerekdomb városrésze/ vidékmegtartó erejének növelése, a vidék fejlesztése. A város-vidék kapcsolatának harmonizálása és fenntarthatóvá tétele. A hagyományos falusi kultúra értékeinek megőrzése, dokumentálása, továbbadása, népszerűsítése. Az idősödő, illetve a fiatal lakosok segítése, támogatása. A lakóhely és környezetének tisztántartása. Szép, rendezett, kulturált környezet kialakítása, fenntartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003948",
+      "régi_nyilvántartási_száma": "3948/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sipka",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "328 750 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

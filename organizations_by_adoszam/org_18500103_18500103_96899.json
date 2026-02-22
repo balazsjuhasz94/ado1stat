@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18500103",
+  "scraped_at": "2026-02-21T13:17:13.055713",
+  "organization_id": "96899",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csákvári Természetjáró Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8083 Csákvár, Rákóczi utca 66.",
+      "x_koordináta": "47.396261",
+      "y_koordináta": "18.4638",
+      "adószám": "18500103-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-05-07",
+      "statisztikai_számjel": "18500103-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Egészséges életmódra nevelés és a természetjárás népszerűsítése; Magyarország különböző tájainak felkeresése, megismerése, illetőleg megismertetése másokkal is, mely tevékenység szervezett túrák keretében zajlana; a környezeti nevelés elősegítése; természetvédelmi és környezetvédelmi oktatótevékenység, illetőleg programok szervezése; hasonló jellegű társadalmi szervezetekkel való kapcsolatfelvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0002303",
+      "régi_nyilvántartási_száma": "2303/2006",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Boros",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Tibor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-05-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "146 529 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "165 774 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "200 224 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 076 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 352 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 884 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "428 251 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csákvári Természetjáró Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csákvári Természetjáró Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csákvári Természetjáró Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csákvári Természetjáró Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

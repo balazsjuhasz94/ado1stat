@@ -1,0 +1,127 @@
+{
+  "search_adoszam": "19213255",
+  "scraped_at": "2026-02-14T14:48:44.076264",
+  "organization_id": "116287",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Inkluzív Jövő Közhasznú Alapítvány",
+      "rövid_név": "Inkluzív Jövő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1075 Budapest, Rumbach Sebestyén utca 11-13.",
+      "x_koordináta": "47.4977049",
+      "y_koordináta": "19.0212708",
+      "adószám": "19213255-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-21",
+      "statisztikai_számjel": "19213255-8810-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány kiemelt célja megváltozott munkaképességű, elsősorban fogyatékossággal élő személyek társadalmi integrációjának segítése Magyarországon és nemzetközi kooperációban egyaránt, a nyílt munkahelyi integráción keresztül a gazdasági egyenlőtlenségek csökkentése és ezáltal a szociális ellátórendszertől való függés minimalizálása érdekében. Az Alapítvány célja továbbá a tágabb társadalmi érzékenyítés, stigmatizáció- és diszkrimináció csökkentése, a Fogyatékossággal Élő Személyek Jogairól szóló ENSZ egyezmény implementációjának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012862",
+      "régi_nyilvántartási_száma": "12862/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-15",
+      "alkalmazottak_száma": "8",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-31",
+      "bankszámlaszám": "16200106-11654940",
+      "számlavezető_pénzintézet_neve": "MagNet Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pásztor",
+        "Képviselő keresztneve": "Sára",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7820",
+        "Leírás": "Munkaerőkölcsönzés"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 907 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "539 607 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "538 786 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "631 852 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Inkluzív Jövő Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

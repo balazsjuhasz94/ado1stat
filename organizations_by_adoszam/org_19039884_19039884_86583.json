@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "19039884",
+  "scraped_at": "2026-02-14T12:25:50.950778",
+  "organization_id": "86583",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nektek Ugatunk Állatvédő Egyesület",
+      "rövid_név": "Nektek Ugatunk Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9407 Sopron, Üdülő sor 2.",
+      "x_koordináta": "47.7176109",
+      "y_koordináta": "16.6241247",
+      "adószám": "19039884-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-07-03",
+      "statisztikai_számjel": "19039884-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az állatvédelem támogatása, mely célkitűzést az egyesület a veszélybe, illetve utcára került állatok, különös tekintettel a kutyák, illetve macskák megmentésével, illetve örökbe adásával kívánja ellátni. Természetvédelmi kultúra fejlesztése, a természet védelmével, és az állatvédelemmel kapcsolatos ismeretek oktatása, ismeretterjesztés, a társadalom- elsősorban az ifjúság- a természet, különösen az állatvilág megismerésére, szeretetére való nevelése. Együttműködés az önkormányzatokkal, állatvédelmi hatóságokkal az állatvédelemre irányuló feladatok, célkitűzések megvalósításában a helyi, városi és az országos állatvédelmi feladatok végrehajtása érdekében. Az állattartási kultúra fejlesztése, az állattartóknak az előírások megtartására és szakmai ismeretek bővítésére való nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063024",
+      "régi_nyilvántartási_száma": "63024/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tölli-Molnár",
+        "Képviselő keresztneve": "Beáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "569",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 645 162 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "570",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 014 659 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "753",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 578 121 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "803",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 649 757 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "718",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 897 333 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nektek Ugatunk Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nektek Ugatunk Állatvédő Egyesüle"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

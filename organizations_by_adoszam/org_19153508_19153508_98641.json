@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19153508",
+  "scraped_at": "2026-02-21T13:16:06.874561",
+  "organization_id": "98641",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nagybaracskai Kulturális Egyesület",
+      "rövid_név": "Bajai Életfa Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6527 Nagybaracska, Árpád utca 7.",
+      "x_koordináta": "46.2086882",
+      "y_koordináta": "18.9624622",
+      "adószám": "19153508-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-10",
+      "statisztikai_számjel": "19153508-9020-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A néptánc, népzene, népszokások és népművészeti hagyományok ápolása, terjesztése, művészi szinten való bemutatása. - Részt vesz a magyar népi kultúra fejlesztésében, néptánc, népzene terjesztésében és a nemzeti kulturális örökség megóvásában. - Ismeretterjesztő előadásokkal segíti a magyar kulturális örökség megismerését, a hagyományok életben tartását és megóvását. - Elősegíti a tagok és más érdeklődők folklór-szakmai képzését. - A szabadidő tartalmas eltöltésének alternatívájaként egyre több fiatalt szándékozik bevonni az általa támogatott nagybaracskai néptáncegyüttesek, és a népdalkör csoportjaiba. - Segítséget nyújt az oktatási és kulturális intézményeknek a népi hagyományok megismertetésében, ápolásában, terjesztésében. - Alkotó tevékenység megszervezése, megvalósítása, valamint művészi alkotómunka sokirányú támogatása, kézműves, tárgyalkotó népművészet. - A természetes életmód, egészséges táplálkozás és mozgás ismertetése, népszerűsítése, támogatása, ennek kapcsán környezettudományosságra, természetvédelemre nevelés. Célunk minden korosztály számára elérhetővé tenni tevékenységeinket. - A magyar étkezési kultúra színvonalának emelése, a táplálkozási szokások változtatása, a magyar gasztronómia hagyományainak életben tartása, a magyar konyha elismertségének növelése belföldön és külföldön egyaránt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003769",
+      "régi_nyilvántartási_száma": "3769/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Andócsi",
+        "Képviselő keresztneve": "Adél",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "172 439 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "431 052 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

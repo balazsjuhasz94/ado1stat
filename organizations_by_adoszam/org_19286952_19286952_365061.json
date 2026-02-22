@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19286952",
+  "scraped_at": "2026-02-14T12:21:19.535800",
+  "organization_id": "365061",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jeromos Állatmentő és Természetvédő Egyesület",
+      "rövid_név": "Jeromos Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6500 Baja, Herceg F. utca 1.",
+      "adószám": "19286952-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-16",
+      "statisztikai_számjel": "19286952-9499-529-03",
+      "x_koordináta": "46.1826049",
+      "y_koordináta": "18.958257"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, a gazdátlan állatok problémájának térségi megoldása. Környezetvédelem, a természeti értékek megóvása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003863",
+      "régi_nyilvántartási_száma": "3863/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-02-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-15",
+      "alkalmazottak_száma": "6",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Heiblné Cserba",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kübler",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nápora",
+        "Képviselő keresztneve": "Márk",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "836",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 477 429 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "985",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 583 667 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1053",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 964 546 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

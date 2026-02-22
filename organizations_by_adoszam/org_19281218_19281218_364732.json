@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19281218",
+  "scraped_at": "2026-02-14T12:41:11.170007",
+  "organization_id": "364732",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PICi Reménysugár Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1164 Budapest, Vidámvásár utca 98.",
+      "adószám": "19281218-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-08",
+      "statisztikai_számjel": "19281218-9499-569-01",
+      "x_koordináta": "47.5177216",
+      "y_koordináta": "19.2332886"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "-Bachraty Dániel és Bachraty Lilien mindennapi éltének segítése, - Koraszülött és sérült gyermekeket nevelő családok összeismertetése, segítése, tapasztalat csere és konzultáció lehetősége, - A Magyarországon elérhető fejlesztése, terápiák összegyűjtése, bemutatása az érintettek körében, - A sérült és fogyatékkal élők társadalmi elfogadásának elősegítése, - Kórházi koraszülött- és gyermekosztályok támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012979",
+      "régi_nyilvántartási_száma": "12979/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-03-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Polgár",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "235",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 041 549 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "226",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 756 471 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "235",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 754 380 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

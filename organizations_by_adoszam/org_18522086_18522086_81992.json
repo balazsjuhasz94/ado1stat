@@ -1,0 +1,98 @@
+{
+  "search_adoszam": "18522086",
+  "scraped_at": "2026-02-21T14:21:09.457462",
+  "organization_id": "81992",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Méntelek Tanyaháromszög Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6008 Kecskemét, Méntelek 205.",
+      "x_koordináta": "46.978187",
+      "y_koordináta": "19.575922",
+      "adószám": "18522086-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-02-26",
+      "statisztikai_számjel": "18522086-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Településfejlesztési tevékenység",
+      "céljának_leírása": "A település fejlesztése és a falusi turizmus népszerűsítése érdekében -Kecskemét-Méntelek területén a falusi turizmushoz kapcsolódó szolgáltatások és infrastruktúra (falusi szálláshelyek, turisztikai programok és attrakciók, egyéb szolgáltatások) kialakításának elősegítése, valamint a tagok képviselete és érdekvédelme.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0002977",
+      "régi_nyilvántartási_száma": "2977/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-12-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Istvánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "52 734 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "76 704 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "110 739 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "317 924 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Méntelek Tanyaháromszög Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Méntelek Tanyaháromszög"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Méntelek Tanyaháromszög Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Méntelek Tanyaháromszög Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Méntelek Tanyaháromszög Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

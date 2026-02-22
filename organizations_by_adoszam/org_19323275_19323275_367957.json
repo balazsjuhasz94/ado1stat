@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19323275",
+  "scraped_at": "2026-02-14T12:20:45.265442",
+  "organization_id": "367957",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SpartaForce az Állatok Védelméért Egyesület",
+      "rövid_név": "SpartaForce",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1138 Budapest, Róbert Károly körút 16/A.",
+      "adószám": "19323275-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-04",
+      "statisztikai_számjel": "19323275-9499-529-01",
+      "x_koordináta": "47.5419967",
+      "y_koordináta": "19.0636525"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, környezetvédelem. Az egyesület tevékenysége állatok mentése, kóbor állatok biztonságba helyezése, sérült, megkínzott állatok rehabilitálása, örökbeadások lebonyolítása, ideiglenes befogadók és örökbefogadók edukációja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017808",
+      "régi_nyilvántartási_száma": "17808/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Boleska",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "Ivett",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "815",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 464 416 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

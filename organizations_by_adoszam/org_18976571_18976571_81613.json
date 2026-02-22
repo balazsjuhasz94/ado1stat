@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18976571",
+  "scraped_at": "2026-02-21T14:29:18.362284",
+  "organization_id": "81613",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Biomedikálisan a gyermekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7054 Tengelic, Óvoda utca 5.",
+      "x_koordináta": "46.5254808",
+      "y_koordináta": "18.7080212",
+      "adószám": "18976571-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-27",
+      "statisztikai_számjel": "18976571-9499-569-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Alapítvány annak a tartós és közérdekű célnak a folyamatos megvalósítására jön létre, hogy anyagilag és szakmailag támogassa az idegrendszeri éretlenséggel, autoimmun neurodegeneratív betegséggel élő gyermekek és felnőttek (a továbbiakban: betegek) jobb ellátását, gondozását lehetővé tevő elméleti és gyakorlati feladatok megoldását. Az alapítvány a céljai megvalósítása érdekében a betegek speciális kezelésének (neurofeedback, Tomatis, kognitiv és beszédfejlesztő terápiák) biztosítását kiemelten fontosnak tartja, így az ehhez szükséges berendezések, eszközök, helyszínek, képzett szakemberek felkutatásában támogató segítséget nyújt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000177",
+      "régi_nyilvántartási_száma": "177/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-01-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "981805000",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Merész",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2023-01-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 391 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 909 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 023 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "274 701 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 680 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Biomedikálisan a gyermekekért alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Biomedikálisan a gyermekekért alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

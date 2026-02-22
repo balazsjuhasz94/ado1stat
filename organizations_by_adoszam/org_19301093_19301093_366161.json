@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19301093",
+  "scraped_at": "2026-02-14T12:56:34.313405",
+  "organization_id": "366161",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Maccskaland Állat- és Gazdisegítő Alapítvány",
+      "rövid_név": "Maccskaland Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5720 Sarkad, Epreskert utca 14.",
+      "adószám": "19301093-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-26",
+      "statisztikai_számjel": "19301093-9499-569-04",
+      "x_koordináta": "46.7713827",
+      "y_koordináta": "21.3631062"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az utcán, gyepmesteri telepeken élő, kóbor, gazdátlan balesetes vagy beteg, avagy rossz tartási körülmények között lévő állatok, de főként macskák mentése, orvoshoz juttatása, kezelése, ivartalanítása, rehabilitációja és gazdihoz juttatása. A helyes állattartással kapcsolatos ismeretek terjesztése, szemléletformálás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002776",
+      "régi_nyilvántartási_száma": "2776/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentiványi",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "168",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 570 602 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "183",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 846 444 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

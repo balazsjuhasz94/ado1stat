@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18017427",
+  "scraped_at": "2026-02-21T12:44:42.923726",
+  "organization_id": "79365",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sződligeti Segítő Kezek Közösségi Sport Egyesület",
+      "rövid_név": "Sződligeti Segítő Kezek KSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2133 Sződliget, Dr. Kemény József utca 18.",
+      "x_koordináta": "47.7307865",
+      "y_koordináta": "19.1383052",
+      "adószám": "18017427-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-02-23",
+      "statisztikai_számjel": "18017427-7311-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Sződliget Község területén a szabadidősport tevékenység lehetőségének a létrehozása és fenntartása, sportolásra alkalmas közösségi tereken, sporteszközök bérbe adása. Különféle vízi és szárazföldi sportágaknak szakosztályokban folytatott művelése, látványsportágak utánpótlás nevelése, valamint az ép fejlődés menetű és a speciális nevelési igényű (továbbiakban SNI) gyeremekek integrációja. Ezen gyermekek sport és egyéb tevékenységekben történő közös részvétele, fogyatékosság-barát szellemiségben nevelése, mely mindkét fél számára teret ad a fejlődésnek, a sport egyértelmű pozitív hatásain túlmutatóan is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0005703",
+      "régi_nyilvántartási_száma": "5703/2009",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-26",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Debreczi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "373 460 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "412 013 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "508 489 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

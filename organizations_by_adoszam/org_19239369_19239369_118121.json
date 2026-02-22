@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19239369",
+  "scraped_at": "2026-02-14T12:23:08.057042",
+  "organization_id": "118121",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sziámi Macska Fajtamentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1116 Budapest, Mélykút utca 4.",
+      "x_koordináta": "47.441296",
+      "y_koordináta": "19.0286",
+      "adószám": "19239369-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-02",
+      "statisztikai_számjel": "19239369-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Felhívni az emberek figyelmét a felelős állat t artásra a kijáró cicákra leselkedő veszélyforrásokra, és a lelkiismeretlen szaporítás köve tkez ményeire Magyarország egész területén. Az alapítvány célja továbbá az utcán élő sz i ámi macskák számának csökkentése , a macskakolóniák egészségügyi ellátása , továbbá még a va lóban rászoruló, k is j ö v edelem b ől élő állat a r t ók (legyen szó bármilyen állatorvosi költsége ihez történő hozz á járulásról) anyagi támogatása a macskák védelme és biztonsága érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012914",
+      "régi_nyilvántartási_száma": "12914/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-05-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11742173-26047175",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "699",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 188 317 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "671",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 427 173 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

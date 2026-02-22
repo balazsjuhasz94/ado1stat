@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18908044",
+  "scraped_at": "2026-02-21T12:31:18.156420",
+  "organization_id": "115952",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FŐNIX Táncegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7030 Paks, Búzavirág utca 45.",
+      "x_koordináta": "46.6121285",
+      "y_koordináta": "18.845267",
+      "adószám": "18908044-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-27",
+      "statisztikai_számjel": "18908044-8552-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Paks Városában és Térségében a tánc- és mozgásművészet, egyéb társ- és előadóművészetek maghonosítása, népszerűsítése és oktatása. E művészeti körében versenyek, túrák, utazások, táborok, képzése, kulturális gálaműsorok szervezése, az emberek egészségi állapotának javítása, jobb életminőségének elősegítése érdekében. Fontos céljának tekinti az ifjúság nevelését, a szabadidő hasznos eltöltését, a kulturált szórakozás megteremtését, valamint minden korosztály számára az egészséges életmód és szabadidősport gyakorlása feltételeinek biztosítását. Az egyesület célja továbbá a hátrányos helyzetű társadalmi csoportok, valamint a fogyatékosok sportjának támogatása, ezen belül is a fogyatékkal élő emberek és az egészséges emberek közötti érzékenyítés, a tánc nyelvén keresztül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002124",
+      "régi_nyilvántartási_száma": "2124/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-06-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-10-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-79647236",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hahn-Kovács",
+        "Képviselő keresztneve": "Noémi",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "388 495 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "254 874 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "230 277 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 952 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "479 559 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "550 521 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX Táncegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX Táncegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FŐNIX Táncegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

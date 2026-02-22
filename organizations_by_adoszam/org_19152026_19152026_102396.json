@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "19152026",
+  "scraped_at": "2026-02-21T12:31:26.477289",
+  "organization_id": "102396",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dravet Szindróma Magyarország Egyesület",
+      "rövid_név": "DSZME",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1118 Budapest, Csiki-hegyek utca 7. 10/30.",
+      "x_koordináta": "47.5291614",
+      "y_koordináta": "21.6422966",
+      "adószám": "19152026-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-24",
+      "statisztikai_számjel": "19152026-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Dravet szindrómával - egy ritka és nehezen kezelhető gyermekkori epilepszia fajtával - élők és családjaik, valamint a gyógykezelésükben, ellátásukban és oktatásukban résztvevők összefogása, segítése, érdekeik képviselete.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004985",
+      "régi_nyilvántartási_száma": "4985/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Soulavy",
+        "Képviselő keresztneve": "Gáborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "7912",
+        "Leírás": "Utazásszervezés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "671 235 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "795 398 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "809 738 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "550 137 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dravet Szindróma Magyarország Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

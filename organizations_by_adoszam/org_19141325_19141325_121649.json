@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19141325",
+  "scraped_at": "2026-02-14T14:35:33.263502",
+  "organization_id": "121649",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Soroptimist International Budapest CORVINUS Club Egyesület",
+      "rövid_név": "SI Budapest CORVINUS Club",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1121 Budapest, Lidérc utca 6.",
+      "x_koordináta": "47.4902317",
+      "y_koordináta": "19.060232",
+      "adószám": "19141325-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-08",
+      "statisztikai_számjel": "19141325-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Budapest CORVINUS Club Egyesület egy olyan non-profit, politikától, vallási, világnézeti hovatartozástól független szervezet, amelynek célja a nők helyzetének javítása és ennek érdekében összefogja azokat a nőket, akik tenni szeretnének saját, valamint tágabb környezetük javításáért, saját kiemelkedő képességeik és szakmai tudásuk felhasználásával. Az Egyesület támogat és maga is szervez olyan akciókat, amelyek lehetőséget teremtenek a nők és lányok életének átalakítására, jobbítására. Céljait és küldetését tagjaiból álló nemzetközi hálózatával és a nemzetközi kapcsolatainak segítségével éri el. Magas etikai normák. Emberi jogok mindenkinek. Egyenlőség, fejlődés és béke a nemzetközi megértés és jóakarat előmozdításával. A helyi, nemzeti és nemzetközi közösségek szolgálata. Aktív részvétel a döntéshozatalban a társadalom minden szintjén. Aktívan dolgozzon a Soroptimist International és a Föderáció céljaiért, amelyeket a SIE alapszabálya ír le.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017140",
+      "régi_nyilvántartási_száma": "17140/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jakab",
+        "Képviselő keresztneve": "Melinda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-12-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kohanecz",
+        "Képviselő keresztneve": "Margit",
+        "Képviselő titulusa": "Veronika",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-12-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "199 627 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "449 857 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 441 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "678 447 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SI Budapest CORVINUS Club"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

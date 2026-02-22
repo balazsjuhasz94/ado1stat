@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "19153625",
+  "scraped_at": "2026-02-21T13:04:02.107461",
+  "organization_id": "102434",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Apró Csodák Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2831 Tarján, Sport utca 14.",
+      "x_koordináta": "47.6001782",
+      "y_koordináta": "18.5145091",
+      "adószám": "19153625-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-09",
+      "statisztikai_számjel": "19153625-9499-569-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A KEM MERI Szent György Központban (Tarján) lakó fogyatékkal élő gyermekek, felnőttek segítése és életminőségének javítása, társadalmi integrációjuk elősegítése, továbbá a fogyatékkal élő emberekkel foglalkozó szakemberek szakmai fejlődésének támogatása. - szabadidős és kulturális programok, illetve táborok szervezése, a fogyatékkal élőket segítő integrációs tevékenységek megvalósítása, - a fogyatékkal élő gyermekek és felnőttek számára fejlesztő és speciális eszközök kölcsönzése, beszerzése, - a fogyatékkal élő emberekkel foglalkozó szakemberek számára tanulmányutak támogatása, továbbképzési lehetőségek szervezése, szakmai könyvtár létrehozása, kiadványok szerkesztése és terjesztése, mindezen tevékenységek támogatása, - az alapítvány támogatja a társadalmi életben való aktív részvétel minden formáját a fogyatékkal élő emberek érdekeinek érvényesülése érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001104",
+      "régi_nyilvántartási_száma": "1104/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-22",
+      "bankszámlaszám": "11740009-24111623",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rácz-Udvari",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Józsefné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács-Dunai",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kunyik",
+        "Képviselő keresztneve": "Zsoltné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "408 527 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "441 002 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "458 830 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

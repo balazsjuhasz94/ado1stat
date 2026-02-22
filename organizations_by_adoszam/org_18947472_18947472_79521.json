@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18947472",
+  "scraped_at": "2026-02-14T15:10:06.561800",
+  "organization_id": "79521",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ne Dobd Ki Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2144 Kerepes, Szabadság út 170.",
+      "x_koordináta": "47.5590705",
+      "y_koordináta": "19.2816802",
+      "adószám": "18947472-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-08",
+      "statisztikai_számjel": "18947472-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A felajánlók által az alapítvány részére adományozott elektronikus és egyéb eszközök, tárgyak továbbítás a rászoruló intézmények részére, magánszemélyek javára. Az alapítvány magánszemélyek, intézmények támogatását tűzik ki célul. Ennek érdekében fogadja az adományokat a rászorulók számára. Az alapítvány alapvető tevékenysége, hogy a mások számára felesleges, nem használt, de még használható állapotban lévő műszaki eszközöket begyűjtse a felajánlóktól, valamint a hibás, de még javítható eszközök javíttatásáról gondoskodjon. Az alapítvány elsődleges egészségügyi, ápolási és egyéb rászoruló intézmények részére biztosítja az adományok fogadását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003918",
+      "régi_nyilvántartási_száma": "3918/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-12-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ellenbacher",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "186 690 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "259 375 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "570 326 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "636 958 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "573 252 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ne Dobd Ki Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ne Dobd Ki Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

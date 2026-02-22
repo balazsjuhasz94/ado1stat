@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19281005",
+  "scraped_at": "2026-02-14T13:13:16.093085",
+  "organization_id": "364866",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Czapáry Macskaház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1111 Budapest, Bertalan Lajos utca 22. 1/3.",
+      "adószám": "19281005-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-08",
+      "statisztikai_számjel": "19281005-9499-569-01",
+      "x_koordináta": "47.479785",
+      "y_koordináta": "19.056871"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "- Macskák (szükség esetén kisebbrészt kutyák) befogása, mentése, ellátása, elhelyezésükről való gondoskodás, orvosi kezelése, etetése, ivartalanítása, gazdihoz adása; - interneten keresztül a macska-örökbefogadás és ivartalanítás népszerűsítése; - sérült/beteg macskák (kisebbrészt kutyák) elhelyezése, rehabilitációja, gyógyítása; - kennelek/helyiségek építése, fenntartása macskák részére; - macskák (kisebbrészt kutyák) szállítása; - a macskaivartalanításról, a felelős állattartásról, az állatokról való gondoskodásról online/ vagy élő felvilágosító tevékenység (írás, oktatás, előadás); - a macskákról szóló irodalom támogatása; - szociálisan hátrányos helyzetű állattartóknak segítségnyújtás az ivartalanítás költségeihez; - ivartalanítási akciók levezénylése; - tanácsadás az ivartalanítással és az ivartalanítás utáni felépüléssel kapcsolatban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012989",
+      "régi_nyilvántartási_száma": "12989/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-01-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-11",
+      "bankszámlaszám": "11709019-21451607",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Czapáry",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "833 337 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "173",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 815 048 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 405 586 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

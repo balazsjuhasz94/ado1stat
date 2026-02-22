@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19086707",
+  "scraped_at": "2026-02-21T13:46:06.880249",
+  "organization_id": "102711",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kolor Darts Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Kakastánc utca 46.",
+      "x_koordináta": "47.793352",
+      "y_koordináta": "19.93602",
+      "adószám": "19086707-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-26",
+      "statisztikai_számjel": "19086707-9312-521-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A rendszeres sportolás (versenyzés), versenyek szervezése és lebonyolítása, az ilyen igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása. Az Egyesület igény szerint gondoskodik a támogatók dolgozóinak rendszeres sportolásáról, működési területén elősegíti az oktatási intézmények tanulóinak, továbbá a lakosság testnevelési és tagságának sporttevékenységét. Az Egyesület céljai megvalósítása érdekében a jogszabályok által meghatározott keretek között, nemzetközi tevékenységet is folytathat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002847",
+      "régi_nyilvántartási_száma": "2847/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-23",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyetvai",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-11-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "155 720 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "232 408 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "278 098 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "374 547 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kolor Darts Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

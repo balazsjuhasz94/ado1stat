@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18944620",
+  "scraped_at": "2026-02-14T14:36:31.375095",
+  "organization_id": "84944",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Edelényi Futók Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3780 Edelény, Borsodi út 142/C.",
+      "x_koordináta": "48.306828",
+      "y_koordináta": "20.746519",
+      "adószám": "18944620-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-11-27",
+      "statisztikai_számjel": "18944620-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "1. A sportkultúra, ezen belül a futás minél szélesebb körben való népszerűsítése. 2. Az aktív sportolás beépítése az emberek mindennapjaiba. Az egészséges életmód szemléletének kialakításában és megtartásában való közreműködés. Mozgásszegény életmód elleni küzdelem, példamutatás a fiatalok számára. 3. A sport segítségével felhívni az emberek figyelmét a környezet- és természetvédelem fontosságára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065764",
+      "régi_nyilvántartási_száma": "65764/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-06-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11734080-21455876",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Puskás",
+        "Képviselő keresztneve": "Béla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "297 830 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 982 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "498 090 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "611 384 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Edelényi Futók Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Edelényi Futók Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

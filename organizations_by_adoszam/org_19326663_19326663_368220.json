@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19326663",
+  "scraped_at": "2026-02-21T12:29:01.771554",
+  "organization_id": "368220",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Keren-OR Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1074 Budapest, Dohány utca 30/A. félemelet/5.",
+      "adószám": "19326663-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-21",
+      "statisztikai_számjel": "19326663-9499-569-01",
+      "x_koordináta": "47.5007717",
+      "y_koordináta": "19.0752592"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja gyermekek és idősek oktatása, valamint szociális segítése, támogatása. Az alapítvány a kurátor döntése alapján a gyerekek és idősek oktatása és szociális segítése körében részükre mind anyagi, mind pedig nem anyagi támogatást is nyújt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013276",
+      "régi_nyilvántartási_száma": "13276/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10300002-13305867-00014905",
+      "számlavezető_pénzintézet_neve": "MKB Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Izenberger",
+        "Képviselő keresztneve": "Shalom",
+        "Képviselő titulusa": "Dov",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "557 897 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

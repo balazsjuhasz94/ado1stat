@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18975628",
+  "scraped_at": "2026-02-21T13:35:34.916773",
+  "organization_id": "81050",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Őslakosok Elszármazottak és Vágáshutát Szerető Emberek Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3992 Vágáshuta, Akácfa utca 25.",
+      "x_koordináta": "48.427085",
+      "y_koordináta": "21.5438771",
+      "adószám": "18975628-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-06",
+      "statisztikai_számjel": "18975628-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A településen még fennmaradt természeti és épített örökségek hagyományőrző módszerekkel történő megóvása, fenntartása a jövő nemzedék számára. Hagyományőrző bemutatók, néprajzi előadások rendszeres szervezése. A gyermekek szemléletének környezettudatossá formálása, a sport, mozgás és a természet összehangolása. Túrák, táborok szervezése, oktatási és egyéb civil szervezetekkel együttműködve. A térség turisztikai és gazdasági vonzerejének erősítése. Gyalogos túra útvonalak (pihenőhelyek) fejlesztésében való részvétel. A működési területen belül feltárni és megtisztítani az illegálisan beszennyezett területeket. Az élhetőbb környezet kialakítása érdekében aktív részvétel a parlagfűmentesítésben, valamint más szervezetekkel együttműködve, parlagfű-mentesítő akciónap szervezése. Település fejlődése, annak szinten tartása és fejlesztése. Kulturális rendezvények szervezése és elősegítése. Hagyományőrző, gasztronómiai napok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065779",
+      "régi_nyilvántartási_száma": "65779/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-05",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ignácz",
+        "Képviselő keresztneve": "Jánosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ignácz",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kajati",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "193 227 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "221 692 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "255 368 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "393 312 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Őslakosok Elszármazottak és Vágáshutát Szerető Emberek Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19311803",
+  "scraped_at": "2026-02-14T13:35:29.214921",
+  "organization_id": "366598",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Guardians Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6791 Szeged, Gyalu utca 12.",
+      "adószám": "19311803-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-20",
+      "statisztikai_számjel": "19311803-9312-521-06",
+      "x_koordináta": "46.290035",
+      "y_koordináta": "20.0293638"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A civil szervezet célja: A tagjai részére sportolási lehetőségek széles körének biztosításával elősegítse a tagok egészségének megóvását és versenyzési lehetőség biztosítása a tagság számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003522",
+      "régi_nyilvántartási_száma": "3522/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-20",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiri",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-04-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "521 191 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 066 468 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

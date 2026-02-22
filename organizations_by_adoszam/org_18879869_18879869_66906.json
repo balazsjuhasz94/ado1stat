@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "18879869",
+  "scraped_at": "2026-02-21T14:12:39.134778",
+  "organization_id": "66906",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nyírtéti Református Egyházközség Jövőjéért Egyesület",
+      "rövid_név": "Nyírtéti Református Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4554 Nyírtét, Szabadság utca 99.",
+      "x_koordináta": "48.0106669",
+      "y_koordináta": "21.9222243",
+      "adószám": "18879869-2-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-23",
+      "statisztikai_számjel": "18879869-9491-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "Az ifjúság keresztény eszme- és értékrend alapján álló taníttatása, neveltetése. Segíteni és támogatni a keresztény eszmeiség terjesztését az óvodáskortól az öregkorig. A nemzeti és egyetemes keresztény értékek, hagyományok, megismertetése, ápolása. A régióban illetve a működési területünkön törekszünk az egyetemes keresztény értékrend, kultúra és hagyományok alapján álló életstílus fejlesztésére. Lehetőséget teremtünk a szabadidő közös, kulturált eltöltésére. Az egészséges életmód, és a környezetvédelem fontosságának megismertetése. Családi életre nevelés, házasságra felkészítés. Oktatás nevelés, gyermek és ifjúságvédelem. Káros szenvedélyek kialakulásának megelőzése. Karitatív munka végzése. Fiatalokból álló közösségek csoportépítő munkájának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0003792",
+      "régi_nyilvántartási_száma": "3792/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pappné dr. Papp",
+        "Képviselő keresztneve": "Nikoletta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9491",
+        "Leírás": "Egyházi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 826 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 298 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "330 555 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

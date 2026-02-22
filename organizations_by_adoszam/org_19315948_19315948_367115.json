@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19315948",
+  "scraped_at": "2026-02-14T12:35:33.236436",
+  "organization_id": "367115",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Catbaby Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5600 Békéscsaba, Magyar utca 37",
+      "adószám": "19315948-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-19",
+      "statisztikai_számjel": "19315948-9499-569-04",
+      "x_koordináta": "46.6780708",
+      "y_koordináta": "21.1093645"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Kóbor, kidobott, elárvult kölyök macskák mentése, befogadása, felnevelése, gondozása, valamint megfelelő gazdához juttatása. Utcán élő vemhes macskák befogadása, utcán élő vemhes macskák ivartalanítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002781",
+      "régi_nyilvántartási_száma": "2781/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Barbara",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "298",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 375 046 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "373",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 305 105 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

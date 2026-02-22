@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19279365",
+  "scraped_at": "2026-02-14T14:36:24.799581",
+  "organization_id": "101777",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Maitra-Bell Egészséges MozgásSziget Sport Egyesület",
+      "rövid_név": "Maitra-Bell SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2317 Szigetcsép, Kültelek utca 5. 2",
+      "x_koordináta": "47.3480586",
+      "y_koordináta": "19.050062",
+      "adószám": "19279365-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-21",
+      "statisztikai_számjel": "19279365-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A Maitra szanszkrit eredetű szó, szűkebb értelemben szeretetet jelent. Tágabb értelemben szeretetet, barátságot, összetartozást és közösséget. Hosszútávú célunk a tudatos egészségre nevelés. Ennek érdekében szervezünk és népszerüsítünk Szigetszentmiklóson és vonzáskörzetében olyan speciális helyes mozgásmintákat, mozgásformákat egyéni, vagy csoportos foglalkozások keretein belül, melyek a mozgásszervek egészségének prevenciója/rehabilitációja, megőrzése mellett a test minden szervére, szervrendszerére kihat. A korosztályokat tekintve széles skálán mozgunk, a csecsemőkortól a késő idős korig. -tudatos életszemlélet kialakítása - erkölcsi és közösségi tartásra nevelés - készség és képesség fejlesztése - testi és lelki egyensúly kialakítása - mobilitás, rugalmasság fejlesztése - állóképesség növelése -egészséges életmód népszerüsítése -prevenciós és rehabilitációs foglalkozások",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007820",
+      "régi_nyilvántartási_száma": "7820/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-20",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "107005127376298451100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Berta",
+        "Képviselő keresztneve": "Beatrix",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-03-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "675 609 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "600 188 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "690 377 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

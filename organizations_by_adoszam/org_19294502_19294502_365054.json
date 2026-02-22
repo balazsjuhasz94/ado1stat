@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19294502",
+  "scraped_at": "2026-02-14T12:35:22.414819",
+  "organization_id": "365054",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tegyünk a Beteg Gyerekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1212 Budapest, Kossuth Lajos utca 103. 5/23.",
+      "adószám": "19294502-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-29",
+      "statisztikai_számjel": "19294502-9499-569-01",
+      "x_koordináta": "47.4209474",
+      "y_koordináta": "19.0812203"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A súlyosan beteg, súlyos testi és szellemi fogyatékos gyermekek gyógyulásának segítése, családjaik anyagi támogatása. Gyermekkórházak fejlesztésének támogatása. Anyagi támogatás nyújtása olyan gyógyító eljárásokhoz, műtétekhez, amelyeket sem a kórház, sem az országos egészségbiztosítási pénztár nem tud támogatni. Orvosi eszközök, műszerek, berendezések, felszerelések beszerzésének támogatása. A felsorolt alapítványi célok megvalósításához szükséges anyagi források gyűjtése, illetve gazdálkodás útján történő gyarapítása. Külföldön elvégezhető életmentő vagy állapotjavító beavatkozások megvalósulásához anyagi segítségnyújtás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013000",
+      "régi_nyilvántartási_száma": "13000/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-08",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balázs-Fülöp",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "583",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 756 960 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "399",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 148 086 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "408",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 328 685 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

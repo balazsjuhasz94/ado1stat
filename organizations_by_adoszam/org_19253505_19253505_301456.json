@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19253505",
+  "scraped_at": "2026-02-14T12:41:13.272952",
+  "organization_id": "301456",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SEGÍTŐ KEZEK AZ ÁLLATOKÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2652 Tereske, Bem utca 13.",
+      "adószám": "19253505-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-11",
+      "statisztikai_számjel": "19253505-9499-569-12",
+      "x_koordináta": "47.947374",
+      "y_koordináta": "19.1957822"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány célja az állatvédelem, a bajba jutott házi és haszonállat állatok segítése és támogatása, állatmentés, állatorvosi ellátás és rehabilitáció, állatmenhelyek létrehozása, a mentett illetve gazdák által továbbtartani nem kívánt állatok átvétele, teljeskörű állatorvosi ellátása, oltása és ivartalanítása, azonosító chippel történő ellátása, gazdásítása, a lakosság informálása, felvilágosítása az ivartalanítás, chippel történő ellátás szerepéről és fontosságáról. Az Alapítvány fő cél megvalósulása érdekében együttműködik az állami, önkormányzati, gazdasági és társadalmi szervezetekkel. Az Alapítvány célja megvalósítása érdekében az alábbi feladatokat, közhasznú és egyéb tevékenységeket látja el: állatvédelmi oktatás, ismeretterjesztés az általános állatvédelem és a felelős állattartás tárgykörében, illetve annak elősegítése, támogatása (1998. évi XXVIII. tv. 43/A.§, 2011. évi CXC. tv. 1.§ (1)-(3) bekezdés) állatvédelmi őrszolgálat jellegű tevékenység (1998. évi XXVIII. tv 48/A. § (1) és (2) bekezdés) kóbor állatok ellátása, elhelyezése, illetve annak elősegítése, támogatása (1998. évi XXVIII. tv 48/A. (3) és (4) bekezdés, 164/2008 (XII.20.) FVM r. 5.§ (6) bekezdés állategészségügyi feladatok (2011. évi CLXXXIX. tv. 23. § (4) bekezdés 5.) ismeretterjesztő, esetenként jótékonysági rendezvények, bemutatók, szakmai kiállítások, kirándulások és táborozások szervezése fellépés az állatkínzás minden formájával szemben természet és az állatvédelem népszerűsítése érdekében kiadványokat és szóróanyagot készít és terjeszt, kapcsolatot épít médiumokkal állatmenhelyek létesítésének előkészítése, területvásárlás adományok gyűjtése és kiosztása minden olyan további tevékenység kifejtése, amely az Alapítvány céljának megvalósítása érdekében szükségesnek bizonyul az Alapítvány közhasznú szolgáltatásait bárki igénybe veheti az Alapítvány közvetlen politikai tevékenységet nem folytat, szervezete pártoktól független, azoktól támogatást nem kap és azoknak támogatást nem nyújt, képviselőjelöltet nem állít és nem támogat",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-01-0000787",
+      "régi_nyilvántartási_száma": "787/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Makrai",
+        "Képviselő keresztneve": "Krisztián",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "282",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 705 050 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

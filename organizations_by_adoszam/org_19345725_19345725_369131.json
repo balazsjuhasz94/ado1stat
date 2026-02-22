@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19345725",
+  "scraped_at": "2026-02-14T13:05:50.502704",
+  "organization_id": "369131",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "„MICÓKA ÉS ROZSDIKA BARÁTAI” MACSKAMENTŐ Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Jeruzsálem utca 2. 2. IV/3.",
+      "adószám": "19345725-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-21",
+      "statisztikai_számjel": "19345725-9499-529-10",
+      "x_koordináta": "47.7779594",
+      "y_koordináta": "19.9256706"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem. Az egyesület célja a kóbor, kidobott, beteg és/vagy sérült macskák mentése, befogadása, felnevelése, gondozása, szocializációja és rehabilitációja, valamint megfelelő gazdához juttatása, a felnőttek és gyermekek helyes álltatartásra nevelése, tanácsadás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0003057",
+      "régi_nyilvántartási_száma": "3057/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegedűs",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "158",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 573 030 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

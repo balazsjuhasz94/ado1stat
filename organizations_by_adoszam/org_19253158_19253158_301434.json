@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19253158",
+  "scraped_at": "2026-02-14T14:02:56.880681",
+  "organization_id": "301434",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vasúti Múzeum Palotabozsok Hagyományőrző Egyesület",
+      "rövid_név": "VMPH Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7727 Palotabozsok, Rákóczi Ferenc utca 34.",
+      "adószám": "19253158-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-26",
+      "statisztikai_számjel": "19253158-9499-529-02",
+      "x_koordináta": "46.1196392",
+      "y_koordináta": "18.6497101"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület alapvető céljának tekinti a vasútállomás (ma az Egyesület székhelye) épületében létrejött „Vasúti Múzeum Palotabozsok” kiállítás gondozását, bővítését, működtetését, mind szélesebb körben történő bemutatását. - Az egyesület célja közt szerepel továbbá a német nemzetiségi hagyományok, helyi szokások ápolása, hagyományőrző szakkörök, előadás-sorozatok, és német nemzetiségi programok (népismereti programok iskolásoknak, honismereti, vasútismereti projectnapok gyerekeknek és fiataloknak) szervezése. Ezek által az identitásuk erősítése, a nemzeti lét mind teljesebb megismerésének segítése. - Célja továbbá a palotabozsoki és a magyarországi németek, népi és keresztény kultúrájának, nyelvének, szokásainak felkutatása, megőrzése, gondozása és bemutatása. Palotabozsok egyházi örökségének ápolása, bemutatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003933",
+      "régi_nyilvántartási_száma": "3933/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ludvig",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 048 133 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "841 741 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

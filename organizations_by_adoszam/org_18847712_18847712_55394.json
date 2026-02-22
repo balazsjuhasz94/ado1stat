@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18847712",
+  "scraped_at": "2026-02-14T14:32:56.001904",
+  "organization_id": "55394",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ébredő Bolygó Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4324 Kállósemjén, Kiss Ernő utca 9.",
+      "x_koordináta": "47.8580841",
+      "y_koordináta": "21.9363288",
+      "adószám": "18847712-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-11-30",
+      "statisztikai_számjel": "18847712-9499-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja olyan tudás, tapasztalat átadása, ismeretek közvetítése, szemléletformálás, amellyel elérhető a szociális jólét, a méltányos életfeltételek lehetőségének biztosítása mindenki, így egyaránt a jelenlegi és a jövőbeli nemzedékek számára, azáltal, hogy közben elsajátítják azt a tudást, hogy hogyan lehet fenntartható módon hasznosítani a természeti erőforrásokat, elkerülni a káros hatásokat, különösen a környezet állapotában bekövetkező visszafordíthatatlan változásokat. Célunk tudatosítani az egyéni választás fontosságát, az egyén felelősségét a fenntartható fogyasztás megvalósulásában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002495",
+      "régi_nyilvántartási_száma": "2495/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-22",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pompár",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "130 517 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 558 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "282 301 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "689 242 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ébredő Bolygó Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

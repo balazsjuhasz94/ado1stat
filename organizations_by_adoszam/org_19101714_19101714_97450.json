@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "19101714",
+  "scraped_at": "2026-02-14T13:06:52.599356",
+  "organization_id": "97450",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Griff and Bulls Sport Egyesület",
+      "rövid_név": "G&amp;B SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1144 Budapest, Ond vezér útja 47. 8/32.",
+      "x_koordináta": "47.5066748",
+      "y_koordináta": "19.1506522",
+      "adószám": "19101714-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-12",
+      "statisztikai_számjel": "19101714-9312-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A labdarúgás sportág népszerűsítése, eredményességének növelése, a megfelelő szintű versenyzés tervezése és szervezése, utánpótlás nevelés, egészségre nevelés. Amatőr és vegyes versenyrendszerekben való részvétel, illetve ezek szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017046",
+      "régi_nyilvántartási_száma": "17046/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-12",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-05",
+      "bankszámlaszám": "12011351-01686217-00100006",
+      "számlavezető_pénzintézet_neve": "Raiffeisen Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdő-Lahner",
+        "Képviselő keresztneve": "Tas",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kövér",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "293 643 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "134 377 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 124 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "251 858 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "145",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 545 715 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Griff and Bulls Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Griff and Bulls Sport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

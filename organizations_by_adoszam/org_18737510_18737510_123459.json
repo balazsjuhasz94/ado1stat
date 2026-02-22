@@ -1,0 +1,120 @@
+{
+  "search_adoszam": "18737510",
+  "scraped_at": "2026-02-21T14:03:59.052084",
+  "organization_id": "123459",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Baracsi Négy Vándor Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2427 Baracs, Táncsics utca 27.",
+      "x_koordináta": "46.9127487",
+      "y_koordináta": "18.8650001",
+      "adószám": "18737510-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-03",
+      "statisztikai_számjel": "18737510-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "Baracs község helyi óvodájába járó óvodás korú gyermekeinek: kulturális, sport tevékenység, erdei táborok tartásához szükséges anyagi javak biztosítása környezeti kultúra, környezetvédelem programok szervezése, a szervezéshez szükséges pénz biztosítása, rendészeti, közbiztonsági feladatokkal kapcsolatos tevékenységek finanszírozása, betegségmegelőzés, gyógyítással kapcsolatos programok szervezése, a szervezéshez szükséges anyagi javak biztosítása, gyermek- és ifjúságvédelemmel kapcsolatos tevékenységek ellátása, az ehhez szükséges támogatások kifizetése, szociális gondoskodás elősegítése és fejlesztése, az ehhez szükséges anyagi javak biztosítása, hátrányos helyzetűek esélyegyenlőségének támogatása anyagilag, és nehéz helyzetben lévő gyermekek támogatása anyagilag.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001085",
+      "régi_nyilvántartási_száma": "1085/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fazekas",
+        "Képviselő keresztneve": "Kitti",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bebesi",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "180 127 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 548 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 858 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "208 772 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "395 086 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 011 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "344 544 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Baracsi Négy Vándor Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Baracsi Négy Vándor Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Baracsi Négy Vándor Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Baracsi Négy Vándor Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

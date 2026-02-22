@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19277947",
+  "scraped_at": "2026-02-21T13:08:39.857867",
+  "organization_id": "364695",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "RBE Vitorlás Sport Club",
+      "rövid_név": "RBE VSC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1192 Budapest, Vonás utca 9. fsz./2.",
+      "adószám": "19277947-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-03",
+      "statisztikai_számjel": "19277947-9319-521-01",
+      "x_koordináta": "47.4553986",
+      "y_koordináta": "19.1260437"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egészségmegőrzés-, prevenció-, rekreáció és egészséges életmód elősegítése érdekében minél szélesebb körben sportolási lehetőség biztosítása. Elősorban annak elősegítése, hogy minél többen biztonságosan tölthessék szabadidejüket vízen, vízi sportok végzésével, vizeink védelmének, a természet- és környezetvédelem szem előtt tartásával. A kedvtelési célú hajózás - úgy, mint szabadidő sport - feltételeinek megteremtése, fenntartása és fejlesztése, a vitorlás- és egyéb vízisportok népszerűsítése. Fentieken túl, minden egyéb egészségmegőrzést szolgáló sportolási lehetőség szervezése, támogatása. Az egészségmegőrzés-, prevenció-, rekreáció és egészséges életmód elősegítése, a sportolási lehetőség biztosítása, az ifjúsági utánpótlásnevelés, valamint a vizeink védelme, a természet- és környezetvédelem mint az Egyesület által végzett közhasznú tevékenységek, a 2011. évi CXCV. törvény 3/A. § (1) alapján meghatározott, a 2011. évi CLXXXIX. törvény 13. § (1) 4., 11. és 15. pontjaiban szabályozott egészséges életmód segítését célzó szolgáltatások, környezet- és természetvédelem, valamint sport, ifjúsági ügyek közfeladatokhoz kapcsolódnak, mely egyesületi közhasznú szolgáltatásokból az Egyesület tagjain kívül más is részesülhet. A Civil tv. 34.§ (1) bekezdésének d) pontja szerint az Egyesület közvetlen politikai tevékenységet nem folytat, szervezete pártoktól független és azoknak anyagi támogatást nem nyújt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017448",
+      "régi_nyilvántartási_száma": "17448/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-15",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hajduk",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 084 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "426 621 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "448 603 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

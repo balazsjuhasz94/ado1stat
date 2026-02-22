@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19317706",
+  "scraped_at": "2026-02-14T13:21:01.711377",
+  "organization_id": "367463",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ADNI JÓ KUPA BARÁTI KÖR Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8154 Polgárdi, Deák Ferenc utca 18. 1/7.",
+      "adószám": "19317706-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2025-10-13",
+      "statisztikai_számjel": "19317706-9499-569-07",
+      "x_koordináta": "47.0579167",
+      "y_koordináta": "18.3152957"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "1. Beteg gyermekek részére történő jótékonysági adománygyűjtés. 2. Hátrányos helyzetű gyermekek és családok részére történő jótékonysági adománygyűjtés. 3. Állatmenhelyek támogatása. 4. Általános iskolák támogatása. 5. Gyermekotthonok támogatása. 6. Idősotthonok támogatása. 7. Sportesemények rendezés és szervezése. 8. Egészségmegőrző programok szervezése, lebonyolítása. 9. Rászoruló, tehetséges, fiatal sportolók szociális támogatása. 10. Egészségmegőrző programok szervezése, lebonyolítása. 11. Együttműködés más társadalmi szervezetekkel, önkormányzatokkal, oktatási intézményekkel, a rászorulók felkutatása és támogatása érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001187",
+      "régi_nyilvántartási_száma": "1187/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-13",
+      "bankszámlaszám": "11600006-00000000-95618539",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 056 321 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

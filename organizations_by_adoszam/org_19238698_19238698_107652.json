@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19238698",
+  "scraped_at": "2026-02-21T13:18:24.084235",
+  "organization_id": "107652",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Duna Menti Katonai Hagyományőrző Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2113 Erdőkertes, Béke utca 50.",
+      "x_koordináta": "47.6431645",
+      "y_koordináta": "19.2837441",
+      "adószám": "19238698-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-24",
+      "statisztikai_számjel": "19238698-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Törekszik a katonai hagyományőrzés színvonalasabbá tételére és arra, hogy minél szélesebb rétegek ismerhessék meg a nemzeti múltunkban, történelmünkben résztvevő Magyar Királyi Honvédség (1900-1951) és a Magyar Néphadsereg (1951-1990) kultúráját, eszközeit, felszereléseit. Ezzel is segítve a honvédelmi ismeretek és eszme ügyét. Konkrétan ezek kapcsán fellelhető eszközeinek (ruhák, felszerelések, járművek, egyéb eszközök stb.) gyűjtése, bemutatása, a múlt emlékeinek megőrzése, felidézése, továbbadása, rendezvények és honvédelmi ismereteket nyújtó táborok szervezése. Hadisírok gondozása. Más szervezetekkel, egyesületekkel, klubokkal való közös együttműködés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007771",
+      "régi_nyilvántartási_száma": "7771/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-11-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabadkai",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "387 571 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "425 639 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

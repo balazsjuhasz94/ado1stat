@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18947764",
+  "scraped_at": "2026-02-21T13:59:57.323931",
+  "organization_id": "79612",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dr. Jójárt József Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2700 Cegléd, Törteli út 1-3.",
+      "x_koordináta": "47.1720849",
+      "y_koordináta": "19.8162635",
+      "adószám": "18947764-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-10",
+      "statisztikai_számjel": "18947764-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány célja az, hogy a Ceglédi Toldy Ferenc Kórház és Rendelőintézet gyermekosztályát segítse és támogassa anyagilag és szakmailag annak érdekében, hogy minél magasabb színvonalon lehessen a beteg gyermekeket gyógyítani, illetve tudjanak gyógyulni, de az alapítvány nagy hangsúlyt fektet a betegségek megelőzésére és az egészséges életmódra történő nevelésre is. Ennek érdekében az alapítván ycélja a tárgyi feltételek javítása, az ehhez szüókséges térgyi eszközök beszerzése és vásárlása, oktatások és szűrővizsgálatok szervezése, illetve fenanszírozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003907",
+      "régi_nyilvántartási_száma": "3907/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-12-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-08-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "65100390-11418449",
+      "számlavezető_pénzintézet_neve": "Pátria Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Surányi",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "223 846 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "210 288 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "278 456 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "138 331 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 301 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DR.JÓJÁRT JÓZSEF ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dr Jójárt József Alapitvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

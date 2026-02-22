@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18906925",
+  "scraped_at": "2026-02-21T14:02:28.062133",
+  "organization_id": "107982",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Marina Óvoda Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1138 Budapest, Túróc utca 7. fszt.",
+      "x_koordináta": "47.5202243",
+      "y_koordináta": "19.0534175",
+      "adószám": "18906925-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-26",
+      "statisztikai_számjel": "18906925-8520-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Bölcsődei és óvodai nevelés korszerű kialakítása, óvoda, bölcsőde fenntartása. Gyermekek nevelésének, oktatásának, képességeik fejlesztésének biztosítása az esélyegyenlőség szem előtt tartásával, gyermekek jobb életminőségének és személyiségfejlesztésének támogatása, iskolára előkészítés. Speciális nevelési igényű gyermekek integrálása. Egészséges életmódra, táplálkozásra nevelés elősegítése. Művészetek, idegen nyelv, számítástechnika, sport tevékenységek feltételeinek megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012458",
+      "régi_nyilvántartási_száma": "12458/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-30",
+      "alkalmazottak_száma": "15",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11713036-21450912",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kollár",
+        "Képviselő keresztneve": "Kitti",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "366 997 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 453 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Marina Óvoda Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

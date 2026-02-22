@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19251510",
+  "scraped_at": "2026-02-21T13:39:32.363381",
+  "organization_id": "301249",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Soproni Madármentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9400 Sopron, Ferenczy János utca 32.",
+      "adószám": "19251510-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-06",
+      "statisztikai_számjel": "19251510-9499-569-08",
+      "x_koordináta": "47.6935024",
+      "y_koordináta": "16.5897441"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja a bajba jutott madarak és kisemlősök segítése és támogatása Sopron város területén akként, hogy a sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan madarak számára valós és szakszerű segítséget nyújtson az állatmentés és állatvédelem keretén belül. Az alapítvány további célja, hogy a rászoruló, bajba jutott madarak és kistermetű emlősök (pl. mókus, sün, denevér) átmeneti befogadása és rehabilitálása után természetes élőhelyükre visszajuthassanak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051445",
+      "régi_nyilvántartási_száma": "51445/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-11",
+      "bankszámlaszám": "11737083-24683238",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bodnár",
+        "Képviselő keresztneve": "Ágota",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "228 232 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "385 682 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

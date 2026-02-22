@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19099888",
+  "scraped_at": "2026-02-21T14:26:17.768004",
+  "organization_id": "92542",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Belvárosi Óvoda Gyermekmosoly Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3530 Miskolc, Vörösmarty utca 64.",
+      "x_koordináta": "48.099144",
+      "y_koordináta": "20.790715",
+      "adószám": "19099888-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-13",
+      "statisztikai_számjel": "19099888-8520-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a Miskolci Belvárosi Óvoda gondjaira bízott gyermekek szellemi és testi fejlődésének biztosítása érdekében elősegíti az óvoda tárgyi és személyi feltételeinek megteremtését, javítását, fejlesztését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064539",
+      "régi_nyilvántartási_száma": "64539/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Javításné Varga",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "215 355 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 434 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "378 714 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 820 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Belvárosi Óvoda Gyermekmosoly Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

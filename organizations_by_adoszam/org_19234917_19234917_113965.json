@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19234917",
+  "scraped_at": "2026-02-21T13:56:16.812892",
+  "organization_id": "113965",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "HU-SECTOR Szurkolói Egyesület",
+      "rövid_név": "HU-SECTOR",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8092 Pátka, Kossuth utca 116.",
+      "x_koordináta": "47.2720167",
+      "y_koordináta": "18.4982809",
+      "adószám": "19234917-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-07",
+      "statisztikai_számjel": "19234917-9312-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület elsődleges célja a magyar felnőtt női kézilabda válogatott aktív szurkolói állományának szervezése, összefogása és támogatása; a szurkolók hazai és külföldi mérkőzésre történő utazásának szervezése, alkalmanként szállás megszervezése; a kézilabda sportág népszerűsítése, együttműködés olyan sport és szurkolói szervezetekkel, amelynek célja az egész magyar sport előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003236",
+      "régi_nyilvántartási_száma": "3236/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jádi",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "142 753 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "357 085 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

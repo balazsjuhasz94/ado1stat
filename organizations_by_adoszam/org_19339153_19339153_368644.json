@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19339153",
+  "scraped_at": "2026-02-14T13:02:13.656734",
+  "organization_id": "368644",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Gondi Zétény gyógyulásáért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8800 Nagykanizsa, Kisfaludy Sándor utca 16. Fsz./1.",
+      "adószám": "19339153-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-16",
+      "statisztikai_számjel": "19339153-8412-569-20",
+      "x_koordináta": "46.4448315",
+      "y_koordináta": "16.9759849"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A közlekedési balesetben súlyos egészségkárosodást szenvedett Gondi Zétény egészségügyi költségeinek viselése. Az alapítvány kiemelt célja, anyagi támogatás nyújtása az OEP által nem, vagy csak részben finanszírozott hazai és szükség esetén külföldi kezelések, műtét(ek) költségeihez, az ehhez kapcsolódó egyéb, például utazási- és szállásköltségekhez, a kezelések, műtétek utáni rehabilitációhoz, gyógykezelésekhez, gondozáshoz a gyógyulásig.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001250",
+      "régi_nyilvántartási_száma": "1250/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Farkasné",
+        "Képviselő keresztneve": "Komáromy",
+        "Képviselő titulusa": "Szilvia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "188",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 666 799 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

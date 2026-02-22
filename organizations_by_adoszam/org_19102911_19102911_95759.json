@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19102911",
+  "scraped_at": "2026-02-14T12:25:18.997374",
+  "organization_id": "95759",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mindenki Fogadjon Örökbe egy kiskutyát Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1137 Budapest, Jászai Mari tér 4. B. lépcsőház",
+      "x_koordináta": "47.5135074",
+      "y_koordináta": "19.0507627",
+      "adószám": "19102911-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-02",
+      "statisztikai_számjel": "19102911-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "• Az alapítvány célja gazdátlan, menhelyen lévő, illetve kóbor kutyák védelme, életkörülményeik javítása. Az alapítvány a cél elérése érdekében az ilyen kutyák számára megfelelő, gondos gazdát keres, aki felelősséget tud vállalni a befogadott kutya megfelelő tartásáért. • Gyeptelepeken élő kutyák gazdához segítése, orvosi ellátása, ideiglenes befogadóhoz való elhelyezése. • A gyeptelepeken élő kutyák ellátásának javítása, segítése. • A kóbor kutyák helyzetének, életkörülményeinek javítása. • Felelős állattartással kapcsolatos edukáció. • Felelős állattartásról szóló kiadványok készítése. • A hazai kóbor kutya helyzetre vonatkozó törvények esetében törekvés a kedvező módosításra. • Hosszútávon telephely kiépítése, ahol fogadni tudjuk intézményileg a mentett kutyákat. • Csökkenteni a kóbor állatok létszámát állatmentés, örökbeadás, ivartalanítás és szemléletformálás segítségével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012720",
+      "régi_nyilvántartási_száma": "12720/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-16",
+      "bankszámlaszám": "1620010611629797",
+      "számlavezető_pénzintézet_neve": "Magnet Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Harmath",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "501",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 168 380 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "585",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 214 768 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "484",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 489 949 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "464",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 036 049 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mindenki Fogadjon Örökbe Egy Kiskutyát Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19188885",
+  "scraped_at": "2026-02-21T12:32:23.883835",
+  "organization_id": "111752",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hírös Főnix Madár Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Úrrét tanya 220/ A.",
+      "x_koordináta": "46.9481342",
+      "y_koordináta": "19.7176963",
+      "adószám": "19188885-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-04",
+      "statisztikai_számjel": "19188885-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az egyesület célja: - Pszichiátriai betegek rehabilitációs és szabadidős tevékenységének előmozdítása, a már meglévő közösségi keretben. - A pszichiátriai betegségből eredő hátrányos helyzet (egészségügyi és szociális) enyhítése, az esélyegyenlőség előmozdítása. - A rehabilitációs foglalkoztatás eszközével, a mentális korlátozottsággal küzdő emberek felépülésének, munkavégzési lehetőségének és a hétköznapi életbe történő beilleszkedésének elősegítése. Az ehhez szükséges eszköztár fejlesztéséhez, a tárgyi és képzési feltételek biztosításához való hozzájárulás. - A rehabilitációban résztvevők számára támogatás nyújtása a betegségük menedzselésében, továbbá a pszicho szociális működésük, illetve személyes céljaik megvalósításának segítése. - Partnerség, együttműködés minden olyan egyénnel, szervezettel akik/amelyek tevékenysége a pszichiátriai betegek gyógyítására, kezelésére és/vagy foglalkoztatásukra irányul.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003799",
+      "régi_nyilvántartási_száma": "3799/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-07-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Istvánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Cseke",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 167 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "547 543 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19168155",
+  "scraped_at": "2026-02-14T14:29:28.257766",
+  "organization_id": "108544",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hatvanezer Fa Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5671 Békéscsaba, Nógrád utca 24.",
+      "x_koordináta": "46.686257",
+      "y_koordináta": "21.1208249",
+      "adószám": "19168155-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-09-16",
+      "statisztikai_számjel": "19168155-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az egészséges környezet megóvása, a klímaváltozás elleni aktív cselekvés, fák telepítésével Békéscsaba városában és környékén. Helyi környezet- és természetvédelem 2011. évi CLXXXIX. tv. Magyarország helyi önkormányzatairól 13. § (1) 11. 19. rendelkezései szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003520",
+      "régi_nyilvántartási_száma": "3520/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Poliák",
+        "Képviselő keresztneve": "Pál",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0210",
+        "Leírás": "Erdészeti, egyéb erdőgazdálkodási tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "509 870 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "770 934 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "746 005 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "705 008 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Hatvanezer Fa Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

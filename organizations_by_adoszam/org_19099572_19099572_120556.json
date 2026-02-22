@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19099572",
+  "scraped_at": "2026-02-14T14:25:07.217844",
+  "organization_id": "120556",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Diósgyőr Szurkolók Közössége",
+      "rövid_név": "DSZK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3534 Miskolc, Kuruc utca 21. X./2.",
+      "x_koordináta": "48.102637",
+      "y_koordináta": "20.690913",
+      "adószám": "19099572-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-15",
+      "statisztikai_számjel": "19099572-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Jogvédő tevékenység (pl. állampolgári jogok védelme, fogyasztói jogvédelem, kisebbségvédelem)",
+      "céljának_leírása": "- a Diósgyőr szurkolók érdekvédelme és jogvédelme - közös érdekképviselet és jogvédelem; (pl. MLSZ felé) - fenntartható labdarúgó klubmodell kialakításában való részvétel - a klub történelmének feldolgozása - a diósgyőri labdarúgó utánpótlás támogatása - felelősség vállalás a hosszútávú diósgyőri labdarúgás érdekében - szurkolók képviselete a Diósgyőri Football Club Kft-ben - részvétel a Diósgyőri VTK-t érintő főkérdésekben: gazdálkodás, jegyárak, szolgáltatási árak - részvétel az új Diósgyőri stadion tervezési munkáiban. - közösségi élet kibontakoztatása, építése, fenntartása - szurkolói csoportok közötti kommunikáció segítése - belföld és külföldi kapcsolatok létesítése és fejlesztése. - szurkolások képi elemeinek (koreográfiák) támogatása - utazások támogatás",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065824",
+      "régi_nyilvántartási_száma": "65824/2018",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-04-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szalatnay",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "687 632 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "727 415 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

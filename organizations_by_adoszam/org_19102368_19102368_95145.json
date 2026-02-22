@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19102368",
+  "scraped_at": "2026-02-14T12:16:31.386738",
+  "organization_id": "95145",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fogadjörökbe Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2040 Budaörs, Esze Tamás utca 11/2.",
+      "x_koordináta": "47.4597023",
+      "y_koordináta": "19.1278154",
+      "adószám": "19102368-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-18",
+      "statisztikai_számjel": "19102368-9699-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A rosszállaputú menhelyek segítése, támogatása. Kutyák, macskák minél előbbi örökbe, illetve ideiglenes befogadóhoz juttatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003995",
+      "régi_nyilvántartási_száma": "3995/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ferczi",
+        "Képviselő keresztneve": "Rita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "876",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 614 810 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "740",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 527 498 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1934",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 558 211 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1830",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "16 183 717 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2034",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 153 378 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fogadjörökbe Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fogadjörökbe Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

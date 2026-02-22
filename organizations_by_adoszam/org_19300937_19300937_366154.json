@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19300937",
+  "scraped_at": "2026-02-14T14:58:37.236827",
+  "organization_id": "366154",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Egészségmegőrzési és Életmódorvostani Egyesület",
+      "rövid_név": "MOTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2721 Pilis, Eperfa utca 1.",
+      "adószám": "19300937-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-22",
+      "statisztikai_számjel": "19300937-9499-529-13",
+      "x_koordináta": "47.2865384",
+      "y_koordináta": "19.5594189"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Magyar Egészségmegőrzési és Életmódorvostani Egyesület azért jött létre (az egyesület célja), hogy: •az életmódorvoslás és egészségmegőrzés szerepét terjessze és elfogadottá tegye mind a köz, mind az egészségügyi oktatásban/képzésben, valamint a gyógyításban, •az életmódorvoslást a mindennapi orvosi/gyógyítási tevékenység részévé tegye, és ezzel összefüggésben az életmódorvosi tevékenység helyét a gyógyítási tevékenység körében kijelölje, •támogassa és előmozdítsa az életmódorvoslással kapcsolatos kutatásokat, tudományos munkákat, •tudományos alapon hozzájáruljon a társadalom egészségi állapotának és egészségtudatosságának a fejlesztéséhez, javításához, •az életmódorvoslás 6 pillérét (táplálkozás, testmozgás, alvás, addikció mentesség, stressz kezelés, jó kapcsolatok) tudományos alapokon megszervezze, és ennek a helyét és szerepét a társadalom tagjai mindennapi életvitelében kijelölje, •tevékenységével felhívja a figyelmet az életmódorvoslás kiemelkedő fontosságára és szerepére a gyógyításban, az egészség megőrzésében, és a betegségek kialakulásának a megelőzésében, •tevékenyen hozzájáruljon az addikciók kialakulásának a megelőzéséhez, illetve a már kialakult addikciók esetében a függőség megszűntetését hatékonyan elősegítse, támogassa, •tevékenyen hozzájáruljon az alvás higiéné javításához, •stresszes életmód esetében a stresszkezelési technikák ismeretterjesztésével javítsa a stressztűrő képességet és ezzel hozzájáruljon a stressz csökkentéséhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008003",
+      "régi_nyilvántartási_száma": "8003/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-03",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Koncz",
+        "Képviselő keresztneve": "Klára",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "430 876 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "580 938 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

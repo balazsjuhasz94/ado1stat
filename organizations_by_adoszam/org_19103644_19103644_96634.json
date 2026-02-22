@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19103644",
+  "scraped_at": "2026-02-21T14:21:25.334987",
+  "organization_id": "96634",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "White Tiger Rock and Roll Club Sportegyesület",
+      "rövid_név": "White Tiger RRC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9763 Vasszécseny, Lipárt út 67/ A.",
+      "x_koordináta": "47.1848",
+      "y_koordináta": "16.746307",
+      "adószám": "19103644-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-14",
+      "statisztikai_számjel": "19103644-9312-521-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület a rendszeres rock and roll tánc, sporttánc biztosítása, az ilyen igények felkeltése, tagjainak nevelése, és a közösségi élet kibontakozása, céljából jött létre. Az egyesület gondoskodik a táncosok versenyeztetéséről, az azzal összefüggő feltételek biztosításáról, versenyen való indulási jogokról, utánpótlás, területi, országos vagy világversenyen. Az egyesület célja továbbá, hogy az akrobatikus rock and roll segítségével rendszeres aktív mozgásra ösztönözze a sportolókat, táncosokat, illetve lehetőséget adjon azoknak a fiatalanoknak, akik akár csak a folyamatos mozgásra vágynak. Az egyesület céljainak megvalósítása érdekében együttműködik az állami, önkormányzati és társadalmi szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200744",
+      "régi_nyilvántartási_száma": "200744/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-12-10",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Visnyovszky",
+        "Képviselő keresztneve": "Gergő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "119 783 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "76 447 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "317 726 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

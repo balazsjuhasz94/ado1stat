@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19239235",
+  "scraped_at": "2026-02-21T14:26:58.784299",
+  "organization_id": "122213",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MÓRICZ ZSIGMOND OKTATÁSI ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7400 Kaposvár, Veres Péter utca 13.",
+      "x_koordináta": "46.3946845",
+      "y_koordináta": "17.8431135",
+      "adószám": "19239235-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-30",
+      "statisztikai_számjel": "19239235-9499-569-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Fő célja a tehetséges tanulók felkutatása és segítése, valamint a nehéz anyagi körülmények között élő tanulók támogatása. További célja: az agráréletpálya népszerűsítése, az AM DASZK, Móricz Zsigmond Mezőgazdasági Szakgimnáziuma, Szakközépiskolája és Kollégiuma életében és érdekében kiemelkedő teljesítményt nyújtó pedagógusok jutalmazása, külföldi tanulmányutak, belföldi kirándulások szervezésének támogatása; sportrendezvények, szabadidős és kulturális programok szervezése, finanszírozása, továbbá az oktatási feltételek javítása. Valamint Kozma Ferenc örökségének továbbvitele.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003425",
+      "régi_nyilvántartási_száma": "3425/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11743002-2648682",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Torma",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "Ede",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 737 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "267 663 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 806 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19291781",
+  "scraped_at": "2026-02-21T13:39:14.573852",
+  "organization_id": "365448",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Országos Gyermekvédő\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1027 Budapest, Bem József utca 9. földszint",
+      "adószám": "19291781-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-06",
+      "statisztikai_számjel": "19291781-9499-569-01",
+      "x_koordináta": "47.511184",
+      "y_koordináta": "19.037784"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány elsődleges célja, hogy segítséget nyújtson a leukémiás és daganatos betegségben szenvedő gyermekek számára a megfelelő életfeltételek biztosításához, ezáltal egyenlő eséllyel induló, boldog és egészséges gyermekek neveléséhez. Az Alapítvány ösztöndíjat, egyszeri támogatást ad, s orvosi eszközök, műszerek, berendezések, felszerelések nyújtásával segít beteg gyermekeknek és gyógyító intézményeiknek, valamint az alapítványi célok mind hatékonyabb megvalósítása érdekében alkalmazottakat is foglalkoztathat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013026",
+      "régi_nyilvántartási_száma": "13026/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11707110-21461974",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Király",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "403 201 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "386 247 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

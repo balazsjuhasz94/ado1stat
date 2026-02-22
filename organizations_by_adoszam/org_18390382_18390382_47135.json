@@ -1,0 +1,180 @@
+{
+  "search_adoszam": "18390382",
+  "scraped_at": "2026-02-14T12:32:59.538373",
+  "organization_id": "47135",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Békéscsabai Mentőalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5600 Békéscsaba, Berzsenyi utca 9.",
+      "x_koordináta": "46.762849",
+      "y_koordináta": "21.1158451",
+      "adószám": "18390382-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-12-27",
+      "statisztikai_számjel": "18390382-9499-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A prehospitalis sürgősségi ellátás színvonalának emelése, a Békéscsabai Mentőállomás dolgozói által használt mentéstechnikai eszközök és védőfelszerelések beszerzése, munkakörülmények javítása, továbbképzések, oktatás szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002439",
+      "régi_nyilvántartási_száma": "2439/2005",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-09-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csendes",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      },
+      {
+        "Kód": "8720",
+        "Leírás": "Mentális, szenvedélybeteg bentlakásos ellátása"
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "232 275 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "225",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "716 159 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "344",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "977 640 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "280",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "950 311 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "314",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 073 538 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "272",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 145 116 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "347",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 601 557 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "545",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 754 646 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "369",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 540 982 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "339",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 655 736 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "318",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 971 205 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "368",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 760 535 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Békéscsabai Mentőalapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

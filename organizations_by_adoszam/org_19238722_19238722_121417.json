@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19238722",
+  "scraped_at": "2026-02-14T14:04:38.178870",
+  "organization_id": "121417",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FEHÉRVÁR Küzdősport Sportegyesület",
+      "rövid_név": "FEHÉRVÁR Küzdősport SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Ruttkai utca 25.",
+      "x_koordináta": "47.2078938",
+      "y_koordináta": "18.4719674",
+      "adószám": "19238722-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-25",
+      "statisztikai_számjel": "19238722-9312-521-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Hazai és nemzetközi sikerek elérése küzdősportokban minden korosztályban. A gyermekek sportra történő nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003248",
+      "régi_nyilvántartási_száma": "3248/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-15",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Turós",
+        "Képviselő keresztneve": "Arnold",
+        "Képviselő titulusa": "Csaba",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "626 098 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "830 474 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

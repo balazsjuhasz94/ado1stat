@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19294241",
+  "scraped_at": "2026-02-14T14:39:13.969352",
+  "organization_id": "365612",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány a Vörösmarty Mihály Református Általános Iskoláért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1201 Budapest, Vörösmarty Mihály utca 128.",
+      "adószám": "19294241-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-26",
+      "statisztikai_számjel": "19294241-9499-569-01",
+      "x_koordináta": "47.4251154",
+      "y_koordináta": "19.1147367"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a Vörösmarty Mihály Református Általános Iskola („Iskola) elnevezéssel a 1201 Budapest, Vörösmarty utca 128. szám alatt működő oktatási intézménynek támogatást nyújtani, mindazon feladatok megvalósításának elősegítése érdekében, amelyek az Iskola Pedagógiai Programjában megfogalmazott – kiemelten a környezeti kultúrára a környezet megismerésére való nevelést – célok elérését támogatják. Ennek keretében megfelelő feltételek biztosításával kíván hozzájárulni az iskolai nevelés korszerű kialakításához; a tanulók nevelésének, oktatásának, képességeik fejlesztésének biztosításához; az iskola fejlesztéséhez; az iskola működési feltételeinek javítását érdemben és ténylegesen elősegíti. Az Alapítvány alapcél szerinti tevékenysége minden olyan tevékenység, amely a jelen Alapító Okiratban megjelölt cél vagy valamely közfeladat teljesítését közvetlenül vagy közvetve szolgálja, ezzel hozzájárulva a társadalom és az egyén közös szükségleteinek kielégítéséhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013044",
+      "régi_nyilvántartási_száma": "13044/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-01-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Trencsényiné Szabó",
+        "Képviselő keresztneve": "Borbála",
+        "Képviselő titulusa": "Éva",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "739 182 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "675 352 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

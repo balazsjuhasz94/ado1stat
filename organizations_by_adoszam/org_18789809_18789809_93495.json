@@ -1,0 +1,130 @@
+{
+  "search_adoszam": "18789809",
+  "scraped_at": "2026-02-14T12:14:07.908606",
+  "organization_id": "93495",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Eszkuláp Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1115 Budapest, Fraknó utca 14. B. VIII/27.",
+      "x_koordináta": "47.4683652",
+      "y_koordináta": "19.0305463",
+      "adószám": "18789809-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-28",
+      "statisztikai_számjel": "18789809-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelmi tevékenység végzése kutyák megmentésével, az ezzel kapcsolatos információ biztosítása, szemléletformálás, kapcsolatépítés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016280",
+      "régi_nyilvántartási_száma": "16280/2016",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-12-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-19",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tálasné Balla",
+        "Képviselő keresztneve": "Klára",
+        "Képviselő titulusa": "Mónika",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-05-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Havasi",
+        "Képviselő keresztneve": "Antonietta",
+        "Képviselő titulusa": "Emese",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-05-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "2564",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 863 689 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "3287",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "23 912 990 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "3348",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "23 981 586 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "3422",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "28 312 853 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "4366",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "39 773 550 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "4176",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "43 828 065 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "4059",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "47 621 583 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ESZKULÁP ÁLLATVÉDŐ EGYESÜLET"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Eszkuláp Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Eszkuláp Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Eszkuláp Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19316970",
+  "scraped_at": "2026-02-14T14:28:00.806203",
+  "organization_id": "367398",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fogyjunk Együtt Egymásért Egyesület",
+      "rövid_név": "F.E.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7712 Dunaszekcső, Petőfi Sándor utca 26.",
+      "adószám": "19316970-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-29",
+      "statisztikai_számjel": "19316970-9499-529-02",
+      "x_koordináta": "46.0909501",
+      "y_koordináta": "18.7321279"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A túlsúlyos emberek figyelmének felhívása az egészséges életmód folytatásának fontosságára, valamint ösztönzésük arra vonatkozóan, hogy az egészséges táplálkozás és rendszeres testmozgás a mindennapi életünk szerves részét képezze, ez által is hozzájárulva egészségi állapotunk megfelelő működéséhez, a túlsúly okozta betegségek megelőzése érdekében. Az egyesület további céljai között szerepel a túlsúlyos emberek motiválása, biztatása, lelki segítség nyújtása az életmódváltás során, valamint a minél fiatalabb korosztály, így a gyermekek tudatos egészséges életmódra nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0004045",
+      "régi_nyilvántartási_száma": "4045/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10402410-50526953-83681005",
+      "számlavezető_pénzintézet_neve": "K &amp; H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Floderer",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "713 275 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

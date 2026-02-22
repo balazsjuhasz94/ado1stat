@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18975350",
+  "scraped_at": "2026-02-14T14:07:12.406374",
+  "organization_id": "96793",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Törökbálinti NYITNI - KÉK A VILÁGRA Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2045 Törökbálint, Óvoda utca 3.",
+      "x_koordináta": "47.4431658",
+      "y_koordináta": "18.8990925",
+      "adószám": "18975350-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-09",
+      "statisztikai_számjel": "18975350-8569-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja: a Törökbálinti NYITNI – KÉK Óvoda óvodásainak képességfejlesztése, az Óvoda eszközeinek bővítése. Az Óvoda körzetébe tartozó 3-7 éves korú gyermekek képességfejlesztése, részképesség zavarral küszködő gyermekek részére egyénre szabott fejlesztő terápia, valamint nevelési tanácsadás nyújtása. Az óvoda tárgyi eszközeinek, nevelési segédeszközeinek bővítése. A hátrányos helyzetű gyermekek esélyegyenlőségének megteremtése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003936",
+      "régi_nyilvántartási_száma": "3936/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-01-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10918001-00000097-59700014",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Baloghné",
+        "Képviselő keresztneve": "Szabó Margit (kuratóriumi elnök)",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "Zsófia (titkár)",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "365 631 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "626 701 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "657 612 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "814 577 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Törökbálinti NYITNI-KÉK A VILÁGRA Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

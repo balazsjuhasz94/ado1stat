@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19164797",
+  "scraped_at": "2026-02-14T12:16:27.116276",
+  "organization_id": "106838",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Győri Puha Praclik Egyesület",
+      "rövid_név": "GYPPE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9011 Győr, Nagyhegy utca 269.",
+      "x_koordináta": "47.687305",
+      "y_koordináta": "17.770631",
+      "adószám": "19164797-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-16",
+      "statisztikai_számjel": "19164797-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- állatvédelem, - a Győr környéki állatvédelem iránt felelősséget érző emberek összefogása, - az állatok kizsákmányolásának megszüntetése, védelmük előmozdítása, - a régió állattartásból adódó gondok enyhítése, megoldása, - gazdátlan és sérült állatok elhelyezése, (pl. kóbor kutyák befogadása) - kulturált, állatbarát állattartás elterjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063096",
+      "régi_nyilvántartási_száma": "63096/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Polgár",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "884",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 183 516 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1695",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 979 660 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1790",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "17 071 849 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1872",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 637 645 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Győri Puha Pracli Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

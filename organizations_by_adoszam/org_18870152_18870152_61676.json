@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "18870152",
+  "scraped_at": "2026-02-21T13:06:43.787561",
+  "organization_id": "61676",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Diamond Fitness Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4031 Debrecen, Szoboszlói út 50.",
+      "x_koordináta": "47.5160122",
+      "y_koordináta": "21.6081057",
+      "adószám": "18870152-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-20",
+      "statisztikai_számjel": "18870152-9312-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja: a táncművészet image-nek ápolása, tánctörténeti ismeretek terjesztése, a modern és klasszikus tánctevékenység (kiemelten a társastánc tevékenység) népszerűsítése, gyakorlása, oktatása, támogatása a gyermekek és a felnőttek körében egyaránt. A Sportegyesület bemutató és ismeretterjesztő foglalkozások, rendezvények keretében hívja fel a figyelmet a tánc fizikai és mentális közérzetet javító hatására, egészségmegőrző, rehabilitációs szerepére. Mindezek érdekében a Sportegyesület táncbemutatókat, tanfolyamokat, rendezvényeket szervez - az ahhoz kapcsolódó tanári, oktatói munka - valamint egyéb mozgásművészeti témájú tevékenységek koordinálásával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004805",
+      "régi_nyilvántartási_száma": "4805/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-08",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dajka-Purcsel",
+        "Képviselő keresztneve": "Zsusza",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 615 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "452 915 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

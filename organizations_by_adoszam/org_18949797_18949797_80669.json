@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18949797",
+  "scraped_at": "2026-02-14T12:30:48.267675",
+  "organization_id": "80669",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hang, a hangtalanokért Állatmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2364 Ócsa, Székes tanya 8.",
+      "x_koordináta": "47.331158",
+      "y_koordináta": "19.451081",
+      "adószám": "18949797-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-05",
+      "statisztikai_számjel": "18949797-4778-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az utcán kóborló, sérült, gazdátlan állatok befogadása és segítése. A gyepmesteri telepen lévő, altatásra váró állatok befogadása. A lakosság tájékoztatása, figyelmeztetése az állatvédelmi törvények, és megfelelő állattartás szabályainak betartására. Mindezen állatok gondos ellátása, oltása, chippelése, majd gazdásítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003933",
+      "régi_nyilvántartási_száma": "3933/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kuczi",
+        "Képviselő keresztneve": "Benjámin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "428",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 554 878 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "517",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 616 506 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "539",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 243 148 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "348",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 218 679 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "436",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 198 290 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Hang, a hangtalanokért Állatmentő Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Hang, a hangtalanokért Állatmentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

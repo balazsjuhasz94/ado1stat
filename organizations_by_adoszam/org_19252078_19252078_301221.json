@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19252078",
+  "scraped_at": "2026-02-21T12:56:47.616929",
+  "organization_id": "301221",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zénó Macskavédő Alapítvány",
+      "rövid_név": "MIA Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1118 Budapest, Csiki-hegyek utca 7. 10/30.",
+      "adószám": "19252078-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-13",
+      "statisztikai_számjel": "19252078-9499-569-01",
+      "x_koordináta": "47.4763119",
+      "y_koordináta": "19.0206053"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Kóbor macskák és kolóniáik ivartalanítása, macskakölykök gazdához adása, ezzel a tovább szaporodásuk megelőzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004118",
+      "régi_nyilvántartási_száma": "4118/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "16200223-10128925",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Soulavy",
+        "Képviselő keresztneve": "Gáborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "476 735 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

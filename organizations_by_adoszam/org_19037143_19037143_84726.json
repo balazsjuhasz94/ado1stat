@@ -1,0 +1,121 @@
+{
+  "search_adoszam": "19037143",
+  "scraped_at": "2026-02-14T13:31:34.510990",
+  "organization_id": "84726",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sziget Suli Alternatív Pedagógiai Egyesület",
+      "rövid_név": "Sziget Suli Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2310 Szigetszentmiklós, Móricz Zsigmond utca 8.",
+      "x_koordináta": "47.3553732",
+      "y_koordináta": "19.0335233",
+      "adószám": "19037143-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-30",
+      "statisztikai_számjel": "19037143-8520-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Alapfokú iskolarendszerben és iskolarendszeren kívüli és szabadidős képzés megvalósítása olyan oktatásnevelési módszerekkel, amelyek eltérnek a hagyományos pedagógiai elvektől. A módszer alapját az élményszerű megismerés, a játékos, tapasztalati úton történő oktatás képezi, amely a lehető legnagyobb mértékben veszi figyelembe a gyermek életkori és egyéni sajátságait. Az egyesület oktató-nevelő tevékenységének elsődleges célja a XXI. század eszközeit gyakorlatiasan, aktívan használó, a jelen és a jövő kihívásaihoz alkalmazkodni képes, rugalmas, kreatív személyiség kialakítása és fejlesztése. Az egyesület célja továbbá egy olyan érték- és munkaközösség létrehozása és hosszú távú működtetése, amely elősegíti a fenti célok megvalósítását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007445",
+      "régi_nyilvántartási_száma": "7445/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kozák",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Serfőző",
+        "Képviselő keresztneve": "Dorottya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 043 706 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 021 371 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 118 828 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

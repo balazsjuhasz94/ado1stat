@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18648355",
+  "scraped_at": "2026-02-14T12:19:26.186956",
+  "organization_id": "50893",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ágica Sérült Állatmenedéke",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7020 Dunaföldvár, Pentelei utca 161.",
+      "x_koordináta": "46.8256011",
+      "y_koordináta": "18.9080312",
+      "adószám": "18648355-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-04-27",
+      "statisztikai_számjel": "18648355-9499-569-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A megkínzott sérült bántalmazott gerinces állatok gyógyítása, kezelése, támogatása, rehabilitációja. Környezetvédelem. Az állatok részére menedékhely létrehozása, üzemeltetése. Rehabilitáción átesett állatok családhoz segítése. Környezettudatos életmódra nevelés programok megvalósítása útján. Nevelési oktatási képességfejlesztés és ismeretterjesztési programok megvalósítása, foglalkoztatási szociális projektek megvalósítása. Kulturális programok megszervezése, lebonyolítása. Írott és elektronikus kiadványok támogatása. Közösségi tér, helyiség üzemeltetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000149",
+      "régi_nyilvántartási_száma": "149/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-07-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-26",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zachariás",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "929",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 182 031 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "1472",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 673 684 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1234",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 990 851 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1267",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 032 513 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1246",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 998 005 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1343",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 495 985 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 126 119 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ágica Sérült Állatmenedéke"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ágica Sérült Állatmenedéke Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ágica Sérült Állatmenedéke"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ágica Sérült Állatmenedéke"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

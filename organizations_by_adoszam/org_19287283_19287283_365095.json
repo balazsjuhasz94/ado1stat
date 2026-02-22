@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19287283",
+  "scraped_at": "2026-02-14T12:48:56.349612",
+  "organization_id": "365095",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szentesi Természet-, és Vadvédelmi Mentőközpont Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6600 Szentes, Rákóczi Ferenc utca 9.",
+      "adószám": "19287283-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-19",
+      "statisztikai_számjel": "19287283-8412-569-06",
+      "x_koordináta": "46.6931815",
+      "y_koordináta": "20.2801298"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A természet-, és a Magyarországon honos, itt szaporodó, valamint az e területen átvonuló, a természetben vadon élő állatok védelme, a sérült állatok gondozása, ellátása, gyógyítása, terápiás kezelése, felépülésük után a szabad természetbe való visszahelyezése, az erre alkalmatlan egyedek zárttéri tenyésztése, s az utódaiknak a szabad természetbe a visszabocsátása, mindezzel e fajoknak a természetben való fennmaradását, valamint a természet ökológiai egyensúlyának a megóvását szolgálva. E tevékenységekkel összefüggő: szaktanácsadás; az állatgondozás módjának a bemutatása, megismertetése; e természet-, és állatvédelemről ismeretterjesztés. A természet-, és állatvédelem, gondozás tevékenységek útján korhatár nélkül, az emberek érzelmi, testi, értelmi fejlődésének elősegítése, alkotókészségük kibontakoztatása, állóképességük fejlesztése, s az egészséges életmódra nevelésük. A természettudatos életmód, környezetvédelem, természetvédelem népszerűsítése. Mindezekhez intézmények: mentőhely, oktatóközpont, tábor, az önkéntes feladatot vállaló emberek részére időszakosan szálláshely biztosítása. A kitűzött cél megvalósítását segítő, támogató eszközök felkutatása, pénzügyi támogatások igénybevétele és cél szerinti felhasználása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001739",
+      "régi_nyilvántartási_száma": "1739/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Apavári",
+        "Képviselő keresztneve": "Györgyné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tonomárné Dancsó",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "211",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 548 518 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "274",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 238 545 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "233",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 220 526 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

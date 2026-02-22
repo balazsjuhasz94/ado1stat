@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19253945",
+  "scraped_at": "2026-02-14T12:48:04.861499",
+  "organization_id": "301447",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Panna Csodavilága Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8483 Somlószőlős, Somló- hegy 2578. hrsz.",
+      "adószám": "19253945-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-18",
+      "statisztikai_számjel": "19253945-8810-569-19",
+      "x_koordináta": "47.1785309",
+      "y_koordináta": "17.3472797"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az oxigénhiányból eredő agyi bénulásban szenvedő gyermekek gyógykezelésének és fejlesztésének elősegítése, a gyógykezelések, fejlesztések színvonalának növelése, a gyógykezelésekhez illetve fejlesztésekhez szükséges tárgyi és anyagi feltételek biztosítása, továbbá a celebrális parézisben szenvedő gyermekek számára nyújtandó rehabilitáció (mozgásterápia, konduktori fejlesztés, gyógymasszőr, Vajta terápia), és mindezek eredményeként a betegségben szenvedő gyermekek esélyegyenlőségének, önálló életvitelének és a társadalmi életben való aktív részvételének biztosítása, valamint az egészséges életmód és a szabadidősport gyakorlásának feltételeinek megteremtése az esélyegyenlőség jegyében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001851",
+      "régi_nyilvántartási_száma": "1851/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-11-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kelemen",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "Csaba",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "225",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 549 962 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "293",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 356 481 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "263",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 303 957 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

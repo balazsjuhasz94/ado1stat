@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19238911",
+  "scraped_at": "2026-02-21T13:47:24.336327",
+  "organization_id": "121491",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Uzsai Sport és Kulturális Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8321 Uzsa, Liget utca 13.",
+      "x_koordináta": "46.8959197",
+      "y_koordináta": "17.334828",
+      "adószám": "19238911-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-31",
+      "statisztikai_számjel": "19238911-9499-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület tagjai és a szervezet működési környezetében élők által megvalósítani kívánt kulturális, turisztikai és sportolási kezdeményezések elősegítése, a térség kulturális, turisztikai és sportolási lehetőségeinek növelése. Az egyesületben sportoló tagok edzési, versenyzési, sportéleti lehetőségeinek szervezése, biztosítása. A lakosság kikapcsolódásának biztosítása, sport és kulturális igényeinek kielégítése. Az uzsai edzőterem működtetése, üzemeltetése, valamint kondigépek, sporteszközök beszerzése. Az egyesület a szabadidő aktív és minőségi eltöltésével kapcsolatos lehetőségek biztosításával ösztönözni kívánja az emberek és a közösségek egymás irányában tanúsított felelősségérzetét, az egészség- és környezettudatos élet kialakítását. Az egyesület által szervezett rendezvényeken, programokon biztosítani kívánja a tagjai és az érdeklődő számára az értékes kikapcsolódás lehetőségét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003912",
+      "régi_nyilvántartási_száma": "3912/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09",
+      "bankszámlaszám": "11748052-24858821",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hoffmann",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "203 339 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "269 278 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 676 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

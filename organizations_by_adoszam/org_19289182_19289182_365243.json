@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19289182",
+  "scraped_at": "2026-02-14T13:12:45.001746",
+  "organization_id": "365243",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csodás Jövő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7017 Mezőszilas, Kossuth tér 10.",
+      "adószám": "19289182-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-09",
+      "statisztikai_számjel": "19289182-9499-529-07",
+      "x_koordináta": "46.8232044",
+      "y_koordináta": "18.4565268"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A fogyatékos személyek és családtagjaik életének élhetőbbé tétele. Azonos élethelyzetben levő családok összekovácsolása, egymás segítése. Közös programok szervezése a fogyatékos személyek családtagjainak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003283",
+      "régi_nyilvántartási_száma": "3283/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Cseh",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "666 466 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "171",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 416 063 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

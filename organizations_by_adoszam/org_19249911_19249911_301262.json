@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19249911",
+  "scraped_at": "2026-02-21T14:03:57.507604",
+  "organization_id": "301262",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ad Flexum Teke Klub Egyesület",
+      "rövid_név": "Ad Flexum TK Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Wittmann Antal utca 32.",
+      "adószám": "19249911-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-08",
+      "statisztikai_számjel": "19249911-9312-521-08",
+      "x_koordináta": "47.8692825",
+      "y_koordináta": "17.2588575"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A sportegyesület célja tagjainak rendszeres és versenyszerű sportolásának biztosítása. Az általános testedzés iránti igény felkeltése, ezen keresztül tagjai szellemi és fizikai felüdülésének biztosítása. Mindezeken túl az egyesület társadalmi öntevékenységének fokozása és a közösségi élet kibontakoztatásának kerete is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063182",
+      "régi_nyilvántartási_száma": "63182/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-05-16",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "189 787 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "344 592 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

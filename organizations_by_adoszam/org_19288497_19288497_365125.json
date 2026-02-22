@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19288497",
+  "scraped_at": "2026-02-14T12:36:21.500985",
+  "organization_id": "365125",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CHIPet Csapat Kutyamentő Egyesület",
+      "rövid_név": "CHIPet Csapat Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1225 Budapest, Iskola utca 6. fszt./2.",
+      "adószám": "19288497-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-30",
+      "statisztikai_számjel": "19288497-9499-529-01",
+      "x_koordináta": "47.390386",
+      "y_koordináta": "18.9782966"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "a. Magyarország területén megtalálható, a védett állatoktól eltekintve bármilyen fajtájú elhagyott, kóborló kutyák és egyéb állatok mielőbbi biztonságba helyezése, amennyiben azonosítóval (mikrochip, biléta) rendelkezik, úgy a gazda értesítése esetén az állat hazaszállítása. b. Magyarország területén megtalálható, a védett állatoktól eltekintve bármilyen fajtájú elhagyott, kóborló állatok mielőbbi biztonságba helyezése, amennyiben azonosítóval (mikrochip, biléta) rendelkezik, úgy részükre megfelelő ellátás biztosítása (mikrochip, oltás és parazitamentesítés) és új, gondos tulajdonos keresése. c. A felelős állattartásra vonatkozó oktatási tevékenység és a gazdák támogatása ennek végrehajtásában. d. Az Európai Unió területén alkalmazott helyes állattartási rendszerek és módszerek népszerűsítése és terjedésének támogatása Magyarország területén. e. Az elveszett állatokról való információszerzés, amely segítségével az állatot elvesztő gazdához az esetlegesen megtalált állat visszajuttatható. Az adatkezelés az információs önrendelkezési jogról és információszabadságról szóló 2011. évi CXII. törvényben adott feltételeknek megfelelően zajlik.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017496",
+      "régi_nyilvántartási_száma": "17496/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Beatrix",
+        "Képviselő titulusa": "Krisztina",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "280",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 656 207 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "278",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 233 250 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

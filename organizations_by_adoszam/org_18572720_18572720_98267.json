@@ -1,0 +1,118 @@
+{
+  "search_adoszam": "18572720",
+  "scraped_at": "2026-02-14T13:51:36.808109",
+  "organization_id": "98267",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sebésztechnika Támogatása Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Újsor utca 26.",
+      "x_koordináta": "47.9044818",
+      "y_koordináta": "20.3726534",
+      "adószám": "18572720-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1994-06-21",
+      "statisztikai_számjel": "18572720-8610-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Elsődlegesen az egészségügy, a gyógyítómunka támogatása. Ezen belül: Az egri Markhot Ferenc Kórház Sebészeti és Érsebészeti Osztálya gyógyító tevékenységének támogatása, korszerű technikai színvonal megteremtéséhez szükséges segítségnyújtás, műszerek, eszközök beszerzése, a gondozási munkák ellátásához szükséges szoftverek vásárlása. Érsebészeti diagnosztikus eszközök, így endoszkópok, varrógépek, minimálinvazív sebészeti módszerek fejlesztésének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0000325",
+      "régi_nyilvántartási_száma": "325/1994",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-02-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Salló",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 219 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 081 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 406 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 246 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "471 567 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "920 257 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SEBÉSZTECHNIKA TÁMOGATÁSA ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SEBÉSZTECHNIKA TÁMOGATÁSA ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SEBÉSZTECHNIKA TÁMOGATÁSA ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SEBÉSZTECHNIKA TÁMOGATÁSA ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SEBÉSZTECHNIKA TÁMOGATÁSA ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SEBÉSZTECHNIKA TÁMOGATÁSA ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Sebésztechnika Támogatása Alapítvány",
+        "Év": "2021"
+      }
+    ]
+  },
+  "error": null
+}

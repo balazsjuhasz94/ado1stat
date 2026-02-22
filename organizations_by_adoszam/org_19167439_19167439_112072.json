@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19167439",
+  "scraped_at": "2026-02-14T13:33:52.317971",
+  "organization_id": "112072",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EPRESKERTI ISKOLA A TUDÁSÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4030 Debrecen, Epreskert utca 80.",
+      "x_koordináta": "47.506338",
+      "y_koordináta": "21.6267321",
+      "adószám": "19167439-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-09-04",
+      "statisztikai_számjel": "19167439-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja a debreceni Epreskerti Általános Iskola oktatási színvonalának fejlesztése, az iskola személyi feltételei megteremtésének elősegítése, az iskolai oktatási programok támogatása, oktatást segítő eszközök beszerzése, a gyermekek szabadidős és sport tevékenységének támogatása. Az alapítvány támogatni kívánja az oktatás fejlesztését, a rászoruló diákokat és tanárokat, valamint külső oktatók igénybevételét a színvonalasabb képzés érdekében. Az Alapítvány célja továbbá a Debrecen Epreskert városrészében működő oktatási-nevelési intézményekkel és civil szervezettekkel történő szoros együttműködés kialakítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002236",
+      "régi_nyilvántartási_száma": "2236/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kürthy",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Anikó",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 716 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "564 045 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "126",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "973 437 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "128",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 085 920 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Epreskerti Iskola a Tudásért alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

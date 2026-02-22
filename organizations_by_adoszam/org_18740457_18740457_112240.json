@@ -1,0 +1,120 @@
+{
+  "search_adoszam": "18740457",
+  "scraped_at": "2026-02-14T12:45:41.487454",
+  "organization_id": "112240",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pécsi Mentőkutyás Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7677 Orfű, Hermann Ottó utca 77.",
+      "x_koordináta": "46.1606972",
+      "y_koordináta": "18.1391683",
+      "adószám": "18740457-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-18",
+      "statisztikai_számjel": "18740457-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az Egyesület fő célja, hogy a speciálisan képzett és vizsgázott mentőkutyák segítségével részt vegyen eltűnt személyek felkutatásában, valamint természeti és ipari katasztrófák esetén sérült emberek felkutatása és mentése. Célja továbbá, hogy elősegítse, a mentőkutyák és az egyesület tagjainak a képzését, hogy minél felkészültebben és hatékonyabban tudja segíteni az emberek kutatásában, mentésében a hatóságok munkáját.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003559",
+      "régi_nyilvántartási_száma": "3559/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kneif",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Görgey",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "166 106 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "216",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 086 091 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "452",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 318 665 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "453",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 915 771 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "187",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 609 120 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "251",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 446 499 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pécsi Mentőkutyás Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pécsi Mentőkutyás Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pécsi Mentőkutyás Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19343486",
+  "scraped_at": "2026-02-21T14:27:00.367397",
+  "organization_id": "368972",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zalaegerszegi Adományközpont Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Balatoni út 3",
+      "adószám": "19343486-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-08-15",
+      "statisztikai_számjel": "19343486-9499-569-20",
+      "x_koordináta": "46.840173",
+      "y_koordináta": "16.8401659"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány általános célja a Zalaegerszegi Adományközpont működtetése, a rászoruló emberek megsegítése, adományok gyűjtése és koordinációja. Célul tűzi ki, hogy segítséget nyújtson a szükségben lévőknek, betegeknek, öregeknek, fogyatékkal élőknek, hátrányos helyzetűeknek, hajléktalanoknak, szegregált közösségeknek, menekülteknek, valamint katasztrófák és háborús események áldozatainak. E célok megvalósulása érdekében pénzbeli és természetbeni adományokat gyűjt, akciókat, kampányokat szervez, önkénteseket toboroz és együttműködik magyarországi, külföldi és nemzetközi segélyszervezetekkel, hasonló céllal működő civil szervezetekkel valamint központi és helyi kormányzati szervekkel, kiemelten Zalaegerszeg Megyei Jogú Város Önkormányzatával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001253",
+      "régi_nyilvántartási_száma": "1253/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-06-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-02",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 734 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

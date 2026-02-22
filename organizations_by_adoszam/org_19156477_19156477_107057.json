@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19156477",
+  "scraped_at": "2026-02-14T12:43:33.952431",
+  "organization_id": "107057",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Minden Állatért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2131 Göd, Diófa utca 2.",
+      "x_koordináta": "47.67715",
+      "y_koordináta": "19.144495",
+      "adószám": "19156477-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-06-21",
+      "statisztikai_számjel": "19156477-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja a bajba jutott állatok segítése és támogatása. Az alapítvány a céljának elérése érdekében az alábbi közhasznú tevékenységet végzi: Ectv.34.§ (1) bekezdés a.) pont. Ismeretterjesztő munkát fejt ki - előadások, rendezvények és média révén - melynek során az emberekkel megismerteti az állattartással, neveléssel kapcsolatos feladatokat, módszereket. A nemzeti köznevelésről szóló 2011. évi CXC.tv.1.§ (1)-(3) bek. Állatvédelmi, oktatási, tanácsadói irodák, kontaktpontok működtetését végzi. A nemzeti köznevelésről szóló 2011. évi CXC.tv.1.§ (1)-(3) bek. A tájékoztatás elősegítése érdekében állat- és természet, valamint környezetvédelmi tájékoztató anyagokat ad ki webes és nyomtatott formában. 1996. évi LIII.tv. a természet védelméről 64.§ (1) bek. Segítséget nyújt nehéz helyzetben élő állattartók részére, tanácsadással és adományok kiosztásával. Adományok kiosztását és gyűjtését végzi. Támogatja állatmenhelyek és állatotthonok kialakítását, üzemeltetését, ideiglenes befogadó hálózat fenntartását és működtetését, önkéntesek képzését és oktatását. 2011. évi CLXXXIX. tv. Magyarország helyi önkormányzatairól szóló tv.23. § (4) bek.5.pont.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004043",
+      "régi_nyilvántartási_száma": "4043/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-01-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Grabow",
+        "Képviselő keresztneve": "Nikolett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "284",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 066 429 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "303",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 840 025 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "340",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 375 146 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "224",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 558 173 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MINDEN ÁLLATÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

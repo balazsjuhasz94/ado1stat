@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18878583",
+  "scraped_at": "2026-02-14T13:35:46.049382",
+  "organization_id": "71269",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Viharsarki Állatőrség Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5900 Orosháza, Hajnal köz 16.",
+      "x_koordináta": "46.557411",
+      "y_koordináta": "20.674632",
+      "adószám": "18878583-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-14",
+      "statisztikai_számjel": "18878583-9499-569-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány fő célja: A felelős állattartás, valamint az állat- és természetvédelem fontosságának terjesztése, óvodák, iskolák és egyéb civil szervezetek részére állatvédelmi oktatások szervezése, felvilágosító munka végzése. Az állatok élethez való jogát hirdetni, felhívni a figyelmet, az állatok szeretetén alapuló állattartásnak a fontosságára. Az állatok gondozásával, tartásával, viselkedésükkel kapcsolatos tudnivalók átadása. A lakossági állattartás keretében a rossz életkörülmények között élő állatok felkutatása, ezen rossz körülményeken való változtatás, együttműködve az állatvédelmi hatóságokkal. Az Alapítvány hosszú távú célkitűzése: Az Alapítvány tervei között szerepel, hogy minél több városba, kistelepülésbe eljusson, helyi önkormányzatokkal együttműködve érje el célját és fejthesse ki tevékenységét. További tervei eléréséhez rendezvények, adománygyűjtések szervezése, továbbá országos rendezvényeken, fesztiválokon való megjelenés, gyűjtés szervezése céljából, illetve tevékenységei népszerűsítésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002726",
+      "régi_nyilvántartási_száma": "2726/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-09-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-05",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11600006-00000000-78569717",
+      "számlavezető_pénzintézet_neve": "ERSTE Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Baranyi Koppány",
+        "Képviselő keresztneve": "Sólyom",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "370",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 047 734 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "277",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 901 756 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "368",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 621 705 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "164",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 306 879 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "124",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 068 144 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Viharsarki Állatőrség Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Viharsarki Állatőrség Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18952861",
+  "scraped_at": "2026-02-21T14:20:19.022892",
+  "organization_id": "97993",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hévízi Szobakiadók Szövetsége",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8380 Hévíz, Széchenyi utca 10.",
+      "x_koordináta": "46.7964143",
+      "y_koordináta": "17.1897862",
+      "adószám": "18952861-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1994-10-04",
+      "statisztikai_számjel": "18952861-9412-517-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Tömöríti mindazokat a fizetővendéglátó engedéllyel rendelkező szállás és szobakiadókat, akik tevékenyen részt kívánnak venni Hévíz kiemelten kulturált idegenforgalmi életének megvalósításában és fejlesztésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0001018",
+      "régi_nyilvántartási_száma": "1018/1994",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-02-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-20",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bruncsicsné Szekér",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "316 845 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "318 913 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19307013",
+  "scraped_at": "2026-02-14T13:03:16.103017",
+  "organization_id": "366526",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alíz Esélye Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7300 Komló, Bocskai utca 53/A.",
+      "adószám": "19307013-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-02",
+      "statisztikai_számjel": "19307013-8696-569-02",
+      "x_koordináta": "46.1989923",
+      "y_koordináta": "18.2619741"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Friedreich-ataxia típusú öröklődő genetikai betegségben szenvedő Tiszberger Alíz (születési hely és idő: Pécs, 2011. október 9., anyja neve: Gallusz Ágnes, lakcíme: 7300 Komló, Bocskai u. 53/A.) egészségügyi ellátási költségeinek viselése, ápolása, gondozása, a mindennapi szükségleteinek kielégítéséhez szükséges speciális eszközök, gyógyászati és higiéniás szerek költségeinek viselése, mozgásfejlődésének, életminőségének, általános közérzetének javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001929",
+      "régi_nyilvántartási_száma": "1929/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Galambos",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "269",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 103 289 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "171",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 637 652 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

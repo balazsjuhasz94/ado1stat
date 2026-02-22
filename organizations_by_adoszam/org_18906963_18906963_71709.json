@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18906963",
+  "scraped_at": "2026-02-21T12:39:27.578019",
+  "organization_id": "71709",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lepsényi Fekete István Általános Iskola Alapítványa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8132 Lepsény, Vasút utca 19.",
+      "x_koordináta": "46.9940506",
+      "y_koordináta": "18.2444899",
+      "adószám": "18906963-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-30",
+      "statisztikai_számjel": "18906963-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Lepsényi Fekete Általános Iskola tanulóinak támogatása: hátrányos helyzetű gyermekek társadalmi és esélyegyenlőségének elősegítése; az iskola tanulóinak oktatási, nevelési, sport, kulturális tevékenységeinek támogatása; tehetséggondozás, környezetvédelem, hagyományápolás és hagyományteremtés elősegítése; a gyermekek kulturált környezet kialakításra, fenntartásra nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001111",
+      "régi_nyilvántartási_száma": "1111/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-04-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovácsné Szücs",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 893 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 208 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "208 735 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "289 644 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "525 212 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Lepsényi Fekete István Álatalános Iskola Alapítványa"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Lepsényi Fekete István Álatalános Iskola Alapítványa"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

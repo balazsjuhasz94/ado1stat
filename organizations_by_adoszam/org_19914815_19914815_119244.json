@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19914815",
+  "scraped_at": "2026-02-21T13:50:13.541787",
+  "organization_id": "119244",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Boldva Községi Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3794 Boldva, Széchenyi István út 5.",
+      "x_koordináta": "48.219751",
+      "y_koordináta": "20.784254",
+      "adószám": "19914815-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19914815-9312-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az Egyesület kiemelt célja a Sportegyesület tagjai részére megfelelő sporttevékenység biztosítása szabadidő-sport, verseny-sport, természetjárás, valamint A helyi sport hagyományok ápolása, az Egyesület tagjainak a sportszerű életmódra és magatartásra való nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0000690",
+      "régi_nyilvántartási_száma": "690/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-05",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sipos",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 091 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "377 390 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

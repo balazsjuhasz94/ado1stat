@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "18908484",
+  "scraped_at": "2026-02-21T13:07:49.453717",
+  "organization_id": "71567",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pillangó Tollaslabda Klub",
+      "rövid_név": "PiTok",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9700 Szombathely, Bolyai János utca 3. C. III./9.",
+      "x_koordináta": "47.2363142",
+      "y_koordináta": "16.6101809",
+      "adószám": "18908484-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-18",
+      "statisztikai_számjel": "18908484-9312-521-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "a) a tollaslabda sportág népszerűsítése; b) a rendszeres sportolás és versenyzés feltételeinek biztosítása az egyesület tagjai és támogatói számára; c) a tollaslabdázás iránti igények felkeltése; d) egészséges és sportszerű életmódra nevelés; e) utánpótlás korosztályok nevelése, versenyeztetése; f) hazai és nemzetközi sportkapcsolatok kiépítése, ápolása; g) az egyesület profiljának megfelelő sportesemények, sportrendezvények szervezése, h) iskolai diáksport szervezése, működtetése, versenyeinek lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200709",
+      "régi_nyilvántartási_száma": "200709/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-01",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "117470062726814000000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Oláh",
+        "Képviselő keresztneve": "János Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "160 366 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "201 755 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 136 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "441 794 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "450 581 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pillangó Tollaslabda Klub"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pillangó Tollaslabda Klub"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

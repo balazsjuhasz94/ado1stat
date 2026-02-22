@@ -1,0 +1,146 @@
+{
+  "search_adoszam": "18175581",
+  "scraped_at": "2026-02-14T13:07:19.561595",
+  "organization_id": "96126",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Medicopter Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1081 Budapest, Szilágyi utca 3.",
+      "x_koordináta": "47.4957256",
+      "y_koordináta": "19.076118",
+      "adószám": "18175581-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2002-03-14",
+      "adószám_törlésének_dátuma": "2025-09-26",
+      "statisztikai_számjel": "18175581-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Az egész országra kiterjedően végezni a légi mentési tevékenységet, biztosítani kívánja e tevékenység ellátásához szükséges anyagi, tárgyi és személyi feltételeket. Szervezné, irányítaná és ténylegesen is végezné a súlyos, életveszélyes állapotban lévő betegek helikopterrel történő szállítását, kiemelten foglalkoznának az égési sérültek mentésével, vállalva ennek speciális feltételeit is megteremteni. Szükség és igény szerint végeznék az egészségügyi intézmények közötti betegszállítást is, amennyiben ezt a beteg állapota megkívánja és lehetővé teszi. A betegszállításon túlmenően egészségügyi szakemberei útján az egészségügyi intézmények részére történő átadásig szükség szerint ellátja a közúti balesetek sérültjeit, illetve a légi mentéssel érintett betegeit. Céljai között kiemelt helyet foglal el a gyermek intenzív osztályok támogatása úgy technikai eszközökkel, mint pénzzel, illetve egyéb eszközökkel és módon. Részt kíván venni a magyarországi rákkutatás fejlesztésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0008484",
+      "régi_nyilvántartási_száma": "8484/2002",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-11-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-07",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "26",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lázár",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "1424",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 798 416 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "5177",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "18 791 747 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "4142",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 103 511 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "1156",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 734 227 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "544",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 608 605 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "462",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 409 560 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "311",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 832 424 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "203",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 797 154 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "161",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 867 914 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 537 589 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Medicopter Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

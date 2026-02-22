@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19107349",
+  "scraped_at": "2026-02-14T13:30:12.234639",
+  "organization_id": "98053",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bárczi Suli Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1039 Budapest, Bárczi Géza utca 2.",
+      "x_koordináta": "47.5950914",
+      "y_koordináta": "19.0473294",
+      "adószám": "19107349-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-14",
+      "statisztikai_számjel": "19107349-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány közvetlenül vagy az iskolán keresztül támogatja a Bárczi Géza Általános Iskola tanulóinak szellemi, testi és erkölcsi nevelését, így: 1. A pedagógusok továbbképzését, fejlesztését és új pedagógiai programok bevezetését. 2. A magas színvonalú nyelvtanulást. 3. A kimagasló tehetségű tanulók támogatását, segély vagy ösztöndíj formájában. 4. A hátrányos helyzetű tanulók támogatását. 5. A kiemelkedő eredményt elérő pedagógusok és más iskolai dolgozók jutalmazását a tantestület előterjesztése alapján. 6. Az iskola tárgyi feltételeinek javítását, berendezéseinek korszerűsítését. 7. Az iskola tanulóinak szabadidős programjait. 8. Bármely egyéb, kisebb vagy nagyobb rövid távú vagy hosszabb tartamú cél megvalósítását, mely a tanulók érdekeit szolgálja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012725",
+      "régi_nyilvántartási_száma": "12725/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-11-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11600006-00000000-81483437",
+      "számlavezető_pénzintézet_neve": "ERSTE Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kántor",
+        "Képviselő keresztneve": "Tiborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "170",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 364 478 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "128",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 145 942 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 136 311 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

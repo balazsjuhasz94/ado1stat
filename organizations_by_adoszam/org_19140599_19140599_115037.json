@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19140599",
+  "scraped_at": "2026-02-14T12:41:06.880848",
+  "organization_id": "115037",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pöttöm Panni Mosolyáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2314 Halásztelek, Béke utca 90.",
+      "x_koordináta": "47.362712",
+      "y_koordináta": "18.976746",
+      "adószám": "19140599-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-22",
+      "statisztikai_számjel": "19140599-8412-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány elsődleges célja Földes Anna egészséges fejlődését, önálló mozgását, látásfejlődését biztosító, elősegítő, mozgás koordinációját javító, fejlesztő, valamint életkörülményeinek megkönnyítését, javítását célzó magyarországi és külföldi műtétek, gyógykezelések, gyógymódok, utókezelések, gyógytörnák, fejlesztő feoglalkozások finanszírozásának támogatása; mindezekkel összefüóggő, ezekhez kapcsolódóan felmerülő utazási, szállás, érkezési költségek biztosítása; mozgást, látást segítő, könnyítő, valamint fejlesztő gyógyászati és egyéb segédeszközök, játékok fovábbá szállítást, közlekedést biztosító eszközök vásárlása, fenntartásukhoz, használatukhoz, karbantartásukhoz kapcsolódó költségek finanszírozása. Terápiás állatok vásárlása, kiképzésükkel, gondozásukkal kapcsolatos költségek finanszírozása (pl. kutya).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004020",
+      "régi_nyilvántartási_száma": "4020/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-11-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11722010-21451803",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kétszery",
+        "Képviselő keresztneve": "Anikó (elnök)",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "232",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 261 035 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "229",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 942 092 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "226",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 585 297 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "236",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 752 089 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pöttöm Panni Mosolyáért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

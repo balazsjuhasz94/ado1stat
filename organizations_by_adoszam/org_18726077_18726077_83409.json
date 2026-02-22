@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "18726077",
+  "scraped_at": "2026-02-21T13:59:32.638482",
+  "organization_id": "83409",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BMSA-Karting Egyesület",
+      "rövid_név": "BMSA-KE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét , Akadémia körút 22. VIII./24.",
+      "x_koordináta": "47.4597236",
+      "y_koordináta": "18.9437556",
+      "adószám": "18726077-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-05-01",
+      "statisztikai_számjel": "18726077-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "1.1 Utánpótlás neveléssel elősegíti a magyar autósport fejlődését. 1.2. Segíti és ösztönzi a magyar autósport résztvevőit a biztonságos, sportszerű és felelősségteljes versenyzésben. 1.3. Elősegíti és támogatja a magyar autósport utánpótlás keresését. 1.4. Minden szakágban segíti és támogatja a magyar autósport utánpótlás nevelését, képzését. 1.5. Elősegíti és támogatja az egészséges életmód, a sportszeretetet, és a mindennapi sportolási tevékenység köztudatba építését. 1.6. Elősegíti és támogatja a biztonságos közlekedésre való nevelést. 1.7. A versenyzők egyesületbe tömörítése. 1.8. Rendezvények, versenyek lebonyolítása, ezekre közlekedésbiztonsági oktatáshoz szükséges hangos-, írott- és képi anyagok elkészítése, készíttetése, valamint ezen ismeretanyagok ismertetése és terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0005588",
+      "régi_nyilvántartási_száma": "5588/2009",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-01-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-22",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10401165-50526972-72531004",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Benkő",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "665 702 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "393 047 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 829 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19153168",
+  "scraped_at": "2026-02-14T12:45:15.496295",
+  "organization_id": "102056",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Összefogás a Bajai Cicákért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6500 Baja, Mártonszállási út 101.",
+      "x_koordináta": "46.1839025",
+      "y_koordináta": "18.9476652",
+      "adószám": "19153168-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-07",
+      "statisztikai_számjel": "19153168-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "a.) a macskapopuláció életminőségének javítása a fenntartható fejlődés jegyében, ivartalanítás által, b.) gazdátlan macskák gyógykezeltetése, örökbe adása, c.) a társadalom érzékenyítése, felelős állattartásra nevelés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003724",
+      "régi_nyilvántartási_száma": "3724/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dudás",
+        "Képviselő keresztneve": "Zoltánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "253",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 470 458 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "338",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 274 303 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "336",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 639 844 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "286",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 458 905 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Összefogás a bajai cicákért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

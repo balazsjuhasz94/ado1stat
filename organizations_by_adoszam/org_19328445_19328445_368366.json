@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19328445",
+  "scraped_at": "2026-02-21T12:28:34.524722",
+  "organization_id": "368366",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Galambos Péter Buddhista Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1025 Budapest, Verecke út 15821/4. hrsz.",
+      "adószám": "19328445-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-14",
+      "statisztikai_számjel": "19328445-9499-569-01",
+      "x_koordináta": "47.5348426",
+      "y_koordináta": "18.9984161"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Galambos Péter buddhista jógi, szellemi és fizikai örökségének ápolása, továbbvitele érdekében fontos kapcsolódó közösségi és tudományos tevékenységek végzése, kutatása, különös hangsúlyt fektetve a buddhizmus szent könyveinek és kanonikus iratainak fordítására és tanulmányozásra, részben az eredeti forrás szerinti tibeti és kínai nyelvekről. Ezen túlmenően kulturális tevékenységek szervezése, lebonyolítása, a több, mint 2600 éves buddhista hagyomány autentikus megőrzése és átadása, a hely és a kor követelményeinek megfelelő honosítással. Az alapítvány tevékenységét Magyarországon és nemzetközi szinten is tervezeti végezni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013288",
+      "régi_nyilvántartási_száma": "13288/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11702012-21452684",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Glatz",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "János",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "566 828 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

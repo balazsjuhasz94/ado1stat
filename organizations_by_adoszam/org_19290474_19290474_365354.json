@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19290474",
+  "scraped_at": "2026-02-21T14:36:55.906676",
+  "organization_id": "365354",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Győrzámolyi K4 Vízisport Egyesület",
+      "rövid_név": "K4 VSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9172 Győrzámoly, Szabadság út 9/ B.",
+      "adószám": "19290474-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-18",
+      "statisztikai_számjel": "19290474-9312-521-08",
+      "x_koordináta": "47.7620643",
+      "y_koordináta": "17.5921819"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "- tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása, - sportesemények, sportversenyek szervezése, - a társadalmi öntevékenység és a közösségi élet kibontakoztatása, - sportkapcsolatok létesítése és fejlesztése - az egészséges életmód és a szabadidősport feltételei megteremtésének és fejlesztésének elősegítése - a fogyatékkal élők sportolási lehetőségének előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063211",
+      "régi_nyilvántartási_száma": "63211/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-29",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kadler",
+        "Képviselő keresztneve": "Kata",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 298 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "232 929 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "294 709 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

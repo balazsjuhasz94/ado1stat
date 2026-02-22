@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19312237",
+  "scraped_at": "2026-02-21T14:29:48.372691",
+  "organization_id": "366999",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Becehegyért és Paphegyért\" Természet- Környezetvédő és Kulturális Egyesület",
+      "rövid_név": "\"Becehegyért és Paphegyért\" Egyesület (BÉPE)",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8313 Balatongyörök, Vadrózsa utca 13/ A",
+      "adószám": "19312237-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-14",
+      "statisztikai_számjel": "19312237-9499-529-20",
+      "x_koordináta": "46.7718175",
+      "y_koordináta": "17.3608707"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Egyesületünk célja a közös gondolkodás és cselekvés Becehegyért és Paphegyért! Alkossunk egymást jól ismerő és tisztelő, emberi léptékű, tevékeny baráti közösséget! Érezzük itt jól és biztonságban magunkat! Legyünk érzékenyek és büszkék arra, hogy Magyarország egyik legszebb természeti és épített környezetében élünk! Aktív, cselekvő csapatként működjünk együtt páratlan szépségű nemzeti kincsünk, Becehegy, paphegy szőlőhegyek természeti, környezeti és épített értékeinek érdekképviseletében, azok megőrzésében, védelmében, fejlődésében!",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0003090",
+      "régi_nyilvántartási_száma": "3090/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fésűné Bálint",
+        "Képviselő keresztneve": "Gizella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "413 628 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 271 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

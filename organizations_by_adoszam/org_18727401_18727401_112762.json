@@ -1,0 +1,122 @@
+{
+  "search_adoszam": "18727401",
+  "scraped_at": "2026-02-14T12:20:19.764531",
+  "organization_id": "112762",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bátor Kicsi Lélek Alapítvány a Daganatos és Leukémiás Gyermekek Támogatására",
+      "rövid_név": "Bátor Kicsi Lélek Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2049 Diósd, Homokos utca 9/B.",
+      "x_koordináta": "47.4073522",
+      "y_koordináta": "18.9528033",
+      "adószám": "18727401-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-30",
+      "statisztikai_számjel": "18727401-8696-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A daganatos és leukémiás gyermekek gyógyítása, gyógyulásának elősegítése, rehabilitációjának erősítése, életminőségének javítása, valamint a felsoroltak személyi és tárgyi feltételei megteremtésének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003730",
+      "régi_nyilvántartási_száma": "3730/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-11-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-09-23",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Garami",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "961",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 095 070 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "715",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 623 728 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "765",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 101 969 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "986",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 901 144 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1104",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 538 201 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1087",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 275 362 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "884",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 952 341 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BÁTOR KICSI LÉLEK Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BÁTOR KICSI LÉLEK Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BÁTOR KICSI LÉLEK Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BÁTOR KICSI LÉLEK Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

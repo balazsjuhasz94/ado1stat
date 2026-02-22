@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19168997",
+  "scraped_at": "2026-02-21T13:39:17.821574",
+  "organization_id": "109416",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ÉDES-KÉK Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3770 Sajószentpéter, Zsigmond K. út 16.",
+      "x_koordináta": "48.2175027",
+      "y_koordináta": "20.7131911",
+      "adószám": "19168997-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-09-18",
+      "statisztikai_számjel": "19168997-8696-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "-a diabetes, hypertonia szövődményeinek megelőzésére és gyógyítására irányuló kutató munka anyagi lehetőségeinek bővítése -a diabetes gondozást végző egészségügyi személyzet, szülők, pedagógusok részére tréningek, előadások szervezése -partnerkapcsolatok kiépítése a hazai és külföldi cukorbeteg civil szerveződésekkel -helyes életmód és életvezetés, kezelés speciális ismereteinek elsajátítása érdekében a gyerekek és szüleik részére oktató táborok, képzések, előadások szervezése, -korszerű vizsgálóeszközök, berendezések, vizsgálatok anyagi támogatása -diétás termékeknek a gondozottakkal és családtagjaikkal való megismertetése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064561",
+      "régi_nyilvántartási_száma": "64561/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-06-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11734004-25973219",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Török",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "386 026 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

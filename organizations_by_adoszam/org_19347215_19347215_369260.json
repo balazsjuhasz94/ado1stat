@@ -1,0 +1,124 @@
+{
+  "search_adoszam": "19347215",
+  "scraped_at": "2026-02-14T12:51:53.261456",
+  "organization_id": "369260",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Telex a Szabad Sajtóért Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1036 Budapest, Perc utca 6.",
+      "adószám": "19347215-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-18",
+      "statisztikai_számjel": "19347215-9499-569-01",
+      "x_koordináta": "47.5338376",
+      "y_koordináta": "19.0430114"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A független magyar sajtó sokszínűségének megőrzése és támogatása – ezen belül kiemelten Telex elnevezésű on-line sajtótermék anyagi és szakmai támogatása – továbbá független magyar sajtótermékek létrehozatalában közreműködő személyek támogatása nem várt, rendkívüli helyzetek esetén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-01-0000806",
+      "régi_nyilvántartási_száma": "806/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-03-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-01",
+      "alkalmazottak_száma": "8",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kárpáti",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1811",
+        "Leírás": "Napilapnyomás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5812",
+        "Leírás": "Címtárak, levelezőjegyzékek kiadása"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5829",
+        "Leírás": "Egyéb szoftverkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "6020",
+        "Leírás": "Televízióműsor összeállítása, szolgáltatása"
+      },
+      {
+        "Kód": "6010",
+        "Leírás": "Rádióműsor-szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6391",
+        "Leírás": "Hírügynökségi tevékenység"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39982",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "582 427 050 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

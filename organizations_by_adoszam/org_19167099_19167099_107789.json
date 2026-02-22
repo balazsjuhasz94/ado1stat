@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19167099",
+  "scraped_at": "2026-02-21T13:55:50.143077",
+  "organization_id": "107789",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Középhegyi Waldorf Óvodáért Egyesület",
+      "rövid_név": "KWÓE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9700 Szombathely, Középhegyi út 13.",
+      "x_koordináta": "47.232495",
+      "y_koordináta": "16.596508",
+      "adószám": "19167099-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-08-29",
+      "statisztikai_számjel": "19167099-8510-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A gyermeknevelés megújulása érdekében célja helyi kezdeményezéssel, törvényes működésen alapuló Waldorf pedagógiai intézmények alapítása, ehhez a szellemi-, anyagi és társadalmi feltételek megteremtése, működésük megszervezése és - mások segítségével - a Waldorf pedagógiai intézmények fenntartása, működtetése, illetve mindezek elősegítése. A Középhegyi Waldorf Óvoda fenntartása, működési feltételeinek folyamatos biztosítása, szülői közösség szervezése, kapcsolódó kulturális és szociális rendezvények és kezdeményezések megvalósítása, és a nevelési, kulturális tevékenységekre alkalmas épületek felépítése, felszerelése, működtetése. Waldorf pedagógiai, nevelő önképzések, továbbképzések és képzések megszervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200778",
+      "régi_nyilvántartási_száma": "200778/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-26",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Menges",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "121 397 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "293 446 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "240 012 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 373 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Középhegyi Waldorf Óvodáért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

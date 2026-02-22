@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19280798",
+  "scraped_at": "2026-02-21T14:31:29.546337",
+  "organization_id": "364851",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"ZORA 1987\" Nemzetiségi Hagyományőrző Alapítvány",
+      "rövid_név": "\"ZORA 1987\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7700 Mohács, Korsós utca 27.",
+      "adószám": "19280798-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-08",
+      "statisztikai_számjel": "19280798-9039-569-02",
+      "x_koordináta": "46.0076217",
+      "y_koordináta": "18.6650251"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A ZORA Táncegyüttes tevékenységének támogatása, ezen keresztül, illetve emellett a magyar és a magyarországi, különösen a Mohács és térségi nemzeti/ nemzetiségi kisebbségek- többek között a szerb, horvát, szlovén, sváb, bolgár kisebbségek- kultúrájának, hagyományainak ápolása, támogatása, a nemzetiségi néptánc, népviselet és népzenei értékek, szokások, hagyományok felkutatása, ápolása, megőrzése, bemutatása és beillesztése a kulturális életbe. A népművészet (néptánc, népzene, népviselet, nemzetiségi nyelv) támogatása, hagyományápolás, hagyományőrzés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001917",
+      "régi_nyilvántartási_száma": "1917/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Darazsacz",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "288 811 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "304 825 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

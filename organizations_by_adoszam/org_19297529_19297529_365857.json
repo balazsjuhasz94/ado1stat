@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19297529",
+  "scraped_at": "2026-02-14T13:46:00.190878",
+  "organization_id": "365857",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hope Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4075 Görbeháza, Szabadság utca 34.",
+      "adószám": "19297529-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-11",
+      "statisztikai_számjel": "19297529-9499-529-09",
+      "x_koordináta": "47.78682",
+      "y_koordináta": "21.2166185"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "-Kereső -és mentőkutyák képzése, vizsgáztatása és alkalmazása. -Eltűnt személyek felkutatása keresőkutyákkal és speciális eszközökkel. -Segítő kutyák kiképzése és a fogyatékossággal élő személyekhez történő eljuttatása. -Lehetőség nyújtása kutyás terápián való részvételre ép, sérült, fogyatékkal élő és hátrányos helyzetű személyek számára minden korosztályban, az életminőség javítása céljából. -A segítő -és mentőkutyák alkalmazásának elfogadtatása, népszerűsítése. -Kutyakiképzés, kutyás sportok népszerűsítése. -Kiképzőbázisok létrehozása, fenntartása, fejlesztése. -Tevékenységhez szükséges speciális eszközök beszerzése. -Tevékenységgel összefüggő rendezvények, tanfolyamok, vizsgák szervezése. -Szakmai fejlődést elősegítő képzéseken és rendezvényeken való részvétel, szakemberek képzése. -Kutyás kultúra fejlesztése, felelős állattartás népszerűsítése. -Az egyesület alkalmazásában dolgozó kutyák egészségügyi és hétköznapi ellátásának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005128",
+      "régi_nyilvántartási_száma": "5128/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szurkosné Orosz",
+        "Képviselő keresztneve": "Emese",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "968 585 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

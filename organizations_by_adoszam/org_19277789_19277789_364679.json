@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19277789",
+  "scraped_at": "2026-02-21T13:04:03.682402",
+  "organization_id": "364679",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Benned a Létra Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1024 Budapest, Pengő utca 3. 3/2.",
+      "adószám": "19277789-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-09-04",
+      "statisztikai_számjel": "19277789-9499-529-01",
+      "x_koordináta": "47.4978789",
+      "y_koordináta": "19.0402383"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Jövőtervezés, pályaorientáció segítsége hátrányos helyzetű gyerekek, fiatalok számára. A társadalom és az emberiség jólétét szolgáló tevékenység. A társadalmi felelősségvállalás segítése. A hátrányos helyzetű gyermekek szociális és mentális segítése, különös tekintettel a fizikai – anyagi és mentális – érzelmi jóllétükre. Közvetlen és közvetett, közvetített anyagi, szellemi és érzelmi segítségnyújtás a társadalmi integrálódásuk érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017451",
+      "régi_nyilvántartási_száma": "17451/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Magyar",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Benda",
+        "Képviselő keresztneve": "Felicián",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pituk",
+        "Képviselő keresztneve": "Sára",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "144 383 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "458 768 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

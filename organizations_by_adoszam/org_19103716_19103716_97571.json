@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19103716",
+  "scraped_at": "2026-02-21T14:35:01.804377",
+  "organization_id": "97571",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BÉZS Egyesület",
+      "rövid_név": "BÉP Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1068 Budapest, Benczúr utca 45. 2. em.",
+      "x_koordináta": "47.5096864",
+      "y_koordináta": "19.0329616",
+      "adószám": "19103716-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-27",
+      "statisztikai_számjel": "19103716-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "-A Rádió Bézs üzemeltetése. -Tevékenységével szolgálja a normalitást, az indulatmentes közéleti tevékenységet. -Hidat képezzen generációk, a főváros és vidék, az ország és világ között, hogy az egymástól eltérő törekvések megértésére. - Az értékek kölcsönös megbecsülésére, ennek révén az elszigeteltség feloldására, a humanista közgondolkodás serkentésére buzdítson. - A sajtó-, a szólás- és véleménynyilvánítás szabadságának őrzése és ápolása. - A rádiózás és rádió-hallgatás hagyományainak, értékeinek ápolása, terjesztése, a rádiózás szeretetének továbbadása. - A hallgató, a médiafogyasztó és a médiaszolgáltató közötti kapcsolat javítása. -Túl a kulturált rádiózás értékeinek ápolásán, rendezvények és összejövetelek szervezésével, közösségi kapcsolatok támogatásával, közösségi tér létrehozásával és annak esetleges üzemeltetésével segítse a kulturális értékek őrzését, továbbadását, nonprofit módon. -A kulturális örökség megóvása, a művelődési, információs lehetőségek megteremtése. - hely és lehetőség biztosítása a hazai kulturális élet résztvevőinek a bemutatkozásra, különös tekintettel a művészeti szövetségek és a művészeti közélet különböző hazai és nemzetközi megnyilvánulásainak. -Információk továbbítása, értékek őrzése, ismeretek terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016972",
+      "régi_nyilvántartási_száma": "16972/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fodor",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 776 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

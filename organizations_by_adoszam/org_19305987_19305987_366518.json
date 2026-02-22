@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "19305987",
+  "scraped_at": "2026-02-21T13:35:38.125116",
+  "organization_id": "366518",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jóbuda Harmadik Kerületi Közösségi Alapítvány",
+      "rövid_név": "Jóbuda Közösségi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1031 Budapest, Vitorla utca 9. 1. emelet/4. ajtó",
+      "adószám": "19305987-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-18",
+      "statisztikai_számjel": "19305987-9499-569-01",
+      "x_koordináta": "47.5726359",
+      "y_koordináta": "19.0462898"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az adományozói kultúra növelése, terjesztése Budapest III. kerületében. A közösség erőforrásainak mobilizálása a helyi problémák megoldására, a hiányok enyhítésére, a kerületben élők életminőségének, jól-létének emelésére, a helyi kultúra, közművelődés, közösségi élet gazdagítására, a civilség közösségi erővé formálására, a társadalmi párbeszéd színtereinek gyarapítására. A kerületi ügyek iránt felelősséget érzők és azt azokét cselekvők számának növelése. A civil tudatosság erősítése és a lokálpatriotizmus szolgálatába állítása, hogy a kerültben élők, dolgozók, ide kötődők rendszeresen fordítsanak erőforrásaikból a helyi ügyek támogatására. A kerületi vállalkozók, adományozók összekapcsolása a helyi kezdeményezésekkel. A kerület kulturális, szociális, egészségi, környezeti állapotát javító kezdeményezések pénzbeli és egyéb módon való támogatása. A szolidaritás erősítése a különböző hátrányos helyzetűek vagy hiányt szenvedők iránt, az esélyegyenlőség előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013137",
+      "régi_nyilvántartási_száma": "13137/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-07-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "16200010-10113361",
+      "számlavezető_pénzintézet_neve": "Magnet Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Götz",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "323 662 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "393 211 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

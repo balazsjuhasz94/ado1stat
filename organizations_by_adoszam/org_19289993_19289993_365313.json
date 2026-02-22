@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19289993",
+  "scraped_at": "2026-02-21T13:41:15.205315",
+  "organization_id": "365313",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Retropajzs Egyesület a HIV-vel élőkért",
+      "rövid_név": "Retropajzs Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1071 Budapest, Rottenbiller utca 47. II/16.",
+      "adószám": "19289993-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-14",
+      "statisztikai_számjel": "19289993-9499-529-01",
+      "x_koordináta": "47.5064704",
+      "y_koordináta": "19.0803633"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "1. A Magyarországon HIV-vel élők önszerveződésének támogatása az online és offline térben, tekintet nélkül nemre, fajra, etnikumra, nemzetiségre, politikai, vallási meggyőződésre, egészségi állapotra, szerhasználati szokásokra, továbbá a szexuális életre vagy beállítottságra, figyelemmel az LMBTQ közösség HIV által érintett tagjaira is, akik a hazai HIV-vel élők jelentős részét reprezentálják. 2. A HIV-vel élők hátrányos megkülönböztetése elleni fellépés, alapjogaikkal és egészségügyi ellátásukkal kapcsolatos sérelmeik esetén. 3. A HIV-vel élők társadalmi helyzetének megismerése, az ebből fakadó szükségleteik feltérképezése, és ezáltal is jóllétük, egészségtudatosságuk növelése. 4. A HIV-vel élők számára segítő szolgáltatások megszervezése, a már meglévő szolgáltatások megismertetése, igénybevételük elősegítése, új lehetőségek felkutatása. 5. A fiatalokat, a HIV által leginkább veszélyeztetett csoportokat és az egészségügyi személyzetet is elérő folyamatos edukáció, prevenció és érzékenyítő tevékenység megszervezése, illetve működtetése, és az ezekhez kapcsolódó anyagok létrehozása. Továbbá más hasonló tevékenységi profillal is bíró szervezetekkel történő rendszeres együttműködés és a tevékenységek koordinálása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017522",
+      "régi_nyilvántartási_száma": "17522/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09",
+      "bankszámlaszám": "11600006-00000000-94702772",
+      "számlavezető_pénzintézet_neve": "ERSTE BANK HUNGARY Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Laczkó",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "448 268 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "382 502 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18979079",
+  "scraped_at": "2026-02-14T13:26:40.018024",
+  "organization_id": "83239",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ebes Óvodásaiért és Bölcsődéseiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4211 Ebes, Ady Endre utca 9-11.",
+      "x_koordináta": "47.4699908",
+      "y_koordináta": "21.4924836",
+      "adószám": "18979079-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-03-28",
+      "statisztikai_számjel": "18979079-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A létrejött alapítvány elsődleges célja, hogy elősegítse az ebesi Benedek Elek Óvoda és Mini Bölcsőde gyermekeinek nevelési, játékos tanulási és művelődési lehetőségeinek bővítését, óvodai és bölcsődei környezetének építését, szépítését. Közhasznú tevékenységével közvetlenül segíti elő a nemzeti köznevelésről szóló 2011. évi CXC. törvény 1. § szerinti közfeladat megvalósítását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002218",
+      "régi_nyilvántartási_száma": "2218/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "59900036-00353456",
+      "számlavezető_pénzintézet_neve": "Takarékbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kulcsárné Toroczkai",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "Dóra",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szőllősiné Nemes",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "189",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "814 716 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "136",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "682 159 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "188",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 287 526 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "171",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 284 908 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "142",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 184 262 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ebes Óvodásaiért és Bölcsődéseiért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ebes Óvodásaiért és Bölcsődéseiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

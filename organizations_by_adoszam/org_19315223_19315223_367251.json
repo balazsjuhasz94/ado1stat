@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19315223",
+  "scraped_at": "2026-02-14T14:10:35.913852",
+  "organization_id": "367251",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Mi Csanakunk 2021 Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9012 Győr, Paptagi utca 30.",
+      "adószám": "19315223-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-12",
+      "statisztikai_számjel": "19315223-9499-569-08",
+      "x_koordináta": "47.6221063",
+      "y_koordináta": "17.6101489"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Győr-Ménfőcsanaki Szent Kereszt Egyházközség tulajdonában és kezelésében levő egyházi és egyéb ingatlanok fenntartásához, megóvásához, karbantartásához és felújításához történő hozzájárulás, támogatás. Ehhez kapcsolódóan anyagi eszközök, támogatások felkutatásával, igénylésével, megpályázásával segítség nyújtása. Az ingatlanokhoz kapcsolódó környezetvédelmi feladatok (pl. parlagfűmentesítés) támogatása. Helyi kulturális tevékenységek szervezése, támogatása, könyvkiadás támogatása. Egyházi és helyi hagyományok ápolása. Az egyházközség területén élők részére szabadidős, sport, kulturális programok szervezése, nyári táborok szervezése, ehhez anyagi és egyéb támogatások nyújtása, illetve hátrányos helyzetű, fogyatékkal élő gyermekek részvételéhez anyagi támogatás nyújtása. Hitélet, hitoktatás támogatása (gyermekek és felnőttek képzése, eszközök biztosítása, ministránsképzés, helyi, egyházi hivatást választók támogatása, ösztöndíj juttatása az egyházközség javára tevékenykedő (tanulmányokat folytató, kiküldött stb.) személyek részére). Szociális feladatok támogatása, legfőképp az egyházközség területén élő idős vagy beteg rászoruló személyek felkutatása és támogatása. Az egyházközség területén élő hátrányos helyzetű és halmozottan hátrányos helyzetű családok támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051476",
+      "régi_nyilvántartási_száma": "51476/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Némethné Horváth",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "59 251 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "809 224 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

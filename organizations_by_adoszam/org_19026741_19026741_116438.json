@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19026741",
+  "scraped_at": "2026-02-14T13:26:50.463793",
+  "organization_id": "116438",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tiszaújvárosi Eötvös Gimnáziumért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3580 Tiszaújváros, Árpád út 7. 3/3",
+      "x_koordináta": "47.9331046",
+      "y_koordináta": "21.0324429",
+      "adószám": "19026741-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-10",
+      "statisztikai_számjel": "19026741-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Segítséget nyújt a Tiszaújvárosi Eötvös József Gimnázium tanulói és pedagógusai számára a színvonalas oktató- nevelő munka megteremtésében, a gyermekek testi és szellemi nevelése, fejlődésük elősegítése érdekében. Támogatja a Tiszaújvárosi Eötvös József Gimnázium pedagógusai, valamint diákjai által szervezett kulturális tevékenységeket, rendezvényeket, tanfolyamokat, táborokat. A korszerű technikák beszerzésével biztosítja a vizuális nevelés feltételeinek megteremtését a Tiszaújvárosi Eötvös József Gimnáziumban fejlesztve ezzel az intézmény eszköz ellátottságát.Támogatja a Tiszaújvárosi Eötvös József Gimnázium azon tehetséges tanulóit, akik hátrányos helyzetük miatt elvesznének mind önmaguk, mind a társadalom számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064527",
+      "régi_nyilvántartási_száma": "64527/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Oláh-Gyúró",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "Mária",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "636 582 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 124 367 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "991 784 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 176 784 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tiszaújvárosi Eötvös Gimnáziumért"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

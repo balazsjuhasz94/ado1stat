@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19294313",
+  "scraped_at": "2026-02-21T12:29:29.003987",
+  "organization_id": "365618",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csodavár Iskola Tanulóiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8400 Ajka, Bródy utca 2.",
+      "adószám": "19294313-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-27",
+      "statisztikai_számjel": "19294313-9499-569-19",
+      "x_koordináta": "47.0893822",
+      "y_koordináta": "17.566064"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Nevelés és oktatás, képességfejlesztés, ismeretterjesztés (jogszabály: nemzeti köznevelésről szóló 2011. évi XCX. törvény 9.§ (1) bekezdése alapján a tanulók nevelése). A tanév végén legjobb tanulmányi eredményt elért tanulók, az országos tanulmányi versenyeken szereplő tanulók, a sportban kiemelkedő eredményt elért tanulók (ha a tanulmányi eredményük is jó) pénzbeli jutalmazása. Nehéz körülmények között élő -jól tanuló- diákok segítése. Közösségi programokon való részvétel költségeinek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001864",
+      "régi_nyilvántartási_száma": "1864/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-01-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kertész",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "564 403 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

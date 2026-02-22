@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19222239",
+  "scraped_at": "2026-02-14T14:17:49.235787",
+  "organization_id": "114849",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dancsi mosolyáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1028 Budapest, Petőfi utca 15.",
+      "x_koordináta": "46.358059",
+      "y_koordináta": "17.791183",
+      "adószám": "19222239-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-06",
+      "statisztikai_számjel": "19222239-8899-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- Pali Dániel (született: 2003. december 20., anyja neve: Buday Krisztina Nikoletta, lakcíme: 1028 Budapest, Petőfi u. 15.) mint kedvezményezett tartása és gondozása, számára megfelelő életkörülmények biztosítása, továbbtanulásának támogatása, kezelésének, rehabilitációjának biztosítása, gyógyítási lehetőségeinek feltárása és finanszírozása, elsősorban az SMA betegségéből adódó állapota javítása érdekében. - Az SMA (spinális izomatrófia) betegséggel kapcsolatos kutatás támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003417",
+      "régi_nyilvántartási_száma": "3417/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-08-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11702204321457294",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buday",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "Tamás",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "140",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "970 525 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "125",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 005 681 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "828 390 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18949759",
+  "scraped_at": "2026-02-14T14:06:19.332759",
+  "organization_id": "80738",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Táltos Óvoda Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1124 Budapest, Lejtő út 41.",
+      "x_koordináta": "47.4857305",
+      "y_koordináta": "19.0104469",
+      "adószám": "18949759-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-01",
+      "statisztikai_számjel": "18949759-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja a „Táltos óvodák”, így a Budapest, XII. kerületi Lejtő út 41. és Meredek u. 1.szám alatti óvodák nevelési, oktatási és kiemelten személyiség-, valamint képességfejlesztési tevékenységének anyagi támogatása, így többek között a gyermekek tehetségkibontakoztatása, felzárkóztatása, egészséges életmódjuk óvodai kialakítása, mozgáslehetőségek bővítése által, így elsősorban oktatási és szemléltetőeszközök, játékok és könyvek beszerzése révén, illetőleg testnevelési és sporteszközök biztosítása, valamint kulturális és művelődési programok (mozi-, színház-, múzeumlátogatás), illetve különböző táborozások szervezése által.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012577",
+      "régi_nyilvántartási_száma": "12577/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-02-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11712073-21455632",
+      "számlavezető_pénzintézet_neve": "OTP Bnk Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sisa",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "350 053 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "581 027 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "834 080 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "819 865 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÁLTOS ÓVODA ALAPITVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

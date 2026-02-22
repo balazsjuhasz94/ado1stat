@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19347026",
+  "scraped_at": "2026-02-14T12:45:17.583580",
+  "organization_id": "369250",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BÖRZSÖNY Speciális Mentő- és Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Börzsöny Speciális Mentők Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2624 Szokolya, Dózsa György utca 6..",
+      "adószám": "19347026-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-17",
+      "statisztikai_számjel": "19347026-8425-529-13",
+      "x_koordináta": "47.8903403",
+      "y_koordináta": "18.9749341"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célja: speciális mentési feladatok ellátása, így különösen magasból mentés, alpin mentés, eltűnt személyek felkutatása, hivatásos katasztrófavédelmi szervek szakmai támogatása, elsősegélynyújtás, valamint közreműködés és részvétel a tűzmegelőzési, valamint tűzoltási mentési feladatok ellátásában, elsősorban a Börzsöny hegységben, de szükség esetén egyéb területeken is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008259",
+      "régi_nyilvántartási_száma": "8259/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bíró",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "216",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 464 616 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19138543",
+  "scraped_at": "2026-02-14T14:02:29.057402",
+  "organization_id": "100364",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dunaharaszti Mese Óvodáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2330 Dunaharaszti, Temető utca 26.",
+      "x_koordináta": "47.347139",
+      "y_koordináta": "19.08855",
+      "adószám": "19138543-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-01",
+      "statisztikai_számjel": "19138543-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Dunaharaszti Mese Óvodában folyó nevelés és oktatás magas színvonalának elősegítése, az óvoda működésének támogatása. Gyermek centrikus, meleg, családias légkör kialakítása, az egészséges testi, lelki, szociális fejlódés és az ezekhez szükséges személyi és tárgyi feltételek emgteremtése. Az óvoda egyéni arculatának megfelelően, a gyermekek részére szükséges - a fenntató szerv által juttatott összegen felül - berendezések, felszerelések, egyéb tárgyak és eszközök biztosítása. A nevelés, oktatás magas színvonalú szakmai ellátásához szükséges továbbképzési formák megteremtése, eszközök, szakirodalom, szakkönyvek beszerzése. A gyermekek részére a tehetséggondozáshoz, a felzárkóztatáshoz, prevencióhoz szükséges tárgyi és személyi feltételek biztosítása. A nevelői munkában a népi kultúra ápolásához, a magyarságtudat megalapozásához nélkülönhetetlen élmények nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003977",
+      "régi_nyilvántartási_száma": "3977/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-05-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11742180-21451566",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kecskemétiné Ujvári",
+        "Képviselő keresztneve": "Hajnalka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "627 297 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "577 434 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "717 992 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 170 482 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "851 810 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dunaharaszti Mese óvodáért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dunaharaszti Mese óvodáért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

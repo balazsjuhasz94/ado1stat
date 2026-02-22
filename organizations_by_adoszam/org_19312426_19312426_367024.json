@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19312426",
+  "scraped_at": "2026-02-14T13:11:45.235946",
+  "organization_id": "367024",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SCHEER Családi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1123 Budapest, Alkotás utca 55-61.",
+      "adószám": "19312426-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-28",
+      "statisztikai_számjel": "19312426-9499-569-01",
+      "x_koordináta": "47.4934272",
+      "y_koordináta": "19.0249293"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A hátrányos helyzetű családok felkutatása, a hátrányos helyzetűek szellemi és anyagi támogatása, karitatív tevékenység végzése, élelmiszer-, ruha-, egyéb életszükségleti cikkek részükre történő eljuttatása, ehhez kapcsolódó szervezési feladatok ellátása, oktatása támogatása, kiemelkedő teljesítmény támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013189",
+      "régi_nyilvántartási_száma": "13189/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-07-22",
+      "alkalmazottak_száma": "5",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bencze",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 435 751 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18020223",
+  "scraped_at": "2026-02-21T13:41:34.951666",
+  "organization_id": "116820",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PROCELERO Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1121 Budapest, Zugligeti út 20. 2/3",
+      "x_koordináta": "47.516264",
+      "y_koordináta": "18.991329",
+      "adószám": "18020223-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-03-12",
+      "statisztikai_számjel": "18020223-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület sajátos helyzetéből adódóan minden területen támogassa és erősítse tagjai oktató-munkáját, a versenyző- és oktatóképzés gyakorló műhelyeként szolgál. Az utánpótlás-nevelés körében idény jelleggel sportiskolát működtet. A tanulók, tanfolyamon résztvevők számára sportolási - azaz szakmai tapasztalatszerzési lehetőséget biztosít. Az egyesületi munkával kapcsolatos tervezési-, szervezési-, oktatási-nevelési gyakorlati tapasztalatok megszerzését teszi lehetővé.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0005797",
+      "régi_nyilvántartási_száma": "5797/2010",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2010-03-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-29",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hozmann",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bereczné Loidl",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Berecz",
+        "Képviselő keresztneve": "Zsombor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "382 125 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

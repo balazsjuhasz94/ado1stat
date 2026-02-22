@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "18598418",
+  "scraped_at": "2026-02-21T13:16:52.228339",
+  "organization_id": "91787",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Téglagyári Baptista Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3535 Miskolc, Béke út 6.",
+      "x_koordináta": "48.1019006",
+      "y_koordináta": "20.6928528",
+      "adószám": "18598418-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-07-08",
+      "statisztikai_számjel": "18598418-9319-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az óvodás és az iskolás gyerekek egészséges fejlődését, aktivitását, sport iránti szeretetét és mozgáskultúráját fejleszteni, megszüntetni azokat a hátrányokat, amelyek a sikeres, boldog, egészséges, megbecsült életpálya kialakításában és megőrzésében akadályozzák a gyermekeket. Iskolán és óvodán belüli és kívüli sportesemények rendezésének felvállalása, mások által szervezett sporteseményeken a gyermekeket a társadalmi egyenlőségek elve alapján képviseltetni. A gyermekeket felkészíteni a sportversenyeken szerzett siker megélésére. A közösséghez tartozás megélésének lehetőségével a közösségben való gondolkodás, a csapatszellem fejlesztése. A társadalmi és közéleti részvétel terén elérhető kiteljesedést akadályozó hátrányok leküzdése. Integráló környezet pozitív hatásainak megélése. A kitartás, küzdés erősítése a sporton keresztül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065263",
+      "régi_nyilvántartási_száma": "65263/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-11-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csurja",
+        "Képviselő keresztneve": "Istvánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-02",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Baloghné Kiss",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-03-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 930 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "304 210 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "303 225 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "331 695 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "429 158 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÉGLAGYÁRI BAPTISTA SPORTEGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÉGLAGYÁRI BAPTISTA SPORTEGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

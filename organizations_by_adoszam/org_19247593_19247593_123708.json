@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19247593",
+  "scraped_at": "2026-02-14T13:58:53.283087",
+  "organization_id": "123708",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Praxis MMXX a Korszerű Háziorvosi Ellátásért Alapítvány",
+      "rövid_név": "Praxis MMXX Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1133 Budapest, Véső utca 6. 1. em./2.",
+      "x_koordináta": "47.5287795",
+      "y_koordináta": "19.0626197",
+      "adószám": "19247593-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-04",
+      "statisztikai_számjel": "19247593-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Kiemelten Szentendre térségében, de Magyarország egész területén élő lakosság részére elősegíteni a kor színvonalának megfelelő gyógyító- megelőző eljárások igénybevételét, a diagnózishoz és gyógyításhoz szükséges orvosi műszerek, berendezések beszerzésével és működtetésükhöz szükséges szakismeret megszerzésének támogatásával , és ezek eredményes felhasználása a lakosság egészségügyi ellátásában. Szentendre térségében egyéb modern egészségügyi programok,prevenciós előadások, szűrések végzésével a lakosság közegészségügyi helyzetét szélesebb körben javítsa.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012924",
+      "régi_nyilvántartási_száma": "12924/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-01-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "01P07451835",
+      "számlavezető_pénzintézet_neve": "Budapest Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Savanyú",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "638 660 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "865 876 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

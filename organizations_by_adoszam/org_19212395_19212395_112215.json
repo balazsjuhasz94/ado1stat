@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19212395",
+  "scraped_at": "2026-02-21T13:20:39.481925",
+  "organization_id": "112215",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Angyaltársak segítő összefogás Egyesület",
+      "rövid_név": "Angyaltársak",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3264 Markaz, Akácfa utca 25.",
+      "x_koordináta": "47.4989008",
+      "y_koordináta": "19.0673092",
+      "adószám": "19212395-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-25",
+      "statisztikai_számjel": "19212395-8899-529-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Célja az önhibáján kívül a társadalom perifériájára került és önmagán segíteni akaró családok támogatása mentálisan, anyagilag és erkölcsileg. További céljai az életkori sajátosságokhoz kötődve a gyermekek, hátrányos helyzetű családok, idősek személyiségének és szociális szférájának fejlesztése, lehetővé tétele és elősegítése; a motiváció, a szívósság, kitartás felkeltése, megőrzése és fejlesztése. Olyan személyes szolgáltatások biztosítása, amely elősegíti az egyének és családok működőképességének megőrzését vagy annak helyreállítását, kapcsolatkészségének javítását, azon emberi képességek fejlesztését, amelynek segítésével jobban meg tudják oldani a társadalomban való funkcionálásukat, problémáikat. A segítőmunkába minél szélesebb körben a civilmozgalmak bevonása. Pályázatokon való részvétel, melyek a gyermekeket nevelő egy szülős vagy két szülős családokat segítik, mind anyagilag, mind tárgyi eszközökkel vagy szabadidős és kulturális programokkal} valamint gyermekfelügyelet és tanulási felzárkóztatásban történő segítésével. Egészséges életmód menedzselése, gyermekek, fiatalok, családok szabadidejének hasznos eltöltése, aktív és passzív pihenés, tudatos élet, egészséges étkezés és testmozgás. A generációk közötti távolság közelítése, közös programok szervezése, egymás közötti segítségnyújtás lehetőségének megszervezése, koordinálása. A deviáns környezetben elszenvedett szocializációs ártalmak, a közeli hozzátartozók, pl.: alkoholisták, drogfüggők, játékszenvedélytől szenvedők segítése. A szülőknek és a gyerekeknek pszichológusi segítségnyújtás, erre az állami gondoskodásban élőknek is szükségük van. Az idősek élethosszig tartó tanulási igényeinek megteremtése és az ehhez szükséges eszközök, feltételek megteremtése. Az élethosszig tartó tanulási igényeinek megteremtése és az ehhez szükséges eszközök, feltételek megteremtése. A társadalom perifériájára szorult emberek támogatása anyagilag, erkölcsileg. Pályázatokon való részvétel, melyek az idős emberek életét segítik, mind anyagilag, mind tárgyi eszközökkel vagy kultúrprogramokkal.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002914",
+      "régi_nyilvántartási_száma": "2914/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kelemen",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "432 216 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "373 531 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "420 954 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

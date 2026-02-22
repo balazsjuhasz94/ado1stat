@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19281108",
+  "scraped_at": "2026-02-14T12:21:21.636034",
+  "organization_id": "364877",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tatai Civil Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2890 Tata, Bezerédi út 23/ A.",
+      "adószám": "19281108-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-08",
+      "statisztikai_számjel": "19281108-9499-529-11",
+      "x_koordináta": "47.629452",
+      "y_koordináta": "18.303389"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, a kóbor, kidobott, sérült, valamint más állatok mentése, befogadása, gondozása, szocializációja és rehabilitációja, valamint gazdához juttatása Tata és kistérségében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002228",
+      "régi_nyilvántartási_száma": "2228/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sághi",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1017",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 826 404 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "898",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 911 605 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

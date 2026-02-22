@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "19293879",
+  "scraped_at": "2026-02-14T14:04:06.818081",
+  "organization_id": "365581",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mackós Iskola Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1126 Budapest, Németvölgyi út 42-46.",
+      "adószám": "19293879-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-25",
+      "statisztikai_számjel": "19293879-9499-569-01",
+      "x_koordináta": "47.4965531",
+      "y_koordináta": "19.0161441"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a 1126 Budapest, Németvölgyi út 42-46. szám alatt működő Németvölgyi Általános Iskola működésének és közösségeinek segítése, az oktatás, nevelés támogatása, különös tekintettel az alábbi területekre: - az iskolai oktatás, nevelés tárgyi feltételeinek javítása; - új, korszerű képzési formák bevezetése, a meglévők továbbfejlesztésének támogatása; - iskolai és iskolán kívüli, az oktatás színvonalának növelését célzó programok támogatása, megvalósítása; - az iskola tanulóinak és tanárainak közös érdekét szolgáló célok megvalósítása; - az iskola határon túli magyar iskolákkal történő együttműködések támogatása; - a tanulók egészséges életmódra nevelésének, a környezetvédelmi munkának, az erdei iskola és egyéb természetvédelemmel kapcsolatos iskolai programok támogatása; - különleges tehetségű, hátrányos helyzetű, vagy egyéb okból támogatásra szoruló, vagy arra érdemes diákok szakmai fejlődésének, pályakezdésének támogatása, tehetséggondozás; - a kiemelkedő pedagógusi munka elismerése, az iskola és a családok kapcsolatának támogatása, ifjúsági munkát segítő komplex tevékenységek megvalósítása; - oktatási programok fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013040",
+      "régi_nyilvántartási_száma": "13040/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-01-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kurucz",
+        "Képviselő keresztneve": "Tünde",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Barabás",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Júlia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Herold",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "833 817 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19305949",
+  "scraped_at": "2026-02-14T12:15:57.249480",
+  "organization_id": "366515",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Putrinka Állat- és Természetvédő Alapítvány",
+      "rövid_név": "Putrinka ÁTVA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2370 Dabas, Toldi Miklós utca 1/d.",
+      "adószám": "19305949-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-21",
+      "statisztikai_számjel": "19305949-9499-569-13",
+      "x_koordináta": "47.1761814",
+      "y_koordináta": "19.2615883"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az alapítvány elsődleges célja a segítségre szoruló állatok mentése, közterületről való befogása, átvétele, rehabilitációja, elhelyezése, megfelelő ellátás biztosítása. Elsősorban a szaporítóknak és az emberi hanyagságnak áldozatul esett állatok megfelelő hozzáértéssel, orvosi háttérrel történő ellátása, szocializációja ideiglenes befogadók segítségével, majd megfelelő örökbefogadók, családok keresése. Az Alapítvány célja továbbá az ép, beteg, testi- és érzékszervi fogyatékos, halmozottan sérült, sajátos nevelési igényű, hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekek, fiatalok és felnőttek állatasszisztált terápián való részvételének biztosítása. Az alapítvány az állatok mentésével összhangban a könnyebb elhelyezés és örökbefogadás elősegítése érdekében – elsősorban kutyák esetében - a megmentett és befogadott állatok terápiás képzését folytatja. Mindezen felül az alapítvány kiemelt célja a tudatos és felelős állattartással kapcsolatos alapítói nézetek népszerűsítése, a felelős állattartás kereteinek oktatása, valamint a megmentett állatok szociálisan hátrányos helyzetű gyermekek részére történő juttatása, e körben a gyermekek felelősségteljes állattartásra való képzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004199",
+      "régi_nyilvántartási_száma": "4199/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-11-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-05",
+      "bankszámlaszám": "11742032-21455065",
+      "számlavezető_pénzintézet_neve": "OTP Bank Dabasi fiók"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Joánovits",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "Judit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1499",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "13 305 083 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2168",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 013 292 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

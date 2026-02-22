@@ -1,0 +1,114 @@
+{
+  "search_adoszam": "18198410",
+  "scraped_at": "2026-02-14T14:39:49.728482",
+  "organization_id": "111991",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "AKELA Kutyás Sport Egyesület",
+      "rövid_név": "AKSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1158 Budapest, Pörge utca 82.",
+      "x_koordináta": "47.5310215",
+      "y_koordináta": "19.1220043",
+      "adószám": "18198410-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-17",
+      "statisztikai_számjel": "18198410-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A rendszeres és rendezett körülmények közötti kutyás sportok támogatása, kutyasport oktatás, továbbá kutyakiképzéssel kapcsolatos ismeretek átadása, a gazdák és a kutyák gyakorlati és elméleti képzése, kutya-rehabilitáció, rekreációs tevékenység végzése. Versenyzési lehetőséget biztosítson , nevelve az öntevékenységre és a közösségi életre a kutyákat és kutyatartókat. A feltörekvő és a felnőtt generáció felelős állattartásra oktatása. Segítséget nyújtson azoknak a nagyon rossz körülmények között élőknek, akik kutyájuk mindennapi ellátása gondot okoz. Bemutatók, tanfolyamok, előadások, szemináriumok , rendezvények, versenyek szervezése és megtartása. Kutyakedvelők, kutyatartók közötti adás-vétel megkötésének elősegítése, kutyavásárláshoz tanácsadás, ezáltal a nem tervezett ellenőrizhetetlen szaporulat visszaszorításának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0013181",
+      "régi_nyilvántartási_száma": "13181/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Angyal",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 714 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "402 953 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "585 270 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "784 013 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "661 109 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Akela Kutyás Sport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Akela Kutyás Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "AKELA Kutyás Sport Egyesület"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "AKELA Kutyás Sport Egyesület",
+        "Év": "2024"
+      }
+    ]
+  },
+  "error": null
+}

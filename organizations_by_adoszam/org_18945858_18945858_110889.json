@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "18945858",
+  "scraped_at": "2026-02-21T13:11:26.868048",
+  "organization_id": "110889",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Váci Karakán Kajak-Kenu Sportegyesület",
+      "rövid_név": "Váci Karakán SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Testvérvárosok parkja 1.",
+      "x_koordináta": "47.788409",
+      "y_koordináta": "19.130805",
+      "adószám": "18945858-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-11",
+      "statisztikai_számjel": "18945858-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A rendszeres versenyszerű és amatőr sportolás és testedzés biztosítása, kiemelten a fiatalok kajak-kenu, sárkányhajó, stand up paddle, jégkorong és öttusa versenyeken való elindulása, tagjainak sportolási irányú igényeinek felkeltése, sportemberhez méltó nevelése. Az egyesület törekszik arra, hogy a tevékenységével kiszolgálja közönségét és tagságát, elősegítse a szabadidő hasznos eltöltését, a sportot szerető fiatalok összetartozását, közös programok kialakítását, országos és nemzetközi versenyeken való elindulását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007351",
+      "régi_nyilvántartási_száma": "7351/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-14",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyulay",
+        "Képviselő keresztneve": "Zsolt István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "187 845 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 643 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "422 737 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "446 453 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Váci Karakán Kajak-Kenu Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

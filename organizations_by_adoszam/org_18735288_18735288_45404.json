@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18735288",
+  "scraped_at": "2026-02-21T14:35:59.110231",
+  "organization_id": "45404",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hang-Szín Művészeti Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6200 Kiskőrös, Tarnowi tér 1.",
+      "x_koordináta": "46.6183989",
+      "y_koordináta": "19.2837685",
+      "adószám": "18735288-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-01-15",
+      "statisztikai_számjel": "18735288-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Szervezett keretek között egyesíteni és támogatni a Kiskőrös és vonzáskörzetében élő zene és képzőművészet iránt fokozott érdeklődést mutató lakosság tevékenységét, alkotó, értékteremtő munkáját. Kapcsolatokat létrehozni, ápolni, együttműködni a hasonló tevékenységet végző hazai és nemzetközi civil szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003142",
+      "régi_nyilvántartási_száma": "3142/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Markóné Csányi",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "266 448 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "222 536 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "299 128 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

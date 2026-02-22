@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "19139128",
+  "scraped_at": "2026-02-14T14:02:10.104172",
+  "organization_id": "110350",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Boldog Kutya Sport és Terápiás Egyesület",
+      "rövid_név": "BKSTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1062 Budapest, Székely Bertalan utca 10. fszt./10.",
+      "x_koordináta": "47.5119843",
+      "y_koordináta": "19.068824",
+      "adószám": "19139128-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-07",
+      "statisztikai_számjel": "19139128-9699-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Állatasszisztált foglalkozásokkal és fejlesztéssel segíteni az ép, illetve fogyatékossággal élő gyermekek, fiatalok érzelmi-szociális, valamint kommunikációs és mozgáskoordinációs fejlődését, az ismeretek elsajátítását egyéni, kiscsoportos vagy tanórai keretek között. A kutyás terápia módszerének, alkalmazása lehetőségeinek, előnyeinek széles körű megismertetése, elterjesztése, előadások, képzések, konferenciák, kiadványok segítségével. Az Egyesület célja továbbá állatvédelmi oktató és ismeretterjesztő programok szervezése, saját központ létrehozása és működtetése, a tudatos állattartás széles körű terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017114",
+      "régi_nyilvántartási_száma": "17114/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kristóffy",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Führ",
+        "Képviselő keresztneve": "Zsanett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "563 081 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "743 305 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "982 828 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "886 911 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Boldog Kutya Sport és Terápiás Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

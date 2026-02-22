@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18904363",
+  "scraped_at": "2026-02-14T12:48:02.766301",
+  "organization_id": "90934",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Macs-Eb Remény Országos Állatvédő és Gyermekbarát Egyesület",
+      "rövid_név": "Macs-Eb Remény Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3980 Sátoraljaújhely, Honvéd utca 10.",
+      "x_koordináta": "48.3893266",
+      "y_koordináta": "21.6518986",
+      "adószám": "18904363-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-18",
+      "statisztikai_számjel": "18904363-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célul tűzi ki az állatvédelmet, az állatkínzás minden formája elleni fellépést, Gazdátlan állatok segítése, Aktív szerepvállalás az állattartással kapcsolatos szemlélet pozitív irányú megváltoztatásában, Felelős állattartás megismertetése minél szélesebb körben, Olyan menedék kialakítása, ahol a gazdátlan állatok gyógyítása, gondozása, ideiglenes tartása biztosított a megfelelő, végleges gazdához jutásig, Intézményekkel közreműködve, gyermekek számára nyílt napok szervezése, bemutatók tartása, menedéklátogatás biztosítása célirányú programokkal. Szociálisan hátrányos helyzetben lévő gyermekek, mélyszegénységben élő családok segítése. Egyedül és intézményben élő idős emberek támogatása, krízishelyzetbe került személyek, és főként olyan családok felkarolása, segítése, ahol gyermekek és állatok is érintettek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065713",
+      "régi_nyilvántartási_száma": "65713/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-29",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Juhász",
+        "Képviselő keresztneve": "Henrietta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-03-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "215",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 158 377 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "250",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 374 866 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "327",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 197 089 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "381",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 581 790 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "285",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 410 096 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "252",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 286 979 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Macs-Eb Remény Országos Állatvédő és Gyermekbarát Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Macs-Eb Remény Országos Állatvédő és Gyermekbarát Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Macs-Eb Remény Országos Állatvédő és Gyermekbarát Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

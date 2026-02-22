@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "19820813",
+  "scraped_at": "2026-02-21T13:28:42.146561",
+  "organization_id": "75073",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MÁV Előre Sport Club",
+      "rövid_név": "MÁV Előre SC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Prohászka Ottokár út 37.",
+      "x_koordináta": "47.1844183",
+      "y_koordináta": "18.4195777",
+      "adószám": "19820813-2-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19820813-9319-521-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A magyar testnevelési és sportmozgalom segítése, az általános testkultúra javítása, minőségi sporteredmények elérése, a hazai és nemzetközi élmezőnyhöz tartozó sportolók kiválasztása és versenyeztetése. Az iskolai, az amatőr és a tömegsport tevékenységen keresztül tagjai részére a felkészüléshez és versenyzéshez, illetőleg a minőségi sporteredmények eléréséhez szükséges személyi és tárgyi feltételek megteremtése, az általa választott sportágakban az utánpótlás folyamatos kiválasztása és nevelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0000062",
+      "régi_nyilvántartási_száma": "62/1989",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2017-10-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-10",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tálos",
+        "Képviselő keresztneve": "Péter László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "16 205 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "26 571 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "660 134 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "622 275 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "405 195 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Máv Előre SC"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Máv Előre SC"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Máv Előre SC"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Máv Előre SC"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

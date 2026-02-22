@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19249148",
+  "scraped_at": "2026-02-14T13:11:34.843690",
+  "organization_id": "120196",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Göd-ÉRT Környezetvédelmi és Városvédő Egyesület",
+      "rövid_név": "Göd-ÉRT Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2132 Göd, Margit utca 16.",
+      "x_koordináta": "47.7056707",
+      "y_koordináta": "19.139215",
+      "adószám": "19249148-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-21",
+      "statisztikai_számjel": "19249148-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az egyesület célja Göd természeti-, épített- és kulturális értékeinek megismertetése és megóvása, Göd városképének megőrzése, az azt veszélyeztető problémák feltárása és nyilvánosságra hozatala. Célunk továbbá az iparosítással járó környezeti hatások felmérése és mérséklése, a tervezett ipari fejlesztések kapcsán párbeszéd és konzultáció kialakítása a kormánnyal, a hatóságokkal, az önkormányzattal és a Samsung SDI, valamint más vállalatok vezetésével. Célunk a lakosság érdekeinek képviselete a döntéshozók felé, részvétel Göd jövőbeni fejlesztési terveinek kidolgozásában, a városban élők környezettudatosságának növelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007792",
+      "régi_nyilvántartási_száma": "7792/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szegedi",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "116",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 587 023 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 440 751 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

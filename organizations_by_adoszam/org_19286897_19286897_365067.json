@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19286897",
+  "scraped_at": "2026-02-21T14:22:12.966450",
+  "organization_id": "365067",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Keizoku Püspökladány Sportegyesület",
+      "rövid_név": "Keizoku SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4150 Püspökladány, Dózsa utca 26.",
+      "adószám": "19286897-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-16",
+      "statisztikai_számjel": "19286897-9312-521-09",
+      "x_koordináta": "47.3077622",
+      "y_koordináta": "21.1095728"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja: a jelen alapszabályban meghatározott sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005100",
+      "régi_nyilvántartási_száma": "5100/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-30",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdei",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "151 316 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "157 683 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 133 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

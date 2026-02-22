@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18977383",
+  "scraped_at": "2026-02-21T13:10:03.839571",
+  "organization_id": "80212",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SILVER FIT EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6521 Vaskút, Garai utca 11.",
+      "x_koordináta": "46.0954917",
+      "y_koordináta": "18.9980231",
+      "adószám": "18977383-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-03-09",
+      "statisztikai_számjel": "18977383-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület küldetése, hogy tagjai részére a sportolási lehetőségek széles körének biztosításával segítse elő egészségük megóvását, társadalmi öntevékenységük és ezzel a közösségi élet kibontakoztatását. Az egyesület fő célja: - tömegsport támogatása, szervezése, - nevelés, oktatás, képességfejlesztés, mozgás fejlesztése, - sportversenyeken való részvételi lehetőség megteremtése, elősegítése - sportversenyekre utaztatás megszervezése, elősegítése, támogatása - karitatív célú rendezvények szervezése, támogatása - az egyesület tagjai és más érdeklődők részére a sportélet biztosítása - tehetségkutatás, tehetséggondozás - országos, regionális, helyi versenyekre nevezés, azon való részvétel - rehabilitáció, - prevenció, - ifjúságvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003692",
+      "régi_nyilvántartási_száma": "3692/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-02-28",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ralbovszki",
+        "Képviselő keresztneve": "Valéria",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 069 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "312 336 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "445 278 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

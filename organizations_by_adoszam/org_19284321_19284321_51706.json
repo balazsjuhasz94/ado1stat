@@ -1,0 +1,160 @@
+{
+  "search_adoszam": "19284321",
+  "scraped_at": "2026-02-14T12:53:59.250768",
+  "organization_id": "51706",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zalaegerszeg Mentőállomásért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Ady E. út 69.",
+      "x_koordináta": "46.8381833",
+      "y_koordináta": "16.8437647",
+      "adószám": "19284321-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-04-23",
+      "statisztikai_számjel": "19284321-8696-569-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A Zalaegerszegen és környékén élő, illetve tartózkodó személyek magas szintű mentőellátásának biztosítása. Ennek érdekében a mentőeszközök beszerzése, működtetése, javítása A mentési tevékenység ismertetése helyszíni bemutatók, előadások szervezésével. A lakosság elsősegélynyújtó ismereteinek bővítése. A mentődolgozók továbbképzésének, szakmai fejlődésének elősegítése, szakirodalom biztosítása. A mentődolgozók tudományos konferencián való részvételének támogatása. Tudományos konferenciák szervezése. A mentődolgozók egészséges életmódra nevelése, szabadidős és sporttevékenységének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001062",
+      "régi_nyilvántartási_száma": "1062/2009",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2009-03-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Beledi",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "507 810 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "268",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "758 294 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "244",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "836 824 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "216",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "786 344 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "219",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "931 706 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "890 581 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "276",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 517 994 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "254",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 599 175 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "205",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 335 264 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "201",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 473 237 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "195",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 738 630 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "194",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 954 673 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalaegerszegi Mentőállomásért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

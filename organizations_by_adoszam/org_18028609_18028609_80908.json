@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18028609",
+  "scraped_at": "2026-02-21T14:02:04.591699",
+  "organization_id": "80908",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Skyball Kutyasport és Segítőkutyás Egyesület",
+      "rövid_név": "Skyball KSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1139 Budapest, Petneházy utca 31. IX//39.",
+      "x_koordináta": "47.5329192",
+      "y_koordináta": "19.0780582",
+      "adószám": "18028609-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-05-27",
+      "statisztikai_számjel": "18028609-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység",
+      "céljának_leírása": "Tagjai részére rendszeres és rendezett körülmények közötti sportolási – különös tekintettel a kutyás sport tevékenységre –, versenyzési lehetőséget biztosítson, nevelve az öntevékenységre és közösségi életre. A kulturált, tudatos és helyes kutyatartás és tenyésztés írott és íratlan szabályainak széles körben való ismertetése, népszerűsítése, nevelve a kutyás közösségi életre. Kutyakiképzés, bentlakásos kutyakiképzés, különféle kutyás sportok (különös tekintettel: flyball, agility, bikejöring, canicross, scooter, frisbee, puller) oktatása, népszerűsítése, ezzel kapcsolatban edzések, edzőtáborok, bemutatók, tanfolyamok, előadások, rendezvények, versenyek és vizsgák szervezése és megtartása mind hazai, mind nemzetközi szinten. Segítő kutyák képzése, átadása, terápiás kutyák képzése, alkalmazása vizsgáztatása. Állatasszisztált terápiával az ép, fogyatékossággal élő, hátrányos helyzetű emberek életminőségét javító kulturális és egészségügyi –, gyógypedagógiai rehabilitációs segítő szolgálat működtetése. Intézményes keretek között történő nevelő-oktató munkában fejlesztő foglalkozások segítése, ismeretterjesztő foglalkozások, programok, bemutatók tartása. Az egészséges életmódra nevelés, az ember, a kutya és a természet szoros kapcsolatának megteremtése. Terápiás célú kutyák kiképzése és alkalmazása gyógypedagógiai, pszichológiai, pszichiátriai, konduktív pedagógiai habilitációs és rehabilitációs folyamatokban. Fogyatékos személyek életminőségének javítása, társadalmi integrációjuk előmozdítása speciális feladatok ellátására alkalmas segítőkutyák kiképzésével, és azoknak a fogyatékos személyekhez történő eljuttatásával. Fogyatékkal élők integrációját előmozdító kutyás parasportok kifejlesztése, edzések tartása, fogyatékkal élők versenyeken való indulásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0013854",
+      "régi_nyilvántartási_száma": "13854/2010",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-09",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "210 661 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "295 099 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 271 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

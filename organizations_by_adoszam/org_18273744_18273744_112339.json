@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "18273744",
+  "scraped_at": "2026-02-14T14:42:48.604308",
+  "organization_id": "112339",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Amerikai Magyar Orvosszövetség Magyarországi Tagozat Egyesület",
+      "rövid_név": "HMAA-HC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7627 Pécs, Tátra utca 1.",
+      "x_koordináta": "47.5254885",
+      "y_koordináta": "21.6361192",
+      "adószám": "18273744-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-12-19",
+      "statisztikai_számjel": "18273744-8569-517-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "Az Egyesület elsődleges célja, hogy a HMAA - Amerikai Magyar Orvosszövetség céljait megvalósítsa Magyarországon. Ennek során célja, hogy a magyar és amerikai diákok együttműködését elősegítse, fejlessze mind az oktatás, mind a professzionális tevékenység terén, közreműködjön a HMAA-vel együtt a széles körű nemzetközi együttműködés kialakításában; széles látókörű, modern szemléletű, értékes hazai és nemzetközi tapasztalatokkal rendelkező orvosok képzéséhez járuljon hozzá a magyar egészségügy színvonalának emelése érdekében; elméleti és kutatómunkával foglalkozó hallgatók és orvosok tudományos tapasztalatcseréjének lehetőségét biztosítsa és növelje a felnövő orvos generáció igényét a magas színvonalú hazai és nemzetközi tapasztalatokat szintetizáló egészségügyi ellátás iránt; elősegítse hazai és nemzetközi szinten más szakmai és nem szakmai diák- és orvosi szervezetekkel való kapcsolattartást; ellássa a tagjainak szakmai képviseletét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0014596",
+      "régi_nyilvántartási_száma": "14596/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-26",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "650 817 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

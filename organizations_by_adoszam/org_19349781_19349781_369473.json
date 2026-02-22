@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19349781",
+  "scraped_at": "2026-02-14T13:25:16.635182",
+  "organization_id": "369473",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Méda az Állatokért Egyesület",
+      "rövid_név": "Méda Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5233 Tiszagyenda, Hermann Ottó utca 8.",
+      "adószám": "19349781-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-02",
+      "statisztikai_számjel": "19349781-9499-529-16",
+      "x_koordináta": "47.3652685",
+      "y_koordináta": "20.521374"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A bajba jutott, a rászoruló állatok segítése. Állatvédelmi tevékenység végzése állatok megmentésével. Szerepvállalás az állatvédelemmel kapcsolatos szemlélet pozitív megváltoztatásában. Ivartalanítás támogatása és ivartalanítási programok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002923",
+      "régi_nyilvántartási_száma": "2923/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Bella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-21",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Oláh",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "143",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 203 646 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

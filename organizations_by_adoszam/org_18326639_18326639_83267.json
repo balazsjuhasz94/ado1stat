@@ -1,0 +1,237 @@
+{
+  "search_adoszam": "18326639",
+  "scraped_at": "2026-02-14T14:20:42.147959",
+  "organization_id": "83267",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Országos Scleroderma Közhasznú Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7632 Pécs, Aidinger János utca 40. VIII/31.",
+      "x_koordináta": "46.0407357",
+      "y_koordináta": "18.2274179",
+      "adószám": "18326639-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-10-04",
+      "statisztikai_számjel": "18326639-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "Aktív szerep vállalása a scleroderma betegséggel kapcsolatos egészségügyi ellátási, illetve a betegeket érintő problémák megoldásában. A betegek teljes, érthető és megbízható információhoz jutásának elősegítése minden problémában. Diszkriminációs, ideológiai, vagy más befolyásolás nélküli segítség-nyújtás lehetőségei szerint a betegséggel kapcsolatos problémák kezelésében. A betegek számára megfelelő érdekképviselet biztosítása a szükséges esetekben. A betegek oktatása - szakmai előadások, fórumok, egyéb tájékoztató programok segítségével - hogy minél teljesebb képet kaphassanak a betegségükről. A betegek egyéni, személyes problémáinak, kérdéseinek a megválaszolása érdekében segítségnyújtás a megfelelő szakmai tanácsadók megkeresése és közvetítése révén. A betegekben felmerülő kérdések, bizonytalanságok összegyűjtése és az ezeknek megfelelő, a kérdésekre választ adó tájékoztatás, felvilágosító előadások megszervezése. Hátrányos helyzetű betegek társadalmi esélyegyenlőségének elősegítése. A betegek aktív részvételének támogatása egészségmegőrző-, gyógyító-, rehabilitációs programokon. Az egészségügyi személyzet kezdeményezéseinek setgítése egy-egy kitűzött cél, vagy tervezett program megvalósítása érdekében. Az egyesület képviselése, bemutatása megfelelő fórumokon, színtereken, a betegség minél szélesebb körű ismertetése érdekében. Hazai és külföldi betegszervezetekkel való kapcsolatteremtés és kapcsolattartás elősegítése, szükség esetén ehhez anyagi támogatás nyújtása. Betegséggel kapcsolatos bármely tudományos kutatás, tanulmány támogatása a rendelkezésre álló minden lehetséges módszerrel. Az egyesület működéséhez szükséges anyagi források, támogatások megszervezése és biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0002554",
+      "régi_nyilvántartási_száma": "2554/2005",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-02-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Leviczky",
+        "Képviselő keresztneve": "Cirill",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Leviczky",
+        "Képviselő keresztneve": "Cirill",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kelemenné Lévai",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jeszenszki",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Müllerné Dobos",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kissné dr. Bálint",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bányavölgyi",
+        "Képviselő keresztneve": "Zoltánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Végh",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2028-03-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "126",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "557 381 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "135",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "804 838 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "708 993 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "137",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "748 586 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "664 484 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "728 169 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "856 018 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "578 786 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "732 574 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "907 036 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "745 575 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Országos Scleroderma Közhasznú Egyesület"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "ORSZÁGOS SCLERODERMA KÖZHASZNÚ EGYESÜLET",
+        "Év": "2021"
+      }
+    ]
+  },
+  "error": null
+}

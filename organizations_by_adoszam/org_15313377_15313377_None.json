@@ -1,0 +1,48 @@
+{
+  "search_adoszam": "15313377",
+  "scraped_at": "2026-02-14T21:09:27.345535",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MAGYAR TUDOMÁNYOS AKADÉMIA FEJEZETI KEZELÉSŰ ELŐIRÁNYZATA",
+      "rövid_név": "",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1051 BUDAPEST NÁDOR U. 7",
+      "x_koordináta": "47.4991818",
+      "y_koordináta": "19.0493031",
+      "adószám": "15313377",
+      "adószám_állapota": "",
+      "adószám_kiadásának_dátuma": "",
+      "statisztikai_számjel": ""
+    },
+    "fonadatok": {
+      "szervezet_típusa": "",
+      "szervezet_célja_szerinti_besorolás": "",
+      "céljának_leírása": "",
+      "állapot": "",
+      "nyilvantartási_száma": "",
+      "régi_nyilvantartási_száma": "",
+      "közhasznú_fokozata": "",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "",
+      "alkalmazottak_száma": "",
+      "a_nyilvántartott_adatok_verziószáma": "",
+      "a_verzió_bejegyzésének_dátuma": ""
+    },
+    "kepviselok": [],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "878 592 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

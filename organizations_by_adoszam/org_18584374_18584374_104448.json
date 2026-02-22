@@ -1,0 +1,156 @@
+{
+  "search_adoszam": "18584374",
+  "scraped_at": "2026-02-21T13:29:22.874708",
+  "organization_id": "104448",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Heves Város Rendelőintézetéért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3360 Heves, Fő út 13.",
+      "x_koordináta": "47.5935161",
+      "y_koordináta": "20.2850215",
+      "adószám": "18584374-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-12-19",
+      "statisztikai_számjel": "18584374-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A rendelőintézetben Heves város és vonzáskörzetének 16 települése érdekében - magasabb színvonalú szakellátás biztosítása, fejlesztése, - korszerűbb műszerpark létrehozása, fejlesztése, intézeti berendezések beszerzése, - egészségügyi dolgozók szakirányú továbbképzésének elősegítése, informatika fekjesztése. Az alapítvány céljai elérése érdekében a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13.§ 1) bekezdés 4. pontja alapján az egészséges életmód segítését célzó szolgáltatások nyújtásában működik közre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0000807",
+      "régi_nyilvántartási_száma": "807/2001",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "dr. Vidróczki",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "Terézia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "129 332 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "30 050 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "125 283 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "117 942 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "135 761 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "115 987 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "98 186 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "215 112 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "342 033 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "353 877 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "404 353 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Heves Város Rendelőintézetéért Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Heves Város Rendelőintézetéért Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Heves Város Rendelőintézetéért Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Heves Város Rendelőintézetéért Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Heves Város Rendelőintézetéért Alapitvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Heves Város Rendelőintézetéért Alapitvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HEVES VÁROS RENDELŐINTÉZETÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HEVES VÁROS RENDELŐINTÉZETÉÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "HEVES VÁROS RENDELŐINTÉZETÉÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "HEVES VÁROS RENDELŐINTÉZETÉÉRT ALAPÍTVÁNY",
+        "Év": "2020"
+      }
+    ]
+  },
+  "error": null
+}

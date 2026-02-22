@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19154561",
+  "scraped_at": "2026-02-21T12:40:09.024030",
+  "organization_id": "104058",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Balassi 8. Diák-Sportegyesület",
+      "rövid_név": "B8DSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1174 Budapest, Széchenyi utca 1-7.",
+      "x_koordináta": "47.4746816",
+      "y_koordináta": "19.2531633",
+      "adószám": "19154561-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-28",
+      "statisztikai_számjel": "19154561-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "1. A Diák-Sportegyesület elsődleges szakmai célja a gyermekek és a tanulók egészséges életmódra nevelésének és a testmozgás iránti igény viselkedésbe épülésének elősegítése, különös tekintettel az iskolai testnevelés, a rendszeres - szabadidős jellegű - iskolai fizikai aktivitás, testmozgás és az iskolai sport dimenzióinak a fejlesztése. 2. A diáksport dimenzióinak fejlesztése keretében a Diák-Sportegyesület célja különösen a) az oktatás-képzés és képesítések területén a humánerőforrás fejlesztése a formális és informális tudáselemek feltérképezésével, bővítésével, ezáltal a programkínálat minőségi és mennyiségi fejlesztése, az önkéntes tevékenységek ösztönzése, a kombinált sportképzéssel és általános oktatással (kettős karrierekkel) kapcsolatos jó gyakorlat kidolgozása; b) az egészségvédelem a sport révén és területén a fiatalkori egészségfejlesztő fizikai aktivitás erősítése a köznevelési alrendszerekben. Az alulról szerveződő sportban való részvétel előmozdítását segítő módszerek feltárása. A testmozgás megkedveltetése a gyermekekkel, ezáltal a rendszeres testmozgást végző és sportoló tanulók számának növelése; c) A társadalmi befogadás a sportban és a sport által a szociális inklúziót, felzárkózást, a kultúrák közötti párbeszédet, az erőszak és az intolerancia megelőzését, valamit az esélyegyenlőséget s egyenlő hozzáférést szolgáló programok megvalósítása és támogatása, valamint a társadalmi felelősségvállalás ösztönzése; d) a sport szervezése területén jó irányítási modellek, átláthatósági elvek kidolgozása és alkalmazása, a sportversenyek tisztaságának biztosítása, a dopping elleni küzdelem és a sportolók egészségének a védelme; e) a sport gazdasági dimenziója területén a tapasztalaton alapuló döntéshozatal megteremtése, a fenntartható fejlődés biztosítása a sportban és a sport segítségével, valamint a sport fenntartható finanszírozását szolgáló modellek kidolgozása, hozzájárulás a terület-és regionális fejlesztéséhez és a foglalkoztathatóság növelése; f) a sport sajátos jellege a dimenzió területén a fiatal sportolók kiválasztásának és képzésének segítése, előmozdítása, a kiskorúak védelme, az utánpótlás bázis szelesítése. 3. Célja mozgásos élményekkel az egészséges életmódra való nevelés, a mozgási igények kialakítása hétköznapokon és ünnepnapokon egyaránt, egészséges-sérült, rekreáció, prevenció és rehabilitáció, a szabadidő kulturált eltöltése, mindennapos mozgás, sportolás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017182",
+      "régi_nyilvántartási_száma": "17182/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-09",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Karmacsi",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 590 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "404 492 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "523 454 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

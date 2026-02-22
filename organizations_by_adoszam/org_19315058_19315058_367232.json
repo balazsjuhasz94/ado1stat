@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19315058",
+  "scraped_at": "2026-02-14T15:01:20.132353",
+  "organization_id": "367232",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mocsai Faluszépítők Egyesület",
+      "rövid_név": "MOFE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2911 Mocsa, Csillag utca 4.",
+      "adószám": "19315058-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-09",
+      "statisztikai_számjel": "19315058-9499-529-11",
+      "x_koordináta": "47.670015",
+      "y_koordináta": "18.1675062"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "1. Magyarország települései eltérő természeti, társadalmi, gazdasági adottságokkal rendelkeznek. Az Európai Unió területi politikája a kiegyenlítés elvén támogatja a régiókat, ám ez a hazai viszonyaink között nem mindig biztosítja a szükséges és elégséges feltételeket a települések arányos fejlődéséhez. Az egyesület célja Mocsa település fejlődésének, fejlesztésének megismerése, a fenntartható fejlődés érdekében elért eredmények, a jó gyakorlatok felkutatása, támogatása, népszerűsítése, továbbá a településközi együttműködések koordinálása, fórumok, tapasztalatcserék során az információáramlás segítése. 2. Az egyesület célja olyan közösség létrehozása és működtetése, amelyben az együttgondolkodásra és együttműködésre kész polgárok egymásra találhatnak, és jövő terveiket összehangolhatják, egymásnak segíthetnek. 3. Ezen belül az Egyesület feladata a településen a fenntarthatósághoz kapcsolódó tevékenységet folytató más szervezetek felkutatása és velük való kapcsolattartás.A települések épített és természeti értékeinek megőrzésének, a hosszú távú fenntarthatóságnak, fejlesztésének elősegítése, az ökoszisztéma védelme, a környezettudatos gondolkodás elterjesztése, egészséges életkörülmények támogatása, közös marketingtevékenység, „szelíd” turizmus koncepció kidolgozása, a jövőképek létrehozásának szakmai támogatása, valamint részvétel a terület- és településrendezéssel /-fejlesztéssel, valamint a biodiverzitás megőrzésével kapcsolatos tudományos kutatásokban, kezdeményezésekben. 4. A településen működő szervezetek és személyek jó szakmai együttműködésének elősegítése, az ehhez szükséges információellátás biztosításával, munkacsoportok szervezésével, szakmai fórumok működtetésével. A kiemelt témákkal kapcsolatban keletkező dokumentumokat tartalmazó adatbázis létrehozása és rendszeres karbantartása, az Egyesület létezésével és tevékenységével kapcsolatos információk folyamatos publikálása (honlap, kiadványok, előadások). 5. A települést érintő kulturális, környezetvédelmi, örökségvédelemmel, magyarországi világörökségi és várományosi területekkel kapcsolatos tevékenységek ismeretterjesztő jellegű bemutatása és ezáltal a helyi közösségek és a nagyközönség érdekeltté tétele a kulturális, természeti, régészeti és épített örökség megóvásába, továbbá a környezetvédelem és energiatakarékosság ügyében. Ezen belül kiemelt szerepet kap az érintett területen az oktatási intézmények felkeresése és közös programok, együttműködések kialakítása. 6. Az Egyesület további célja a mocsai mikrotérségben, kistérségben a közös fejlesztési, tervezési és monitoring tevékenységet folyamatosan biztosító civil és (ön)kormányzati feladatok összehangolásának előmozdítása. 7. Az Egyesület további célja a természeti és környezetvédelmi területek pusztításának, pusztulásának megakadályozása, védelmének elősegítése, együttműködés a helyi civil és szakmai szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002264",
+      "régi_nyilvántartási_száma": "2264/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pokk-Horváth",
+        "Képviselő keresztneve": "Bernadett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "609 034 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

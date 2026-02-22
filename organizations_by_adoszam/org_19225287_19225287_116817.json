@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19225287",
+  "scraped_at": "2026-02-14T14:14:55.206357",
+  "organization_id": "116817",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Miskolci Zrínyi Ilona Gimnázium Ifjúságáért Alapítvány",
+      "rövid_név": "ZIG Ifjúságáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3530 Miskolc, Nagyváthy János utca 5.",
+      "x_koordináta": "48.1032277",
+      "y_koordináta": "20.7662531",
+      "adószám": "19225287-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-13",
+      "statisztikai_számjel": "19225287-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "a Miskolci Zrínyi Ilona Gimnázium oktatási feltételeinek javítása - az iskola PR tevékenységének támogatása - az iskola belső és külső tereinek korszerűsítése, a bármely tanulmányi területen tehetséges és rászoruló tanulók támogatása - diákpályázatok támogatása - tanulmányi versenyeken való részvétel támogatása - egyéb szociális és jóléti célú támogatás - a tanulókkal kiemelkedően foglalkozók, eredményeket elérők elismerése, támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064569",
+      "régi_nyilvántartási_száma": "64569/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ferencsik",
+        "Képviselő keresztneve": "Marcell",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "740 550 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "986 520 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "774 124 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

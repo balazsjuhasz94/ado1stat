@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19241834",
+  "scraped_at": "2026-02-14T12:21:49.367451",
+  "organization_id": "123593",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Diósgyőri Szurkolók az Állatokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3516 Miskolc, Rózsavölgyi utca 7.",
+      "x_koordináta": "48.0549967",
+      "y_koordináta": "20.7950446",
+      "adószám": "19241834-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-23",
+      "statisztikai_számjel": "19241834-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "- állatvédelem, - állatmentés",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064594",
+      "régi_nyilvántartási_száma": "64594/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csík",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "556",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 709 871 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "590",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 588 988 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "937",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 640 541 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

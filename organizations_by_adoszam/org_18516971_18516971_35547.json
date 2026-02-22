@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18516971",
+  "scraped_at": "2026-02-21T14:34:37.942459",
+  "organization_id": "35547",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nagyiváni Futball Club",
+      "rövid_név": "Nagyiváni FC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5363 Nagyiván, Fő út 55.",
+      "x_koordináta": "47.485251",
+      "y_koordináta": "20.9282053",
+      "adószám": "18516971-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-11-26",
+      "statisztikai_számjel": "18516971-9312-521-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Széleskörű és színvonalas sportolási és testedzési lehetőség biztosítása a tagok és sportolni vágyók számára. Segíteni a tagok akarati tulajdonságainak, közösségi szellem kialakítását, fizikai és szellemi képességük fejlesztését. A működéshez és a sportesemények megrendezéséhez szükséges személyi és tárgyi feltételek biztosítása, sportesemények szervezése, lebonyolítása a társadalmi tevékenység legszélesebb mértékű kibontakozásával. A magyar sport hagyományos szervezeti alapegységeként a versenysport fejlesztésén és szervezetszerű utánpótlás nevelésén túl, korosztály független sport- és játékoktatás, szabadidős sporttevékenység szervezése, a sporttevékenység feltételeinek megteremtése, a meglévő és kialakítandó sportlétesítményeknek az egészség megőrzése céljából történő igénybevétele. E céloknak megfelelően a sportlétesítmények használata, illetve működtetése sportegyesületi alaptevékenység.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002548",
+      "régi_nyilvántartási_száma": "2548/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-02",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lajtos",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "90 128 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "131 647 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "67 778 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "194 816 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "149 669 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 269 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "NAGYIVÁNI FUTBALL CLUB"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagyiváni Futball Club"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagyiváni Futball Club"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

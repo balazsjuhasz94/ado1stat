@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19304876",
+  "scraped_at": "2026-02-14T12:53:44.508129",
+  "organization_id": "366431",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Leó Mosolyáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Hegyoldal utca 6.",
+      "adószám": "19304876-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-20",
+      "statisztikai_számjel": "19304876-9499-569-20",
+      "x_koordináta": "46.840173",
+      "y_koordináta": "16.8401659"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "1. Az alapítvány elsődleges célja: - Simon-Kámán Leó testi és szellemi fejlődésének biztosítása, gyógyulásának elősegítése, kiszolgáltatottságának és izolációjának csökkentése, minél teljesebb társadalmi részvételének biztosítása; életminőségének javítása. - A gondozók, fejlesztők segítése feladataik, ill. hivatásuk ellátásában (pl. pszichológus, rekreáció), a gondozással és fejlesztéssel kapcsolatban felmerült kiadások (pl. utazási, szállás, étkezési költségek, tréningek, képzés, szakirodalom) fedezetének biztosítása. 2. Az alapítványnak célja továbbá -A súlyosan, ill. halmozottan sérült gyermekek; ritka betegségben szenvedő, fogyatékkal élő gyermekek testi és szellemi fejlődésének elősegítése, kiszolgáltatottságának és izolációjának csökkentése, életminőségének javítása, valamint az ilyen gyermekek családtagjainak, gondozóinak és más, a környezetükben élő, velük szoros kapcsolatban levő személyek minél teljesebb társadalmi részvételének biztosítása, életminőségének javítása. - A társadalom figyelmének felhívása, szemléletformálása, érzékenyítése a súlyos, halmozottan sérült gyermekek; ritka betegségben szenvedő, fogyatékkal élő gyermekek; és más hátrányosan megkülönböztetett csoportok irányába. Ezen csoportokkal foglalkozó személyek és szervezetek támogatása. - A KCNA2 epilepszia és egyéb epilepsziás betegségekkel kapcsolatos kutatás népszerűsítése, lehetőség szerint támogatása. A társadalom figyelmének felhívása a KCNA2 epilepszia létezésére, kezelésének fontosságára. Az érintett családok közti információs hálózat, szülői segítői rendszer kialakításának, kapcsolattartásának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001225",
+      "régi_nyilvántartási_száma": "1225/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11708001-22248109-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bucz",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 030 889 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "118",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 969 916 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18904590",
+  "scraped_at": "2026-02-21T12:36:30.367913",
+  "organization_id": "95480",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Palota Sport Egyesület",
+      "rövid_név": "Palota SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1151 Budapest, Csobogós utca 2. III/19.",
+      "x_koordináta": "47.567015",
+      "y_koordináta": "19.131003",
+      "adószám": "18904590-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-26",
+      "statisztikai_számjel": "18904590-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Egyesület célja a rendszeres sportolás, versenyzés, és a szerteágazó testedzés lehetőségeinek és szervezeti kereteinek biztosítása, a mozgáskultúra fejlesztésének népszerűsítése az ifjúság és felnőttek körében egyaránt. Rekreációs sport foglalkoztatás a testkultúra fejlesztését szolgálva. A versenysport és szabadidősport és szabadidősport kombinációjával a fiatalok életmódváltozásának előmozdítása, képességfejlesztés és kiemelkedő eredmények eléréséhez történő hozzásegítés. Nemzetközi és hazai kapcsolatok építése, a sportesemények szervezése, az egészséges életmód terjesztése. Az egyesület tagjainak sportolási, versenyzési tevékenységéhez szükséges anyagi feltételek előteremtése, infrastruktúra, eszközháttér megteremtése, pályázatok és egyéb források révén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016541",
+      "régi_nyilvántartási_száma": "16541/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-18",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóthfalussy",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Király",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "102 242 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "146 475 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "484 161 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "534 056 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Palota Sport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

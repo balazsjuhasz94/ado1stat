@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19267821",
+  "scraped_at": "2026-02-21T14:22:49.282741",
+  "organization_id": "364626",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mókuskaland Vadmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3346 Bélapátfalva, Rózsa utca 9.",
+      "adószám": "19267821-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-27",
+      "statisztikai_számjel": "19267821-9499-569-10",
+      "x_koordináta": "48.0516465",
+      "y_koordináta": "20.3730677"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Vadon élő, sérült, vagy elárvult állatok mentése, befogadása, kiemelt figyelmet fordítva a mókusfélék családjára. A vadon élő fajok megmentése, megóvása, a befogadott állatok felnevelése, ellátása, majd visszaszoktatása a természetes élőhelyükre, megkeresve a számukra szükséges és a fajuk mentéséhez legmegfelelőbb élő helyet. A feladatok ellátáshoz szükséges eszközök, táplálék és egyebek biztosítása. Betegség esetén megfelelő állatorvosi ellátás biztosítása. A vadon élő állatokkal összefüggésben környezetvédelmi és egészségvédelmi, oktatási, gyártási, mezőgazdasági feladatok támogatása, ellátása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001207",
+      "régi_nyilvántartási_száma": "1207/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-06-10",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hozman",
+        "Képviselő keresztneve": "Linda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "231 618 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "453 779 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "288 974 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

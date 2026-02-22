@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19674382",
+  "scraped_at": "2026-02-21T13:26:48.241505",
+  "organization_id": "102824",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Thrombosis és Haemostasis Társaság",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4032 Debrecen, Nagyerdei körút 98.",
+      "x_koordináta": "47.5569536",
+      "y_koordináta": "21.6293564",
+      "adószám": "19674382-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1991-10-25",
+      "statisztikai_számjel": "19674382-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység",
+      "céljának_leírása": "elősegíteni a tagok tudományos és szakmai tevékenységét, az orvostudomány, ezen belül különösen a trombózis és hemosztázis különböző területein.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0003824",
+      "régi_nyilvántartási_száma": "3824/1991",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-02-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bagoly",
+        "Képviselő keresztneve": "Zsuzsa",
+        "Képviselő titulusa": "Ilona",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "450 305 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19248628",
+  "scraped_at": "2026-02-14T13:28:43.061727",
+  "organization_id": "118621",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SUPERSUM Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3525 Miskolc, Fazekas utca 9",
+      "x_koordináta": "48.101816",
+      "y_koordináta": "20.8110281",
+      "adószám": "19248628-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-11",
+      "statisztikai_számjel": "19248628-8899-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- Mélyszegénységben élő, hátrányos helyzetű és halmozottan hátrányos helyzetű családok, gyermekek támogatása - Gyermekkórházak, védőnői szolgálat támogatása - Kisebbségi önkormányzat, egyesület, alapítvány támogatása - Idősek támogatása - Önsegélyezés - Állatvédelmi szervezetek támogatása - Egészségügyi ellátás és szűrővizsgálatok támogatása - Szabadidős tevékenység támogatása -Nyelvtanulás, nemzetközi lehetőségek, szakmai alapismeretek megszerzésének támogatása - Sport tevékenység támogatása - Szociális tevékenység - Adományosztás",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064585",
+      "régi_nyilvántartási_száma": "64585/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bús",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "724 215 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "712 025 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 152 388 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

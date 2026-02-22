@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18878741",
+  "scraped_at": "2026-02-14T12:37:55.406964",
+  "organization_id": "66311",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sztárai Iskoláért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7624 Pécs, Megyeri út 62/A.",
+      "x_koordináta": "46.061157",
+      "y_koordináta": "18.212627",
+      "adószám": "18878741-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-29",
+      "statisztikai_számjel": "18878741-8569-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Hit Gyülekezete által alapított pécsi székhelyű Sztárai Mihály Általános Iskola, Óvoda, Bölcsőde és Alapfokú Művészeti Iskola (7631 Pécs, Közraktár utca 1.) működésének erkölcsi és anyagi támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001840",
+      "régi_nyilvántartási_száma": "1840/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lukács",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "342",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 297 321 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "295",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 451 603 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "350",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 084 674 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "330",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 477 627 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "331",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 049 991 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sztárai Iskoláért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sztárai Iskoláért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

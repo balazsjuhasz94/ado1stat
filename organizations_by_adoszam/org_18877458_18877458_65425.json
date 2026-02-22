@@ -1,0 +1,114 @@
+{
+  "search_adoszam": "18877458",
+  "scraped_at": "2026-02-21T13:56:30.792589",
+  "organization_id": "65425",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "INFINITUM Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4283 Létavértes, Gagarin utca 22.",
+      "x_koordináta": "48.1035692",
+      "y_koordináta": "20.7607061",
+      "adószám": "18877458-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-02",
+      "statisztikai_számjel": "18877458-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Alapfokú művészetoktatási intézmény(ek) létrehozása és fenntartása, - Alapfokú művészeti oktatási intézményben tanulói jogviszonnyal rendelkezők – anyagi, erkölcsi, egyéb – támogatása, - Támogatást nyújt az általa létrehozott alapfokú művészetoktatási intézmény(ek) működési hatékonyságának növeléséhez, az intézmény tanulóinak minél magasabb szintű szakmai képzésének biztosításához, - Nevelés és oktatás, képességfejlesztés, ismeretterjesztés, - Kulturális tevékenység, - Kulturális örök megóvása, - Gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet, - Hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése, - A magyar nép hagyományainak, tárgyi- és szellemi néprajzi értékeinek gyűjtése, - Nemzetközi, országos, regionális és kistérségi versenyek, fesztiválok, szakmai bemutatók, kiállítások, továbbképzések szervezése, azokon való aktív részvétel biztosítása, - Művészek menedzselése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064477",
+      "régi_nyilvántartási_száma": "64477/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "103000021067648449020012",
+      "számlavezető_pénzintézet_neve": "MKB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "174 726 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "110 079 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "266 323 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "269 052 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "356 542 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "INFINITUM ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "infinitum alapitvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

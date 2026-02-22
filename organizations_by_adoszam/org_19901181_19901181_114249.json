@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19901181",
+  "scraped_at": "2026-02-21T14:01:29.021602",
+  "organization_id": "114249",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "II. Rákóczi Ferenc Sporthorgász Egyesület",
+      "rövid_név": "HE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8172 Balatonakarattya, Nyírfa utca 21.",
+      "x_koordináta": "47.0169399",
+      "y_koordináta": "18.1616986",
+      "adószám": "19901181-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19901181-9319-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "1. A horgászsport népszerűsítése, a horgászat feltételeinek javítása. 2. Az egyesületi tagok egyéni és közösségi érdekeinek képviselete és védelme. 3. Horgászegyesületek és horgászszervezetek közötti együttműködés kezdeményezése, kialakítása és segítése. 4. A jogszabályok, országos és területi horgászrend, társadalmi köz- és horgászerkölcs szabályainak érvényesítése. 5. A természeti környezet védelme, értékeinek megőrzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0000008",
+      "régi_nyilvántartási_száma": "8/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Straszner",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ádám",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szalkainé Vollár",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2029-10-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 804 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 740 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "267 978 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 929 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "II. Rákócz Ferenc Sporthorgász Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

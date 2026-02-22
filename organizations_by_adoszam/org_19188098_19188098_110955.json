@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19188098",
+  "scraped_at": "2026-02-14T13:10:11.834116",
+  "organization_id": "110955",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Árva Mancsok Állatvédő Egyesület",
+      "rövid_név": "ÁMÁE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5666 Medgyesegyháza, Fáy András utca 2/b.",
+      "x_koordináta": "46.4936894",
+      "y_koordináta": "21.0174603",
+      "adószám": "19188098-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-14",
+      "statisztikai_számjel": "19188098-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "állatvédelmi tevékenység végzése, kutyák megmentése, ezzel kapcsolatos információk biztosítása. Közösségek tagjainak szemléletformálása az állattartás területén. Kapcsolattartás és kapcsolatépítés az állatmenhelyekkel, állatvédő közösségekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003522",
+      "régi_nyilvántartási_száma": "3522/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Juhász",
+        "Képviselő keresztneve": "Vivien",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "132",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "716 973 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "166",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "990 427 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "196",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 402 434 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "161",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 478 650 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Árva Mancsok Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

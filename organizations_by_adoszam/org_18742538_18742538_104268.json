@@ -1,0 +1,118 @@
+{
+  "search_adoszam": "18742538",
+  "scraped_at": "2026-02-14T12:31:57.674092",
+  "organization_id": "104268",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Melletted a helyem Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1013 Budapest, Pauler utca 11.",
+      "x_koordináta": "47.4904948",
+      "y_koordináta": "19.0215317",
+      "adószám": "18742538-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-29",
+      "statisztikai_számjel": "18742538-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdek-képviseleti tevékenység (pl. vállalkozói érdekképviselet, munkavállalói érdekképviselet, szakmai érdekképviselet)",
+      "céljának_leírása": "A koraszülések számának csökkentése és a koraszülöttek egészséges túlélési arányának javítása Magyarországon.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016037",
+      "régi_nyilvántartási_száma": "16037/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-06-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nádor",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "349",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 825 060 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "399",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 305 739 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "452",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 583 156 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "372",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 732 965 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "359",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 269 747 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "355",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 506 330 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "366",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 953 073 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Melletted a Helyem Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Melletted a Helyem Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Melletted a Helyem Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Melletted a Helyem Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

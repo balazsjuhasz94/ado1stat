@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19235815",
+  "scraped_at": "2026-02-21T12:43:27.391259",
+  "organization_id": "118794",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fazekas Iskoláért Alapítvány",
+      "rövid_név": "FIA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6400 Kiskunhalas, Fazekas Mihály utca 1",
+      "x_koordináta": "46.4380768",
+      "y_koordináta": "19.4844286",
+      "adószám": "19235815-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-04",
+      "statisztikai_számjel": "19235815-8520-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "1. A Kiskunhalasi Fazekas Mihály Általános Iskola és tagintézményei keretében folyó oktatás - nevelés elősegítése, és tehetséggondozás, így különösen a.) a tehetséges tanulók támogatása, a kiemelkedő tanulmányi munka elismerése, b.) az oktatás feltételeinek javítása, valamint az intézmény szervezeti kultúrájának fejlesztését támogató programok, egységek, eszközök, felszerelések beszerzésének támogatása, c.) kulturális programok, rendezvények támogatása, az iskola pedagógiai programjában megfogalmazott célok elérésének támogatása. 2. A sportos életvitelhez, egészséges életmódra szoktatáshoz kapcsolódó iskolai és tanulói tevékenység támogatása. 3. Szociálisan rászoruló diákok támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002620",
+      "régi_nyilvántartási_száma": "2620/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-31",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "428 212 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "512 461 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

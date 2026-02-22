@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "18879467",
+  "scraped_at": "2026-02-14T15:03:32.934244",
+  "organization_id": "103379",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kozma István Magyar Birkózó Akadémia Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1213 Budapest, Hollandi út 8.",
+      "x_koordináta": "47.412494",
+      "y_koordináta": "19.097663",
+      "adószám": "18879467-2-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-06",
+      "statisztikai_számjel": "18879467-8551-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A magyar birkózó sport és annak utánpótlás nevelése fejlesztését támogatja. Ennek érdekében az alapítvány célja különösen: A magyar birkózás utánpótlás-nevelésnek támogatása. A Magyar Birkózó Akadémia létrehozása, fenntartása, működtetése. A Budapest XXI. kerület Csepel birkózás utánpótlás- nevelésnek támogatása, A 7 és 23 év közötti korosztályokba tartozó tehetséges birkózók felkészítésének segítése, szakmai fejlődésük előmozdítása, mindezek érdekében ösztöndíj folyósítása. Edzőtáborok szervezése, a gyermek-és fiatalkorú birkózók táborozásának támogatása. Sporttagozatos oktatási, nevelési intézmények létrehozása, támogatása. Sportlétesítmények fenntartása, korszerűsítése. Sportfelszerelések vásárlásának, javításának finanszírozása. A más településeken tartott edzésekre, mérkőzésekre való utazás szervezése, illetve támogatása. Szurkolói, sportolói baráti örök szervezése, működtetése,támogatása. Az egészséges életmód népszerűsítése. Kulturális tevékenységek és azok támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012424",
+      "régi_nyilvántartási_száma": "12424/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-06-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-18",
+      "alkalmazottak_száma": "91",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Süle",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "Csaba",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "192 414 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "457 354 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "484 967 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "589 629 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kozma István Magyar Birkózó Akadémia Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

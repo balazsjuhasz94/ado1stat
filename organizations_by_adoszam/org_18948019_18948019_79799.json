@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18948019",
+  "scraped_at": "2026-02-14T13:16:42.856032",
+  "organization_id": "79799",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "RE-FORMÁLÓ szociális-, oktatási - és sport egyesület",
+      "rövid_név": "RE-FORMÁLÓ egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1222 Budapest, Zsineg utca 39.",
+      "x_koordináta": "47.422232",
+      "y_koordináta": "19.012967",
+      "adószám": "18948019-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-10",
+      "statisztikai_számjel": "18948019-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az egyesület célja szociális tevékenység, periférián élő családok és egyének létfenntartásának segítése. Nevelés és oktatás, tanulók felzárkóztatása, képességfejlesztés, ismeretterjesztés. Sportfoglalkozások, sportesemények rendezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016770",
+      "régi_nyilvántartási_száma": "16770/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-12-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-27",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Smudláné Fazekas",
+        "Képviselő keresztneve": "Margit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "161 584 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "576 429 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "562 720 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "982 926 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "122",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 343 996 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Re-Formáló Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Re-Formáló Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

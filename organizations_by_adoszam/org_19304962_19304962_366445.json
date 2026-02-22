@@ -1,0 +1,108 @@
+{
+  "search_adoszam": "19304962",
+  "scraped_at": "2026-02-14T13:24:24.364952",
+  "organization_id": "366445",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KacsaKő Közösségépítő Egyesület",
+      "rövid_név": "KacsaKő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1124 Budapest, Meredek utca 21. 2/9.",
+      "adószám": "19304962-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-07",
+      "statisztikai_számjel": "19304962-9499-529-01",
+      "x_koordináta": "47.4895542",
+      "y_koordináta": "19.0126852"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Társadalmunkban óriási szakadékok húzódnak a hátrányos és nem hátrányos helyzetű csoportok között, amiket a szegregáció különböző formái tovább mélyítenek. Egyesületünk erre a problémára szeretné felhívni a figyelmet, és enyhíteni a fennálló egyenlőtlenségeket. Célunk, hogy közelebb hozzuk egymáshoz a különböző társadalmi csoportok tagjait azért, hogy csökkenjenek az egymással szemben támasztott előítéletek, valamint, hogy a programjaink hatására fejlődjenek a résztvevők pszicho-szociális képességei, melyek a békés együttélést segítik elő. Célunk, hogy támogassuk a társadalmi inklúzióját a különböző társadalmi helyzetből érkező cigány és nem cigány, kisebbségi és többségi, külföldi és magyar, gyermekotthonból, szegény vagy épp jómódú családból érkező személyeknek, kiemelt figyelmet fordítva a fiatal generációra. Célunk továbbá a hátrányos helyzetű gyerekek esélyeinek növelése, pozitív jövőkép kialakítása, illetve az érdekérvényesítés támogatása. Mindezek mellett szeretnénk a többségi társadalmat érzékenyíteni a csoportok közötti egyenlőtlenségekkel kapcsolatban, valamint ösztönözni a társadalmi felelősségvállalást.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017660",
+      "régi_nyilvántartási_száma": "17660/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "Ágnes",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Takács",
+        "Képviselő keresztneve": "Borbála",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szatmári",
+        "Képviselő keresztneve": "Gergő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "764 930 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 217 101 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

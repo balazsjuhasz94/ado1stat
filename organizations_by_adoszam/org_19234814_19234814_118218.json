@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19234814",
+  "scraped_at": "2026-02-14T12:15:42.110185",
+  "organization_id": "118218",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Örökbe Fogadok Közhasznú Egyesület",
+      "rövid_név": "ÖFE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1136 Budapest, Hegedűs Gyula utca 40. fszt./1.",
+      "x_koordináta": "47.517115",
+      "y_koordináta": "19.053701",
+      "adószám": "19234814-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-04",
+      "statisztikai_számjel": "19234814-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Hátrányos helyzetű gyermekek társadalmi felemelkedésének, társadalmi esélyegyenlőségének elősegítése. A hátrányos helyzetű gyermekeket nevelő intézményeknek szánt adományok célba juttatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017335",
+      "régi_nyilvántartási_száma": "17335/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-05-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Barát",
+        "Képviselő keresztneve": "Hella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "417",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 913 153 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "348",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 636 825 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2215",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "23 677 828 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

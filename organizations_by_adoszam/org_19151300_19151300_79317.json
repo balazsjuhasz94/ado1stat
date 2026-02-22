@@ -1,0 +1,107 @@
+{
+  "search_adoszam": "19151300",
+  "scraped_at": "2026-02-21T12:33:57.918812",
+  "organization_id": "79317",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vértesi Erőmű Sportegyesület",
+      "rövid_név": "VESE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2800 Tatabánya, Környei út 31.",
+      "x_koordináta": "47.4823312",
+      "y_koordináta": "18.326036",
+      "adószám": "19151300-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-10-19",
+      "statisztikai_számjel": "19151300-9312-521-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A Vértesi Erőmű Zrt. dolgozóinak, családtagjainak, valamint a jogfolytonossággal rendelkező integrált vállalatok nyugdíjasainak, hozzátartozóinak és a környező települések, Oroszlány és Tatabánya térségében széleskörű, színvonalas létesítményekkel sportolási, testedzési, az egészséges életmódhoz szükséges lapfeltételek biztosítása. A munkahelyen kívüli emberi kapcsolatok legszélesebb kibontakoztatásának a biztosítása sporttevékenységen belül, a sportszerű küzdelem és kölcsönös segítségnyújtás és megbecsülés keretén belül nemre, korra és pozícióra való tekintet nélkül. Az egyesületi célokkal összhangban, a jogszabályokban meghatározott keretek között nemzeti és nemzetközi sportrendezvényeken való aktív részvétel. A sportoláshoz szükséges létesítmény, felszerelés (csapat) egységes biztosítása normális igényeknek megfelelően az Elnökség által jóváhagyott képviseleti szintnek megfelelően, a létesítmények tulajdonosának (Kollektív Szerződés) követelményével összhangban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0000184",
+      "régi_nyilvántartási_száma": "184/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-16",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kalmár",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Saláta",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-06",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Major",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-06",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zábráczki",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "553 970 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "583 035 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "575 952 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "543 118 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vértesi Erőmű Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

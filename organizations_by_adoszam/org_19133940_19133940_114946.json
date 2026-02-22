@@ -1,0 +1,174 @@
+{
+  "search_adoszam": "19133940",
+  "scraped_at": "2026-02-14T12:29:48.438594",
+  "organization_id": "114946",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bugát Pál Kórház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Dózsa Gy.út 20-22.",
+      "x_koordináta": "47.736768",
+      "y_koordináta": "19.9156939",
+      "adószám": "19133940-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-12-10",
+      "statisztikai_számjel": "19133940-8610-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "1) A betegek várakozási idejét csökkentő, a betegségek felderítésének lehetőségét javító, gazdaságosan üzemeltethető korszerű laboratóriumi módszerek és berendezések beszerzése. 2) Fájdalommentes és veszélytelen radiológiai vizsgáló módszerek és eszközök bevezetése és beszerzése (ultrahang-diagnosztika, computer tomográfia). 3) A daganatos betegségek gyors felismerését lehetővé tévő szövettani feldolgozó berendezések vásárlása. 4) Gyors és korszerű mérő-, adagoló-, csomagoló- és sterilizáló gépek beszerzése a kórházi gyógyszertár részére. 5) A kórházi osztályon fekvő betegek megfigyelése, kezelését segítő műszerek vásárlása, (EKG és őrzőberendezések, endoscopok, infúziós pumpák, stb). 6) A kórház felvevő területének lakosságát leginkább veszélyeztető betegségek felkutatása; szűrését, gyógyítását és gondozását segítő módszerek kidolgozása és elterjesztése. Pk60152/1992/47. sz. végzéssel célkiegészítés:A beszerzett műszerek, gépek, berendezések elhelyezésével, beépítéséhez szükséges építészeti átalakítások, korszerűsítések támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0000211",
+      "régi_nyilvántartási_száma": "211/1992",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-04-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Előházi",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kurucz",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dérné",
+        "Képviselő keresztneve": "Csesznok",
+        "Képviselő titulusa": "Edina",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "dr. Kenyér",
+        "Képviselő keresztneve": "Béla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Báry",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "538",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 033 666 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "586",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 655 564 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "490",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 406 781 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "351",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 314 972 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "312",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 755 398 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "321",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 022 339 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "314",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 449 297 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BUGÁT PÁL KÓRHÁZ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BUGÁT PÁL KÓRHÁZ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bugát Pál Kórház Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18051991",
+  "scraped_at": "2026-02-21T14:19:39.373452",
+  "organization_id": "37054",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Salamon Történelmi Club Egyesület",
+      "rövid_név": "Salamon Club",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2162 Őrbottyán, Molnár Ferenc utca 17.",
+      "x_koordináta": "47.683957",
+      "y_koordináta": "19.2763827",
+      "adószám": "18051991-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1993-10-07",
+      "statisztikai_számjel": "18051991-8551-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Az egyesület célja történelmi – főleg középkori – hagyományok ápolása három fő területen: a) haditorna b) korabeli zene c) korabeli mesterségek",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0005591",
+      "régi_nyilvántartási_száma": "5591/1993",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lebek",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "296 134 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "324 848 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

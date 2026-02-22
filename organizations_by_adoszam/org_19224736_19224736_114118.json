@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19224736",
+  "scraped_at": "2026-02-14T12:50:55.586552",
+  "organization_id": "114118",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Ferenc Szegényei Alapítvány",
+      "rövid_név": "SZFSZ Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3162 Ságújfalu, Ady Endre út 11.",
+      "x_koordináta": "47.7882722",
+      "y_koordináta": "18.956882",
+      "adószám": "19224736-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-29",
+      "statisztikai_számjel": "19224736-9499-569-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Valamennyi rászoruló, hátrányos és halmozottan hátrányos helyzetű család, valamint személy megsegítése és felkarolása, így különösen segítségnyújtás a képzésükhöz és felzárkóztató foglalkoztatásukhoz a társadalom perifériájáról való pozitív elmozdulásuk érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004066",
+      "régi_nyilvántartási_száma": "4066/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-08",
+      "alkalmazottak_száma": "8",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schmidt",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "162",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 463 709 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "142",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 484 601 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "158",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 096 305 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19308966",
+  "scraped_at": "2026-02-21T14:32:42.233216",
+  "organization_id": "366434",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Parádsasvár Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Parádsasvár ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3242 Parádsasvár, Kristály tér 3.",
+      "adószám": "19308966-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-24",
+      "statisztikai_számjel": "19308966-8425-529-10",
+      "x_koordináta": "47.9110385",
+      "y_koordináta": "19.9723819"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az önkormányzati elven működő, szakmai szolgáltatást végző egyesület célja elsődlegesen a székhelye szerinti településen a tűzvédelem biztosítása, tűzoltási, kárelhárítási szaktevékenység végzése, valamint az utánpótlás nevelés. A cél megvalósítása érdekében - a fentieken túl, de azokhoz szorosan kapcsolatosan - az alábbi tevékenységekben vesz részt: a) végzi a lakosság tűzvédelmi felvilágosítását b) segíti a gyermekek óvodai, iskolai tűzvédelmi képzést c) közreműködik a tűzvédelmi kiadványok megjelentetésében, terjesztésében d) támogatja a lakosság önszerveződő közösségeit, együttműködését, erősíti a település önfenntartó képességét e) a község bel- és külterületén keletkező tűzesetek oltásában f) káresetek, balesetek felszámolásában g) katasztrófákra történő felkészülés, a katasztrófák elleni védekezés és a helyreállítás, újjáépítés feladataiban h) a polgári védelmi szervezetek tevékenységében, továbbá a környezet veszélyeztetésének, károsításának megelőzésében és elhárításában, következményeinek felszámolásában való részvétel i) helyi környezet- és természetvédelem j) helyi közművelődési tevékenység támogatása, a kulturális örökség helyi védelme, civil szervezetekkel kapcsolattartás, egymás rendezvényei látogatása l) hazai és nemzetközi kapcsolatok ápolása m) ár- és belvízvédelem ellátásához kapcsolódó tevékenység",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0003004",
+      "régi_nyilvántartási_száma": "3004/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10103551-72146900-01005007",
+      "számlavezető_pénzintézet_neve": "Budapest Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jakab",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-10-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "303 509 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

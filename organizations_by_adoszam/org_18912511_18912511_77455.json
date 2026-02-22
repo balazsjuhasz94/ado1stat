@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18912511",
+  "scraped_at": "2026-02-21T13:21:56.169711",
+  "organization_id": "77455",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Váci Harmónia Kórus Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Petőfi Sándor utca 13.",
+      "x_koordináta": "47.772641",
+      "y_koordináta": "19.133689",
+      "adószám": "18912511-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-11",
+      "statisztikai_számjel": "18912511-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "- részvéstel elsősorban Vác és a közép-magyarországi régió, illetve Magyarország és a Kárpát-medence zenei életében, - fellépéseivel társadalmi, jótékonysági koncerjeivel anyagi támogatást nyújtani különböző társadalmi, különösön hátrányos helyzetű csoportoknak, - segíteni a Váci Harmónia Kórus egykori és mai aktív tagjainak élő kapcsolatát, alkalmanként segítséget nyújtva idős, rászoruló tagoknak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006621",
+      "régi_nyilvántartási_száma": "6621/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-10-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11742094-20028826",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt. Váci Fiók"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Letfusz",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 104 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "125 687 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "123 830 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "129 185 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 262 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "262 268 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "418 111 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Váci Harmónia Kórus Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Váci Harmónia Kórus Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Váci Harmónia Kórus Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Váci Harmónia Kórus Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

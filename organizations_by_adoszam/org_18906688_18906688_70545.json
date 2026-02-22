@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18906688",
+  "scraped_at": "2026-02-21T13:58:56.842937",
+  "organization_id": "70545",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kőrös Környéki Nagycsaládosok Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2750 Nagykőrös, Szabadság tér 10. 1/2.",
+      "x_koordináta": "47.0335633",
+      "y_koordináta": "19.7816771",
+      "adószám": "18906688-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-27",
+      "statisztikai_számjel": "18906688-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- a család tiszteletére nevelés - a nagycsaládosok sajátos érdekeinek képviselete - a nagycsaládosok egymást ismerő és segítő közösséggé szervezése - a nagycsaládos életforma értékeinek felmutatása - a nagycsaládosok egészséges és környezettudatos életmódra nevelése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007268",
+      "régi_nyilvántartási_száma": "7268/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szécsényné Tóth",
+        "Képviselő keresztneve": "Rozália (elnök)",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "139",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "445 975 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "456 537 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "141",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "627 792 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "84",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "497 715 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "352 524 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KŐRÖS KÖRNYÉKI NAGYCSALÁDOSOK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kőrös Környéki Nagycsaládosok Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

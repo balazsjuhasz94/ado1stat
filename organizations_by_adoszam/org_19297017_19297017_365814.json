@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19297017",
+  "scraped_at": "2026-02-14T14:23:13.221741",
+  "organization_id": "365814",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Diósdiak Diósdért Egyesület",
+      "rövid_név": "DiDi",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2049 Diósd, Antal utca 1.",
+      "adószám": "19297017-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-08",
+      "statisztikai_számjel": "19297017-9499-529-13",
+      "x_koordináta": "47.4079445",
+      "y_koordináta": "18.9422126"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "„Legyél Otthon Diósdon”. Diósdi lakhelyű polgárok közösségének szervezése, a civil öntudatosság felébresztése és az összefogás erősítése, valamint kulturális, ismeretterjesztő, tájékoztató, szabadidős és sport rendezvények szervezése. Lakókörnyezet, közterület részleges felújítása, kiemelt figyelmet fordítva a közlekedésbiztonságra és környezetvédelemre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007965",
+      "régi_nyilvántartási_száma": "7965/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "16200151-18562446",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Rt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss-Bakucz",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-12-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 663 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "735 597 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

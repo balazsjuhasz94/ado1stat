@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "19238485",
+  "scraped_at": "2026-02-21T12:28:29.509273",
+  "organization_id": "119771",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "GYÖNGY \"Gyógyító Falu\" Alapítvány",
+      "rövid_név": "GYÖNGY Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8765 Egeraracsa, Hegyalja utca 1",
+      "x_koordináta": "46.6717622",
+      "y_koordináta": "17.0691316",
+      "adószám": "19238485-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-26",
+      "statisztikai_számjel": "19238485-8559-569-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A GYÖNGY szellemiségének minél szélesebb körben történő megismertetése. Tervezett ütemezés: az alapítástól számított kilenc éven belül, egyidejűleg kilenc különböző helyszínen „Gyógyító Falu” rendezvény megtartása, minél inkább lefedve az ország területét. Ismeretterjesztés: alternatív életvezetési eszközök és módszerek megismerése, gyakorlása. Öngyógyító képességek felélesztése, azok tudatok gyakorlása, beillesztése a hétköznapi életfelfogásba. Az önkéntesség, mint az egyéni és közösségi felelősségvállalás, valamint az egymás iránti törődés fontosságának megismertetése és a hétköznapi gyakorlatba való átvitelének támogatása. A személyes felelősség növelésének hangsúlyozása, a testi-, szellemi- és lelki harmónia megteremtésének ösztönzésével. A hasonló értékrendet valló közösségekkel való együttműködés támogatása, Kárpát-medencei és azon túli közösségek közötti kapcsolatok erősítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001212",
+      "régi_nyilvántartási_száma": "1212/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-01-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11749039-25208078-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Plótár",
+        "Képviselő keresztneve": "László Ervin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dr. Nagy-Bíró",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "451 880 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "559 267 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

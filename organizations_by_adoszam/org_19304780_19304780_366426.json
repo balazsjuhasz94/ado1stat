@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19304780",
+  "scraped_at": "2026-02-14T12:50:39.302186",
+  "organization_id": "366426",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tiszta Szívvel az Állatokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2890 Tata, Május 1. út 9. fsz/1.",
+      "adószám": "19304780-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-02",
+      "statisztikai_számjel": "19304780-9499-569-11",
+      "x_koordináta": "47.629452",
+      "y_koordináta": "18.303389"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Bajba jutott állatok segítése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001132",
+      "régi_nyilvántartási_száma": "1132/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-06-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-12",
+      "bankszámlaszám": "10401976-50526988-66871010",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zádoriné Csordás",
+        "Képviselő keresztneve": "Valéria",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "258",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 336 497 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "211",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 117 694 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

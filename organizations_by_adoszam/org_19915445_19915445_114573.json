@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19915445",
+  "scraped_at": "2026-02-21T14:17:50.994283",
+  "organization_id": "114573",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vízisport Club Tokaj",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3910 Tokaj, Esze Tamás utca 40.",
+      "x_koordináta": "48.143914",
+      "y_koordináta": "21.388048",
+      "adószám": "19915445-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19915445-9312-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A Club Tokajban és térségében irányítja, szervezi a vízi turizmust, a kajak-kenu síkvízi gyorsasági és síkvízi maratoni versenyeket, tevékenységi (vízi turizmus) területe elsődlegesen a Tisza és Bodrog folyókra terjed ki, de meg kívánja ismertetni az érdeklődőkkel a Bodrog-zug vízi világát. Különös hangsúlyt helyez a vízi környezet megismertetése során annak védelmére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0000921",
+      "régi_nyilvántartási_száma": "921/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-25",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Krecz",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "153 578 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "384 422 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 772 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

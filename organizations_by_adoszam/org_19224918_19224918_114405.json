@@ -1,0 +1,126 @@
+{
+  "search_adoszam": "19224918",
+  "scraped_at": "2026-02-14T13:31:00.537973",
+  "organization_id": "114405",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "HABLATY Beszéd- és Készségfejlesztő Alapítvány",
+      "rövid_név": "HABLATY Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5100 Jászberény, Páva utca 17.",
+      "x_koordináta": "47.508892",
+      "y_koordináta": "19.908072",
+      "adószám": "19224918-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-11",
+      "statisztikai_számjel": "19224918-8559-569-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "- a társadalom magasabb szintű szociális ellátása, az egyén vagy csoport hátrányos helyzetének enyhítése érdekében, - a fogyatékos gyermekek és fiatalok boldogulásának, az épek társadalmába való beilleszkedésének segítése, - sérült gyermekek tanulási, képzési esélyeinek javítása, kulturális, szabadidős és sport tevékenységének elősegítése, társadalmi beilleszkedésük, rehabilitációjuk és továbbtanulásuk támogatása - társuló sérülések (beszédhibák, mozgáskorlátozottságból adódó zavarok, pszichés zavarok) folyamatos korrekciója, - alternatív oktatási programok tárgyi feltételeinek biztosítása, - az iskolai élet egyes területein kiemelkedő tevékenységet folytató tanulók elismerése, jutalmazása, - a pedagógusi továbbképzések valamint kiadványok megjelentetéséhez anyagi hozzájárulás",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-01-0001248",
+      "régi_nyilvántartási_száma": "1248/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-24"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "1813",
+        "Leírás": "Nyomdai előkészítő tevékenység"
+      },
+      {
+        "Kód": "7912",
+        "Leírás": "Utazásszervezés"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "146",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "812 178 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "166",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 154 392 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 127 782 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

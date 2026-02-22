@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19314136",
+  "scraped_at": "2026-02-14T13:00:16.933552",
+  "organization_id": "367169",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kertesi Kutyakuckó Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2113 Erdőkertes, Fő út 245.",
+      "adószám": "19314136-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-27",
+      "statisztikai_számjel": "19314136-9499-569-13",
+      "x_koordináta": "47.6696151",
+      "y_koordináta": "19.3158396"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Erdőkertes és vonzáskörzetében a kóbor, gazda nélkül maradt ebek összeszedése, megfelelő körülmények között tartása, támogatása. A beteg gondozásra szoruló ebek gyógykezelése, gondozása, támogatása. Az alapítvány gondozásában lévő egészséges, ivartalanított ebek örökbe adása, elő- és utókontrollal óvodákban, iskolákban felelős állatartásra nevelés keretein belül előadások, bábelőadások szervezése. Álletvédelem, környezetvédelmi és természetvédelmi tevékenység folytatásával egyetemben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004238",
+      "régi_nyilvántartási_száma": "4238/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Marosi-Tóth",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "264",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 327 523 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "216",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 734 234 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19249045",
+  "scraped_at": "2026-02-21T13:06:38.838544",
+  "organization_id": "124790",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FOX SPORT TEAM Kerékpáros és Szabadidős Sportegyesület",
+      "rövid_név": "FOX SPORT TEAM SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2534 Tát, Bécsi út 55.",
+      "x_koordináta": "47.7383168",
+      "y_koordináta": "18.6612225",
+      "adószám": "19249045-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-21",
+      "statisztikai_számjel": "19249045-9312-521-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "-kerékpáros sport fejlesztése és a kerékpáros életmód népszerűsítése -tömegsport fejlesztése -egészséges életmód népszerűsítése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007839",
+      "régi_nyilvántartási_száma": "7839/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-11",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-31"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hajdu",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "438 243 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "453 141 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

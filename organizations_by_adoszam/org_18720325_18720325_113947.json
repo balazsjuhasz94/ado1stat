@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18720325",
+  "scraped_at": "2026-02-14T14:18:35.863370",
+  "organization_id": "113947",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hemofiliások Baráti Köre",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2100 Gödöllő, Bethlen Gábor utca 15.",
+      "x_koordináta": "47.604469",
+      "y_koordináta": "19.351435",
+      "adószám": "18720325-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-18",
+      "statisztikai_számjel": "18720325-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0002553",
+      "régi_nyilvántartási_száma": "2553/1998",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-11-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csuja",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "166 686 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "754 747 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

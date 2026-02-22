@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19099967",
+  "scraped_at": "2026-02-14T12:36:57.739115",
+  "organization_id": "92523",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mancs Menedék Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3162 Ságújfalu, Rákóczi út 22.",
+      "x_koordináta": "48.1076397",
+      "y_koordináta": "19.684771",
+      "adószám": "19099967-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-22",
+      "statisztikai_számjel": "19099967-9499-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, gazdátlan állatok problémájának térségi megoldása. Az elkóborolt, elveszett, kidobott, elhagyott, illetve elhagyni kívánt állatok befogadása, gondozásba vétele, számukra megfelelő ellátás biztosítása. A testileg és lelkileg sérült, valamint balesetet szenvedett állatok mentése, megfelelő ellátása, rehabilitálása, szocializálása. Környezetünk, az emberek és az állatok védelmében járőrszolgálat megszervezése, létrehozása, működtetése. Állatvédelmi törvény betartatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0002117",
+      "régi_nyilvántartási_száma": "2117/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bozó",
+        "Képviselő keresztneve": "Brigitta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "345",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 815 133 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "357",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 218 637 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "473",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 737 168 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "464",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 911 643 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "331",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 146 344 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MANCS MENEDÉK ÁLLATVÉDŐ EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MANCS MENEDÉK ÁLLATVÉDŐ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

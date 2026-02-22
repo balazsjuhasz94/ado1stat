@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18733578",
+  "scraped_at": "2026-02-21T13:05:34.285209",
+  "organization_id": "96924",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egyiptomiak Magyarországi Kulturális Szociális Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1062 Budapest, Bajza utca 54. mfszt./1.",
+      "x_koordináta": "47.5128282",
+      "y_koordináta": "19.0699435",
+      "adószám": "18733578-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-12-29",
+      "statisztikai_számjel": "18733578-8552-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Magyarországon élő egyiptomiak társadalmi feladatvállalásának, együttműködésének egységes fellépések biztosítása, amelynek keretében kulturális tevékenységet, ismeretterjesztést, kulturális örökség megóvására irányuló tevékenységet fejtenek ki.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016001",
+      "régi_nyilvántartási_száma": "16001/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ibrahim",
+        "Képviselő keresztneve": "Ahmed",
+        "Képviselő titulusa": "Abdelbasset",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "283 317 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "204 454 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "207 395 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "187 357 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "193 732 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "172 357 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "464 173 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYIPTOMIAK MAGYARORSZÁGI KULTURÁLIS SZOCIÁLIS EGYESÜLETE"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYIPTOMIAK MAGYARORSZÁGI KULTURÁLIS SZOCIÁLIS EGYESÜLETE"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYIPTOMIAK MAGYARORSZÁGI KULTURÁLIS SZOCIÁLIS EGYESÜLETE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYIPTOMIAK MAGYARORSZÁGI KULTURÁLIS SZOCIÁLIS EGYESÜLE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

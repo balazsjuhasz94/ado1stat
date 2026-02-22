@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18337213",
+  "scraped_at": "2026-02-14T14:05:20.049279",
+  "organization_id": "103666",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Győri Atlétikai Club – II. kerület Dózsa",
+      "rövid_név": "Győri Atlétikai Club, Győri AC, GYAC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9025 Győr, Radnóti Miklós utca 46.",
+      "x_koordináta": "47.6861699",
+      "y_koordináta": "17.6156055",
+      "adószám": "18337213-2-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-01-03",
+      "statisztikai_számjel": "18337213-9312-521-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület fő célja a sporttevékenységen belül a verseny- és élsport, illetve az utánpótlásnevelés. Célja továbbá a rendszeres sportolás (versenyzés), testedzés, felüdülés és rekreációs tevékenységek biztosítása, az ilyen igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és közösségi élet kibontakoztatása. Az egészségkultúra mindennemű támogatása. A célok megvalósítását segítő eszközök felkutatása, támogatások igénybevétele és nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0062553",
+      "régi_nyilvántartási_száma": "62553/2012",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-11",
+      "a_nyilvántartott_adatok_verziószáma": "26",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Borkai",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "562 889 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "826 894 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

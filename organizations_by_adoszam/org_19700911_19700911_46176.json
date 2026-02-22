@@ -1,0 +1,163 @@
+{
+  "search_adoszam": "19700911",
+  "scraped_at": "2026-02-14T12:23:22.928446",
+  "organization_id": "46176",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Könyves Kálmán Gimnázium Diákjaiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1043 Budapest, Tanoda tér 1.",
+      "x_koordináta": "47.5580663",
+      "y_koordináta": "19.0885948",
+      "adószám": "19700911-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-01-02",
+      "statisztikai_számjel": "19700911-8899-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Ösztöndíj biztosítása a tehetséges és arra rászoruló tanulóknak, valamint a gimnázium tárgyi, technikai gyarapítása, a diákok szociális segítése, az emberi értékek elismerése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0002397",
+      "régi_nyilvántartási_száma": "2397/1991",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-02-07",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Barton",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "439",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 534 038 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "451",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 405 940 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "394",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 343 382 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "392",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 309 853 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "405",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 739 029 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "425",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 398 515 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "482",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 280 084 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "432",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 175 048 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "417",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 573 452 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "513",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 247 950 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "451",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 634 734 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "458",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 317 706 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Könyves Kálmán Gimnázium Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

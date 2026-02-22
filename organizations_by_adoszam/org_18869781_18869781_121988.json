@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18869781",
+  "scraped_at": "2026-02-14T14:17:10.787631",
+  "organization_id": "121988",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kerek-Világ Ház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Mártírok útja 26.",
+      "x_koordináta": "47.1853723",
+      "y_koordináta": "18.430887",
+      "adószám": "18869781-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-31",
+      "statisztikai_számjel": "18869781-8696-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Születési vagy fejlődési rendellenességgel élő, életvezetési nehézséggel küzdő személyek és családjuk részére állapotfelmérés, oktatás, terápia, fejlesztő foglalkozások, tanácsadás nyújtása. Részképesség zavarok, diszfunkciók, és alapkészségek fejlesztését célzó foglalkozások tartása, családi napközi üzemeltetése. Az eddig felsorolt személyek részére rendezvényszervezés, táboroztatás. Rehabilitációs terápiák végzésére alkalmas komplex fejlesztő központ létrehozása. Hasonló tevékenységet folytató szakmai szervezetekkel, intézményekkel, civil csoportokkal való együttműködés, szakmai műhelymunka, kutatás-fejlesztés. Szakmai továbbképzés, felnőttoktatás szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001105",
+      "régi_nyilvántartási_száma": "1105/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-10-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-01",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-17",
+      "bankszámlaszám": "10402908-50526749-81861013",
+      "számlavezető_pénzintézet_neve": "K &amp; H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dékány",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "410 303 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "624 872 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "776 106 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "879 105 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "762 015 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerekvilág Ház Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kerekvilág Ház Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

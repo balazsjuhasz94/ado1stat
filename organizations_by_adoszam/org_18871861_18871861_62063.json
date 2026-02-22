@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "18871861",
+  "scraped_at": "2026-02-21T12:43:11.405145",
+  "organization_id": "62063",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "S.O.S. Lovakért Állatsegítő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2700 Cegléd, 0267/11. hrsz.",
+      "x_koordináta": "47.2057596",
+      "y_koordináta": "19.7956038",
+      "adószám": "18871861-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-24",
+      "statisztikai_számjel": "18871861-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Beteg vagy rossz természetű, félre nevelt, kezelhetetlen patások - elsősorban lovak, szamarak, öszvérek - megmentése a korai levágástól, illetve a rossz bánásmódtól, befogadással gyógyítással, átneveléssel, örökbefogadó felkutatásával, valamint távolabbi cél továbbá egy patások számára létrehozandó állatotthon megteremtése, működtetése, fenntartása, fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003830",
+      "régi_nyilvántartási_száma": "3830/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-10-11",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10911800-10000008-877810018",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Minac",
+        "Képviselő keresztneve": "Vasile",
+        "Képviselő titulusa": "Radu",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Balázs",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Juhász",
+        "Képviselő keresztneve": "Enikő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "440 831 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 950 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

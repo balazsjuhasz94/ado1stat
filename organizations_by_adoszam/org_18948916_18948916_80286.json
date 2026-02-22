@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "18948916",
+  "scraped_at": "2026-02-21T13:12:13.371213",
+  "organization_id": "80286",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kertvárosi Fúvószenekari Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1164 Budapest, Vágás utca 60. fszt./4.",
+      "x_koordináta": "47.528813",
+      "y_koordináta": "19.2025519",
+      "adószám": "18948916-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-19",
+      "statisztikai_számjel": "18948916-8559-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület célja, hogy a XVI. kerületben népszerűséget szerezzen a fúvós zenei kultúrának, a komolyzenének, zenetanulásnak, lehetőséget adjon a kerületi zeneiskola növendékeinek, a tanult felnőtt zenészeknek és a tehetséges zenélni tudó polgároknak a nagyzenekari részvételre, továbbá igényes kikapcsolódási lehetőséget biztosítson, minőségi műsorokkal szórakoztassa a hallgatóságot, mindezt úgy,hogy tevékenységével a XVI. kerület jó hírét öregbíti ország és világszerte. Az egyesület legfontosabb feladata, hogy céljai elérésében tömegesen állítsa maga mellé a családokat, polgárokat, akik maguk is fontosnak érzik a célok megvalósításának hozadékait, értékeit,ezzel elkötelezett utánpótlást nevel a jövő 16.kerületi fúvószenekarának. Cél, hogy tagjai számára fontossá váljon az igényes zenélés művészete, az igényes zenehallgatás, és hogy részvételükkel megélhessék az egyéni, az egyesületi, a kerületi, a hazai és akár a nemzetközi megmérettetések által megszerezhető értékek érzését, hovatartozásuk zenei teljesítményük által erősödjék. Az egyesület egy kulturáltabb, lelkileg is kiegyensúlyozottabb közösség létrejöttében is támogatást nyújt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016785",
+      "régi_nyilvántartási_száma": "16785/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-10-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ódorné Pesti",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "477 072 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "364 072 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "342 103 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "440 180 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kertvárosi Fúvószenekari Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

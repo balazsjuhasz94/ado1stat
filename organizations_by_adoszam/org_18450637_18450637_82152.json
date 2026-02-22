@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "18450637",
+  "scraped_at": "2026-02-14T15:08:19.369957",
+  "organization_id": "82152",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Városi Nyugdíjas Klub Kistelek",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6760 Kistelek, Árpád utca 1-3.",
+      "x_koordináta": "46.4701495",
+      "y_koordináta": "19.9815299",
+      "adószám": "18450637-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1993-01-11",
+      "statisztikai_számjel": "18450637-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A tagok jogainak, érdekeinek képviselete, közös kulturális és szabadidős programok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0000738",
+      "régi_nyilvántartási_száma": "738/1993",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szalai",
+        "Képviselő keresztneve": "Józsefné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "99",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 139 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "150",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "492 556 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "73",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 752 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "162",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "594 750 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "147",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "680 887 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "577 722 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Városi Nyugdíjas Klub Kistelek"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Városi Nyugdíjas Klub Kistelek"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Városi Nyugdíjas Klub Kistelek"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

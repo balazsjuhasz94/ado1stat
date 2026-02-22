@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19328421",
+  "scraped_at": "2026-02-21T13:02:23.415249",
+  "organization_id": "368363",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Suttogó Állatvédelmi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2100 Gödöllő, Rózsa utca 13.",
+      "adószám": "19328421-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-13",
+      "statisztikai_számjel": "19328421-9699-569-13",
+      "x_koordináta": "47.5995854",
+      "y_koordináta": "19.3717049"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány az alábbi célok megvalósítsa érdekében fejti ki tevékenységét: a) a korszerű állatvédelem elméleti alapjainak és elveinek meghonosítása; b) az állatok jólétének, a korszerű állatvédelmi elveknek megfelelő állattartási módszerek megvalósításának elősegítése; c) utcán és menhelyen élő állatok megfelelő gazdához juttatása; d) állatkísérleteket helyettesítő alternatív módszerek bevezetésének támogatása; e) ifjúság állat- és természetvédelmi szakismeretek népszerűsítése, tudatformálás; f) ismeretterjesztő kiadványok megjelenítése; g) ivartalanítás népszerűsítése, gyakorlása; h) a magán-állatorvosi tevékenységet végző állatorvosok, állategészségügyi szolgáltató intézmények állatvédelmi, állatjóléti tevékenységének támogatása; i) ideiglenes befogadás és önkéntesség népszerűsítése, támogatása; j) kiállítások, örökbefogadó napok, bemutatók szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004286",
+      "régi_nyilvántartási_száma": "4286/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-97660848",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Richter-Sallay",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "Tímea",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sallayné Pálházi",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "Margit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sallay",
+        "Képviselő keresztneve": "Bence",
+        "Képviselő titulusa": "Attila",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sallai",
+        "Képviselő keresztneve": "Zsombor",
+        "Képviselő titulusa": "Máté",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "463 274 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

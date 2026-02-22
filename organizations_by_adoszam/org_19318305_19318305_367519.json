@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19318305",
+  "scraped_at": "2026-02-14T13:38:29.760126",
+  "organization_id": "367519",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MacskAngyal Cicamentő Alapítvány",
+      "rövid_név": "MacskAngyal Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9400 Sopron, Jázmin utca 13.",
+      "adószám": "19318305-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-14",
+      "statisztikai_számjel": "19318305-9499-569-08",
+      "x_koordináta": "47.6935024",
+      "y_koordináta": "16.5897441"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- Az elhagyott, gazdátlan, kóborló, sintértelepekről kimentett vagy sérült vagy egyéb módon rászoruló állatok védelmezése, befogadása, állatorvosok segítségével egészségügyi ellátása, ivartalanítása, ideiglenes elszállásolása, megfelelő élelmezése, chipes azonosítóval való ellátása, és megfelelő gazdához juttatása, örökbe adása. - Macskaszaporulatok csökkentése TNR módszerrel (Trap Neuter Retur) - Sintértelepek felszámolásának támogatása anyagi eszközökkel és személyes közreműködéssel - Kulturális rendezvények szervezése, amelyek bemutatják és népszerűsítik az állat- és természetvédelem fontosságát - Örökbefogadó napok szervezése, jótékonysági rendezvények lebonyolítása a menhelyen élő vagy kóbor állatok megsegítésére - Állatkínzás megelőzésének népszerűsítése, az állatokkal szemben nem megfelelő bánásmód megelőzése, felderítése - Támogatás és segítségnyújtás azoknak az embereknek, akik szűkös anyagi forrásaik, egészségügyi helyzetük miatt nem képesek állataikat ellátni - Támogatás, segítségnyújtás azoknak az embereknek a munkájához, akik az állatvédelemmel hivatásszerűen foglalkoznak, de szűkös anyagi forrásokkal rendelkeznek - Az 1998. évi XXVIII. törvény (Az állatok védelméről és kíméletéről) és a helyi állattartási rendeletek megismertetése és betartásának betartatása a társadalom tagjaival, valamint az ivartalanítás és a chippel való ellátás fontosságára való figyelemfelhívás az állattartók körében. - Az egyesülési jogról\" a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény, rendelkezései alapján adománygyűjtés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051480",
+      "régi_nyilvántartási_száma": "51480/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kerekes",
+        "Képviselő keresztneve": "Noémi",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "4776",
+        "Leírás": "Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme"
+      },
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      },
+      {
+        "Kód": "6391",
+        "Leírás": "Hírügynökségi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "121",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 037 167 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

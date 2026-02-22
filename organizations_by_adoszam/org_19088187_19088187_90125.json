@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19088187",
+  "scraped_at": "2026-02-21T13:07:52.635852",
+  "organization_id": "90125",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pantó Antal Hagyományőrző Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5451 Öcsöd, Petőfi Sándor út 44.",
+      "x_koordináta": "46.9001204",
+      "y_koordináta": "20.3935959",
+      "adószám": "19088187-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-24",
+      "statisztikai_számjel": "19088187-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Kulturális és természeti örökségünk megóvása, térségünk népi hagyományainak, kultúrájának, építészeti értékeinek megőrzése és terjesztése, hagyományőrző, kulturális, egészségtudatos programok szervezése, gyermek/ifjúsági kulturális sporttevékenységek támogatása, az egészséges életmód népszerűsítése, a nagyközség közösségi életének felpezsdítése családok bevonásával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002758",
+      "régi_nyilvántartási_száma": "2758/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pasztelyák",
+        "Képviselő keresztneve": "Iván",
+        "Képviselő titulusa": "Mihályné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-17",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gál",
+        "Képviselő keresztneve": "Imréné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "376 445 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "618 032 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "789 544 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "450 445 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pantó Antal Hagyományőrző Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

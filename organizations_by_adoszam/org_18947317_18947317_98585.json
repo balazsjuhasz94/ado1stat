@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18947317",
+  "scraped_at": "2026-02-14T12:32:53.169763",
+  "organization_id": "98585",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pasaréti Szabó Lőrinc Iskola Alapítvány",
+      "rövid_név": "Pasaréti SZLI Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1026 Budapest, Pasaréti út 191-193.",
+      "x_koordináta": "47.528216",
+      "y_koordináta": "18.9860311",
+      "adószám": "18947317-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-20",
+      "statisztikai_számjel": "18947317-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Pasaréti Szabó Lőrinc Magyar-Angol Két Tanítási Nyelvű Általános Iskola és Gimnázium (1026 Budapest, Pasaréti út 191-193.) folyó oktatás-nevelés magas színvonalú megvalósításának támogatása, a célok elérhetőségét biztosító anyagi fedezet megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012550",
+      "régi_nyilvántartási_száma": "12550/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balabanian",
+        "Képviselő keresztneve": "Izabella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 394 575 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "144",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 652 339 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "127",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 454 128 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "149",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 918 501 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "160",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 110 714 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "183",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 778 648 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pasaréti Szabó Lőrinc Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pasaréti Szabó Lőrinc Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pasaréti Szabó Lőrinc Iskola Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

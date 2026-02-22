@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18908147",
+  "scraped_at": "2026-02-14T13:09:34.396821",
+  "organization_id": "72244",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Állatmentő Angyalok Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1041 Budapest, Lőrinc utca 12. fszt./3.",
+      "x_koordináta": "47.5646776",
+      "y_koordináta": "19.0857712",
+      "adószám": "18908147-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-12",
+      "statisztikai_számjel": "18908147-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Talált, gazdátlan és kóbor állatok befogása és ideiglenes elhelyezése, ellátása (etetése, gondozása), valamint szükség esetén kezelése, melyre szakorvos bevonásával kerül sor az alapítvány által biztosított helyiségben. Érettségi előtt álló fiatalok közmunkájának, diákok nyári munkájának biztosítása, közmunkások alkalmazása. A XV. kerületi Önkormányzattal és a hatóságokkal való szoros együttműködés a feladat megoldása érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012477",
+      "régi_nyilvántartási_száma": "12477/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-06-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "12010453-00833052-4000003",
+      "számlavezető_pénzintézet_neve": "Raiffeisen Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bangha",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5630",
+        "Leírás": "Italszolgáltatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "606 904 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "136",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 118 803 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "128",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "680 881 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "152",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 473 950 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Állatmentő Angyalok Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Állatmentő Angyalok Alapítvány",
+        "Év": "2026"
+      }
+    ]
+  },
+  "error": null
+}

@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18778713",
+  "scraped_at": "2026-02-21T13:16:08.447635",
+  "organization_id": "38342",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Siófoki Kajak Egylet",
+      "rövid_név": "SKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8600 Siófok, Batthyány Lajos utca 23.",
+      "x_koordináta": "46.9335257",
+      "y_koordináta": "18.0867118",
+      "adószám": "18778713-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2004-08-06",
+      "statisztikai_számjel": "18778713-9312-521-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja Siófok város és kistérsége sportéletének részeként a kajak-kenu sporttevékenység elősegítése, ezen belül: a. a kajak-kenu sportág népszerűsítése a tanulóifjúság és a felnőtt korosztály körében, b. vízi sporttal kapcsolatos szakosztályok működtetése, feltételeinek megteremtése, c. a gyermek és ifjúsági sport, valamint az utánpótlás-nevelés támogatása, d. az egészséges életmód és a szabadidősport feltételei megteremtésének és fejlesztésének elősegítése, e. az utánpótlás-nevelés műhelyeiként működő általános- és középiskolák sportéletének elősegítése, szakmai és anyagi támogatása, f. a mindennapos testedzés feltételei megteremtésének és fejlesztésének elősegítése, g. a fogyatékosok sportjának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-02-0002917",
+      "régi_nyilvántartási_száma": "2917/2003",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-11-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-19",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Huszár",
+        "Képviselő keresztneve": "Vilmos",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "16 682 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "140 336 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "431 030 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Siófok és Környéke Diáksport Közhasznú Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

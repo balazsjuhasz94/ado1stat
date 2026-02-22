@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19038601",
+  "scraped_at": "2026-02-14T14:28:09.827425",
+  "organization_id": "85801",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Katolikus Iskolásokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6640 Csongrád, Kossuth tér 4.",
+      "x_koordináta": "46.710295",
+      "y_koordináta": "20.154636",
+      "adószám": "19038601-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-06-18",
+      "statisztikai_számjel": "19038601-9499-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az iskolai nevelő-oktatómunka illetve annak tárgyi feltételeinek segítése. Az iskolában tanuló tehetséges diákok patronálása. Családi, vagy egyéb körülményeinél fogva hátrányos helyzetű gyermekek a tanulás és képzés területén történő anyagi segítése. Hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése. Kiemelkedő tanulmányi eredményt elért diákok támogatása. Diákok tanulmányi versenyen való részvételének támogatása. Közösségépítő programok megvalósítása helyi és nemzetközi szinten is. Rendezvények megtartásának anyagi támogatása. Az iskolai programok, kirándulások támogatása. A kiemelkedő teljesítményt elért diákok jutalmazása. A fenntartható fejlődés elemeinek megismertetése, környezet- és egészségtudatos szemlélet mélyítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001687",
+      "régi_nyilvántartási_száma": "1687/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-06-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kőrösi",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 251 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "314 486 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 698 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "452 956 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "712 630 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Katolikus Iskolásokért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Katolikus Iskolásokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

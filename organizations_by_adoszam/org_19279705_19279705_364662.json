@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "19279705",
+  "scraped_at": "2026-02-14T14:34:28.896551",
+  "organization_id": "364662",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tallinnka Néptánc Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5000 Szolnok, Mikszáth köz 3.",
+      "adószám": "19279705-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-02",
+      "statisztikai_számjel": "19279705-9499-529-16",
+      "x_koordináta": "47.189921",
+      "y_koordináta": "20.1767987"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyar néptánckincs megőrzése, ápolása és továbbadása színpadi, illetve autentikus keretek között, a magyar néptánc népszerűsítése határainkon innen és túl. Kapcsolatok kiépítése testvéregyüttesekkel, belföldi -és nemzetközi szakmai szervezetekkel. A Szolnoki Kodály Zoltán Ének-zenei Általános Iskola és Néptánc Alapfokú Művészeti Iskola néptánc tanszakára járó növendékei, a tanszak rendezvényei, továbbá a Tallinka Gyermek Néptánc Együttes támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002831",
+      "régi_nyilvántartási_száma": "2831/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jaczkó",
+        "Képviselő keresztneve": "Xénia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-11",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Cseh",
+        "Képviselő keresztneve": "Zsolt Bence",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "470 355 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "683 013 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "18509779",
+  "scraped_at": "2026-02-14T14:49:33.911090",
+  "organization_id": "82470",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Keleti Harcosok - East Fighters Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4220 Hajdúböszörmény, Kodály Zoltán utca 21.",
+      "x_koordináta": "47.6614711",
+      "y_koordináta": "21.510202",
+      "adószám": "18509779-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-09-02",
+      "statisztikai_számjel": "18509779-9312-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A küzdősportok - ezen belül thai-boksz, karate, aikido - és a lovaglás népszerűsítése, oktatása. A tömegsport és a versenysport megvalósítása Hajdúböszörményben és térségében a küzdősport és a lovaglás sporttevékenység területén. Sportversenyek szervezése a fenti sportágakban. Szabadidő tevékenységgel összefüggő sport - és kulturális rendezvények szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004314",
+      "régi_nyilvántartási_száma": "4314/2013",
+      "közhasznú_fokozata": "Közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-05",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pápista",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 575 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "629 617 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

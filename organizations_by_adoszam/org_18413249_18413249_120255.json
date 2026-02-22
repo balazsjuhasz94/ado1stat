@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18413249",
+  "scraped_at": "2026-02-21T14:17:58.860214",
+  "organization_id": "120255",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Telkibányai Aranygombos Sport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3896 Telkibánya, Fürdő utca 17.",
+      "x_koordináta": "48.490661",
+      "y_koordináta": "21.353084",
+      "adószám": "18413249-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1994-01-03",
+      "statisztikai_számjel": "18413249-9319-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportegyesület a rendszeres sportolás (versenyzés), testedzés, felüdülés biztosítása, az ilyen igények felkeltése a tagjainak növelése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása céljából létrehozott szervezet. A sportegyesület céljának megvalósítása érdekében együttműködik bázisával, illetve működési területének állami, társadalmi és szövetkezeti szerveivel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0001566",
+      "régi_nyilvántartási_száma": "1566/1993",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-01-29",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabóné Kiss",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "Beáta",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-01-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 350 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "224 400 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "321 733 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

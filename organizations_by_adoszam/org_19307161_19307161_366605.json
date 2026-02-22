@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "19307161",
+  "scraped_at": "2026-02-21T14:21:50.695129",
+  "organization_id": "366605",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kétker Közösségi Alapítvány",
+      "rövid_név": "KÉTKERKA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1025 Budapest, Nagybányai út 56-58. A. lépcsőház",
+      "adószám": "19307161-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-05",
+      "statisztikai_számjel": "19307161-9499-569-01",
+      "x_koordináta": "47.5348426",
+      "y_koordináta": "18.9984161"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Adományosztási tevékenység, nonprofit szövetségek (pl. többcélú és általános adományosztás, sport- szakmai és egyéb nonprofit szövetségek, civilügyi szolgáltatás)",
+      "céljának_leírása": "A Kétker Közösségi Alapítvány elsődleges célkitűzése a Főváros II. kerületében az adományozói kultúra fejlesztése és a helyi ügyek iránti elköteleződés erősítése, a kerület fejlődését célul tűző – szociális, egészségügyi, közoktatási és közművelődési szolgáltatásainak fejlesztését szolgáló- kezdeményezések támogatása, kiemelten a demokráciafejlesztő kezdeményezések és párbeszédprogramok népszerűsítése; - a közösségi tervezés, a környezetvédelem, a fenntarthatóság, az épített és természeti környezeti értékek védelme és a zöld aktivizmus kerületi mélyítése; – a közvetlen cselekvés lokális mechanizmusának felkarolása, az esélyegyenlőség előmozdítása, a hátrányos helyzetű lakossági rétegek segítése, a kisebbségi és hátrányos helyzetű csoportok iránti érzékenyítés az elfogadásra, toleranciára; - a kapcsolatrendszerek, megjelenési platformok, szakmai eszközök, a közösségi tudás és emberi erőforrások különböző formáinak összekapcsolása és rendszerben történő összehangolása, a kerületi közösség rezilienciájának elősegítése és erősítése; - a lokálpatriotizmus, a kerülethez való kötődés erősítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013154",
+      "régi_nyilvántartási_száma": "13154/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-05-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hunyadi",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "Júlia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bán",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Péterfi",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "79 704 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "317 055 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

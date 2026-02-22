@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19321840",
+  "scraped_at": "2026-02-14T14:14:44.727382",
+  "organization_id": "367841",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mamakör Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1116 Budapest, Kisújszállás utca 6. fsz./3.",
+      "adószám": "19321840-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-20",
+      "statisztikai_számjel": "19321840-9499-569-01",
+      "x_koordináta": "47.4463468",
+      "y_koordináta": "19.0323827"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a nők és családjaik támogatása, kiemelten, de nem kizárólag a várandósság, szülés és a gyermekágyas időszak alatt, valamint az anyává, családdá válással együtt járó krízisekkel és a gyermekneveléssel összefüggésben; a társadalmi ellátórendszerek fenti ponthoz kapcsolódó tevékenységének fejlesztése, így különösen a szülészeti ellátás, védőnői tevékenység és a gyermekvédelem területén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013249",
+      "régi_nyilvántartási_száma": "13249/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-13",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Takácsy",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Roszik",
+        "Képviselő keresztneve": "Linda",
+        "Képviselő titulusa": "Enid",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Köhler",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "782 107 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

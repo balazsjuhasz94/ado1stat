@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "18848548",
+  "scraped_at": "2026-02-21T14:15:57.615544",
+  "organization_id": "74695",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tegyünk Vaszarért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8542 Vaszar, Vasút utca 39.",
+      "x_koordináta": "47.401705",
+      "y_koordináta": "17.5059359",
+      "adószám": "18848548-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-09",
+      "statisztikai_számjel": "18848548-9499-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az Egyesület alapvetően kulturális,közösségformáló céllal alakul meg. Az egyesület célja, Hogy találkozási és együttműködési lehetőséget teremtsen a település lakói, a települést támogató vállalkozók és az önkormányzat számára Tevékenységében a kulturális élet fellendítését, Vaszar községre jellemző kultúra ápolását tűzte ki célul. Az Egyesület feladatainak tekinti: -Vaszar község természeti és épített környezet értékeinek megóvását és gyarapítását, -a kultúra és művelődés iránti igény növelését, kínálatának bővülését, annak elősegítését, -ifjúsági-és sporttáborok szervezését, -Vaszar község természeti adottságaira épülő szabadidős tevékenységek szervezését, -az aktív testedzést végzők számának gyarapítását, a kulturált sportolás színtereinek és alkalmainak növekedését, -minden olyan tevékenységet segít és támogat, amely a község ismertségét elősegíti, hírnevét öregbíti.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003688",
+      "régi_nyilvántartási_száma": "3688/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-02-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Papp",
+        "Képviselő keresztneve": "Jánosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "147",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "567 973 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "132",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "540 123 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 538 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 540 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "253 974 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "324 848 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tegyünk Vaszarért Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tegyünk Vaszarért Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tegyünk Vaszarért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

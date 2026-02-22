@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "19237594",
+  "scraped_at": "2026-02-14T14:10:14.912909",
+  "organization_id": "121855",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mandulavessző Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2100 Gödöllő, Tessedik Sámuel utca 2.",
+      "x_koordináta": "47.593914",
+      "y_koordináta": "19.338982",
+      "adószám": "19237594-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-12",
+      "statisztikai_számjel": "19237594-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány célja, hogy a Gödöllői Hit Gyülekezete közösségének fenntartásában levő oktatási-nevelési, kulturális, sport és szociális intézményhálózat a) szolgáltatásai révén az azokat igénybe vevő személyek, különösen a felnövekvő nemzedékek a kisgyermekkortól felnőttkorig a bibliai, illetve keresztény, teljes evangéliumi értékeken alapuló nevelésben, oktatásban, képességfejlesztésben részesüljenek, illetve hozzájussanak az egészséges életmód kialakításához, folytatásához szükséges lehetőségekhez; b) működéséhez, fejlesztéséhez szükséges erőforrások, tárgyi környezet és eszközellátottság folyamatos biztosításához hozzájáruljon.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004092",
+      "régi_nyilvántartási_száma": "4092/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tárnyik",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Missurai",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "Ildikó",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Missurai",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "601 277 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "113",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "800 051 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

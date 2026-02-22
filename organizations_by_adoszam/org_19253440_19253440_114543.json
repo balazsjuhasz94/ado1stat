@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19253440",
+  "scraped_at": "2026-02-14T13:07:58.804328",
+  "organization_id": "114543",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SEMPER FIDELIS ÁLLATVÉDŐ KÖZHASZNÚ ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2621 Verőce, Brassói utca 20.",
+      "x_koordináta": "47.827894",
+      "y_koordináta": "19.032728",
+      "adószám": "19253440-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-10",
+      "statisztikai_számjel": "19253440-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- Állatvédelem, állatmentés. - Agresszív, antiszociális kutyák befogása, elkülönítésé, elhelyezése. - Az állatok reszocializációja, a visszaillesztésük elősegítése, gazdakeresés. - Állatkínzás visszaszorításának az elősegítése. - A hatályos állatvédelmi törvényben foglaltak betartására irányuló figyelemre való felhívás segítése. - Állattartással kapcsolatos problémákban történő segítség nyújtás, a tartási körülmények javításának támogatása. - Önkéntes állatvédőkkel, más, hasonló tevékenységet végző szervezetekkel való szakmai együttműködés. - Figyelem felhívás a felelős állattartás fontosságára, az ifjúság felelős állatartói magatartására való felkészítésé.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004101",
+      "régi_nyilvántartási_száma": "4101/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-02-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-09",
+      "bankszámlaszám": "11742094-26994950-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mihalina",
+        "Képviselő keresztneve": "Beáta",
+        "Képviselő titulusa": "Marianna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "131",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 178 114 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "163",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 513 693 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

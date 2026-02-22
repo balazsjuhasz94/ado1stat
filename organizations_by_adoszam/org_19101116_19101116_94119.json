@@ -1,0 +1,137 @@
+{
+  "search_adoszam": "19101116",
+  "scraped_at": "2026-02-14T13:42:45.923553",
+  "organization_id": "94119",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kutyák Határok Nélkül Alapítvány",
+      "rövid_név": "KHN",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1126 Budapest, Németvölgyi út 27. II/2.",
+      "x_koordináta": "47.49571",
+      "y_koordináta": "19.0162877",
+      "adószám": "19101116-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-06",
+      "statisztikai_számjel": "19101116-8425-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Társadalmilag hasznos önkéntes tevékenységek kezdeményezése és segítése. Különösen: segítségnyújtás és közreműködés a hazai és a nemzetközi katasztrófák és vészhelyzetek, balesetek hatásai elleni védekezésben, a katasztrófák következményeinek felszámolásában, személyek felkutatásában és egészségügyi ellátásában, élet- és tárgymentésben való közreműködés, speciálisan képzett mentőcsapat működtetése. A feladatok ellátásához szükséges személyek és keresőkutyák ill. segítőkutyák képzése és vizsgáztatása, hátrányos helyzetűek segítése, állatvédelmi és természetvédelmi feladatok ellátása, a közhasznú együttműködések, NATO és euroatlanti integráció elősegítése, sürgősségi betegellátás végzése, vészhelyzeti kommunikációs központ kiépítése és működtetése, gyermekek és felnőttek felkészítése vészhelyzetekben történő kívánatos viselkedésre, állatvédelmi oktatás. A felajánlott és szakképzett személyi állományunk, kutyáink, eszközeink, járműveink, technikáink segítségével a kialakult katasztrófa helyzetek, balesetek során a sürgősségi betegellátás megvalósítása, segítése, veszélyhelyzeti kommunikáció gyors kiépítése és működtetése, illetve a fent említettek mielőbbi helyszínre juttatása. Katasztrófavédelmi képzési és vizsgáztatási központ kialakítása és működtetése. Szabadidősport támogatása, gyakorlása feltételeinek megteremtése, szolgálati-, hobbi és sportkutyák képzése és vizsgáztatása. Segítőkutyák, terápiás kutyák kiképzése és alkalmazása, beteg és fogyatékossággal élő személyekhez történő eljuttatása. Segítő kutyák képzésével, kutyás terápiával foglalkozó szakemberek képzése, továbbképzése, felnőttképzés, nevelés, oktatás továbbképzés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012711",
+      "régi_nyilvántartási_száma": "12711/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-09-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pintér",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hajdu",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Leczki",
+        "Képviselő keresztneve": "Sarolta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 906 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 586 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "319",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 110 533 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "161",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 568 003 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "918 452 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyák Határok Nélkül"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyák Határok Nélkül Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

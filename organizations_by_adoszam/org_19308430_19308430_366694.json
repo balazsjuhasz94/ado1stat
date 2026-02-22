@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19308430",
+  "scraped_at": "2026-02-14T12:24:57.596809",
+  "organization_id": "366694",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sissi Spánielmentő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Lomb utca 9. fszt/2.",
+      "adószám": "19308430-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-26",
+      "statisztikai_számjel": "19308430-9499-529-08",
+      "x_koordináta": "47.8692825",
+      "y_koordináta": "17.2588575"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "- Magyarország területén megtalálható spániel fajtájú elhagyott, kóborló vagy gazda, illetve más személy által leadott kutyák mielőbbi biztonságba helyezése és résükre új, gondos tulajdonos/gazda keresése; - a menhelyeken, gyepmesteri telepeken élő spánielek átvétele, annak érdekében, hogy átfogóbb egészségügyi és viselkedésbeli rehabilitációt kaphassanak és mihamarabb gazdihoz kerülhessenek; - segítse a felelős kutyatartás kialakítását, a kutyák felelős tartására vonatkozó oktatások szervezése, megtartása; - az Európai Unióban alkalmazott helyes kutyatartási rendszerek és módszerek támogatása, népszerűsítése Magyarország területén; - a mentett kutyák elsősorban az egyesületi tagok saját otthonában, ideiglenes befogadóknál, szükség esetén állatkórházban, -panzióban történő elhelyezése; - a mentett állatok orvosi ellátásáról, gyógyításáról való gondoskodás; - a mentett állatok fizikai és lelki gyógyításának elősegítése tagjai és az egyesület által megbízott személyek által, az állatok folyamatos gondozása, amíg gazdához nem kerülnek; - vészhelyzet esetén (pl. elütött, csapdába, életveszélyes, súlyos állapotba került állat vagy más sürgős esetben, stb.) a legjobb tudásuk szerinti közbenjárás és az állat megfelelő ellátáshoz, gondozóhelyhez, rehabilitációjához segítése; - a mentett kutyák, segítséget kérő személyek kutyáinak ivartalanításáról való gondoskodás; - azon honlapok folyamatos figyelemmel kísérése, amelyeken elveszett, talált, gazdát kereső spánielek megjelenhetnek; - az általa gondozott állatok jó egészségi állapotának, a fertőző megbetegedések megelőzésének rendszeres állatorvosi kontrollal és a védőoltások beadásával történő biztosítása; - lehetőséget kapjon, hogy ilyen formán forrásokat, eszközöket is szerezhessen a céljai elérése érdekében, legyen az pl. állatok orvosi ellátásra történő szállítása, elhelyezése, a szükséges orvosi beavatkozások, vizsgálatok, műtétek elvégeztetése, az egyesület tevékenységét népszerűsítő rendezvények lebonyolítása stb.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063256",
+      "régi_nyilvántartási_száma": "63256/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-07-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ábrahám",
+        "Képviselő keresztneve": "Lia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "603",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 786 580 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "573",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 263 406 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

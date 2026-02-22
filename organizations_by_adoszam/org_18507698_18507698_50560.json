@@ -1,0 +1,118 @@
+{
+  "search_adoszam": "18507698",
+  "scraped_at": "2026-02-21T13:13:17.912784",
+  "organization_id": "50560",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bajnokok Útja Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2335 Taksony, Bagoly utca 12/A.",
+      "x_koordináta": "47.3251105",
+      "y_koordináta": "19.0512866",
+      "adószám": "18507698-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-07-23",
+      "statisztikai_számjel": "18507698-8559-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "Ösztönözni a tanulókat az egészséges életmód, a mozgás, az egészség táplálkozás, a tudatos életvezetés kialakítására - motiválni a fiatalokat személyes tapasztalatok bemutatásával, hogy sose adják fel álmaikat, Higgyenek magukban, és ismerjék fel a bennük rejlő lehetőségeket, képességeket, melyeken keresztül megvalósíthatják céljaikat - megtanítani őket, hogyan állítsanak fel rövid és hosszú távú célokat maguk elé és hogyan érjék el azokat -bemutatni és népszerűsíteni az egészséges életmód alapjait, hogy beépülhessenek a gyerekek, a fiatalok, a később felnőtté válók mindennapjaiba,különös hangsúlyt fektetve a megelőzésre és az akadályok leküzdésére, ezáltal egy egészséges és tudatos társadalom építő köveivé váljanak .",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003581",
+      "régi_nyilvántartási_száma": "3581/2013",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2013-06-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács-Gajdács",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "49 099 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "36 711 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "59 329 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "52 549 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "60 920 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 708 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "437 949 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bajnokok Útja Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BAJNOKOK ÚTJA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BAJNOKOK ÚTJA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BAJNOKOK ÚTJA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BAJNOKOK ÚTJA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BAJNOKOK ÚTJA ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

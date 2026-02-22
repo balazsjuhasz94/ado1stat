@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19234711",
+  "scraped_at": "2026-02-14T14:32:58.161117",
+  "organization_id": "117435",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Melanoma Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7625 Pécs, Törekvés utca 14.",
+      "x_koordináta": "46.0816468",
+      "y_koordináta": "18.2388722",
+      "adószám": "19234711-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-03",
+      "statisztikai_számjel": "19234711-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Elsősorban: Javítani a melanoma-betegek esélyeit, helyzetét Magyarországi viszonylatban. A továbbiakban pedig adományokból származó támogatással: - Megelőzés; - Korai Felismerés; - Segítségnyújtás; - Edukálás; - Hazai és Nemzetközi Melanoma Konferenciák szervezése; - Nemzetközi Kapcsolatok kialakítása (betegszervezetekkel, szakemberekkel); - Betegtájékoztatás; - Kampány: “A rák nem tabu!”",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001901",
+      "régi_nyilvántartási_száma": "1901/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11731001-23124653-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szókovács-Vajda",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "688 014 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "689 042 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

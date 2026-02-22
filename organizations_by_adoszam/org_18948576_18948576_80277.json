@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "18948576",
+  "scraped_at": "2026-02-14T12:49:43.422058",
+  "organization_id": "80277",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "GYERMEKINTENZÍV ALAPÍTVÁNY „SEGÍTS, HOGY SEGÍTHESSÜNK”",
+      "rövid_név": "GYERMEKINTENZÍV ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4032 Debrecen, Nagyerdei körút 98.",
+      "x_koordináta": "47.5569536",
+      "y_koordináta": "21.6293564",
+      "adószám": "18948576-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-15",
+      "statisztikai_számjel": "18948576-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A Debreceni Egyetem Klinikai Központ Gyermekgyógyászati Klinikáján kezelt intenzív terápiát igénylő gyermekek egészségének visszanyerése érdekében - a rendelkezésre álló technikai eszközök fejlesztése, - a kutatási eredmények gyakorlati hasznosításának pénzügyi finanszírozása, - a laboratóriumi munka feltételeinek javítása, - a gyógyításban résztvevő személyek kongresszusi, egyéb szakmai, tudományos rendezvényen való részvételének támogatása, - a gyógyítással kapcsolatos kezelések elviselésének könnyítése érdekében az elhelyezési körülmények javítása, osztályrendezvények szervezése és segítése, illetve nyári táborok szervezése és azok költségeihez való hozzájárulás, sporttevékenységek szervezése és a rendezvények támogatása, - gyógykezelésük támogatása, - az anyagilag rászoruló terápiát igénylő gyermekek, illetve családjaik szociális támogatása, - a Debreceni Egyetem Klinikai Központ Gyermekgyógyászati Klinikán kezelt intenzív terápiát igénylő, gyermekek ellátásában résztvevő egészségügyi személyzet munkájának támogatása, - az elsősegélynyújtás és az alap- és emelt szintű újraélesztés megismertetése és technikájának oktatása gyerekeknek és pedagógusoknak (óvodák, iskolák), egészségügyi dolgozóknak -otthon lélegeztetett gyerekek és családjuk támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002216",
+      "régi_nyilvántartási_száma": "2216/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-12-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szikszay",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "Lilla",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "284",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 963 442 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "211",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 751 680 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "224",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 164 518 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18989669",
+  "scraped_at": "2026-02-14T13:31:53.254764",
+  "organization_id": "83533",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Közösen Összefogva Szolgálunk Egyesület",
+      "rövid_név": "KÖSZ Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2721 Pilis, Huba utca 33.",
+      "x_koordináta": "47.273933",
+      "y_koordináta": "19.536043",
+      "adószám": "18989669-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-04-19",
+      "statisztikai_számjel": "18989669-8899-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az egyesület célja, hogy működésével elősegítse elsősorban Pilis városában élő, hátrányos helyzetű családok támogatását. Továbbá közösségépítés, hogy a szolidaritás felélesztésével tudjunk a város lakói számára az élet számos területén segítséget nyújtani. További célunk helyi állatvédelem, környezet- és természetvédelem, ennek keretein belül szeretnénk formálni a lakosság állattartási kultúráját. Segítséget kívánunk nyújtani az elkóborolt állatok megtalálásához, a felelős állattartáshoz, a kóbor állatok biztonságba helyezéséhez a lakosság számára lehetőségeinkhez mérten. Lehetőségeink és a beérkezett adományok keretein belül segítünk a bajba jutott állatok orvosi ellátásában. Fontos számunkra a helyi természeti környezet védelme és a lakosok környezettudatosságának formálása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007430",
+      "régi_nyilvántartási_száma": "7430/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fehérváriné Velki",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 234 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "467 819 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "897 571 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "718 823 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 115 727 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Közösen Összefogva Szolgálunk Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Közösen Összefogva Szolgálunk Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

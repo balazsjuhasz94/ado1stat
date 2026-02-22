@@ -8,18 +8,13 @@ venv/
 env/
 *.egg-info/
 .pytest_cache/
+.ipynb_checkpoints/
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-*.json
-organizations_by_adoszam/
-*.txt
-!requirements.txt
-
-# Logs
-*.log
+# Folders not needed for dashboard
+notebooks/
+output/
+logs/
+organizations/
 
 # IDE
 .vscode/
@@ -30,13 +25,12 @@ organizations_by_adoszam/
 # OS
 .DS_Store
 Thumbs.db
+nul
 
-# API keys
-api.txt
+# Root-level junk (old scripts, temp files)
+*.ipynb
+*.log
 
-# Keep only HTML visualizations
-!index.html
-!sunburst_chart_ALL_5000_go.html
-!sunburst_chart_ALL_5000_go_salary.html
-!sunburst_chart_ALL_5000_go_interactive.html
-!map_visualization_ALL_5000_interactive.html
+# Keep everything needed for the dashboard
+!requirements.txt
+!projektrol.md

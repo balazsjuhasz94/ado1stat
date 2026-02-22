@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "19251950",
+  "scraped_at": "2026-02-14T12:28:16.228779",
+  "organization_id": "301344",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vince Együtt Velünk Közhasznú Egyesület",
+      "rövid_név": "VEV Közhasznú Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1124 Budapest, Zólyomi lépcső 17. 1./8.",
+      "adószám": "19251950-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-10",
+      "statisztikai_számjel": "19251950-8891-529-01",
+      "x_koordináta": "47.4895542",
+      "y_koordináta": "19.0126852"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a. Vince és a Vincéhez hasonló sorsú gyermekek számára a tudomány mai állása szerint szükséges és hatékony fejlesztési és kezelési módszerek biztosításának támogatása. b. Vince és a Vincéhez hasonló sorsú gyermekek családi integrációjának elősegítése. c. Az a. és a b. pontban megfogalmazott célok derűs lelkülettel való végrehajtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017431",
+      "régi_nyilvántartási_száma": "17431/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-05-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-15",
+      "alkalmazottak_száma": "6",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bálintné Őry",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szakolczai Sándorné Dr. Monos",
+        "Képviselő keresztneve": "Emese",
+        "Képviselő titulusa": "Klára",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szakolczai-Sándor",
+        "Képviselő keresztneve": "Kristóf",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "119",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 803 160 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "289",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 746 484 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

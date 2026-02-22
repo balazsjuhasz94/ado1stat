@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "18741609",
+  "scraped_at": "2026-02-14T13:12:16.446944",
+  "organization_id": "115363",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alkotó Élet Pedagógiai és Művelődési Egyesület",
+      "rövid_név": "Alkotó Élet Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1104 Budapest, Sibrik Miklós út 66-68.",
+      "x_koordináta": "47.473366",
+      "y_koordináta": "19.349572",
+      "adószám": "18741609-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-25",
+      "statisztikai_számjel": "18741609-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "(1) intézményes keretek biztosítása a gyermekek egészséges fejlődéséhez, neveléséhez és oktatásához a Rudolf Steiner által megalkotott Waldorf-pedagógia alapján, (2) a Waldorf-pedagógia módszereinek gyakorlati megvalósítása a köznevelésben, (3) a Waldorf-pedagógia értékeivel a magyar oktatás- és nevelésügy megújulásához való közvetlen hozzájárulás, (4) a Rudolf Steiner által kidolgozott Waldorf-pedagógia módszereinek, eredményeinek megismertetése és népszerűsítése, (5) olyan kulturális és oktatási tevékenység folytatása, mely az intézmények (Óvoda, Iskola) keretein belül támogatja az oktatási, pedagógiai programot.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016072",
+      "régi_nyilvántartási_száma": "16072/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-10-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gonda",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jászberényi",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "Attila",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 807 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "462 402 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "569 131 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 017 578 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 315 985 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 427 797 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alkotó Élet Pedagógiai és Művelődési Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alkotó Élet Pedagógiai és Művelődési Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alkotó Élet Pedagógiai és Művelődési Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

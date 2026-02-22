@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19050498",
+  "scraped_at": "2026-02-21T14:26:47.755010",
+  "organization_id": "87023",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cserháthalápi Hagyományőrző és Szabadidős Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2694 Cserháthaláp, Fő út 72.",
+      "x_koordináta": "47.979614",
+      "y_koordináta": "19.378903",
+      "adószám": "19050498-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-07-10",
+      "statisztikai_számjel": "19050498-9499-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesületünk célja a település múltjának megismertetése, átadása a jövő generációi számára, hogy azok tisztában legyenek lakhelyük történelmével, szokásaival, hagyományaival. A felnövekvő nemzedékben kívánjuk szülőföldjükhöz való ragaszkodásukat, a közösségükben vállalt társadalmi szerepvállalásukat, melynek eredményeképp biztosítjuk a magyarság, azon belül pedig a palóc népcsoport megmaradását. Egyesületünk minden korosztályt meg szeretne szólítani, elősegítve ezzel közösségünk erősítését, a generációkon átívelő kölcsönös tanítást, tapasztalatcserét. Szervesen együtt kívánunk működni a településen található többi civil szervezettel, társadalmi tömörüléssel. Biztosítani kívánjuk a helyi kulturális élet sokszínűségét, a tartalmas szabadidő eltöltését. Fontosnak tartjuk, hogy közvetlen környezetünk tiszta, rendezett és élhető legyen. Kiemelten kezeljük a környezetvédelmet.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0002105",
+      "régi_nyilvántartási_száma": "2105/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 014 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 921 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

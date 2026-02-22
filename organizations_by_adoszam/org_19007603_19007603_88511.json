@@ -1,0 +1,171 @@
+{
+  "search_adoszam": "19007603",
+  "scraped_at": "2026-02-21T14:02:07.694180",
+  "organization_id": "88511",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Gyógytornász-Fizioterapeuták Társasága",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1088 Budapest, Vas utca 17.",
+      "x_koordináta": "47.4935425",
+      "y_koordináta": "19.0666091",
+      "adószám": "19007603-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1989-06-16",
+      "statisztikai_számjel": "19007603-9412-736-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdekképviseleti tevékenység",
+      "céljának_leírása": "Az Egyesület célja -tagjaink szakmai ismereteit elmélyítsük, lépést tartva az orvostudomány és az egészségtudomány hazai és nemzetközi eredményeivel, -elősegítsük a tagok szakmai színvonalának emelését, alkotó munkájuk kibontatkozását, -az evidencián alapuló gyakorlatot figyelembe véve bemutassuk és megismertessük a hazai és nemzetközi gyakorlatban elfogadott és elterjedt fizioterápiás vizsgálati és kezelési módszereket és technikákat, -támogassuk a gyógytorna-fizioterapeuták tudományos kutatásait, -megismertessük hazánkban más társszakmák képviselőivel a gyógytorna-fizioterápia lehetőségeit és módszereit, -kapcsolatot tartsunk fenn a hazai szakmai társaságokkal, szakmai és civil szervezetekkel, -őrizzük a tagságunkat és képviseljük a hazai gyógytornász-fizioterapeutákat a világszövetségben (WCPT) és a világszövetség európai régiójában, -kapcsolat tartsunk fenn a nemzetközi szakmai társaságokkal szakmai és civil szervezetekkel, -védjük a gyógytorna-fizioterápia szakmai becsületét, őrködjünk tagjaink erkölcsi tekintélye felett, -aktívan részt vegyünk a hazai és nemzetközi közvélemény formálásában a tömegkommunikációs szervek és eszközök segítségével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0000179",
+      "régi_nyilvántartási_száma": "179/1989",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-01-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "211 737 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "186 226 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "198 013 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "199 696 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "199 530 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 209 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "199 486 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "321 118 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 739 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "332 916 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 131 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Gyógytornász-Fizioterapeuták Társasága"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "Magyar Gyógytornász-Fizioterapeuták Társasága",
+        "Év": "2022"
+      }
+    ]
+  },
+  "error": null
+}

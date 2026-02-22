@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19308856",
+  "scraped_at": "2026-02-14T14:20:38.000394",
+  "organization_id": "366717",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FÉSZEKLAKÓK KISVÁRDA EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4600 Kisvárda, Wesselényi utca 66.",
+      "adószám": "19308856-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-28",
+      "statisztikai_számjel": "19308856-9499-529-15",
+      "x_koordináta": "48.2216401",
+      "y_koordináta": "22.0734458"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Egészségmegőrzés, betegség megelőző, rehabilitációs, szabadidős, kulturális és rekreációs sporttevékenység elősegítése, valamint az egészséges életmód szemléletének kialakítása, fejlesztése érdekében programok szervezése, népszerűsítése, oktatása, gyakorlásához szakmai háttér biztosítása. Segíteni a fogyatékkal élők szakszerű, színvonalas ellátását, hogy képességeikhez mérten független és méltóságteljes életet élhessenek, életminőségük, testi és mentális állapotuk javítása, családjaik támogatása, felügyeletük szervezése, lakhatásuk támogatásának szervezése, társadalmi beilleszkedésük-, egyenjogúságuk érvényesítésének elősegítése, valamint pszichológiai, jogi és pedagógiai eszközökkel való segítésük.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004232",
+      "régi_nyilvántartási_száma": "4232/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-07-05",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Károlyné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "745 782 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

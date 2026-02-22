@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19240864",
+  "scraped_at": "2026-02-14T12:49:47.628412",
+  "organization_id": "122474",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Segítő Összefogás a Jövőért Alapítvány",
+      "rövid_név": "Segítő Összefogás Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4900 Fehérgyarmat, Sport utca 8.",
+      "x_koordináta": "47.7778343",
+      "y_koordináta": "19.9255039",
+      "adószám": "19240864-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-23",
+      "statisztikai_számjel": "19240864-9499-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "1. Fokozatosan felépítve az ország néhány területi egységén (maximum 4 megye) kialakítsa segítő hálózatát. Elsőként Heves megyében, a gyöngyösi járásban, ezt követően Szabolcs-Szatmár-Bereg megyében a fehérgyarmati járásban megkezdve a tevékenységét, mely során: - a rögzített tevékenységei végzése mellett összefogja és koordinálja az egyes működési területein azokat a civil szervezeteket, akik alapítványunkhoz hasonló tevékenységi körrel rendelkeznek, növelve ezzel a feladatok hatékonyabb elvégzését, -együttműködéseket alakítson ki, közös programokat szervezzen a társadalmi felelősségvállalást előtérbe helyező vállalkozásokkal, alapozva a civil és vállalkozói szféra egyedi erősségeire, - a tapasztaltabb, idősebb önkéntesek mellett bevonja a fiatalabb generációt - a kötelező iskolai közösségi szolgálatok mellett - a közérdekű önkéntes munkába is, ezáltal lehetőséget biztosítson a különböző korosztályok között a tapasztalatok átadására, - innovatív társadalmi vállalkozási tevékenység (köztük környezettudatos szociális bolt, újrahsznosított termékek előállítása mentorált foglalkoztatás keretében) elindítása, mely során lehetőség van a hátrányos helyzetben élő személyek támogató környezetben való foglalkoztatására, a munkaerőpiacra történő beintegrálásárá, illetve ez a tevékenység hozzájárul a szervezet pénzügyi alapjainak stabilitásához. Célunk, hogy jó gyakorlatok tapasztalataira alapozva bővítsük a további működési területeket. 2. Adományosztó szervezetként támogatásokat nyújtson, megteremtse ennek pénzügyi alapjait. 3. Az eltérő adottságú és gazdasági fejlettségű működési területein a jelen alapító okiratban felsorolt feladatok végzése mellet összehangolja az adott térségek lehetőségeit és igényeit azáltal, hogy a fejlettebb térségekben nagyobb a segítő, adakozási készség (humán felkészültségben, tárgyi és pénzügyi vonatkozásban egyaránt), a hátrányosabb térségben pedig az ilyen jellegű segítségre nagyobb igény mutatkozik. 4. Mint civil koordinációt is betöltő szervezet, a tevékenység végzése során szerzett tapasztalatait megossza az önkormányzati és állami közigazgatási rendszerrel és szakmai véleményével, tapasztalatával hozzájáruljon az adott települések fejlesztési és feladatellátási koncepcióinak (kiemelten esélyteremtési terület) kidolgozásához.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001202",
+      "régi_nyilvántartási_száma": "1202/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-04",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11739030-23919741",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csernyi",
+        "Képviselő keresztneve": "Erzsébet",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "3811",
+        "Leírás": "Nem veszélyes hulladék gyűjtése"
+      },
+      {
+        "Kód": "3821",
+        "Leírás": "Nem veszélyes hulladék kezelése, ártalmatlanítása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "835 002 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "284",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 163 094 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

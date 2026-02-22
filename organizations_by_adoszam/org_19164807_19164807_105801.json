@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19164807",
+  "scraped_at": "2026-02-14T14:52:20.400109",
+  "organization_id": "105801",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "AMENDE Cserdi Cigány Gyerekek Tanulásáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Máramaros út 64/a.",
+      "x_koordináta": "47.5489941",
+      "y_koordináta": "19.0146779",
+      "adószám": "19164807-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-12",
+      "statisztikai_számjel": "19164807-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Cserdi településen lakóhellyel vagy tartózkodási hellyel rendelkező gyermekek számára iskolázási, iskolába járási költségekhez hozzájárulás céljából pénzbeli támogatás nyújtása, amennyiben családjuk csekély anyagi teherbíró képessége a gyermek iskolába járását, tanulmányai folytatását veszélyezteti.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012807",
+      "régi_nyilvántartási_száma": "12807/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-05-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Etelközi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "György",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "421 664 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "485 034 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "619 520 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

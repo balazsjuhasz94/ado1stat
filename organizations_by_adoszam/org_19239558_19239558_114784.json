@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19239558",
+  "scraped_at": "2026-02-21T13:29:14.845136",
+  "organization_id": "114784",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szadai Czibere Hagyományőrző Egyesület",
+      "rövid_név": "CZIHE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2111 Szada, Szabadság utca 28.",
+      "x_koordináta": "47.6417233",
+      "y_koordináta": "19.3097165",
+      "adószám": "19239558-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-14",
+      "statisztikai_számjel": "19239558-9020-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Hagyományőrző kulturális tevékenység.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007817",
+      "régi_nyilvántartási_száma": "7817/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bajkai",
+        "Képviselő keresztneve": "Laura",
+        "Képviselő titulusa": "Barbara",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "404 456 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

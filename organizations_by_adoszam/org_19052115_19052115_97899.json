@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "19052115",
+  "scraped_at": "2026-02-14T12:35:56.740589",
+  "organization_id": "97899",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KUTYMORGÓK A RÁSZORULÓ ÁLLATOKÉRT EGYESÜLET",
+      "rövid_név": "KUTYMORGÓK EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9028 Győr, Vak Bottyán utca 28.",
+      "x_koordináta": "47.6789013",
+      "y_koordináta": "17.6409694",
+      "adószám": "19052115-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-08-03",
+      "statisztikai_számjel": "19052115-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelmi tevékenység és a kidobott, gazdátlan állatok létszámának csökkentése, elsősorban a túlszaporodást megelőző orvosi beavatkozás, az ivartalanítás támogatásával. Az állattartási kultúra javítása, felvilágosítással, tanácsadással, oktatással. Szociálisan rászoruló állattartók támogatása állat-jóléti és – egészségügyi szempontból. Állatvédelmi törvény előírásainak ismertetése, terjesztése, az előírt állattartási feltételek betartásának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063028",
+      "régi_nyilvántartási_száma": "63028/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-11-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bódis-Mező",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Somlyay-Vass",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "219",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 481 826 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "195",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 649 703 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "296",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 488 418 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "348",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 208 544 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "301",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 266 937 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KUTYMORGÓK A RÁSZORULÓ ÁLLATOKÉRT EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KUTYMORGÓK A RÁSZORULÓ ÁLLATOKÉRT EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

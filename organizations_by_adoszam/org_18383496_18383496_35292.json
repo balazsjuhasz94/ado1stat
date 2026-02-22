@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "18383496",
+  "scraped_at": "2026-02-14T13:51:22.020496",
+  "organization_id": "35292",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kondorosi Kézilabda Klub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5553 Kondoros, Hősök tere 3.",
+      "x_koordináta": "46.7593169",
+      "y_koordináta": "20.7948137",
+      "adószám": "18383496-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-09-13",
+      "statisztikai_számjel": "18383496-9319-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Tagok érdekképviselete, a sportág népszerűsítése, sportfelszerelések biztosítása, versenyeztetés, sportrendezvények szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0001840",
+      "régi_nyilvántartási_száma": "1840/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kasnyik",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "145",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "853 273 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "852 197 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "922 392 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

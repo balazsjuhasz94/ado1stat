@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19039365",
+  "scraped_at": "2026-02-21T13:11:33.288808",
+  "organization_id": "108493",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BASKETBAJA Utánpótlás Nevelő Sportegyesület",
+      "rövid_név": "BASKETBAJA SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6500 Baja, Muskátli utca 24.",
+      "x_koordináta": "46.1873261",
+      "y_koordináta": "18.956054",
+      "adószám": "19039365-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1988-09-01",
+      "statisztikai_számjel": "19039365-9319-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az Egyesület olyan sporttal és oktatással foglalkozó non-profit társadalmi szervezet, amely céljául tűzte ki elsősorban a fiatalkorúak sportra, egészséges életre nevelését, annak feltételeinek megteremtését, a fejlesztések elősegítését. Kiemelt célja Baja város és térsége kosárlabda igényeinek felmérése, kielégítése, a tömegsport és minőségi versenysport szervezése, feltételeinek biztosítása, jó sporthagyományok ápolása, utánpótlás nevelés és tehetséggondozás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0000144",
+      "régi_nyilvántartási_száma": "144/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-29",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csanyik",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "363 467 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "142 451 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "441 825 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

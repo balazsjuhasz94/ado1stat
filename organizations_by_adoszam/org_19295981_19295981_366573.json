@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19295981",
+  "scraped_at": "2026-02-14T12:18:45.685572",
+  "organization_id": "366573",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gazdátlan Kölykök - Kölyökmentő Alapítvány",
+      "rövid_név": "Gazdátlan Kölykök Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1171 Budapest, Toldi Miklós utca 92.",
+      "adószám": "19295981-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-18",
+      "statisztikai_számjel": "19295981-9499-569-01",
+      "x_koordináta": "47.4829611",
+      "y_koordináta": "19.2972599"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja a gazdátlan kutyák életének segítése, e körben az elkóborolt, kidobott kutyák menhelyre és végül megfelelő állatszerető gazdához juttatása, a gyepmesteri telepeken (sintértelepeken) befogott, elhelyezett kidobott, sérült kutyák biztonságba helyezése, gyógyítása, mentése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013059",
+      "régi_nyilvántartási_száma": "13059/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-08",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-19",
+      "bankszámlaszám": "10700378-72315156-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Kinga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1284",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 350 115 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

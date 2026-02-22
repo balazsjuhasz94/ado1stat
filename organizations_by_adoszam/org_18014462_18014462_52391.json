@@ -1,0 +1,172 @@
+{
+  "search_adoszam": "18014462",
+  "scraped_at": "2026-02-14T12:49:51.813588",
+  "organization_id": "52391",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Magyar Orvosokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1068 Budapest, Szondi utca 100.",
+      "x_koordináta": "47.5159913",
+      "y_koordináta": "19.0743011",
+      "adószám": "18014462-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-06-01",
+      "statisztikai_számjel": "18014462-9412-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "a) az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók (a továbbiakban együtt: kedvezményezettek) szakmai, etikai, gazdasági, szociális és jogi érdekei érvényesítésének támogatása, informatikai háttér biztosítása, b)az orvosi, fogorvosi, egészségügyi diplomás tevékenység feltételeinek, a képzési továbbképzési, szakképzési rendszer követelményei kidolgozásának elősegítése, c)a kedvezményezettek hazai, ill. külföldi konferenciákon való részvételének elősegítése, d)a kedvezményezettek részére további szakképzés megszerzése, illetve továbbképzések támogatása. e)az önhibájukon kívül munkanélkülivé váló kedvezményezettek és családtagjaik támogatása, f)rászorultság esetén az elhunyt kedvezményezettek családjainak támogatása, g)nyugdíjas kedvezményezettek és családtagjaik támogatása rászorultság esetén. Az alapítvány további céljai: a)az olyan nyugdíjas kedvezményezettek támogatása, akik nyugdíjukat jelentősen megterhelő gyógykezelésre szorulnak, b)Az elhunyt kedvezményezett családtagjainak temetési segélyben részesítése, c)A kedvezményezettek kulturális és sporttevékenységének elősegítése, versenyek, szabadidős programok szervezésének, rendezésének támogatása. d)egészségügyi humanitárius tevékenység támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0003072",
+      "régi_nyilvántartási_száma": "3072/1992",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-03-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Altorjay",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "2029-06-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "394 296 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "329 948 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "265",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 599 656 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "205",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 209 239 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "319",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 277 819 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "298",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 329 532 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "256",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 360 162 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "159",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 960 151 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "118",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 075 418 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 509 393 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 183 927 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 214 041 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Magyar Orvosokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

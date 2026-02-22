@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19310936",
+  "scraped_at": "2026-02-21T14:26:22.542984",
+  "organization_id": "366857",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dream to Reality Alapítvány a Fenntarthatóságért",
+      "rövid_név": "D2R Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1031 Budapest, Záhony utca 7.",
+      "adószám": "19310936-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-07",
+      "statisztikai_számjel": "19310936-9499-569-01",
+      "x_koordináta": "47.5726359",
+      "y_koordináta": "19.0462898"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány kizárólag és közvetlenül közhasznú és jótékony célokat szolgál. Az alapítvány célja a nevelés előmozdítása, a felnőttoktatás és a szakképzés, beleértve a tanulók segítését, a környezetvédelem ezen belül a klímavédelem és a jótékonysági célok. Ezek az alábbiak: a fenntarthatósággal, környezeti regenerációval és biodiverzitással kapcsolatos kezdeményezések és célok támogatása, különös tekintettel gyermekek és felnőttek oktatásán, szemléletformálásán, illetve oktatásszervezéssel és gyermekétkeztetéssel összefüggő feladatok ellátásán keresztül, belföldön és külföldön egyaránt. A biodiverzitással kapcsolatos cél többek között a környezeti regeneráció, az újra-vadonosítás, illetve az organikus, permakulturális, biodinamikus és egyéb természetes növénytermesztéssel kapcsolatos tevékenységek támogatása, előmozdítása. További célok a tehetséggondozás és az esélyegyenlőség megteremtésének segítése az oktatásban, illetve a gyermek és ifjúsági művészeti, tudományos és vállalkozói szemléletet és készségeket építő kezdeményezések, a fenntartható életmóddal, növénytermesztéssel és táplálkozással kapcsolatos szemléletformálás és nemzetközi együttműködések támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013179",
+      "régi_nyilvántartási_száma": "13179/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-08-31",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11712073-21460014",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Baráth",
+        "Képviselő keresztneve": "Barna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "170 193 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 705 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

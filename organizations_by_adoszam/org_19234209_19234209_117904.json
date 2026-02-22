@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19234209",
+  "scraped_at": "2026-02-14T12:24:55.495739",
+  "organization_id": "117904",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Második Esély Mopszmentő Egyesület",
+      "rövid_név": "M.E.M.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6762 Sándorfalva, Temesvári utca 29.",
+      "x_koordináta": "46.353333",
+      "y_koordináta": "20.115648",
+      "adószám": "19234209-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-27",
+      "statisztikai_számjel": "19234209-9499-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Segítséget nyújtani a rászoruló, elhagyott, veszélyeztetett vagy gazdátlan mopsz fajtájú kutyák, valamint – a kapacitások függvényében – más fajtájú kutyák és macskák számára, különös tekintettel egészségi, szociális vagy tartási problémáikra. Menhely és gondozóhely kialakítása és működtetése, ahol a mopszok, továbbá más kutyák és macskák ideiglenes elhelyezése, ellátása, rehabilitációja, egészségügyi kezelése és felkészítése történik felelős örökbefogadásra. Állatvédelmi prevenciós és edukációs tevékenység folytatása, kiemelten a mopsz fajtájú kutyákat érintően. Tanácsadás nyújtása a mopszok, valamint bármely fajtájú kutyák és macskák helyes tartásával, szocializációjával és gondozásával kapcsolatban. Kölcsönös segítség biztosítása a tagok részére a felelős állattartással, neveléssel, képzéssel és az állatokkal kapcsolatos mindennapi teendőkkel összefüggésben. A mopsz fajtájú kutyák népszerűsítése, társadalmi elfogadottságuk és felelős tartásuk elősegítése. Környezet- és természetvédelmi tevékenység végzése, különös tekintettel az állatvédelmi szempontokra. Állatvédelmi, kutyás és macskás tematikájú előadások, tréningek, rendezvények, örökbefogadói napok és szakmai programok szervezése és megtartása. A felelős állattartási és állatvédelmi szemlélet széleskörű terjesztése a társadalomban, különös tekintettel az oktatásra, kommunikációra, médiamegjelenésekre és közösségi programokra.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003433",
+      "régi_nyilvántartási_száma": "3433/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-22",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-04",
+      "bankszámlaszám": "10401268-50526965-86871004",
+      "számlavezető_pénzintézet_neve": "Kerekedelmi és Hitelbank Zártkörűen Működő Részvénytársaság"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "Erzsébet",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "548",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 787 815 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "610",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 623 023 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "667",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 287 858 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

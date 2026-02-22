@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "18870190",
+  "scraped_at": "2026-02-14T12:38:44.595805",
+  "organization_id": "89745",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rénó Kutyaotthon Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6045 Ladánybene, Pálinkás dűlő 54-1.",
+      "x_koordináta": "47.0517357",
+      "y_koordináta": "19.4309944",
+      "adószám": "18870190-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-10",
+      "statisztikai_számjel": "18870190-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A környékbeli kóbor ebek befogadásával, őrzésével, értékesítésével, örökbe adásával egy új, jobb élet biztosítása. Az emberre egészségügyi szempontból veszélyes, valamint az állatállomány egészségét veszélyeztető betegség tüneteit mutató vagy betegségre gyanús állatok gyógyítása. A befogadott állatok ivartalanítása, oltása, chipezése. Természetvédelem, környezetvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002559",
+      "régi_nyilvántartási_száma": "2559/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-09-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Koczkáné Ronkai",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "Erzsébet",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "350",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 323 335 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "305",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 614 762 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "316",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 979 720 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

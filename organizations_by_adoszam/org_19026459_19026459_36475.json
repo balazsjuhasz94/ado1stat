@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19026459",
+  "scraped_at": "2026-02-21T14:06:33.688482",
+  "organization_id": "36475",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SZENTLŐRINCI KÉZILABDA SPORTEGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7940 Szentlőrinc, Ifjúság utca 5.",
+      "x_koordináta": "46.040619",
+      "y_koordináta": "17.9946759",
+      "adószám": "19026459-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1987-01-01",
+      "statisztikai_számjel": "19026459-9312-521-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A kézilabda népszerűsítése és támogatása Szentlőrincen és környékén. Bajnoki és kupamérkőzéseken, kézilabda tornákon Szentlőrinc városát képviselni. Szervezni Szentlőrinc kézilabda életét, elősegíteni fejlődését, tehetséges fiatalokat felkutatni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0000264",
+      "régi_nyilvántartási_száma": "264/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-07-23",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Veszprémi",
+        "Képviselő keresztneve": "Zsanett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "134",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "323 438 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "154 565 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "247 015 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "345 314 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "339 913 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ifjúság úti Diák Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szentlőrinci Kézilabda Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

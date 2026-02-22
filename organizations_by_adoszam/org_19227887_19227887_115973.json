@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19227887",
+  "scraped_at": "2026-02-21T13:23:59.506505",
+  "organization_id": "115973",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bodonyi Nándor utcai Iskola Diákjaiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7960 Sellye, Kölcsey utca 10.",
+      "x_koordináta": "45.878288",
+      "y_koordináta": "17.855692",
+      "adószám": "19227887-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-10",
+      "statisztikai_számjel": "19227887-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A sellyei Kiss Géza Általános Iskola és Zenei Alapfokú Művészeti Iskola diákjainak az alapítói vagyoni hozzájáruláson túl elsősorban támogatások és pályázati források megszerzése útján biztosított tehetséggondozása, fejlesztése főként a tanulmányi, művészeti, sport és kultúra területein, ezen tevékenységének támogatása a költségekhez való hozzájárulással illetőleg ezek átvállalásával, valamint az oktatók költségeinek támogatásával, átvállalásával és szakmai konferenciákon való részvételi lehetőségek támogatásával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001896",
+      "régi_nyilvántartási_száma": "1896/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11731128-23153343-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Märczné Horváth",
+        "Képviselő keresztneve": "Ibolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "235 380 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "414 292 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

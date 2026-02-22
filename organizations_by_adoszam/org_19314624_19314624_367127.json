@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19314624",
+  "scraped_at": "2026-02-14T15:06:06.952714",
+  "organization_id": "367127",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szép Karácsony Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6771 Szeged, Nyárfa utca 4.",
+      "adószám": "19314624-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-02",
+      "statisztikai_számjel": "19314624-9329-569-06",
+      "x_koordináta": "46.1711653",
+      "y_koordináta": "20.2362437"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja a Magyarország területén élő hátrányos helyzetű családok és gyermekek számára az egyházi és nemzeti ünnepek megfelelő minőségű megünneplésének megsegítése, ezáltal az ilyen gyermekek szívében rejlő ünnepi varázslat és hit megőrzésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001758",
+      "régi_nyilvántartási_száma": "1758/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-04-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-96490099",
+      "számlavezető_pénzintézet_neve": "ERSTE BANK HUNGARY Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Barna",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Krisztián",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "83",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "479 905 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "584 074 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

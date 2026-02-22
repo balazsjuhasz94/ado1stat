@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19325064",
+  "scraped_at": "2026-02-14T14:20:56.464885",
+  "organization_id": "367991",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Segíts Harcolni a Niemann-Pick Szindrómával Szemben Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5310 Kisújszállás, Sásastó utca 27.",
+      "adószám": "19325064-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-28",
+      "statisztikai_számjel": "19325064-9499-569-16",
+      "x_koordináta": "47.2011327",
+      "y_koordináta": "20.768252"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A súlyosan beteg Oláh Nóra Tímea (születési neve: Oláh Nóra Tímea, születési ideje: 2022. február 24., születési helye: Karcag, anyja neve: Bugyik Tímea, lakcíme: 5310 Kisújszállás, Sásastó utca 27. szám) Niemann-pick szindrómában szenvedő gyermek gyógyítása és kórházi tartózkodási feltételeinek javítása, ennek finanszírozása, valamint a gyermek érdekeit, szellemi és testi fejlődésének elősegítésére is kiterjed jelen okirat bejegyzésétől.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-01-0001279",
+      "régi_nyilvántartási_száma": "1279/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dr. Kuiné Nagy",
+        "Képviselő keresztneve": "Borbála",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "763 160 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "18757790",
+  "scraped_at": "2026-02-21T13:23:07.880931",
+  "organization_id": "87892",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ÁRRAL SZEMBEN A JÖVŐÉRT Alapítvány",
+      "rövid_név": "ÁRRAL SZEMBEN Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1106 Budapest, Gyakorló utca 4/D fsz./3.",
+      "x_koordináta": "47.3608022",
+      "y_koordináta": "18.9703801",
+      "adószám": "18757790-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-08-30",
+      "statisztikai_számjel": "18757790-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A szenvedélybetegek számának csökkentése, valamint a korai iskolaelhagyás, deviáns magatartás megelőzése érdekében fiatalok körében felvilágosító, prevenciós tevékenységek megszervezésén és előadásokon keresztül nyújtson segítséget, mérsékelve ezáltal az egyéni és társadalmi károkat. A már drog és más függőségek rabjává vált fiatalok segítése, ösztönzése arra, hogy másik utat válasszanak, szükség esetén „szembe menjenek” a baráti elvárásokkal vagy akár családi háttérrel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001822",
+      "régi_nyilvántartási_száma": "1822/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-29",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Márk",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "Norbert",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "153 468 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "204 970 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 237 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 011 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "416 236 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Árral szemben Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Árral szemben a jövőért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Árral Szember a jövőért Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "ÁRRAL SZEMBEN A JÖVŐÉRT Alapítvány",
+        "Év": "2023"
+      }
+    ]
+  },
+  "error": null
+}

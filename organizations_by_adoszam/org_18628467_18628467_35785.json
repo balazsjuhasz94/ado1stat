@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18628467",
+  "scraped_at": "2026-02-21T14:09:37.612477",
+  "organization_id": "35785",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mórahalmi Judo Sportegyesület",
+      "rövid_név": "Móralami Judo SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6782 Mórahalom, Röszkei út 21.",
+      "x_koordináta": "46.214134",
+      "y_koordináta": "19.8902447",
+      "adószám": "18628467-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-03-13",
+      "statisztikai_számjel": "18628467-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A Judo (cselgáncs) sport iránt érdeklődők amatőr és hivatásos szintű sportolási lehetőségének biztosítása. Különböző szabadidősport-tevékenységek szervezése és bonyolítása. Az Egyesület tagjai, sportolói és más kívülálló személyek részére sportolási, edzési és versenyzési lehetőség megteremtésének, anyagi támogatásának biztosítása, illetőleg ennek érdekében szponzorok felkutatása. A sportolási lehetőség megteremtése érdekében felvállalja, hogy népszerűsíti a Judo (cselgáncs) sportágat, segít, valamint részt vesz amatőr versenyek szervezésében. Tevékenysége keretében a sportszerű életmód, az öntevékeny, közösségi és versenyszellem kialakítása, valamint az utánpótlás nevelése is alapvető célként jelentkezik. Az Egyesület további célja a hasonló jellegű hazai és nemzetközi eseményeken való részvétel lehetőségét, és a részvétel feltételeit tagjai számára biztosítsa, tovább sportkapcsolatokat létesítsen és fejlesszen.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003071",
+      "régi_nyilvántartási_száma": "3071/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-11",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csiszár",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "79 877 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "88 962 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "302 105 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "319 289 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 561 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mórahalmi Judo Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mórahalmi Judo Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

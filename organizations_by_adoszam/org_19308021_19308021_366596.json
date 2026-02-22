@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19308021",
+  "scraped_at": "2026-02-14T13:38:31.802121",
+  "organization_id": "366596",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "AdOM Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2370 Dabas, Szent István út 49.",
+      "adószám": "19308021-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-13",
+      "statisztikai_számjel": "19308021-8899-569-13",
+      "x_koordináta": "47.1761814",
+      "y_koordináta": "19.2615883"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Segítők és segítségre szorulók közötti kapcsolat megteremtése. Pszichés vagy testi károsodást szenvedett személyek, időskorúak életfeltételeinek javításában való közreműködés, testi-lelki rehabilitáció elősegítése, család segítése, szociális felzárkóztatás, társadalmi egyenlőtlenségek kiküszöbölésében való közreműködés, hátrányos helyzetű családok életvezetése, jogi segítségnyújtás biztosítása, hátrányos helyzetű fiatalok pályakezdésének, tanulmányainak elősegítése, korrepetálása, képességfejlesztése, tartós betegséggel vagy fogyatékossággal élő gyermekek, valamint őket nevelő szüleik megsegítése, egyedül álló nehéz sorsú anyák, munkaerő piacon hátrányban lévő személyek megsegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004203",
+      "régi_nyilvántartási_száma": "4203/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10103829-01P07695595",
+      "számlavezető_pénzintézet_neve": "Budapest Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdélyi",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Volenszki",
+        "Képviselő keresztneve": "Lilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hargitainé Csendes",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "664 707 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 042 519 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

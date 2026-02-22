@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19167037",
+  "scraped_at": "2026-02-21T14:08:52.535738",
+  "organization_id": "107979",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Slnečnice Kulturális Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6323 Dunaegyháza, Hajnóczy József utca 4.",
+      "x_koordináta": "46.8401002",
+      "y_koordináta": "18.963214",
+      "adószám": "19167037-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-08-28",
+      "statisztikai_számjel": "19167037-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyarországi szlovák nemzetiséghez köthető kulturális, szellemi értékek, javak megőrzése, terjesztése, továbbörökítése. Kulturális, hagyományőrző tevékenység. A magyarországi szlovák nemzetiséggel kapcsolatos tevékenység. Tudományos tevékenység, kutatás, ismeretterjesztés. Nevelés-oktatás, képességfejlesztés, tehetséggondozás. A Slnečnice Tánccsoport működésének segítése, a tánccsoport részére ruházat biztosítása a fellépések alkalmával. A szabadidő hasznos eltöltése, a kulturális szórakozás megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003794",
+      "régi_nyilvántartási_száma": "3794/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sebők",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Türmerné Szeremi",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "187 186 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "198 620 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 688 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 574 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Slnecnice Kulturális Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

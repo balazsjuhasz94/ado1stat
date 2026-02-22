@@ -1,0 +1,139 @@
+{
+  "search_adoszam": "18625880",
+  "scraped_at": "2026-02-14T12:15:50.744590",
+  "organization_id": "106508",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Utcáról Lakásba! Egyesület",
+      "rövid_név": "ULE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1076 Budapest, Thököly út 21.",
+      "x_koordináta": "47.4889585",
+      "y_koordináta": "19.0829722",
+      "adószám": "18625880-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-09-05",
+      "statisztikai_számjel": "18625880-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Célunk, hogy minél több közterületen élő hajléktalan ember költözhessen szociális bérlakásba, és ezt innovatív lakáspolitikai eszközök bevezetésével és támogatásával segítsük elő. Célunk még, hogy a különösen sérülékeny célcsoportok tagjait, így a pszichiátriai betegek, fogyatékos érintettek, függőségből felépülők, és gyermekes szülők lakhatását kiemelten támogassuk. Végül, célunk az elsőként lakhatást módszer hazai bevezetésében való aktív részvétel, a módszer elemeinek alkalmazása a hazai jogszabályi keretek közt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015604",
+      "régi_nyilvántartási_száma": "15604/2014",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2017-07-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-30",
+      "alkalmazottak_száma": "27",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bende",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Vera",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "45 961 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "157",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "861 760 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "259",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 531 964 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "319",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 306 152 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "510",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 244 686 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "570",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 274 295 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "693",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 932 524 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1452",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "16 072 905 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2019",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "23 310 814 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcáról Lakásba! Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcáról Lakásba! Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcáról Lakásba! Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcáról Lakásba! Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcáról Lakásba! Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Utcáról Lakásba! Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

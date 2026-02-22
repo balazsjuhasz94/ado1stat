@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19293161",
+  "scraped_at": "2026-02-14T14:45:29.555873",
+  "organization_id": "365522",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "X-AID Bikers Egyesület",
+      "rövid_név": "X-AID",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9400 Sopron, Frankenburg út 9. I/4.",
+      "adószám": "19293161-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-20",
+      "statisztikai_számjel": "19293161-8559-529-08",
+      "x_koordináta": "47.6935024",
+      "y_koordináta": "16.5897441"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az X-AID Bikers Egyesület alapvető célja, a közlekedési balesetekben megsérültek helyszíni ellátásának javítása, amelyet a motoron közlekedők magas színvonalú és motiváló elsősegélynyújtás oktatásával szeretnénk elérni. Olyan laikus motorosok képzése, akik baleset esetén pszichikailag és szakmailag is alkalmasak lesznek arra, önállóan megkezdjék az első ellátást, egy baleset helyszínén a mentő kiérkezése előtt. Ezzel a tevékenységünkkel szeretnénk javítani a motoros kultúra megítélését. A képzett tanulóinkkal a továbbiakban célunk a kapcsolattartás, szakmai ismeretterjesztés, ismétlő képzések tartása, gyűlések, rendezvények keretében. Egyesület tagja, egészségügyi szakdolgozók és orvosokból áll, célunk azt is, hogy tudásunkat, sürgősségi ellátás terén szerzett tapasztalatunkat egy egységben hasznosítsuk szakértésben, humán erőforrás biztosításában egészségügyi szolgáltatók, egészségügyi oktatással foglalkozó intézmények részére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063216",
+      "régi_nyilvántartási_száma": "63216/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-25",
+      "bankszámlaszám": "10103874-66321600-01005000",
+      "számlavezető_pénzintézet_neve": "MBH Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bognár",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "533 879 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "642 246 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

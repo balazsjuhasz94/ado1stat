@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19295091",
+  "scraped_at": "2026-02-14T14:50:41.686685",
+  "organization_id": "365687",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Herédi Iskolás Gyerekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3011 Heréd, Vörösmarty tér 1.",
+      "adószám": "19295091-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-08",
+      "statisztikai_számjel": "19295091-8412-569-10",
+      "x_koordináta": "47.7144057",
+      "y_koordináta": "19.6460896"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja, hogy elősegítse az általános iskolai oktatás és nevelés színvonalának emelését, a tanulók harmonikus szellemi és fizikai fejlődését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001214",
+      "régi_nyilvántartási_száma": "1214/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-06-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-24"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnárné Sándor",
+        "Képviselő keresztneve": "Enikő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "718 036 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "624 796 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

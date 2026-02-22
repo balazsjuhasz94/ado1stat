@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18787900",
+  "scraped_at": "2026-02-21T14:33:07.788986",
+  "organization_id": "104824",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cukorbeteg Egyesületek Országos Szövetsége",
+      "rövid_név": "CEOSZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1116 Budapest, Fehérvári út 108-112.",
+      "x_koordináta": "47.459782",
+      "y_koordináta": "19.041617",
+      "adószám": "18787900-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-06",
+      "statisztikai_számjel": "18787900-9412-517-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdek-képviseleti tevékenység (pl. vállalkozói érdekképviselet, munkavállalói érdekképviselet, szakmai érdekképviselet)",
+      "céljának_leírása": "A Szövetség céljának megfelelően a cukorbeteg tagszervezetek munkájának elősegítése, rendezvények, konferenciák, tanfolyamok szervezése, kapcsolatok létesítése és fenntartása állami és társadalmi szervezetekkel, valamint egészségügyi vagy a betegek érdekképviseletét végző szövetségekkel, egyesületekkel, intézményekkel és magánszemélyekkel. A Szövetség segíti és szervezi a betegek képzését, támogatja a cukorbetegek ügyét szolgáló egészségügyi tevékenységeket. Érdekképviseletet biztosít a Szövetség tagjai és a cukorbetegek számára. Együttműködik minden olyan magyarországi és külföldi szervezettel, amely a cukorbetegek érdekében tevékenykedik.Segíti a cukorbeteg gondozás színvonalának és hatékonyságának növelését, a későbbi szövődmények kialakulásának megelőzését.A Szövetség részt vesz a diabétesz megelőzésével kapcsolatos egészségnevelő felvilágosító tevékenységekben, kampányokban. A Szövetség tagjai részére a hátrányos helyzet csökkentése érdekében –gyógyszerek, eszközök, diétás élelmiszerek, készítmények beszerzésének elősegítése, megkönnyítése, esetleg kedvezmények biztosításával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016258",
+      "régi_nyilvántartási_száma": "16258/2016",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-04-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-24",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Füzesi",
+        "Képviselő keresztneve": "Brigitta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 669 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "241 371 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "473 231 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 622 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "302 899 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cukorbeteg Egyesületek Országos Szövetsége"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cukorbeteg Egyesületek Országos Szövetsége"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

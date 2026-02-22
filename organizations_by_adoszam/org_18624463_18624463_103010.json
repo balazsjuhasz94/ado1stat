@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "18624463",
+  "scraped_at": "2026-02-14T12:59:15.454831",
+  "organization_id": "103010",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyarok Kenyere Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7728 Somberek, Arany János utca 4.",
+      "x_koordináta": "46.0747135",
+      "y_koordináta": "18.6620344",
+      "adószám": "18624463-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-12-19",
+      "statisztikai_számjel": "18624463-8899-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Célja: A kárpátmedence magyarok lakta területeiről jelentős mennyiségű búzát összegyűjteni és ezt összeőrölve jótékonysági célból kenyeret sütni, amelynek bevételéből az erdélyi és pécsi árva gyermekeket segíteni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001791",
+      "régi_nyilvántartási_száma": "1791/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-06-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-05-07",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rittlinger",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "603 061 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "832 826 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "766 553 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 000 128 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 746 200 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyarok Kenyere Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyarok Kenyere Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

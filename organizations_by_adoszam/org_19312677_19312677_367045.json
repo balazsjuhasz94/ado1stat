@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19312677",
+  "scraped_at": "2026-02-14T14:49:44.749325",
+  "organization_id": "367045",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Együtt Benedekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Kopogó utca 56.",
+      "adószám": "19312677-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-05",
+      "statisztikai_számjel": "19312677-9499-569-15",
+      "x_koordináta": "47.93753",
+      "y_koordináta": "21.6478249"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja a diabétesz, epilepszia, vizelet- és széklet-inkontinencia betegségekkel, valamint csecsemőkori agyi bénulással, fejlődési rendellenességgel ill. súlyos mentális retardációval rendelkező Benedek (születési név: Király Benedek, sz: Nyíregyháza, 2009.09.24.) ápolása, gondozása, egészségügyi ellátási költségeinek viselése, gyógykezelésének, gyógyulásának, állapot javulásának elősegítése, támogatása: - ápolásával, nappali ellátásával, felügyeletének ellátásával kapcsolatban felmerülő és szükséges költségek viselése - fejlődéséhez szükséges gyógykezelések, terápiák költségeinek viselése, az ezek eléréséhez szükséges költségeinek viselése, beleértve a gyermek és kísérője utazással ill. a gyógykezelés helyén történő tartózkodással kapcsolatos költségeit, valamint az ellátás finanszírozását - egészségügyi ellátási költségeinek viselése (beleértve a diabétesz, az epilepszia, a vizelet- és széklet inkontinencia ill. pitvari sövényhiány kezelésének és költségeinek viselését) - egészségügyi ellátás lehetőségeinek felkutatása, költségeinek fedezése, - külföldön igénybe vehető egészségügyi ellátások, műtétek, rehabilitációs lehetősége költségeinek finanszírozása, beleértve a gyermek és kísérője utazással és külföldön tartózkodással kapcsolatos költségeit, valamint az ellátás finanszírozását, - fizikai és mentális terápiák lehetőségeinek felkutatása, költségeinek fedezése, rehabilitációs foglalkozások lehetőségeinek felkutatása, költségeinek finanszírozása, - gyógyszerköltségekhez történő anyagi támogatás nyújtása, gyógyászati segédeszközök beszerzése költségeinek támogatása, orvosi konzultációk költségeinek fedezete, betegséggel kapcsolatos egészségügyi ellátások költségeinek fedezete, - mindennapi szükségeinek kielégítéséhez szükséges speciális eszközök, gyógyászati és higiéniás szerek költségeinek viselése, - segítségnyújtás a gyermek gondozásához, ápolásához, felügyeletének ellátásához, ezek költségeihez való hozzájárulás, - szükséges hivatalos iratok, leletek fordítási költségeihez való hozzájárulás ill. nyelvi akadályok áthidalásához segítségnyújtás, - egészségmegőrző tevékenységek, kezelések támogatása, - javára egyéb szociális célok megvalósítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002603",
+      "régi_nyilvántartási_száma": "2603/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagyné Szenku",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "Julianna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "705 965 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "66",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "627 159 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

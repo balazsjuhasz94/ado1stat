@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "18162888",
+  "scraped_at": "2026-02-14T13:11:18.247152",
+  "organization_id": "72597",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tűtornyos Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1152 Budapest, Kossuth utca 1.",
+      "x_koordináta": "47.568363",
+      "y_koordináta": "19.1262228",
+      "adószám": "18162888-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1998-04-15",
+      "statisztikai_számjel": "18162888-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A Rákospalot-Óvárosi Református Egyházközösség egykori lelkipásztora Benkő István emlékének ápolása, munkásságának, tevékenységének, az általa képviselt szellemiség megismertetése az utókorral, az egyházközösség hitéleti tevékenységének támogatása. Az Egyházközösség fiataljainak Benkő István szellemiségének megfelelő erkölcsi és hitéleti nevelése, oktatása, közművelődési, kulturális programok szervezése, anyagi és erkölcsi támogatás nyújtása az Egyházközség rászoruló tagjai részére, így az öregek, munkanélküliek, fogyatékosok és más önhibájukon kívül hátrányos helyzetbe került emberek segítése, az Egyházközösség tulajdonában, illetve használatában álló épületek fenntartásának, karbantartásának, elsősorban az épített természet emlékeinek ( városképi jelentőségű épületek) megőrzésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0007134",
+      "régi_nyilvántartási_száma": "7134/1997",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-06-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hekli",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "157 057 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "128",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 443 739 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tűtornyos Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

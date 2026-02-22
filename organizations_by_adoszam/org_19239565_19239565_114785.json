@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "19239565",
+  "scraped_at": "2026-02-14T13:37:20.581525",
+  "organization_id": "114785",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Összehangolva Közhasznú Alapítvány daganatos és krónikus betegekért",
+      "rövid_név": "Összehangolva Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1108 Budapest, Szövőszék utca 16. 1/5.",
+      "x_koordináta": "47.634709",
+      "y_koordináta": "19.03377",
+      "adószám": "19239565-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-14",
+      "statisztikai_számjel": "19239565-8559-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja olyan komplementer pszicho-szociális tréningeknek a megvalósítása, amely támogatni képes a daganatos és egyéb krónikus betegségek – pl.: autoimmun zavarok, metabolikus szindróma - gyógyítását és rehabilitációját. Ezen kívül az ilyen betegségek miatti kezelések alatt álló, illetve gyógyult, vagy tünetmentes betegek családjainak és hozzátartozóiknak is nyújt segítséget. Az alapítvány céljai elérése érdekében felvilágosító és ismeretterjesztő tevékenységet végez, előadásokat tart, könyveket és egyéb információhordozó anyagokat is terjeszt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004104",
+      "régi_nyilvántartási_száma": "4104/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-10-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-18",
+      "bankszámlaszám": "11600006-00000000-85531745",
+      "számlavezető_pénzintézet_neve": "Erste Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tatár-Kiss",
+        "Képviselő keresztneve": "Klára",
+        "Képviselő titulusa": "Krisztina",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "559 678 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "420 031 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 048 344 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

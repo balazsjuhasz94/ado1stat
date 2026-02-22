@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "18596447",
+  "scraped_at": "2026-02-21T14:30:51.587173",
+  "organization_id": "97308",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BOGLÁR Lovas Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6414 Pirtó, Zsombostódűlő 57/B.",
+      "x_koordináta": "47.4295103",
+      "y_koordináta": "18.5211776",
+      "adószám": "18596447-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-06-05",
+      "statisztikai_számjel": "18596447-8551-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Utánpótlás nevelés a lovas sportban, díjlovaglás, díjugratás, távlovaglás a lovastorna szakágakban. További célja edzéseket, edzőtáborokat szervezni a tagok és a leendő tagjai számára. Lehetőséget teremteni ez által a lovas sport iránt érdeklődőknek a lovas edzések látogatására. A versenyzés mellett lehetőséget teremteni a haladó lovasok számára, hogy megismerhessék a környező vidéket lóhátról. Lovas terápia, illetve fogyatékkal élő személyek szabadidős lovagoltatása, lovak kiképzése szabadidős, terápiás és versenycélokra.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0002922",
+      "régi_nyilvántartási_száma": "2922/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-16",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rózsahegyiné Szőke",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "136 375 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "91 761 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 783 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": [
+      {
+        "Név": "BOGLÁR LOVAS EGYESÜLET",
+        "Év": "2020"
+      },
+      {
+        "Név": "BOGLÁR LOVAS EGYESÜLET",
+        "Év": "2021"
+      }
+    ]
+  },
+  "error": null
+}

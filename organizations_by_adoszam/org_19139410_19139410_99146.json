@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19139410",
+  "scraped_at": "2026-02-14T12:30:39.809954",
+  "organization_id": "99146",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Együtt egy életért, ártatlan állatokért\" Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8881 Sormás, Arany János utca 53.",
+      "x_koordináta": "46.4557584",
+      "y_koordináta": "16.9115992",
+      "adószám": "19139410-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-08",
+      "statisztikai_számjel": "19139410-9699-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Elsődleges segítségnyújtás a kóbor, gazdátlan állatoknak, menedék és táplálék biztosítása a végleges elhelyezésükig, amennyiben szükséges, állatorvosi ellátás biztosítása számukra. Az egyesület hatóságok bevonásával törekszik a rossz körülmények között élő, bántalmazott állatok kiemelésére környezetéből, új felelős gazdi megtalálása a végső cél. Egyesület fontosnak tartja azt, hogy felhívja a helyi és környező lakosság figyelmét a kulturált állattartás szabályaira, valamint a kulturált állattartás feltételeinek megteremtésében is segítséget kívát nyújani a magánszemélyeknek. Az egyesület célja, hogy felhívja a közösség, a társadalom figyelmét az állatvédelem, az állatok ivartalanításának fontosságára, amit ismeretterjesztő előadások szervezésével kívánnak nyomatékosítani. Az egyesület segítséget kíván nyújtani az állatkínzások felderítésére, azok megszüntetésére a hatósági szervek munkáját is segítve.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002976",
+      "régi_nyilvántartási_száma": "2976/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hilcz",
+        "Képviselő keresztneve": "Lívia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "471",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 797 914 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "571",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 844 938 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "527",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 425 876 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "523",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 201 850 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Együtt egy életért, ártatlan állatokért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

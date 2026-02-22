@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "19319430",
+  "scraped_at": "2026-02-21T12:36:16.432497",
+  "organization_id": "367608",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"KEZEDBEN A JÖVŐ BLÁTHY!\" Kulturális és Oktatási Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2890 Tata, Bercsényi utca 7.",
+      "adószám": "19319430-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-20",
+      "statisztikai_számjel": "19319430-8532-529-11",
+      "x_koordináta": "47.629452",
+      "y_koordináta": "18.303389"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Egyesület célja az értékmegőrző szakmai nevelés és oktatás segítése, különös tekintettel a szakközépiskolások és szakiskolások harmonikus lelki, testi és értelmi fejlődésére, készségeik, képességeik, ismereteik, jártasságaik, érzelmi és akarati tulajdonságaik, műveltségük fejlesztésére, a tehetséggondozásra, a társadalmi leszakadás megakadályozására, a szakmai pályaorientációra és szakmai fejlődés elősegítésére a tatai szakképzésben. Ennek keretében az egyesület kiemelt célja a tatai szakképzés támogatása és felvirágoztatásához való szakmai hozzájárulás, a szakképzésben résztvevő fiatalok támogatása, számukra aktív személyes szakmai segítségnyújtás és iránymutatás adása, a szakmai jövőjük patronálása. Emellett az egyesület kiemelten foglalkozik a szakképzésben oktatók aktív szakmai alapokon nyugvó mentorálásával. Az egyesület e tevékenységekhez kapcsolódóan kiemelten támogatja a tatai székhelyű szakközépiskola a Tatabányai Szakképzési Centrum Bláthy Ottó Technikum, Szakképző Iskola és Kollégium (2890 Tata, Hősök tere 9.) szakmai tevékenységét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002275",
+      "régi_nyilvántartási_száma": "2275/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-24"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Suszter",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "443 753 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "535 176 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

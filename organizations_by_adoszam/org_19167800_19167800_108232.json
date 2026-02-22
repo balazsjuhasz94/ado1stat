@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19167800",
+  "scraped_at": "2026-02-21T13:08:26.706781",
+  "organization_id": "108232",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "L-DANCE GROUP Táncsport Egyesület",
+      "rövid_név": "LDG Táncsport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Ferenczy Ida utca 3. 1/4.",
+      "x_koordináta": "46.918107",
+      "y_koordináta": "19.6696926",
+      "adószám": "19167800-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-09-10",
+      "statisztikai_számjel": "19167800-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Művészeti nevelés a művészetek valamennyi ágában, különös tekintettel a táncművészet terén. Művészeti és kulturális tevékenység, valamint e hagyományok ápolása. Művészeti alkotások létrehozása, versenyeztetése és népszerűsítése. Megyei, országos, határon túli művészeti, kulturális programokba való bekepcsolódás. Közösségben végzett alkotómunka szintereinek kialakítása és működtetése. Művészeti önképző, fejlesztő tevékenységi formák, programok szervezése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003796",
+      "régi_nyilvántartási_száma": "3796/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-07-28",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Keresztes",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "700 239 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "219 960 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "449 009 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

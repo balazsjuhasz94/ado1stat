@@ -1,0 +1,117 @@
+{
+  "search_adoszam": "18871854",
+  "scraped_at": "2026-02-14T12:52:22.913669",
+  "organization_id": "121745",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Borsóház - Pécs a Fogyatékkal Élő Gyermekekért Alapítvány",
+      "rövid_név": "Borsóház - Pécs Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7624 Pécs, Xavér utca 19.",
+      "x_koordináta": "46.0703167",
+      "y_koordináta": "18.2050962",
+      "adószám": "18871854-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-24",
+      "statisztikai_számjel": "18871854-8696-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány alapvető célja a sérült, illetve fogyatékkal élő gyermekek, felnőttek életminőségének, testi és mentális állapotának javítása (habilitáció/rehabilitáció), családjaik segítése, minél teljesebb társadalmi beilleszkedésük, társadalmi részvételük, egyenjogúságuk érvényesítésének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001837",
+      "régi_nyilvántartási_száma": "1837/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-08-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-01",
+      "alkalmazottak_száma": "8",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11731001-23126394-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Spohn",
+        "Képviselő keresztneve": "Kinga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "4774",
+        "Leírás": "Gyógyászati termék kiskereskedelme"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "538 247 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "159",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "986 621 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "120",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 018 402 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "180",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 735 257 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "231",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 372 838 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "178",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 024 215 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Borsóház - Pécs Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Borsóház - Pécs Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Borsóház - Pécs Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

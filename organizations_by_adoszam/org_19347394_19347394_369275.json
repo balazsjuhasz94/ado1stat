@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19347394",
+  "scraped_at": "2026-02-14T12:56:38.595728",
+  "organization_id": "369275",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Marcali Mentők Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8700 Marcali, Kossuth Lajos utca 41",
+      "adószám": "19347394-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-21",
+      "statisztikai_számjel": "19347394-8696-529-14",
+      "x_koordináta": "46.5786617",
+      "y_koordináta": "17.4150969"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Marcali városában és a mentőállomás vonzáskörzetében élő, dolgozó vagy bármely célból ideiglenesen tartózkodó személyek magas színvonalú sürgősségi és eseti mentő ellátásának biztosítása a felszerelés folyamatos korszerűsítése, a mentőállomás épületének külső, belső felújítása, fejlesztése, szakmai képzés segítése, védőruházat biztosítása, rekreációs tevékenység szervezése. Humanitárius segítségszolgálat. Mentési és betegszállítási tevékenység, egészségügyi és szociális szolgálat, rendezvénybiztosítás, egészségkárosodottak segítése, egészségügyi oktatás. Tűzmegelőzési, tűzoltási és műszaki mentési tevékenységben való közreműködést (együtt: szaktevékenységet) végezhet. Szaktevékenysége során a tűzmegelőzés körében tájékoztathatja a lakosságot az időszerű tűzvédelmi feladatokról, a lakosság részére tűzvédelemmel kapcsolatos más információs tevékenységet végezhet, a jogszabályokban meghatározott tűzvédelmi feladatok helyi megvalósításának társadalmi elősegítése, és ennek ellátására önként jelentkezők szervezése, egyesítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-02-0004754",
+      "régi_nyilvántartási_száma": "4754/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-22",
+      "bankszámlaszám": "10403947-50527072-57551009",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mencseli",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "198",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 841 451 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

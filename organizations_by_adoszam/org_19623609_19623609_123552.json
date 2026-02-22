@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19623609",
+  "scraped_at": "2026-02-21T13:19:01.557239",
+  "organization_id": "123552",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csepel Horgász Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1213 Budapest, Hollandi út 240.",
+      "x_koordináta": "47.3878415",
+      "y_koordináta": "19.1030225",
+      "adószám": "19623609-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1983-12-15",
+      "statisztikai_számjel": "19623609-9319-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "céljának_leírása": "Az Egyesületi tagság horgászérdekeinek képviselete és védelme, valamint a kedvező horgászlehetőségek megteremtésének elősegítése. A horgászat, a horgászsport népszerűsítése és fejlesztése. A horgászoknak a jogszabályok, a horgász erkölcs és etika írott és íratlan szabályainak betartása és betartatása. A természet védelme, kiemelten az élővíz és az abban található élővilág, valamint a vízpart tisztaságának megóvása. A fiatalok bevonása a horgászsportba, a természet védelmére való nevelésük.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0002443",
+      "régi_nyilvántartási_száma": "2443/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-22",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "221 938 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "392 528 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 805 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "399 377 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "354 494 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "424 331 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSEPEL HORGÁSZ EGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSEPEL HORGÁSZ EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSEPEL HORGÁSZ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

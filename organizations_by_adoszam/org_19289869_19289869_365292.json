@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19289869",
+  "scraped_at": "2026-02-14T12:38:19.011499",
+  "organization_id": "365292",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szurkolók az Állatokért Gerecse és környéke Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2900 Komárom, Zrínyi M. utca 50/ a.",
+      "adószám": "19289869-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-08",
+      "statisztikai_számjel": "19289869-9499-569-11",
+      "x_koordináta": "47.7207846",
+      "y_koordináta": "18.0906773"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Állatvédelem, állatvédelmi oktatás, menhely és rehabilitációs központ létesítése állatok számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001125",
+      "régi_nyilvántartási_száma": "1125/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-09-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schermann",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "250",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 800 523 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "191",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 747 987 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "295",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 050 447 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

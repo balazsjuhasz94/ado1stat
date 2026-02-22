@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19151733",
+  "scraped_at": "2026-02-14T13:57:30.719022",
+  "organization_id": "104501",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Solti Bikák Kötélhúzó és Szkander Sportegyesület",
+      "rövid_név": "Solti Bikák KSZSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6320 Solt, Posta utca 13.",
+      "x_koordináta": "46.7935739",
+      "y_koordináta": "18.9991595",
+      "adószám": "19151733-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-16",
+      "statisztikai_számjel": "19151733-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "a.) A társadalom és az egyén közös érdekeinek kielégítésére irányuló sporttevékenység - a munkaviszonyban és a polgári jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével. b.) A rendszeres sportolás, versenyzés, testedzés, felüdülés biztosítása, az ilyen igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása. c.) A működési területen lévő oktatási intézmények tanulóinak, továbbá a lakosság testnevelési és sporttevékenységének elősegítése. d.) A sportegyesület céljának megvalósítása érdekében együttműködik működési területének önkormányzataival, társadalmi szervezeteivel, gazdálkodó egységeivel, oktatási intézményeivel és lakosságával. e.) Sporttanfolyamok, sport-napközik, edzőtáborok és egyéb tanfolyamok szervezése, lebonyolítása. f.) Az egyesület működési területén élő lakosság számára szervezett formában diák és szabadidő sportfoglalkozások biztosítása. g.) Nemzetközi sportkapcsolatok kiépítése, nemzetközi sportesemények, sportversenyek szervezése és megrendezése, edzőtáborok viszonossági alapon történő lebonyolítása. h.) Kiemelt figyelmet fordít a környezetvédelemre és a természet megóvására, az állatvédelemre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003759",
+      "régi_nyilvántartási_száma": "3759/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-19",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hajdu-Kapocs",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pap",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-18",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rózsa",
+        "Képviselő keresztneve": "Richárd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "228",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "947 531 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "155",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "755 425 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "152",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "876 260 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

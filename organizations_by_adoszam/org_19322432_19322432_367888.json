@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19322432",
+  "scraped_at": "2026-02-14T12:16:22.863993",
+  "organization_id": "367888",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dius Cumizdája Kölyökmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7041 Vajta, Kossuth utca 51.",
+      "adószám": "19322432-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-28",
+      "statisztikai_számjel": "19322432-9499-569-07",
+      "x_koordináta": "46.715116",
+      "y_koordináta": "18.6584391"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Menhely létesítése és fenntartása, - állatvédelem - a gazdátlan, elagyott, elkóborolt kölyök állatok mentése, nevelése és gondozása, a befogadott állatok élelmezése, megfelelő egészségügyi ellátásáról, gyógyszeres kezeléséről történő gondoskodás - megfelelő ellátásban nem részesülő vagy sérült kölyök állatok problémájának megoldása, védelme és gondozás - a felnevelt rehabilitált kölyökkutyák gazdához jutásának elősegítése, az állatok azonosítóval történő ellátása, beoltása, ill. a nem kívánt szaporulatok elkerülése érdekében történő ivartalanítás - viselkedési problémákkal külzdő állatok rehabilitációja, szocializációja - felelős állattartás népszerűsítsése és ezzel összefüggő tanácsadás - oktató jellegű felvilágosítás terjesztése - az ifjúság tudatformálása az állat és természetvédelmi szakismeretek népszerűsítésével - megyei, országos és nemzetközi kapcsolatok kiépítése, együttműködés hasonló célú szervezetekkel - örökbefogadó napok, bemutatók szervezése, valamint az ivartalanítás népszerűsítése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001192",
+      "régi_nyilvántartási_száma": "1192/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-31",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szakács-Schwabisch",
+        "Képviselő keresztneve": "Diána",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2051",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "20 312 793 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

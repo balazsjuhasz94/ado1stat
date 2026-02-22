@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19248721",
+  "scraped_at": "2026-02-21T13:21:00.304766",
+  "organization_id": "124438",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Forráskúti Futball Klub",
+      "rövid_név": "Forráskúti FK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6793 Forráskút, Fő utca 60.",
+      "x_koordináta": "46.3693893",
+      "y_koordináta": "19.9138351",
+      "adószám": "19248721-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-15",
+      "statisztikai_számjel": "19248721-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A civil szervezet célja: • Tagjai részére rendszeres testedzés, sportolás lehetőségének biztosítása, minőségi sporteredmények elérése, feltételeinek megteremtése; • A labdarúgás sport fejlesztése, népszerűsítése minden korosztály részére; • Sportversenyek, bemutatók szervezése és rendezése; • Edzőtáborok szervezése; • Az ifjúság sportszellemű nevelése, oktatása; • Hazai és nemzetközi sportkapcsolatok létesítése, fenntartása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003451",
+      "régi_nyilvántartási_száma": "3451/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-07",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kappan-Tóth",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 659 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "403 760 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "420 454 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

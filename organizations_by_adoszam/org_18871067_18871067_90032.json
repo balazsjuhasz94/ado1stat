@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18871067",
+  "scraped_at": "2026-02-14T13:55:05.431467",
+  "organization_id": "90032",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nyúli Óvodás és Bölcsődés Gyermekekért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9082 Nyúl, Kossuth Lajos utca 50.",
+      "x_koordináta": "47.589506",
+      "y_koordináta": "17.689899",
+      "adószám": "18871067-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-17",
+      "statisztikai_számjel": "18871067-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Aranykapu Óvoda és Bölcsőde (továbbiakban Intézmény) gyermekközösségének sokoldalú testi, lelki, erkölcsi és szellemi fejlődésének elősegítése. Az Intézmény pedagógiai programjának megvalósítását segítő eszközök, játékok, berendezési tárgyak beszerzése. Az Intézménybe járó gyermekek mozgásigényének minél jobb kielégítése, ehhez szobai és udvari mozgást fejlesztő játékok, sporteszközök bővítése, pótlása, korszerűsítése, beszerzése. Az Intézmény tevékenységeinek, programjainak megvalósításához szükséges alapanyagok biztosítása, programok támogatása, pályázatok lebonyolításának elősegítése. Az Intézmény szakmai és technikai dolgozói – gyermekek érdekeit szolgáló- továbbképzéseinek, előadásokon való részvételének támogatása. Az óvodai és bölcsődei neveléssel összefüggő kulturális tevékenység, kulturális programok, események szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0062899",
+      "régi_nyilvántartási_száma": "62899/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ábrahám",
+        "Képviselő keresztneve": "Elvira",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-04-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bán Illés",
+        "Képviselő keresztneve": "Csabáné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "454 284 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "477 000 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "96",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "783 480 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "873 145 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "892 210 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nyúli Óvódás és Bölcsődés Gyermekekért Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nyúli Óvódás és Bölcsődés Gyermekekért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

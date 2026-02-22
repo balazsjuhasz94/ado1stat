@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "18758777",
+  "scraped_at": "2026-02-14T12:53:02.916526",
+  "organization_id": "88799",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nemzeti Gyermek és Koraszülött Mentő Alapítvány",
+      "rövid_név": "NGYKMA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8164 Balatonfőkajár, Széchenyi utca 19.",
+      "x_koordináta": "47.0190326",
+      "y_koordináta": "18.2142942",
+      "adószám": "18758777-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-08-26",
+      "statisztikai_számjel": "18758777-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Országosan segíteni kórházak,-egészségügyi,-szociális és oktatási intézmények műszerezettségének, berendezéseinek korszerűsítését anyagi támogatás révén. Súlyos krónikus betegségben szenvedő gyermekek, valamint a születés után kritikus vagy életveszélyben levő újszülöttek gyógyulási esélyeinek javítása, családjaik támogatása. Fogyatékkal élők szociális krízishelyzetben levő családok támogatása a katasztrófahelyzet áldozatainak segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001760",
+      "régi_nyilvántartási_száma": "1760/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-03-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentvölgyi",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "431 005 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "160",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "756 050 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "184",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "987 412 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "204",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 365 431 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "329",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 354 153 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "286",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 478 955 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "197",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 003 195 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemzeti Gyermek és Koraszülött Mentő Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemzeti Gyermek és Koraszülött Mentő Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemzeti Gyermek és Koraszülött Mentő Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nemzeti Gyermek és Koraszülött Mentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

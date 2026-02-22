@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "18489963",
+  "scraped_at": "2026-02-21T14:27:59.185548",
+  "organization_id": "35462",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SÁRSZENTMIHÁLYI SPORT EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8143 Sárszentmihály, Fő utca 54.",
+      "x_koordináta": "47.1529594",
+      "y_koordináta": "18.3347444",
+      "adószám": "18489963-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1999-10-27",
+      "statisztikai_számjel": "18489963-9319-521-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A lakosság és az ifjúság egészséges életmódra nevelése, a labdarúgás és egyéb sportágak feltételeinek megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0001122",
+      "régi_nyilvántartási_száma": "1122/1995",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-09-06",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "309 606 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

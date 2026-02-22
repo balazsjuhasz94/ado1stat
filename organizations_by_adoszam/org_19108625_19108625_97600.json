@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19108625",
+  "scraped_at": "2026-02-14T14:42:39.481910",
+  "organization_id": "97600",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Polgárőr Egyesület Felsőpakony Biztonságáért",
+      "rövid_név": "PEGYEF",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2363 Felsőpakony, Rákóczi utca 26.",
+      "x_koordináta": "47.3438801",
+      "y_koordináta": "19.2363929",
+      "adószám": "19108625-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-06",
+      "statisztikai_számjel": "19108625-8424-526-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "céljának_leírása": "A közbiztonság és a közrend helyi megteremtésében, javításában és fenntartásában való önkéntes lakossági részvétel a rendőrséggel való együttműködés keretei között, - az állampolgári felelősségérzet erősítése, - társadalmilag hasznos közösségteremtő tevékenység kialakítása és fenntartása, - az egészséges életmód népszerűsítése, a polgárőrök fizikai állóképességének javítása, és a polgárőrök fizikai felkészítése a polgárőrségről szóló törvény alapján nyilvántartásba vett polgárőr szervezetek tagjaként történő szolgálatteljesítésre, -a személy- és vagyonvédelem, bűnmegelőzés hatékonyságának fokozása, az állampolgárok biztonságának védelme, biztonságérzetük javítása, - önkéntes tűzoltói feladatok ellátása, -vagyonőrzés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007555",
+      "régi_nyilvántartási_száma": "7555/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Janocha",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Zsolt",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8424",
+        "Leírás": "Közbiztonság, közrend"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "514 392 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "555 139 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "61",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "650 972 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

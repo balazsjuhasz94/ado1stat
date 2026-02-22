@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "18350135",
+  "scraped_at": "2026-02-21T13:22:04.182023",
+  "organization_id": "61295",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egészségért Közalapítvány a Kórházért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6100 Kiskunfélegyháza, Fadrusz János utca 4.",
+      "x_koordináta": "46.710818",
+      "y_koordináta": "19.838573",
+      "adószám": "18350135-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-05-18",
+      "statisztikai_számjel": "18350135-9499-561-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "- A Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza Kiskunfélegyházi Telephely felújításának és gép-, műszer beszerzésének támogatása. - Az ápolási és gondozási tevékenység megvalósításának elősegítése érdekében korszerű ápolási eszközök és anyagok beszerzésének támogatása a Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza Kiskunfélegyházi Telephelyén. - A Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza Kiskunfélegyházi Telephelyén ápolási tevékenységet végzők részére a magas szintű és korszerű ellátás megismerésére szervezett továbbképzések és önképzés anyagi támogatása. - Kiskunfélegyháza város és a környező települések lakosainak magasabb szintű egészségügyi ellátása. A Közalapítvány a fenti célok megvalósítását tartósan, határozatlan időre szóló működése alatt folyamatosan feladatának tekinti.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0000854",
+      "régi_nyilvántartási_száma": "854/1996",
+      "alapítvány_típusa": "Közalapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-07",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Körtvélyessy",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Paksi",
+        "Képviselő keresztneve": "Tiborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "30 254 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "219 977 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "278 153 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "250 572 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "418 027 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGÉSZSÉGÉRT KÖZALAPÍTVÁNY A KÓRHÁZÉRT"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGÉSZSÉGÉRT KÖZALAPÍTVÁNY A KÓRHÁZÉRT"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

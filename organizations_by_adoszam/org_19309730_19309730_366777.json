@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19309730",
+  "scraped_at": "2026-02-14T12:47:26.828696",
+  "organization_id": "366777",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Őszpofik\" Állatmenedék Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6200 Kiskőrös, József Attila utca 18.",
+      "adószám": "19309730-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-08-19",
+      "statisztikai_számjel": "19309730-9499-569-03",
+      "x_koordináta": "46.6149267",
+      "y_koordináta": "19.28059"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állat és természetvédelem, a társadalom szemléletformálása a felelős állattartás érdekében. Az alapítvány célja az érzékenyítés az idős, beteg vagy fogyatékkal élő állatokról való gondoskodás területén, melyen keresztül felhívja a társadalom figyelmét az idős és fogyatékkal élő embertársainkkal való törődés fontosságára. Célja menhely létesítése a gondozásba került állatok átmeneti vagy végleges elhelyezése érdekében, esélyt adva ezzel az esélyteleneknek a további életre, és a végleges otthon biztosítása számukra.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002646",
+      "régi_nyilvántartási_száma": "2646/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gubik",
+        "Képviselő keresztneve": "Ibolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "109",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "742 994 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "250",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 316 764 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

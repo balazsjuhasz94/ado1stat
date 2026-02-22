@@ -1,0 +1,332 @@
+{
+  "search_adoszam": "18549816",
+  "scraped_at": "2026-02-14T14:53:37.616497",
+  "organization_id": "107316",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fehér Bot Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4087 Hajdúdorog, Fogadó utca 3-5.",
+      "x_koordináta": "47.813381",
+      "y_koordináta": "21.497173",
+      "adószám": "18549816-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-12-01",
+      "statisztikai_számjel": "18549816-8810-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A vakok, gyengénlátók és más fogyatékkal élő személyek társadalmi integrációjának és esélyegyenlőségének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0000967",
+      "régi_nyilvántartási_száma": "967/1996",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "1998-01-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-15",
+      "alkalmazottak_száma": "86",
+      "a_nyilvántartott_adatok_verziószáma": "33",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Karcagi",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gálné Sallai",
+        "Képviselő keresztneve": "Irén",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabóné Bokis",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "0111",
+        "Leírás": "Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése"
+      },
+      {
+        "Kód": "0113",
+        "Leírás": "Zöldségféle, dinnye, gyökér-, gumósnövény termesztése"
+      },
+      {
+        "Kód": "0125",
+        "Leírás": "Egyéb gyümölcs, héjastermésű termesztése"
+      },
+      {
+        "Kód": "0141",
+        "Leírás": "Tejhasznú szarvasmarha tenyésztése"
+      },
+      {
+        "Kód": "0143",
+        "Leírás": "Ló, lóféle tenyésztése"
+      },
+      {
+        "Kód": "0145",
+        "Leírás": "Juh, kecske tenyésztése"
+      },
+      {
+        "Kód": "0146",
+        "Leírás": "Sertéstenyésztés"
+      },
+      {
+        "Kód": "0147",
+        "Leírás": "Baromfitenyésztés"
+      },
+      {
+        "Kód": "1032",
+        "Leírás": "Gyümölcs-, zöldséglé gyártása"
+      },
+      {
+        "Kód": "1039",
+        "Leírás": "Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás"
+      },
+      {
+        "Kód": "1041",
+        "Leírás": "Olaj gyártása"
+      },
+      {
+        "Kód": "1042",
+        "Leírás": "Margarin gyártása"
+      },
+      {
+        "Kód": "1051",
+        "Leírás": "Tejtermék gyártása"
+      },
+      {
+        "Kód": "1061",
+        "Leírás": "Malomipari termék gyártása"
+      },
+      {
+        "Kód": "1073",
+        "Leírás": "Tésztafélék gyártása"
+      },
+      {
+        "Kód": "1082",
+        "Leírás": "Édesség gyártása"
+      },
+      {
+        "Kód": "1083",
+        "Leírás": "Tea, kávé feldolgozása"
+      },
+      {
+        "Kód": "1084",
+        "Leírás": "Fűszer, ételízesítő gyártása"
+      },
+      {
+        "Kód": "4690",
+        "Leírás": "Vegyestermékkörű nagykereskedelem"
+      },
+      {
+        "Kód": "7810",
+        "Leírás": "Munkaközvetítés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4711",
+        "Leírás": "Élelmiszer jellegű bolti vegyes kiskereskedelem"
+      },
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4774",
+        "Leírás": "Gyógyászati termék kiskereskedelme"
+      },
+      {
+        "Kód": "4776",
+        "Leírás": "Dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "193",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "553 190 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "177",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "574 269 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "124",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "410 511 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "137",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "576 690 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "93",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "426 488 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "574 726 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "393 941 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "505 544 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "620 912 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "483 510 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "445 561 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "615 603 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fehér Bot Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

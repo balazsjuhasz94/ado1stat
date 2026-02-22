@@ -1,0 +1,119 @@
+{
+  "search_adoszam": "19063672",
+  "scraped_at": "2026-02-14T13:16:47.002410",
+  "organization_id": "97882",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Világítani Fogok Egyesület",
+      "rövid_név": "VFE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3396 Kerecsend, Fő út 154.",
+      "x_koordináta": "47.7986209",
+      "y_koordináta": "20.3513598",
+      "adószám": "19063672-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-24",
+      "statisztikai_számjel": "19063672-9499-529-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- A községben élő hátrányos helyzetű gyermekek, fiatalok és családjaik segítése a szociális, mentális, egészségügyi, kulturális, tanulmányi és környezeti hátrányok kompenzálásában. - Segítségnyújtás a településen belül élők közötti kapcsolatok erősítésében, új kapcsolatok kialakításában. A nehéz helyzetű társadalmi csoportok integrációjának és inklúziójának előmozdítása a párbeszéd és a konfliktus kezelés képességének kialakítása, fejlesztése által Az egymás iránti szolidaritás érzésének erősítése. - A keresztény hit és kultúra értékeinek közvetítése az egyesület felekezetközi tevékenységében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002844",
+      "régi_nyilvántartási_száma": "2844/2018",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-05-22",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-14",
+      "alkalmazottak_száma": "13",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-08",
+      "bankszámlaszám": "11711096-21456499",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Elek",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "Sára",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 364 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "353 449 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "504 558 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "725 827 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 341 401 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Világítani Fogok Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Világítani Fogok Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

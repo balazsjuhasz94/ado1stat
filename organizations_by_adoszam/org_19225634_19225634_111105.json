@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19225634",
+  "scraped_at": "2026-02-14T13:12:38.799696",
+  "organization_id": "111105",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "DiabErnyő Alapítvány az 1-es típusú diabétesszel élőkért és családjaikért",
+      "rövid_név": "DiabErnyő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2092 Budakeszi, Gerinc utca 102.",
+      "x_koordináta": "47.4994959",
+      "y_koordináta": "18.9394323",
+      "adószám": "19225634-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-18",
+      "statisztikai_számjel": "19225634-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az 1-es típusú diabétesszel élő családok életének segítse, könnyebbé tétele holisztikus szemléletmódot követve. Célunk a multidimenzionáls igények (fizikai, szociális és pszichológiai) megismerése – tudományos kutatások támogatásával - és az azokra való reagálás. A hátrányos helyzetű diabétesszel élő gyermeket nevelő családok segítése, támogatása, adománygyűjtő kampányok szervezése. A cukorbetegek oktatási intézményekbe, társadalomba való integrálásának elősegítése mentálhigiénés támogatással, pedagógusok oktatásával és a betegség megismerését és felismerését szolgáló országos marketing kampányokkal. Diabéteszes közösségek önsegítő funkcióinak erősítése és fenntartása. Diabétesszel érintettek és családjaik részére edukációs programok és táborok létrehozása a betegség megismerése, jobb kezelése és sikeres feldolgozása céljából. Nemzetközi és hazai 1- es típusú diabétesszel foglalkozó szervezetekkel való együttműködés és közös projektek létrehozása. A DiabErnyő arra specializálódott, hogy egyedi és innovatív programokat dolgozzon ki 1-es típusú diabéteszben érintett családok és felnőttek részére. Küldetésünknek tekintjük, hogy különböző projektekkel ösztönözzük a diabétesszel élőket a boldogulásra és növeljük az 1-es típusú cukorbetegséggel kapcsolatos tudatosságot.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012872",
+      "régi_nyilvántartási_száma": "12872/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-11-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-13",
+      "bankszámlaszám": "10918001-00000107-56180015",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Luczay",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "673 174 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "813 926 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 418 163 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

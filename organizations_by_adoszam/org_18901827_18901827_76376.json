@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18901827",
+  "scraped_at": "2026-02-14T12:15:15.273081",
+  "organization_id": "76376",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Macskavédő Alapítvány",
+      "rövid_név": "MaVed",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2360 Gyál, Kosztolányi Dezső utca 53.",
+      "x_koordináta": "47.372259",
+      "y_koordináta": "19.206879",
+      "adószám": "18901827-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-04",
+      "statisztikai_számjel": "18901827-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A magyarországi kóbor macskapopuláció csökkentése, ivartalanítással, és gazdakereséssel. A lakosság felelős állattartásra felhívása és oktatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012420",
+      "régi_nyilvántartási_száma": "12420/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-08-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Trebbi",
+        "Képviselő keresztneve": "Daniela",
+        "Képviselő titulusa": "Georgeta",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "1473",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 098 381 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "3062",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "17 863 863 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "2985",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "20 369 707 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "3150",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "24 289 306 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "2993",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "27 419 887 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2692",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "28 072 907 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Macskavédő Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR MACSKAVÉDŐ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR MACSKAVÉDŐ ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

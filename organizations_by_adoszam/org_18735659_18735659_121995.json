@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18735659",
+  "scraped_at": "2026-02-21T13:43:11.953794",
+  "organization_id": "121995",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Izgő-Mozgó-Mocorgó\" a Kemes Utcai Óvoda Gyermekeiért Alapítvány",
+      "rövid_név": "\"Izgő-Mozgó-Mocorgó\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6723 Szeged, Róna utca 29.",
+      "x_koordináta": "46.266437",
+      "y_koordináta": "20.1626609",
+      "adószám": "18735659-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-01-19",
+      "statisztikai_számjel": "18735659-8510-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Kemes utcai óvoda tárgyi feltételeinek, eszközparkjának, különösképpen beltéri és kültéri hagyományos játszóeszközöknek, mozgásfejlesztő eszközöknek, valamint az óvodai pedagógiai program tevékenységeihez szükséges anyagainak a bővítése, ezáltal elősegítve a gyermekek megfelelő testi, értelmi, érzelmi, erkölcsi fejlődését, valamint egészséges nevelését. Az óvoda külső és belső tereinek korszerűsítése, felújítása, karbantartása a gyermekek megfelelő, minőségi nevelésének biztosítása érdekében. Gyermekek részére különböző programok, rendezvények, belföldi és külhoni utazások, kirándulások szervezése, valamint lebonyolítása az óvodai nevelés színesebbé tétele és ez által elősegítése érdekében. Az Óvoda könyv, valamint napilap-, folyóirat-, időszaki kiadványállományának, továbbá különböző szakmai anyagainak folyamatos ápolása, gondozása, bővítése a magas színvonalú és változatos óvodai nevelés elősegítése érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001613",
+      "régi_nyilvántartási_száma": "1613/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-01-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Domjánné Jó",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "208 241 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "170 323 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 657 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "328 967 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 340 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Izgő-Mozgó-Mocorgó\" a Kemes Utcai Óvoda Gyermekeiért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Izgő-Mozgó-Mocorgó\" a Kemes Utcai Óvoda Gyermekeiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

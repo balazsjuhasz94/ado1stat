@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18871593",
+  "scraped_at": "2026-02-14T13:31:49.110792",
+  "organization_id": "77929",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pavuk Műkorcsolya Iskola és Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1026 Budapest, Endrődi Sándor utca 42/ D.",
+      "x_koordináta": "47.524599",
+      "y_koordináta": "19.005131",
+      "adószám": "18871593-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-05",
+      "statisztikai_számjel": "18871593-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Egyesület célja, hogy megszerettesse a sportolást, és ezen belül elsősorban a műkorcsolyázást a gyerekekkel és felnőttekkel egyaránt, ezzel hozzájáruljon az ifjúság egészségneveléséhez, a gyerekek képességének fejlesztéséhez, az egészséges életmódra történő neveléséhez, a szabadidő hasznos eltöltéséhez. Az Egyesület további céljának tekinti a tehetséges, és ezen sport iránt érdeklődő fiatalok felkutatását, nevelését, és fejlesztését, versenyeztetését, sportolói pályafutásuk biztosítását és támogatását. Az Egyesület további célja, hogy a lehető legtöbb, sportolás során felmerülő költség alól (jégdíj, felszerelés, edzőtábor, verseny nevezési díj, stb.) mentesítse a sportolókat, így a sport és élsport lehetőségét megteremtse olyan fiatalok számára is, akik támogatás hiányában nem élhettek volna ezen lehetőségekkel. Az Egyesület célja a korcsoportos sportági képzés biztosítása, az utánpótlás-nevelés fejlesztése, valamint az utánpótlás-nevelési feladatok ellátása, és a sportolók magas szintű felkészítése és versenyeztetése, illetve közreműködés az utánpótlásnevelési feladat-ellátás feltételeinek biztosításában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016297",
+      "régi_nyilvántartási_száma": "16297/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-23",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pavuk",
+        "Képviselő keresztneve": "Patrícia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 744 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "72 975 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "200 173 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "293 962 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 117 254 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pavuk Mukorcsolya Iskola és Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pavuk Műkorcsolya Iskola és Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

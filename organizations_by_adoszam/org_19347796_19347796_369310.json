@@ -1,0 +1,98 @@
+{
+  "search_adoszam": "19347796",
+  "scraped_at": "2026-02-21T13:51:35.777057",
+  "organization_id": "369310",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kisköz Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2093 Budajenő, Fő utca 2.",
+      "adószám": "19347796-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-03",
+      "statisztikai_számjel": "19347796-9499-529-13",
+      "x_koordináta": "47.5692885",
+      "y_koordináta": "18.8141053"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület célja, hogy összetartó közösséggé formálja tagjait, támogatóit és a helybélieket. Családi, közösségi és kulturális programokat szervezzen minden korosztály számára, melyek színesítik a falu mindennapjait. Megismertesse és közelebb hozza a falusi létformát az itt élő fiatalokhoz (kerti munka, falugondnokság, falu körüli teendők, kézimunka, élő hagyományok). Pályázatokon vegyen részt ifjúságsegítő, közösségépítő, kulturális programjainak megvalósítására, fejlesztésére. Célunk még a pozitív, több megoldást kínáló társadalmi vízió kidolgozása gazdasági ökológiai és kulturális szinten, a város-vidék kapcsolatának harmonizálása és fenntarthatóvá tétele.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008266",
+      "régi_nyilvántartási_száma": "8266/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-24"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó-Sipos",
+        "Képviselő keresztneve": "Rebeka",
+        "Képviselő titulusa": "Anna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1330",
+        "Leírás": "Textilkikészítés"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9810",
+        "Leírás": "Háztartás termék-előállítása, szolgáltatása saját fogyasztásra"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "367 815 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18524215",
+  "scraped_at": "2026-02-21T13:18:06.192072",
+  "organization_id": "97227",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ütő és Labda Krikett Akadémia",
+      "rövid_név": "Torpedó Kispest SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2094 Nagykovácsi, Szent Flórián utca 19.",
+      "x_koordináta": "47.458405",
+      "y_koordináta": "19.150332",
+      "adószám": "18524215-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-04-10",
+      "statisztikai_számjel": "18524215-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportegyesület általános célja, hogy megteremtse a krikett sportág űzéséhez szükséges feltételeket, elsősorban Nagykovácsiban és annak környékén. A sportegyesület elsődleges célja, hogy mindenkinek edzési lehetőséget biztosítson a krikett sportágban, az edzéseken rendszeresen részt vevők köréből versenyzőket válasszon ki és ezekből a versenyzőkből csapatokat szervezzen. A sportegyesület elsődleges céljához sorolandó továbbá, hogy csapatait a krikett sportág magyarországi sportszövetségének bajnokságaiban kupáin és más sportversenyein elindítsa és versenyeztesse. A sportegyesület céljainak elérése érdekében együttműködik elsősorban a krikett sportág magyarországi sportszövetségével, másodsorban más sportszövetségekkel, továbbá más sportszervezetekkel, illetve civil és gazdasági szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015356",
+      "régi_nyilvántartási_száma": "15356/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-05-31",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Paul",
+        "Képviselő keresztneve": "Ainsworth",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "211 612 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "595 054 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "464 040 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "426 774 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ütő és Labda Krikett Akadénia"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ütő és Labda Krikett Akadénia"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ütő és Labda Krikett Akadénia"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

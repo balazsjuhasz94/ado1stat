@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19288648",
+  "scraped_at": "2026-02-14T14:40:21.718111",
+  "organization_id": "365215",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mini Világ Gyermekközpont Alapítvány",
+      "rövid_név": "Mini Világ Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1142 Budapest, Kriván utca 2-4.",
+      "adószám": "19288648-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-04",
+      "statisztikai_számjel": "19288648-8891-569-01",
+      "x_koordináta": "47.5330261",
+      "y_koordináta": "19.1017107"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "napközbeni gyermekfelügyelet; gyermekjóléti szempontból, valamint az esélyegyenlőséget vizsgálva jelenleg hiányos ellátórendszer fejlesztése, hogy a településeken élő családok számára is lehetővé váljon a gyermekfelügyelet biztosítása a szülő munkába állása, vagy az elhelyezkedését segítő képzésen való részvétele; a kisgyermekkori napközbeni ellátás biztosításával jelentősen csökkenteni a gyermekek szocializációs hátrányait; a gyermekbarát, biztonságos környezet és a személyiség harmonikus fejlődéshez szükséges feltételek biztosításának eredményeként a minőségi kisgyermekgondozás, a hátrányos helyzetű családok gyermekeinek szocializációs hátrányainak leküzdése; foglalkozáspolitikai szempontból a gondozási feladatot ellátó személyek foglakoztatási inaktív státuszának megoldása, a családi bölcsődék, a gondozói jogviszony ellátására felkészülve bekapcsolódnak a felnőttképzésbe (a gondozók új szakmát tanulnak, amely későbbi életükben más személyes gondoskodást biztosító munkakör betöltését is lehetővé teszi); a családi bölcsőde szolgáltatását igénybe vevő szülők számára lehetővé tenni azt, hogy gyermekük felügyeletét megoldva, munkát vállalhassanak, vagy olyan képzéseken vegyenek részt, amely elősegíti elhelyezkedésüket; a területfejlesztés és a hatékonyabb szolgáltatásszervezés kialakítása a kistérségi központok bázisán, elősegíteni az adott terület gazdasági fejlődését, a közfeladat ellátásban is részt vevő szociálisgazdaság kialakítását és erősödését; kisgyermekeket nevelő családok részbeni tehermentesítése, a gyermekek felügyeletének megoldása annak érdekében, hogy a szülők munkalehetőségeiket kihasználhassák, abban a megnyugtató tudatban, hogy gyermekük napközben megfelelő ellátásban részesül, a gyermek egyéni szükségleteit figyelembe vevő napirend, a közös játék öröme és a derűs légkör eredményeképpen; hátrányos helyzetű csoportok esélyegyenlőségének elősegítése; a szocializációs hátrányok leküzdése a közösségi nevelésen keresztül; kutatás, fejlesztés, ezzel is elősegítve a jelenlegi tudományos életfejlődését, valamint kutatásaink eredményeivel a szakmapolitikai döntések elősegítése; környezetvédelem, környezeti nevelés; fenntartható fejlődés; családi bölcsőde alapítása, működtetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013009",
+      "régi_nyilvántartási_száma": "13009/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-19",
+      "alkalmazottak_száma": "7",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "659 176 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

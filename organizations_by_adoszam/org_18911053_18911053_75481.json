@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "18911053",
+  "scraped_at": "2026-02-14T12:31:13.328220",
+  "organization_id": "75481",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kuckó Önkéntes Program Alapítvány",
+      "rövid_név": "Kuckó Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1188 Budapest, Iharos Sándor utca 31.",
+      "x_koordináta": "47.533122",
+      "y_koordináta": "19.074838",
+      "adószám": "18911053-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-08-25",
+      "statisztikai_számjel": "18911053-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Civil szervezetek, iskolák, kórházak, menhelyek, árvaházak támogatása. Természetes személyek és természetes személyek csoportjának egy adott cél eléréséhez való anyagi vagy természetbeni támogatása. Edukációs, prevenciós előadások tartása és videók készítése, terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012495",
+      "régi_nyilvántartási_száma": "12495/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-04",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csanda",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "154",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 763 859 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "233",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 223 336 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "298",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 096 737 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

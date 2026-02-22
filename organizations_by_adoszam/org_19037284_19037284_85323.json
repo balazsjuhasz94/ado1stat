@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19037284",
+  "scraped_at": "2026-02-14T15:10:22.531357",
+  "organization_id": "85323",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Debreceni Mantrailing és Kutyás Egyesület",
+      "rövid_név": "DMKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4030 Debrecen, Tüdős Klára utca 10.",
+      "x_koordináta": "47.4965698",
+      "y_koordináta": "21.6451101",
+      "adószám": "19037284-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-05-30",
+      "statisztikai_számjel": "19037284-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- Kutyakiképzés elsősorban eltűnt személy felkutatására. - Családi és hobbikutya képzése. - Kutyás kultúra fejlesztése, felelős állattartás ismertetése. - Kutyás sportok népszerűsítése. - Kiképzőbázis létrehozása, fenntartása, fejlesztése. - Tevékenységgel összefüggő versenyek, előadások, táborok, vizsgák, bevetési gyakorlatok szervezése. - Szakmai fejlődést elősegítő képzéseken, eseményeken való részvétel. - Képzéshez, bevetéshez szükséges eszközök beszerzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004929",
+      "régi_nyilvántartási_száma": "4929/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-05",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "572 656 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

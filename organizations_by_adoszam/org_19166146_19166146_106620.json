@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19166146",
+  "scraped_at": "2026-02-14T12:24:46.995165",
+  "organization_id": "106620",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Hangtalanokért Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4484 Ibrány, Zrínyi utca 47.",
+      "x_koordináta": "48.136041",
+      "y_koordináta": "21.72436",
+      "adószám": "19166146-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-29",
+      "statisztikai_számjel": "19166146-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Egyesület fő célja az állatvédelem, kiemelten Ibrány és a vonzáskörzetében lévő településeken a gazdátlan állatok befogadása, gondozásba vétele, megfelelő ellátásuk biztosítása a lakosság és a környezet védelme érdekében. Az Egyesület további célja állatmenhely kiépítése, működtetése, fenntartása, a kóborló állatok számának csökkentése, helyzetének javítása érdekében. Az Egyesület nagy hangsúlyt fektet a szemléletformáló programok szervezésére, amivel célja az állattartás területén a felelősségteljes gondolkodásmód kialakítása és terjesztése, valamint az állattartási kultúra fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004053",
+      "régi_nyilvántartási_száma": "4053/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-10-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-15",
+      "alkalmazottak_száma": "6",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szokoli",
+        "Képviselő keresztneve": "Zoltánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "360",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 231 117 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "600",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 737 072 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "785",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 038 819 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "742",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 401 489 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Hangtalanokért Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

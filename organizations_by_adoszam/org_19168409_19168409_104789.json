@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19168409",
+  "scraped_at": "2026-02-21T13:51:08.967759",
+  "organization_id": "104789",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Értelmi Fogyatékossággal Élők és Segítőik Országos Érdekvédelmi Szövetsége Fejér Megyei Egyesület",
+      "rövid_név": "FEJÉR-ÉFOÉSZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2462 Martonvásár, Rákóczi utca 51.",
+      "x_koordináta": "47.3181558",
+      "y_koordináta": "18.7856616",
+      "adószám": "19168409-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-09-17",
+      "statisztikai_számjel": "19168409-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Egyesület kiemelt célja: tagjai illetve tagságtól függetlenül minden Fejér megyében értelmi fogyatékossággal élő ember, valamint családtagja egyéni és közös érdekeinek szervezett képviselete védelme. a.) Fejér megye területén lévő értelmi fogyatékos emberek és családjaik egyenjogú és teljes körű társadalmi befogadásának igényével indokolt érdekeinek képviselete, érvényesítése és védelme. A társadalomba történő integrációjuk elősegítése, szociális biztonságuk, rehabilitációjuk biztosítása, esélyegyenlőségük megvalósítása a diszkrimináció csökkentése. A sérült személyek segítése az önérvényesítés, mint kifejezés és a mindennapi életben használatos gyakorlati formák megtanulásában, b.) az önérvényesítés, mint önismereten alapuló és a saját érdekek felismeréséből következő érdekérvényesítő magatartás kialakítása, melynek célja az önérvényesítő képesség szervezett formában történő növelése és elterjesztése a fogyatékossággal élő emberek körében, c.) fogyatékosságokkal élők öntevékenységeinek, önrendelkezési lehetőségeinek, önmegvalósításainak elősegítése, d.) könnyen érthető kommunikációval történő önérvényesítő képességek fokozása annak érdekében, hogy az értelmileg sérült személy a mindennapi életben képviselni tudja önmagát, megismerje jogait és kötelességeit, e.) a fogyatékossággal élő emberek és családjaik, valamint az Őket segítő szakemberek összefogása, szakmai segítése, tevékenységeik összehangolása, közösségi érdekeik képviselete, érvényesítése, védelme, f.) az ENSZ Fogyatékossággal Élő Személyek Jogairól szóló Egyezményben foglaltak végrehajtásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003220",
+      "régi_nyilvántartási_száma": "3220/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-06-11",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Papp",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 458 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "270 070 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "377 240 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19351294",
+  "scraped_at": "2026-02-14T14:41:36.510402",
+  "organization_id": "369610",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csehimindszent Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Csehimindszent ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9834 Csehimindszent, 88/hrsz.",
+      "adószám": "19351294-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-21",
+      "statisztikai_számjel": "19351294-8425-529-18",
+      "x_koordináta": "47.0810966",
+      "y_koordináta": "16.9597639"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "a. Tűzoltási célok: • az önkéntes tűzoltás és műszaki mentés • balesetek helyszínén történő segítségnyújtás • vagyoni értékek megóvásában való közreműködés b. Katasztrófa- és polgári védelmi célok: • katasztrófa elhárítás, (természeti- és ipari katasztrófák felszámolásában való közreműködés és segítségnyújtás) • eltűnt személyek felkutatásában való részvétel • embertársak kimentése speciális helyzetekből c. Szociális tevékenységi célok: • gyermek és ifjúság utánpótlás nevelés • szociális segítségnyújtás • szabadidő programok szervezése, lebonyolítása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200943",
+      "régi_nyilvántartási_száma": "200943/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Takács",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dóczi",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "655 086 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19139812",
+  "scraped_at": "2026-02-21T14:38:38.256549",
+  "organization_id": "115008",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jégmadarak Mozgásfejlesztő Club Sport Egyesület",
+      "rövid_név": "Jégmadarak Mozgásfejlesztő Club SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1155 Budapest, Vág utca 73.",
+      "x_koordináta": "47.5408832",
+      "y_koordináta": "19.1171152",
+      "adószám": "19139812-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-19",
+      "statisztikai_számjel": "19139812-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A mozgás megszerettetése, a helyes testtartás és mozgás kultúra elsajátítása a fiatal korban, mozgásfejlesztés és utánpótlás nevelés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017119",
+      "régi_nyilvántartási_száma": "17119/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-20",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Czuczi",
+        "Képviselő keresztneve": "Mátyás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-11-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "295 380 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18904624",
+  "scraped_at": "2026-02-14T12:28:41.812424",
+  "organization_id": "108369",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Foki Nikolett Gyógyulásáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9300 Csorna, Andrássy utca 24/ D. fszt/1.",
+      "x_koordináta": "47.614704",
+      "y_koordináta": "17.252139",
+      "adószám": "18904624-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-31",
+      "statisztikai_számjel": "18904624-9499-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A Gyulafirátót település közigazgatási területén 2016. május 29. napján közlekedési baleset vétlen áldozatává vált, nyaktól lefele lebénult és a baleset óta géppel lélegeztetett Foki Nikolett gyógyulásának, egészségügyi ellátásának, rehabilitációjának segítése, megszervezése és támogatása, Nikolett életminőségének javítása, a cég elérését segítő gyógyszerek, eszközök, eljárások felkutatása, beszerzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051398",
+      "régi_nyilvántartási_száma": "51398/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-01-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "59500186-11123758-00000000",
+      "számlavezető_pénzintézet_neve": "Rajka és Vidéke Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fokiné Szarka",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "Márta",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "318",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 096 316 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "403",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 896 033 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "315",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 818 318 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "427",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 932 228 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "337",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 058 719 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "365",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 637 871 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Foki Nikolett Gyógyulásáért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Foki Nikolett Gyógyulásáért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Foki Nikolett Gyógyulásáért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

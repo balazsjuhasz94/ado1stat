@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19315254",
+  "scraped_at": "2026-02-14T12:36:55.596499",
+  "organization_id": "367259",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Korina Lépteiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8500 Pápa, Csutorás utca 47.",
+      "adószám": "19315254-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-11",
+      "statisztikai_számjel": "19315254-9499-569-19",
+      "x_koordináta": "47.3397796",
+      "y_koordináta": "17.4638555"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Újszülöttkori agykárosodást, mozgásszervi idegrendszeri sérülést elszenvedő Grób Korina (8500 Pápa, Csutorás utca 47.) mozgásfejlesztő speciális egyénre szabott terápia költségeinek-, egészségügyi ellátási költségeinek viselése, ápolása, gondozása, a mindennapi szükségleteinek kielégítéséhez és mozgásfejlesztéséhez szükséges speciális eszközök, gyógyászati és higiénés szerek költségeinek viselése, továbbá a terápiákra történő utazás költségeinek viselése. (Az alapítvány további céljait az alapító okirat 1.4. pontja tartalmazza.)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001886",
+      "régi_nyilvántartási_száma": "1886/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dan",
+        "Képviselő keresztneve": "Lászlóné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "339",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 167 569 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

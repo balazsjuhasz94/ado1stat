@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19086154",
+  "scraped_at": "2026-02-14T13:25:29.119503",
+  "organization_id": "88976",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jánoshalmi Mentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6440 Jánoshalma, Tompa Mihály utca 11",
+      "x_koordináta": "46.2981029",
+      "y_koordináta": "19.3426086",
+      "adószám": "19086154-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-19",
+      "statisztikai_számjel": "19086154-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A térségben történő beteg- és mentő ellátás szakmai színvonalának emelése és jobb ellátása, sürgősségi beteg- és mentő ellátás, életmentés jobbá tétele, korszerűsítése fejlesztése, segítése. Emeltszintű sürgősségi ellátáshoz és az emberi élet mentésének szakszerűbb ellátáshoz szükséges feltételek, eszközök, járművek beszerzése, megteremtése. Ennek biztosítására szakmai továbbképzések szervezése, szakmai fejlődést elősegítő anyagok, eszközök beszerzése. A térség lakosságának elsősegélynyújtásához való hozzáállásának és ismeretének tudatosítása, fejlesztése és az ehhez szükséges eszközök, oktatási anyagok beszerzése. Az elsősegélynyújtás területén a Közintézmények támogatása és az ott dolgozók oktatása, képzése. A mentési műszerpark fejlesztése, eszközvásárlás finanszírozása. Jánoshalmi Mentőállomás fejlesztése és a dolgozó személyzet munkakörülményeinek javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002592",
+      "régi_nyilvántartási_száma": "2592/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10402348-50526882-56501018",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "122",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "575 081 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "145",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "866 145 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "154",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 059 922 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "157",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 202 481 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jánoshalmi Mentő Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

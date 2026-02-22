@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19248398",
+  "scraped_at": "2026-02-14T12:34:27.218207",
+  "organization_id": "120849",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Laki Mancs Állatvédelmi Közhasznú Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6065 Lakitelek, Kisalpár tanya 40.",
+      "x_koordináta": "46.887949",
+      "y_koordináta": "20.025039",
+      "adószám": "19248398-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-30",
+      "statisztikai_számjel": "19248398-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az állatvédelem és a környezetvédelem népszerűsítése, állatvédő szervezetek és magánszemélyek együttműködésének elősegítése. A gazdátlan, sérült, kóborló, jogellenesen tartott állatok ügyének megoldása, szocializáció, rehabilitáció. Az emberek és állatok védelmében járőrszolgálat szervezése, működtetése. Vadállatok mentése, befogása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003827",
+      "régi_nyilvántartási_száma": "3827/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-11-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Orbán",
+        "Képviselő keresztneve": "Gyöngyi",
+        "Képviselő titulusa": "Júlia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "344",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 276 000 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "339",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 743 336 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "376",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 482 224 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

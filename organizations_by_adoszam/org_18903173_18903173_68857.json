@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18903173",
+  "scraped_at": "2026-02-21T14:34:06.485753",
+  "organization_id": "68857",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ÉFOÉSZ Liliom Önérvényesítők Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6800 Hódmezővásárhely, Serháztér utca 2-4.",
+      "x_koordináta": "46.4165527",
+      "y_koordináta": "20.3277841",
+      "adószám": "18903173-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-10",
+      "statisztikai_számjel": "18903173-8810-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a) A Csongrád Megye területén élő értelmi fogyatékos emberek és családjaik egyenjogú és teljes körű társadalmi befogadásának igényével indokolt érdekeinek képviselete, érvényesítése és védelme, társadalmi hátrányainak kiegyenlítése, emberi és állampolgári jogaik, társadalmi integrációjuk, szociális biztonságuk, rehabilitációjuk biztosítása, esélyegyenlőségük megvalósításának támogatása. b) Az értelmi fogyatékossággal élők öntevékenységeinek, önrendelkezési lehetőségeinek, önmegvalósításainak elősegítése, önrendelkezési joguk gyakorlása. c) Az értelmi fogyatékossággal élő emberek és családjaik, valamint az őket segítő szakemberek hazai szervezeteinek összefogása, segítése, tevékenységeiknek összehangolása, közösségi érdekeik képviselete, érvényesítése, védelme. d) Az ENSZ Fogyatékossággal Élő Személyek Jogairól szóló Egyezményében foglaltak végrehajtásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003275",
+      "régi_nyilvántartási_száma": "3275/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tótné Csikós",
+        "Képviselő keresztneve": "Nikoletta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "135 147 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "87 528 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "122 566 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "290 940 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 967 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÉFOÉSZ LILIOM Önérvénxyesítők Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÉFOÉSZ LILIOM Önérvényesítők Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

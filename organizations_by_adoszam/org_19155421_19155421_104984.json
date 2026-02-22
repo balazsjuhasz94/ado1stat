@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19155421",
+  "scraped_at": "2026-02-21T12:27:00.186406",
+  "organization_id": "104984",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cseperedő Manó Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Veres Péter utca 5. III/12.",
+      "x_koordináta": "47.8760451",
+      "y_koordináta": "20.3849639",
+      "adószám": "19155421-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-06-12",
+      "statisztikai_számjel": "19155421-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Danyi Máté (születési hely, idő: Eger, 2012. szeptember 24., anyja neve: Blayer Anikó) gondozása, tartása, valamint egészségügyi ellátási költségeinek viselése. Danyi Máté testi és értelmi fejlődésének, fejlesztésének biztosítása, a minél nagyobb fokú beilleszkedés és egy teljesebb élet megvalósítása érdekében. Hosszútávon egy olyan élettér és környezet megteremtése, kiépítése, biztosítása és fenntartása, amely lehetővé teszi számára, hogy - személyes körülményeinek megfelelő - élethosszig tartó gondozás, ellátás, felügyelet valósulhasson meg. Továbbá részére és a hozzá hasonló halmozottan sérültek számára közös fejlesztőfoglalkozások, programok szervezése életminőségük javítása érdekében. Valamint ezen csoportba tartozók szüleinek csoportos programok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001188",
+      "régi_nyilvántartási_száma": "1188/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-05-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10403507-50526850-90511014",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 193 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "441 892 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "536 126 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "565 260 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cseperedő Manó Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

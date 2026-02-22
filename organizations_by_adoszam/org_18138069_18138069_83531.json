@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "18138069",
+  "scraped_at": "2026-02-21T14:26:30.394932",
+  "organization_id": "83531",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SPURKERÉK Modellező Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7100 Szekszárd, Táncsics utca 29.",
+      "x_koordináta": "46.356116",
+      "y_koordináta": "18.6954748",
+      "adószám": "18138069-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-09-03",
+      "statisztikai_számjel": "18138069-9312-521-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Modellezés, mint szabadidősport mind szélesebb körben történő bemutatása, fiatalok szabadidejének hasznos kitöltése, a modellezés iránt érdeklődők, kezdő modellezők segítése, támogatása, versenypálya létrehozása, üzemeltetése, folyamatos technikai fejlesztése, modellező bajnokságok megszervezése, lebonyolítása, a modellezősport népszerűsítése, bemutató napok, rendezvények szervezése, Weboldal üzemeltetése, pályázatokon való részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0001862",
+      "régi_nyilvántartási_száma": "1862/2010",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-04-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-13",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bánki",
+        "Képviselő keresztneve": "Ede",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fazekas",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "380 861 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "269 376 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 088 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 703 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 326 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 390 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SPURKERÉK SPORTEGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SPURKERÉK MODELLEZŐ SPORTEGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Spurkerék Modellező Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

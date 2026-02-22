@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "19916130",
+  "scraped_at": "2026-02-21T13:04:47.571956",
+  "organization_id": "108856",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mezőkeresztes Városi Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3441 Mezőkeresztes, Kossuth utca 19.",
+      "x_koordináta": "47.8333171",
+      "y_koordináta": "20.6938568",
+      "adószám": "19916130-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19916130-9312-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja: A labdarúgó, kézilabda sportágban, illetve egyéb sporttevékenységek során a tevékenység irányítása, szervezése, fejlesztése és népszerűsítése minden korosztályban. Ennek keretében a sportegyesület elsődleges célja: a) tagjai részére a rendszeres testedzés, a sportolás és a versenyzés i lehetőségének biztosítása b) a sportegyesülettel kapcsolatban lévő általános iskolák tanulói részére a sportolási, testedzési lehetőségek megteremtése c) a lakosság szabadidős sportjának és testedzési lehetőségének biztosítása d) sportkapcsolatok létesítése és fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0002152",
+      "régi_nyilvántartási_száma": "2152/1996",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-03-07",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Adonics",
+        "Képviselő keresztneve": "István Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "243 856 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "261 481 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "334 937 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 969 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 307 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "441 455 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "402 470 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "461 121 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MEZŐKERESZTES VÁROSI SPORT EGYESÜLETE"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MEZŐKERESZTES VSE"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MEZŐKERESZTES VÁROSI SPORT EGYESÜLETE"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MEZŐKERESZTES VÁROSI SPORT EGYESÜLETE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mezőkeresztes Városi Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

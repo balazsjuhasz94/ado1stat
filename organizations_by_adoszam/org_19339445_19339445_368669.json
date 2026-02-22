@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19339445",
+  "scraped_at": "2026-02-21T14:36:19.683622",
+  "organization_id": "368669",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Andrássy Gyula Gépipari Technikumért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3400 Mezőkövesd, Lövői út 52.",
+      "adószám": "19339445-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-09",
+      "statisztikai_számjel": "19339445-8569-569-05",
+      "x_koordináta": "47.8015222",
+      "y_koordináta": "20.5720257"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Miskolci SZC Andrássy Gyula Gépipari Szakgimnáziuma és Szakközépiskolája kiemelkedő eredményt elért tanulóinak támogatása. Ezzel is ösztönözni a tanulókat a magas szintű általános és szakmai műveltség megszerzésére, továbbtanulásra, sport- és művészeti tehetségük kibontakozására. A szakképzés gyakorlati feltételeinek, iskolai eszközellátottságának magasabb fokra emelése, a modem technológiákhoz szükséges technikai berendezések és eljárások beszerzése. Az iskola környezetében hozzájárulni a szakképzés, a szakmai át- és továbbképzés átlagot meghaladó tárgyi feltételek kialakításához. Az iskola névadójának hagyományápolása. Az Iskola kiemelkedő eredményt elért tanulóinak díjazása. A tehetséges és szorgalmas, ám hátrányos helyzetű diákok segítése. Az Alapítónál szakmai gyakorlaton lévő tanulók tanulmányi és szakmai eredménytől függő díjazása, ösztöndíjban részesítése. Iskolai kirándulások támogatása. Az iskola bel- és külföldi kapcsolatainak fenntartása és szélesítése, a tanulók és kísérők utaztatásának biztosítása. Iskolai, kulturális, szakmai és hagyományőrző rendezvények támogatása, illetve segítése. A fenti célok érdekében kiírt pályázatokban való részvétel támogatása, szükség esetén pályázati önrész biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064692",
+      "régi_nyilvántartási_száma": "64692/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ruszkai",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "Attila",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovácsné Tóth",
+        "Képviselő keresztneve": "Melinda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kaló",
+        "Képviselő keresztneve": "Borbála",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "298 747 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

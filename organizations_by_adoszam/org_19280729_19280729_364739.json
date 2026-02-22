@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19280729",
+  "scraped_at": "2026-02-21T14:09:17.481626",
+  "organization_id": "364739",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lélekőr Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8330 Sümeg, Széchenyi György utca 12.",
+      "adószám": "19280729-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-07",
+      "statisztikai_számjel": "19280729-9499-529-19",
+      "x_koordináta": "46.9614842",
+      "y_koordináta": "17.3093462"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A társadalom mentálhigiénés kultúrájának fejlesztése, a pszichológia, a pszichiátria és az addiktológia társadalmi támogatottságának növelése, a marginalizálódott rétegek számára konkrét egészségügyi, szociális, jogi tanácsadás, segítségnyújtás (kiemelt figyelmet fordítva a pszichiátriai és szenvedélybetegekre).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003931",
+      "régi_nyilvántartási_száma": "3931/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-23",
+      "bankszámlaszám": "12083600-01746745-00100005",
+      "számlavezető_pénzintézet_neve": "Raiffeisen Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rónai",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-08-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "257 815 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 062 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

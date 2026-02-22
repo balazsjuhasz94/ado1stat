@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19315292",
+  "scraped_at": "2026-02-21T13:14:57.043595",
+  "organization_id": "367257",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent György Csónakos Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8710 Balatonszentgyörgy, Csillagvár utca 102",
+      "adószám": "19315292-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-12",
+      "statisztikai_számjel": "19315292-9499-529-14",
+      "x_koordináta": "46.691736",
+      "y_koordináta": "17.2939061"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Balatonszentgyörgy 0131. hrsz. fekvő csónaktároló biztonságos üzemeltetése, állagának megőrzése, környezettudatos fenntartása, tájba illő fejlesztése, és az ehhez szükséges források biztosítása; tevékenységünk és működésünk során jó kapcsolatot építsünk ki, ápoljunk és hosszú távon is fenntartsuk a helyi önkormányzattal, a környező hasonló profillal és célkitűzéssel rendelkező közösségformáló közösségekkel és szervezetekkel, a horgászati, hajózási és vízügyi szervekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-02-0004675",
+      "régi_nyilvántartási_száma": "4675/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Krisztián",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 630 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "433 788 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

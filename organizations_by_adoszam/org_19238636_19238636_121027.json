@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "19238636",
+  "scraped_at": "2026-02-14T13:32:41.220392",
+  "organization_id": "121027",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Segíts te is Kornélon!\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3704 Berente, Gagarin utca 10. 3/1",
+      "x_koordináta": "48.2385836",
+      "y_koordináta": "20.6700776",
+      "adószám": "19238636-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-19",
+      "statisztikai_számjel": "19238636-8899-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az epilepszia (West-szindróma), hipoxia, 15-ös Y-kromoszóma rendellenesség és ezek szövődményei betegségekkel rendelkező Báthori Kornél (születési név: Bárthori Kornél, szül. hely, idő: Miskolc, 2010.08.22, an.: Csepely Klára) gyógykezelésének, gyógyulásának, állapot javulásának, rehabilitációjának elősegítése, támogatása: - egészségügyi ellátási költségeinek viselése, - egészségügyi ellátás lehetőségeinek felkutatása, költségeinek fedezése, - külföldön igénybe vehető egészségügyi ellátások, műtétek, rehabilitációs lehetősége költségeinek finanszírozása, beleértve a gyermek és kísérője utazással és külföldön tartózkodással kapcsolatos költségeit, valamint az ellátás finanszírozását, - fizikai és mentális terápiák lehetőségeinek felkutatása, költségeinek fedezése, rehabilitációs foglalkozások lehetőségeinek felkutatása, költségeinek finanszírozása, - gyógyszerköltségekhez történő anyagi támogatás nyújtása, orvosi eszközök beszerzési költségeinek támogatása, orvosi konzultációk költségeinek fedezete, betegséggel kapcsolatos egészségügyi ellátások költségeinek fedezete, - mindennapi szükségeinek kielégítéséhez szükséges speciális eszközök, gyógyászati és higiéniás szerek költségeinek viselése, - segítségnyújtás a gyermek gondozásához, ápolásához, felügyeletének ellátásához, ezek költségeihez való hozzájárulás, - személyes biztonsága biztosítása költségeinek viselése, - a gyermek biztonságos, akadálymentes lakóhelye kialakításának költségeihez való hozzájárulás, - szükség szerint a bentlakásos intézetben történő elhelyezés lehetőségeinek felkutatása, költségeinek fedezése, - a gyermek speciális utazási igényének biztosításához szükséges lehetőségek felkutatása, költségeinek (beleértve a gépjármű vásárlásának, átalakításának, fenntartásának költségeit is) fedezése, különös figyelemmel arra, hogy a gyermek közforgalmi eszközön nem utaztatható, - szükséges hivatalos iratok, leletek fordítási költségeihez való hozzájárulás, illetve nyelvi akadályok áthidalásához segítségnyújtás, - egészségmegőrző tevékenységek, kezelések támogatása, - a célok megvalósításához szükséges költségek előteremtése érdekében jótékonysági rendezvények szervezése, - javára egyéb szociális célok megvalósítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064592",
+      "régi_nyilvántartási_száma": "64592/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bendicskó",
+        "Képviselő keresztneve": "Emese",
+        "Képviselő titulusa": "Mária",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Báthori",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Tünde",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8299",
+        "Leírás": "M.n.s. egyéb kiegészítő üzleti szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "130",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "648 596 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "650 751 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "121",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 104 741 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

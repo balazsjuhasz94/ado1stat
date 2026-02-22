@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19090803",
+  "scraped_at": "2026-02-21T13:43:21.697666",
+  "organization_id": "114038",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kutyások a Kutyákért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2013 Pomáz, Petőfi Sándor utca 27.",
+      "x_koordináta": "47.6385725",
+      "y_koordináta": "19.0278794",
+      "adószám": "19090803-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-05",
+      "statisztikai_számjel": "19090803-9699-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A magára hagyott, rossz körülmények között élő, megkínzott, sérült és beteg kutyák mentése, segítése, rehabilitációja és gazdához juttatása. A felelős állattartás feltételeinek megismertetése, ellenőrzése, igény szerint támogatása. Az ország szegényebb területein tevékenykedő civil állatvédők, állatmentők segítése, akár adomány gyűjtéssel, kutyák rehabilitációjával, közös összefogás a kutyákért.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003985",
+      "régi_nyilvántartási_száma": "3985/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-12-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11742520-21455539",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buják",
+        "Képviselő keresztneve": "Tamásné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "215 128 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "135 535 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "604 094 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "460 282 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "378 964 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyások a Kutyákért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyások a Kutyákért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

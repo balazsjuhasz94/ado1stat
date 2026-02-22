@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "19188878",
+  "scraped_at": "2026-02-21T13:46:46.127769",
+  "organization_id": "111721",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ArtEnto Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1088 Budapest, Bródy Sándor utca 32. 1/19.",
+      "x_koordináta": "47.49296",
+      "y_koordináta": "19.0666628",
+      "adószám": "19188878-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-31",
+      "statisztikai_számjel": "19188878-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az alapítvány fő célja a természeti környezet értékeinek közvetítése a társadalom felé – speciális programmal és eszközrendszerrel. Ennek módszertani újszerűségét az ún. élményalapú ismeretterjesztésben rejlő hatékonyság biztosítja. A természettudomány a civil közösség számára túlnyomóan érdektelen absztrakció, annak ellenére, hogy fontossága az életminőség szempontjából kiemelkedő. Az alapítvány elsősorban a biológia és művészet kölcsönhatásában rejlő kreatív lehetőségekre építi programját, így az tematikus kiállításokról, bemutatóktól, az interaktív öko-művésztáborig színesíthető.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012849",
+      "régi_nyilvántartási_száma": "12849/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-08-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-09-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11600006-00000000-84973391",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dusnoki",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "187 750 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "276 113 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "373 537 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

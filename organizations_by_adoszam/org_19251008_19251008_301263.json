@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19251008",
+  "scraped_at": "2026-02-14T13:08:11.322701",
+  "organization_id": "301263",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Julcsi Jövője Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8808 Nagykanizsa, Vadrózsa utca 27-29.",
+      "adószám": "19251008-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-25",
+      "statisztikai_számjel": "19251008-8696-569-20",
+      "x_koordináta": "46.5093077",
+      "y_koordináta": "16.9956165"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Béres Julianna (an.: Lencse Beáta, szül: 2011.05.12., lakcím: 8800 Nagykanizsa, Munkás u. 6/C fsz. 2.) halmozottan sérült gyermek életének segítése (kedvezményezett). A gyermek egy rendkívül ritka, Harlequin Ichtiosys nevű genetikai bőrbetegséggel született. Az egész országban mindösszesen hárman élnek ezzel a betegséggel. Ehhez társult még egy oxigénhiányos állapot is születése után, így a gyermek neurológiai problémákkal is küzd: nem tud járni, az egyik kezét tudja csak korlátozottan használni. Nem beszél. Az alapítvány konkrét célja: a kislány életének, életvitelének, esetleges önállósodásának a mozgássérült élettér kialakításának segítése. Fogyatékosságának megfelelő adaptált környezet kialakítása. Lakóhelye átalakítása, illetve utaztatásának egyre könnyebbé tétele, ami magába foglalja az elektromos kerekesszék szállítására is alkalmas autó megvételét és fenntartását. Szocializáció, önkiszolgálás és kommunikáció megsegítését szolgáló tárgyi eszközök beszerzése. Minden szükséges orvosi ellátás és rehabilitációs segédeszköz finanszírozása. Felmerülő korrekciós vagy egyéb műtétek, kórházi kezelések, szakrendelésre való utazás segítése, amíg nem áll rendelkezésre a megfelelő autó. Fejlesztő terapeuta és magán fejlesztő iskola finanszírozása. Otthoni ellátás támogatása egy segítő időszakos felvételére. Gondozó otthonban való elhelyezés segítése, ha a szülők az ellátására már képtelenek lennének.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001216",
+      "régi_nyilvántartási_száma": "1216/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-05-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Borsos",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "180",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 187 113 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "164",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 378 926 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "152",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 510 936 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

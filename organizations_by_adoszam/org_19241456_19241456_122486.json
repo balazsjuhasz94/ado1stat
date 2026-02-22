@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19241456",
+  "scraped_at": "2026-02-14T13:36:13.691950",
+  "organization_id": "122486",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ÉMÁSZ Szakszervezeti Tagok Egymásért Alapítványa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3525 Miskolc, Dózsa György út 13. 1/109",
+      "x_koordináta": "48.1066401",
+      "y_koordináta": "20.7780644",
+      "adószám": "19241456-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-16",
+      "statisztikai_számjel": "19241456-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az ÉMÁSZ Szakszervezet tagjainak és azok polgári jogi értelemben vett – a Ptk. szerint meghatározott – hozzátartozóinak balesete, halálesete miatt kialakult hátrányos helyzet kiküszöbölése, az ennélfogva hátrányos helyzetbe került tagok és hozzátartozóik szociális támogatása. Ezen felül segíteni kívánja a rászoruló nagycsaládos tagjait, illetve az ÉMÁSZ Szakszervezet tagjainak árván, félárván maradt gyermekeit és szakszervezeti nyugdíjasait életkörülményeik javításával. Mindemellett az Alapítvány lehetőségei szerint támogatást nyújt a tagok és hozzátartozóik részére testi-lelki egészségük megőrzésében, egészségfejlesztésében, szakmai továbbképzésükben, kulturális és szellemi fejlődésükben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064593",
+      "régi_nyilvántartási_száma": "64593/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-04-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Stork",
+        "Képviselő keresztneve": "Joachim",
+        "Képviselő titulusa": "Gábor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "921 030 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 393 304 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 070 882 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

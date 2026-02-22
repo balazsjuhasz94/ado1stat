@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "19100971",
+  "scraped_at": "2026-02-14T12:29:42.075664",
+  "organization_id": "93909",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Soha ne add fel LÁZÁR BENCE Közhasznú Emlékalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6041 Kerekegyháza, Dózsa György utca 54/ A.",
+      "x_koordináta": "46.9373615",
+      "y_koordináta": "19.4715106",
+      "adószám": "19100971-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-19",
+      "statisztikai_számjel": "19100971-9499-569-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja, hogy Magyarország területén élő leukémiás és egyéb vérképző megbetegedésekben szenvedő betegek életkörülményeinek javítása, szociális gondok enyhítése, a betegségek megelőzése, a gyógyulásra való esélyük növelése. Az Alapítvány segítséget kíván nyújtani a betegséggel küzdőknek mind fizikailag mind lelkileg. Felhívja a figyelmet, a véradások fontosságára, őssejtdonornak való jelentkezésre, mellyel nagy mértékben elő lehet segíteni a betegségben szenvedők gyógyulását. Az alapítvány célja a gyógyulásban részt vevő kórházi osztályokkal való kapcsolattartás, az osztályok támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002596",
+      "régi_nyilvántartási_száma": "2596/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-01-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "51700117-15004615",
+      "számlavezető_pénzintézet_neve": "Fókusz Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lázár Ernő",
+        "Képviselő keresztneve": "Istvánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "350",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 736 849 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "449",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 545 472 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "506",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 076 464 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "489",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 610 048 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "531",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 419 796 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Soha ne add fel LÁZÁR BENCE Emlékalapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Soha ne add fel LÁZÁR BENCE Emlékalapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,176 @@
+{
+  "search_adoszam": "18843426",
+  "scraped_at": "2026-02-14T13:50:33.129768",
+  "organization_id": "114989",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Konstruktív Életvezetés Iskolája Alapítvány",
+      "rövid_név": "KONELI Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Hársfa utca 32.",
+      "x_koordináta": "47.649507",
+      "y_koordináta": "19.125291",
+      "adószám": "18843426-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-10-08",
+      "statisztikai_számjel": "18843426-8520-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Bábosik István nevéhez fűződő konstruktív életvezetés, neveléselméletet, és az általa az intézményi rendszerre kidolgozott alternatív pedagógiai programot a bölcsődés kortól az egyetemi képzések. Az alapítvány által meghatározott intézményekben alkalmazzák, ezzel segítve a tanulók önálló életre, az egészséges életmódra való nevelését és az élethosszig tartó tanulását, Bábosik István nevéhez fűződő konstruktív életvezetés neveléselmélet elsajátításához szükséges Módszertani Központ létrehozása, működtetése, képzések szervgezése, bonyolítása, módszertani anyagok készítése, a szakmai adatbázis és az informatikai eszközrendszer megteremtése. Bábosik István nevéhez fűződő konstruktív életvezetés neveléselmélet tananyagának ismertté tétele, a tananyag gondozása, továbbfejlesztése. A képzés népszerűsítését , gyakorlati bevezetését követően, a nemzetközi együttműködésekben megalapozott kapcsolatokra építve külföldi tanárok továbbképzése, tematikus nyári egyetemek megrendezése neves hazai és külföldi szakemberek közreműködésével. Tanároknak nyújtott folyamatos képzései-továbbképzései szolgáltatások (saját tanároknak és kifejezetten továbbképzésekre, tapasztalatszerzés érdekében érkezőknek egyaránt ) a közösségfejlesztés érdekében a képzésen kívüli programok, terepmunkák, szabadidős programok, táborok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003819",
+      "régi_nyilvántartási_száma": "3819/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-08-23",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-12",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-30",
+      "bankszámlaszám": "10918001-00000088-91990004",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kardos",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Györgyi",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bábosik",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Újfalvi",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "153 403 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "146 605 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 033 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "519 059 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 414 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "957 503 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Konstruktív Életvezetés Iskolája Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Konstruktív Életvezetés Iskolája Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Konstruktív Életvezetés Iskolája Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

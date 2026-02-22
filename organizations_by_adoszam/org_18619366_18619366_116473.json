@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "18619366",
+  "scraped_at": "2026-02-21T14:08:11.653889",
+  "organization_id": "116473",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FOKA Folyami Katasztrófavédelem és Speciális Mentő Egyesület",
+      "rövid_név": "FOKA Folyami Katasztrófavédelem",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1025 Budapest, Napsugár lépcső 5. a",
+      "x_koordináta": "47.5371453",
+      "y_koordináta": "19.012449",
+      "adószám": "18619366-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-09-08",
+      "statisztikai_számjel": "18619366-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Fokozni a folyami régió biztonságát, csökkenteni a katasztrófákkal szembeni kiszolgáltatottságot, sportesemények, rendezvények szervezése, lebonyolítása, a rendvédelmi szervekkel szoros együttműködésben garantálni a lakosság védelmét veszélyhelyzetekben, minősített időszakokban, mentési feladatok végrehajtása, önkéntes tűzoltóság szervezése és fenntartása, együttműködés minden olyan szervezettel amely segíti az egyesület munkáját és támogatja céljai megvalósítását. A civil szervezet működési körének jellege: egyéb, polgári védelmi tevékenység",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065276",
+      "régi_nyilvántartási_száma": "65276/2014",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-14",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Patóh",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "Gyula",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "270 562 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 677 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

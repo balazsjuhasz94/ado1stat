@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19312062",
+  "scraped_at": "2026-02-14T14:27:01.041281",
+  "organization_id": "366982",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Képes vagy! Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Méntelek tanya 134.",
+      "adószám": "19312062-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-24",
+      "statisztikai_számjel": "19312062-8510-569-03",
+      "x_koordináta": "46.8818884",
+      "y_koordináta": "19.7076783"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Sajátos nevelési igényű gyermekek és tanulók, fogyatékos személyek gyógypedagógiai, pedagógiai támogatása, fejlesztése, ezen belül: - tanulásban akadályozott gyermekek, tanulók, személyek egyéni és csoportos gyógypedagógiai fejlesztése - autizmussal élő gyermekek, tanulók, személyek egyéni és csoportos gyógypedagógiai, autizmus-specifikus fejlesztése, - szülők képzése és támogatása, az autizmussal kapcsolatos eszközök és módszerek alkalmazásához, - pedagógusok képzése és támogatása az autizmussal élő gyermekek és tanulók integrációjának érdekében, - klubfoglalkozásik, autizmussal élő gyermekek és tanulók számára, - integrációt támogató csoportos foglalkozás, óvodás és iskolás korú gyermekek részére, - gyermekfelügyelet biztosítása a sajátos nevelési igényű gyermekek számára is, (akár otthonunkban), - autizmussal kapcsolatos témájú kiadványok, munkafüzetek szerkesztése és értékesítése, - továbbképzés szervezése pedagógusok számára, - konferencia szervezése, - nyári tábor és szabadidős, rekreációs programszervezés, - eszközkölcsönzés, - oktatófilm készítés, - korrepetálás, napközi jellegű foglalkozás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002647",
+      "régi_nyilvántartási_száma": "2647/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-01-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-11",
+      "bankszámlaszám": "11732002-23559093-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Baukó",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "Zita",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "77",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "718 144 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

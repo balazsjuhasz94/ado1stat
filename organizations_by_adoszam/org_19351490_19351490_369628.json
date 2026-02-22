@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19351490",
+  "scraped_at": "2026-02-21T14:09:39.184468",
+  "organization_id": "369628",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Négy Manccsal az Életért Keresőkutyás Egyesület",
+      "rövid_név": "NMÉ Keresőkutyás Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4032 Debrecen, Füredi út 45. B. 10/41.",
+      "adószám": "19351490-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-28",
+      "statisztikai_számjel": "19351490-9499-529-09",
+      "x_koordináta": "47.5559798",
+      "y_koordináta": "21.6225378"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Egyesület elsősorban a mantrailing-es kutyákkal történő személykeresést és ezzel összhangban a kutyák képzését tekinti fő céljának. Az Egyesület fő tevékenységi területe a kutyás személymentés, személyfelkutatás, illetve ezzel összefüggő közrend és közbiztonsági feladatok ellátása. A tagok céljaik érdekében képzik magukat, és e célra rendelten képzik ki mentőkutya állományukat. Az Egyesület egyéb tevékenysége a fő cél kiszolgálására irányuló felkészülési tevékenység, így személykereső kutya-képzés, kiképzés, ehhez kapcsolódó vizsgák lebonyolítása, gyakorlatok, előadások szervezése, megtartása, valamint ehhez kapcsolódó kutyás sporttevékenység és táborok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005266",
+      "régi_nyilvántartási_száma": "5266/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lendvai-Kovács",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "Piroska",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lendvai",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kósa",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 543 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "19030270",
+  "scraped_at": "2026-02-21T12:33:47.868211",
+  "organization_id": "102142",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Épületgépészek Szövetsége",
+      "rövid_név": "MÉGSZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1116 Budapest, Fehérvári út 132-144.",
+      "x_koordináta": "47.4552503",
+      "y_koordináta": "19.0397481",
+      "adószám": "19030270-2-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-07-29",
+      "statisztikai_számjel": "19030270-4324-517-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdekképviseleti tevékenység",
+      "céljának_leírása": "Az épületgépészeti kivitelező és tervező szakmához tartozó vállalkozások többségének tömörítése, szakmával kapcsolatos döntésekre jelentős befolyás gyakorlása, külső és belső célcsoportjaival jó és gyors kommunikáció, jó hírnév és hatékony működés kialakítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0000516",
+      "régi_nyilvántartási_száma": "516/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-09",
+      "a_nyilvántartott_adatok_verziószáma": "28",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Golyán Épületgépészet Kft. Golyán",
+        "Képviselő keresztneve": "László Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "72 136 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "150 731 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "121 825 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 939 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 714 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 423 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "544 005 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Épületgépészek Szövetsége"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Épületgépészek Szövetsége"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Épületgépészek Szövetsége"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Épületgépészek Szövetsége"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "19087681",
+  "scraped_at": "2026-02-14T12:14:46.343164",
+  "organization_id": "95454",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Polgárvilág Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3528 Miskolc, Gyöngyösi István utca 15.",
+      "x_koordináta": "48.0932667",
+      "y_koordináta": "20.8039969",
+      "adószám": "19087681-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-10-04",
+      "statisztikai_számjel": "19087681-7220-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja a média és a polgári nyilvánosság támogatása, újságírók képzése, a magyar és az európai kulturális értékek terjesztése, az oktatási, kulturális, kommunikációs tevékenység minél színvonalasabb művelésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064538",
+      "régi_nyilvántartási_száma": "64538/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-09-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10700086-71080727-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Élő",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "665",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 061 639 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "893",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 271 549 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1099",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 926 464 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2223",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "35 513 747 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Polgárvilág Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

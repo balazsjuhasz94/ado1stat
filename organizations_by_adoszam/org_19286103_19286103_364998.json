@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19286103",
+  "scraped_at": "2026-02-14T13:46:31.903290",
+  "organization_id": "364998",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PLIÉ SPORT- ÉS REKREÁCIÓS EGYESÜLET",
+      "rövid_név": "PLIÉ EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7634 Pécs, Új fasor 34. fszt./2.",
+      "adószám": "19286103-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-04",
+      "statisztikai_számjel": "19286103-9312-521-02",
+      "x_koordináta": "46.0698675",
+      "y_koordináta": "18.1647134"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Egyesület célja, hogy biztosítsa a ritmikus gimnasztika oktatását óvodás- és kisiskolás gyermekek számára, valamint versenyzési lehetőséget biztosítson szabadidő- és versenysport kategóriában. Emellett fejlesztő tornát biztosítson az arra rászoruló gyermekek részére, illetve a fiatal felnőttek részére rekreáció biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003969",
+      "régi_nyilvántartási_száma": "3969/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-19",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vörösvári",
+        "Képviselő keresztneve": "Csenge",
+        "Képviselő titulusa": "Dóra",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "236 356 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "60",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "732 675 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "962 751 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

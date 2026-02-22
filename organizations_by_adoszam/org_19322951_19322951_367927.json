@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19322951",
+  "scraped_at": "2026-02-14T14:15:56.877968",
+  "organization_id": "367927",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Debrecen-Szabadságtelepi Református Egyházközségért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4034 Debrecen, Komáromi Csipkés György tér 5.",
+      "adószám": "19322951-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-03",
+      "statisztikai_számjel": "19322951-9499-569-09",
+      "x_koordináta": "47.5224842",
+      "y_koordináta": "21.6668405"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a) A Debrecen-Szabadságtelepi Református Egyházközség sokoldalú missziójának támogatása b) Rászoruló, hátrányos helyzetű gyermekek - elsősorban református – intézményekben történő taníttatásának támogatása (ösztöndíj) c) Rászoruló családok és református gyülekezetek szociális támogatása d) Idősek, magányosok, betegek segítése és más hátrányos helyzetű csoportok esélyegyenlőségének támogatása e) A Debrecen-Szabadságtelepi Református Egyházközség tulajdonában álló ingatlanok karbantartásának, felújításának, bővítésének támogatása technikai és más eszközökkel való felszerelése f) Egyéb debreceni református alkalmak és rendezvények támogatása g) Nevelés, ismeretterjesztés támogatása, különös tekintettel református intézmények támogatására h) A lelki egészség védelmére, megőrzésére irányuló egészségfejlesztési és megelőzési programok támogatása i) Határon túli testvér gyülekezetek támogatása j) Az alapítványi célok megvalósításához szükséges eszközök beszerzése és pótlása k) Kulturális tevékenység, hagyományőrzés támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002293",
+      "régi_nyilvántartási_száma": "2293/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11738015-21467334",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csontos",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "767 591 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

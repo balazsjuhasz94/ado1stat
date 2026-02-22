@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18505902",
+  "scraped_at": "2026-02-14T14:15:20.803836",
+  "organization_id": "50549",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Közhasznú Alapítvány a szegedi idegsebészetért 2012",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6725 Szeged, Semmelweis utca 6.",
+      "x_koordináta": "46.2448054",
+      "y_koordináta": "20.1471153",
+      "adószám": "18505902-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-06-25",
+      "statisztikai_számjel": "18505902-8696-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A kuratórium elnöke idegsebész, irányítása mellett új szaksebészeti műszerek beszerzése, azok használatának elsajátítását szolgáló tudományos konferenciák, tanulmányutak szervezési és részvételi költségeinek finanszírozásásban való részvétel, a finanszírozás támogatása. Az SZTE ÁOK Idegsebészeti Klinika és a hozzá tartozó műtőegység, ambulanciák, diagnosztikai eljárások működését segítő rendszerek fejlesztésének és karbantartásának elősegítése (informatikai és más kisegítő háttérhálózatok bővítése, javítása stb.) Az Idegsebészeti Klinikán kezelt betegek jobb ápolási feltételeinek biztosítása, a komfortérzés fokozását szolgáló eszközök beszerzése érdekében történő további segítségnyújtás. A kiváló tevékenységet nyújtó dolgozók motiváltságának megtartása érdekében azok jutalmazása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001571",
+      "régi_nyilvántartási_száma": "1571/2013",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-07-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-22",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csernus",
+        "Képviselő keresztneve": "Gáborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Elek",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Barzó",
+        "Képviselő keresztneve": "Pál",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "525 623 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "469 166 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "519 578 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "63",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "768 836 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Közhasznú Alapítvány a szegedi Idegsebészetért 2012"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

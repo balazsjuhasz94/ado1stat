@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19188713",
+  "scraped_at": "2026-02-14T14:01:01.960577",
+  "organization_id": "111604",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BEETHOVEN ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2462 Martonvásár, Szent László út 2.",
+      "x_koordináta": "47.3132643",
+      "y_koordináta": "18.7902077",
+      "adószám": "19188713-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-30",
+      "statisztikai_számjel": "19188713-8569-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítók az iskolai nevelő- oktató munka színvonalának emelése, a tárgyi feltételek javítása érdekében hozták létre az alapítványt kiemelten az alábbiakra: - az iskola névadója, Beethoven kultusza és Martonvásár más kulturális hagyományainak ápolásában való aktív iskolai részvétel támogatása, - az iskola névadójához és Martonvásár hagyományaihoz méltó nevelés, a pedagógiai program oktatói-nevelői munkájának támogatása, a pedagógiai munka segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001145",
+      "régi_nyilvántartási_száma": "1145/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gáborné Sebestyén",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rezessyné Zsoldos",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "606 241 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "790 745 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "679 912 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "78",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "851 153 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Beethoven Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

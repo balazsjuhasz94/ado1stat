@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "19342409",
+  "scraped_at": "2026-02-21T13:13:45.246629",
+  "organization_id": "368897",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nózi Segítő Kutya Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4031 Debrecen, István út 33. VI/20.",
+      "adószám": "19342409-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-27",
+      "statisztikai_számjel": "19342409-9499-569-09",
+      "x_koordináta": "47.521601",
+      "y_koordináta": "21.5832683"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Hátrányos helyzetű, fogyatékossággal és teljes életet élő személyek egészségi állapotának és életminősége javításának támogatása, komplex fejlesztésének és oktatásának segítése segítő kutyák alkalmazásával, állatasszisztált aktivitás, állatasszisztált terápia, valamint az állatasszisztált oktatás speciális módszereivel. Segítő kutyák kiképzésének támogatása és azoknak a fogyatékos személyekhez történő eljuttatása. Együttműködés, tapasztalatcsere segítése állatasszisztált tevékenységekkel és segítő kutya kiképzéssel foglalkozó szervezetekkel, a szakterületen dolgozó szakemberek képzésének, továbbképzésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002302",
+      "régi_nyilvántartási_száma": "2302/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-01-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tokaji",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "Éva",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tősi",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kádár",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "436 898 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

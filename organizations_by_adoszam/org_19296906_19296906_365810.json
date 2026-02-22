@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19296906",
+  "scraped_at": "2026-02-14T15:02:39.790369",
+  "organization_id": "365810",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nadapért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8097 Nadap, Haladás út 56.",
+      "adószám": "19296906-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-04",
+      "statisztikai_számjel": "19296906-9499-569-07",
+      "x_koordináta": "47.2645058",
+      "y_koordináta": "18.6226778"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány annak érdekében fejti ki tevékenységét, hogy a falu folyamatos fejlődése megvalósuljon, a falu lakosságának száma növekedjen, az életkörülményei javuljanak. Az alapítvány a nadapi lakosok egészségesebb, biztonságosabb jövőéért jött létre, mely kiemelten szolgálja a gyermekek azonos célú igényeinek kielégítését, nevelésükkel kapcsolatos fejlesztések segítését, ide sorolva a Nadapi Kerekerdő Óvoda külső és belső környezetének igényes kialakítását és fenntartását. A további célok az alapító okiratban foglaltak szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001168",
+      "régi_nyilvántartási_száma": "1168/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Galló",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "117 953 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "591 602 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

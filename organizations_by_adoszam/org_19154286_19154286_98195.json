@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "19154286",
+  "scraped_at": "2026-02-14T12:27:35.678918",
+  "organization_id": "98195",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Speciális Állatmentő Egység Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1194 Budapest, Sas köz 2.",
+      "x_koordináta": "47.4420403",
+      "y_koordináta": "19.1511712",
+      "adószám": "19154286-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-24",
+      "statisztikai_számjel": "19154286-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A rászoruló, bajba jutott állatok – főleg extrém körülmények közötti - mentésében történő segítségnyújtás állatmentő szervezeteknek és magánszemélyeknek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012779",
+      "régi_nyilvántartási_száma": "12779/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "16200106-11637701",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kavicsánszki",
+        "Képviselő keresztneve": "Richárd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "193",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 632 326 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "369",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 059 306 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "409",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 008 958 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "443",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 973 322 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Speciális Állatmentő Egység Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

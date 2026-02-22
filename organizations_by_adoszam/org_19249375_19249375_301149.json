@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19249375",
+  "scraped_at": "2026-02-21T13:55:17.955417",
+  "organization_id": "301149",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gádoros Fejlődéséért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5932 Gádoros, Hajnal utca 10.",
+      "adószám": "19249375-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-02",
+      "statisztikai_számjel": "19249375-9499-529-04",
+      "x_koordináta": "46.6758698",
+      "y_koordináta": "20.5992074"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Gádoros Község fejlődése, élhetőbbé tétele. Az ehhez kapcsolódó tevékenységek koordinálására tagjainak önkéntes társulásával jött létre és demokratikusan elfogadott alapszabály szerint működik. Az egyesület céljának megvalósítása érdekében együttműködik minden állami, civil és gazdálkodó szervezettel, más egyesülettel és szövetséggel, amelyek segítik az egyesület eredményes működését és céljainak megvalósítását. Tudatos fogyasztói magatartás elősegítése. A lakosság életminőségének fejlesztése, javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003538",
+      "régi_nyilvántartási_száma": "3538/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fekete",
+        "Képviselő keresztneve": "Tiborné",
+        "Képviselő titulusa": "születési neve: Makó Anita",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Herbszt",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "332 561 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "411 580 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "358 913 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

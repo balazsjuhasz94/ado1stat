@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18941706",
+  "scraped_at": "2026-02-14T12:37:40.367198",
+  "organization_id": "74724",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csellengők Állatotthon Alapítvány",
+      "rövid_név": "Csellengők Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2217 Gomba , Tete puszta 219",
+      "x_koordináta": "47.3407061",
+      "y_koordináta": "19.4443382",
+      "adószám": "18941706-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-18",
+      "statisztikai_számjel": "18941706-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, a gazdátlan, elhagyott, elkóborolt, megfelelő ellátásban nem részesülő, vagy sérült állatok problémájának térségi megoldása, védelme, gondozása, rehabilitációja, szocializációja, gazdához jutásának elősegítése, állatbarát társadalmi környezet kialakításának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003902",
+      "régi_nyilvántartási_száma": "3902/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-05-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pocsai",
+        "Képviselő keresztneve": "Bertalanné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "387",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 276 443 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "344",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 360 423 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "340",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 884 538 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "248",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 348 972 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "291",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 074 563 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csellengők Állatotthon Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csellengők Állatotthon Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "19225294",
+  "scraped_at": "2026-02-14T12:28:07.775876",
+  "organization_id": "114747",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "10 millió Fa Alapítvány",
+      "rövid_név": "10 millió Fa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1072 Budapest, Klauzál tér 14. 3/19.",
+      "x_koordináta": "47.5003975",
+      "y_koordináta": "19.0635689",
+      "adószám": "19225294-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-17",
+      "statisztikai_számjel": "19225294-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A 10 millió Fa Alapítvány célja a lehető legnagyobb számban fák és erdők telepítése Magyarországon és más országokban. Célja továbbá a Föld klíma és biodiverzitás válsága kialakulásában szerepet játszó életformák átalakításának támogatása, kommunikálása, a fa- és erdőtelepítéssel kapcsolatos ismeretek terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012870",
+      "régi_nyilvántartási_száma": "12870/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-01-14",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-16",
+      "alkalmazottak_száma": "7",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-18",
+      "bankszámlaszám": "16200106-11648804",
+      "számlavezető_pénzintézet_neve": "Magnet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hervai-D'Elhoungne",
+        "Képviselő keresztneve": "Franciska",
+        "Képviselő titulusa": "Judit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bojár",
+        "Képviselő keresztneve": "Iván",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Keresztesi",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "292",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 497 447 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "384",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 148 953 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "368",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 812 162 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

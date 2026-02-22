@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19236098",
+  "scraped_at": "2026-02-14T12:47:20.288964",
+  "organization_id": "118869",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EGYSÉG Ukrán Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1108 Budapest, Szövőszék utca 2. 3/14.",
+      "x_koordináta": "47.4720408",
+      "y_koordináta": "19.1603236",
+      "adószám": "19236098-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-20",
+      "statisztikai_számjel": "19236098-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "- A magyarországi ukrán nemzetiség kulturális örökségének, szokásainak, hagyományainak feltárása, megőrzése, ápolása, tovább örökítése, továbbfejlesztése és megismertetése. - Az ukrán nemzetiségi szokásokat felelevenítő kulturális programok szervezése, és ezek által a magyarországi ukrán nemzetiség identitásának erősítése, a nemzetiségi lét mind teljesebb megélésének érdekében. - A Magyarországon élő ukrán nemzetiség kollektív érdekeinek képviselete. - Az ukrán nemzetiségi önkormányzatokkal, egyesületekkel és más ukrán kulturális szervezetekkel együttműködés az ukrán nemzetiségi hagyományok ápolása és fejlesztése érdekében. - Az ukrán és a magyar nemzet közötti kapcsolat elősegítése, ápolása és elmélyítése. - A nemzetiségek jogairól szóló 2011. évi CLXXIX. tv. 2. § 14. pontja alapján az ukrán nemzetiség e törvény szerinti képviselete. - Az ukrán nyelvű oktatás fejlesztése érdekében alap-, közép- és felsőfokú ukrán nyelvű oktatás gyermek– és felnőtt csoportok részére. - Az Ukrajnából a háború elől menekülők támogatása, segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017345",
+      "régi_nyilvántartási_száma": "17345/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Petrovszka",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "158",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 629 166 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "159",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 173 084 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 328 574 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

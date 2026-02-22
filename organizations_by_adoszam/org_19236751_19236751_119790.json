@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19236751",
+  "scraped_at": "2026-02-14T12:57:29.766111",
+  "organization_id": "119790",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Német Vizslák Fajtamentő Egyesülete",
+      "rövid_név": "NVFE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1183 Budapest, Felsőcsatári út 60.",
+      "x_koordináta": "47.3488967",
+      "y_koordináta": "19.0678991",
+      "adószám": "19236751-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-27",
+      "statisztikai_számjel": "19236751-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "a) Az FCI (Nemzetközi Kinológiai Szövetség) VII. fajtacsoportjába besorolt vizslák (auvergnei vizsla, bourbonnais-i vizsla, burgosi vizsla, cseh szálkás szakállú vizsla, francia vizsla, hosszúszőrű – rövidszőrű – drótszőrű – szálkásszőrű német vizsla, kis – nagy münsterlandi vizsla, olasz vizsla, portugál vizsla, hosszúszőrű – rövidszőrű weimari vizsla) mentése, gazdához juttatása, fajták védelme. b) A különböző vadászkutya-fajták tulajdonságai és vadászati munkájuk széleskörű megismertetése. c) A vadászkutyás és a szorosan hozzá köthető kultúra újjáélesztése, széleskörű terjesztése. d) A vadászkutyák és munkájuk fejlesztése és megismertetése, valamint azok tenyészminősítése céljából történő rendezvények, versenyek, vizsgák szervezése, lebonyolítása. e) Tenyészállat minősítések és bírálatok szervezése. f) Középiskolai, szakközépiskolai, szakiskolai, vadgazda mérnöki, hivatásos vadászi, sportvadászi oktatási anyagok és tematikák kidolgozása, oktatás szervezése és bonyolítása. g) A vizslák tenyésztésével, képzésével, bírálatával foglalkozók oktatása. h) Kiállítások, bemutatók szervezése, lebonyolítása. i) Állat-, természet- és környezetvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007787",
+      "régi_nyilvántartási_száma": "7787/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-04-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "365",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 268 104 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "340",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 614 512 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "127",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 822 103 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

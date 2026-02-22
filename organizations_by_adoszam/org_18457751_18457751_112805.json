@@ -1,0 +1,114 @@
+{
+  "search_adoszam": "18457751",
+  "scraped_at": "2026-02-21T13:39:35.564333",
+  "organization_id": "112805",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Algyői Vízisport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6750 Algyő, Búvár utca 5.",
+      "x_koordináta": "46.3314729",
+      "y_koordináta": "20.2050797",
+      "adószám": "18457751-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-07-17",
+      "statisztikai_számjel": "18457751-9319-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Az Algyői Vízisport Egyesület céljainak megvalósítását elsődlegesen a 2004. évi I. Sportról szóló törvény rendelkezései alapján végzi és kívánatos célnak tekinti az egyén testi és lelki egészségének művelését és a sportot mint közösségi tevékenységet, ahol az egyének a fair play szellemének megfelelően versenyeznek és amelyben a részvétel és győzelem, teljesítmény elismerése, az elvégzett munka megbecsülése, az önfegyelem és az egyén közösséggel szembeni felelőssége egyaránt megjelenik.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0001018",
+      "régi_nyilvántartási_száma": "1018/1995",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kövér",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Czinege",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2028-03-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "18 877 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "173 184 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "226 277 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "273 796 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "392 505 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "385 588 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Algyői Vízisport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Algyői Vízisport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Algyői Vízisport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

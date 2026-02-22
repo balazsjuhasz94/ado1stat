@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19156594",
+  "scraped_at": "2026-02-14T13:15:19.303706",
+  "organization_id": "104492",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MAGYARORSZÁGI MUNKAVÁLLALÓKÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Hivatalnok utca 74.",
+      "x_koordináta": "47.3765829",
+      "y_koordináta": "18.908265",
+      "adószám": "19156594-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-06-19",
+      "statisztikai_számjel": "19156594-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány céljának tekinti a magyarországi munkavállalók támogatását életminőségük javítása –nehéz élethelyzetben segítség nyújtásával, az egészség megőrzését, és az egészséges életmódot elősegítő szolgáltatások igénybevételének biztosításával, saját vagy gyermekeik oktatása céljából anyagi támogatás nyújtásával, kulturális rendezvényeken való részvétel, üdülés, szabadidő hasznos eltöltésének biztosításával, támogatásával – érdekében. Céljának tekinti továbbá a munkaerő piac igényeit figyelembe vevő képzési lehetőségekről való tájékoztatást, ezek igénybevételének támogatását, a munkavállalók folyamatos tájékoztatását a rájuk vonatkozó jogszabályi előírásokról, szükség esetén jogi segítség nyújtását. Az Alapítvány kiemelt figyelmet kíván fordítani a hátrányos helyzetű fiatal munkavállalók támogatására. Az alapítvány céljának módosítása semmis, kivéve, ha célját megvalósította vagy a cél elérése lehetetlenné vált és az új cél megvalósítására az alapítvány elegendő vagyonnal rendelkezik.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004041",
+      "régi_nyilvántartási_száma": "4041/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-04-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "120203040166930800100006",
+      "számlavezető_pénzintézet_neve": "Raiffeisen Bank Zrt. Magyarország"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bokor",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "188",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 401 568 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "142",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 106 554 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "140",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 396 834 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19285425",
+  "scraped_at": "2026-02-14T12:17:26.708383",
+  "organization_id": "364791",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cica-Vár-Lak Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2220 Vecsés, Halmi utca 36.",
+      "adószám": "19285425-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-13",
+      "statisztikai_számjel": "19285425-9499-569-13",
+      "x_koordináta": "47.3982812",
+      "y_koordináta": "19.2605956"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány célja elsősorban az állatvédelem, a macskák helyzetének javítása az alábbiak szerint: -gazdátlan macskák befogadása, ideiglenes befogadása, szocializálása -az állatok orvosi ellátása, ivartalanítása, gondozása, élelmezése -végleges befogadói helyek keresése, egészséges állatok \"örökbefogadása\" -felelős állattartás témában szakkörök, iskolai órák tartása és tartásának segítése, iskolán kívüli oktatási programok szervezése -betegségek megelőzésének fontosságára, ivartalanítára felhívó kampányok, programok szervezése -vállalkozások, magánszemélyek bevonása az állatmentés támogatásába -támogatói csoportok szervezése -együttműködés helyi önkormányzatokkal, állatorvosokkal, az állatvédelmi hatósággal és más állatvédő szervezetekkel",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004139",
+      "régi_nyilvántartási_száma": "4139/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-07-14",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10701276-72120730-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mucsi",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "951",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 929 428 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1089",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "9 343 628 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1514",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 331 161 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

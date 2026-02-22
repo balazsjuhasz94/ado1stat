@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19228008",
+  "scraped_at": "2026-02-21T14:22:03.471221",
+  "organization_id": "116242",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "TISZA GOAL FC Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4031 Debrecen, Szabolcs utca 7.",
+      "x_koordináta": "47.5360561",
+      "y_koordináta": "21.5968761",
+      "adószám": "19228008-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-16",
+      "statisztikai_számjel": "19228008-9312-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Különféle küzdősportok, sportlövészet és labdarúgás-sport rendezvények szervezése, a tagjai küzdősporttal, sportlövészettel, labdarúgással kapcsolatos érdekeinek képviselete, valamint kedvező sportolási lehetőség biztosítása; a küzdősportok, sportlövészet és labdarúgás fejlesztése sporttevékenységek szervezése által; küzdősportok, sportlövészet és labdarúgás népszerűsítése, feltételeinek megteremtése; utánpótlás nevelése és a versenyzők versenyzési lehetőségeinek biztosítása; versenyek szervezése és anyagi támogatása; a munkaidő és pihenőidő közötti egyensúly megteremtése; az egészséges életmód és helyes táplálkozás támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005038",
+      "régi_nyilvántartási_száma": "5038/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-11",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tisza",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "102 338 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 933 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "316 809 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": [
+      {
+        "Név": "TISZA GOAL FC Sportegyesület",
+        "Év": "2026"
+      }
+    ]
+  },
+  "error": null
+}

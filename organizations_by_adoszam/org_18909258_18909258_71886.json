@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "18909258",
+  "scraped_at": "2026-02-14T13:58:34.327766",
+  "organization_id": "71886",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Csepeli Kossuth Diákjaiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1211 Budapest, Kossuth Lajos utca 12.",
+      "x_koordináta": "47.4373343",
+      "y_koordináta": "19.0719912",
+      "adószám": "18909258-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-25",
+      "statisztikai_számjel": "18909258-8559-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az iskolai oktatás és nevelés feltételeinek jobb, korszerűbb biztosítása, támogatása különös tekintettel: a korszerű ösztöndíjrendszer létrehozására, a szociálisan hátrányos helyzetű tanulók támogatására, a tehetséges tanulók támogatására, a külföldön történő gyakorlati oktatás támogatására, a korszerű iskolai feltételrendszer kialakításnak, fenntartásnak támogatására, az idegen nyelv tanításnak támogatásra, a tanulók nyelvvizsgaköltségeihez történő hozzájárulásra, a humán műveltség középiskolánkban történő fejlesztésére, tanulmányi versenyek támogatására, az egészséges életmódra nevelés ösztönzésre, a környezetvédelmi szemléletmód kialakítására, a kreatív nevelés elősegítésére és kísérleti programok támogatásra, az iskolai tanulóinak tanulmányi támogatására, tanulmányi kirándulások támogatására, a tanulás tárgyi feltéteteleinek javítására, az iskolai környezet korszerűsítésére, esztétikusabbá tételére, iskolai programok (Kossuth-est, Kossuth-nap, egyéb iskolai ünnepek) gazdagítására, a rendezvények anyagköltségeinek biztosítására, ezzel is segítve az igényes programok szervezését, tanulmányi és sportversenyek támogatására, a tanulók jutalmazására",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012483",
+      "régi_nyilvántartási_száma": "12483/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-11-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-07",
+      "bankszámlaszám": "104001955052686865781005",
+      "számlavezető_pénzintézet_neve": "K &amp; H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Juhász",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "419 775 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "104",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 054 802 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "862 050 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "867 334 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "A Csepeli Kossuth Diákjaiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

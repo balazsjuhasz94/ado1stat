@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18871957",
+  "scraped_at": "2026-02-21T13:37:03.945468",
+  "organization_id": "62084",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szív temploma Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2024 Kisoroszi, Pacsirta utca 5.",
+      "x_koordináta": "47.811385",
+      "y_koordináta": "19.007885",
+      "adószám": "18871957-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-13",
+      "statisztikai_számjel": "18871957-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyarok Ős Anyjának tiszteletére templomot emelni ezzel segítve az emberek megnyugvását, lelki békéjének megtalálását, és ezen templom felépítéséhez és üzemeltetéséhez szükséges adományok gyűjtése. A templommal helyet biztosítani az emberek mindennapi életében felmerülő nehézségek kezelésére, lelki nyugalmunk megtalálására. A templomban családok, barátok, magányosok, kirekesztettek, szociálisan hátrányos helyzeten lévők részére rendezvények szervezése, ezzel hozzásegítve őket az útjuk megtalálásában. Gyermektáborok szervezése, gyermekek lelki fejlődésének segítése, Felnőttek lelki békéjének megtalálásához segítségnyújtás. A gyermekek hagyományőrző tevékenységének, nevelésének támogatás, elősegítése, a nemzeti kulturális értékek megismertetése, szellemi fejlődésük elősegítése. Az alapítvány célja a megvalósítást segítő eszközök felkutatása, támogatások igénybevétele.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003842",
+      "régi_nyilvántartási_száma": "3842/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-11-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bruder",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "49 462 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "59 019 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 323 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "388 910 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "421 490 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "390 012 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szív Temploma Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szív Temploma Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szív Temploma Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

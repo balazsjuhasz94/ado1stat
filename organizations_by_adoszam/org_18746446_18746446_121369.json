@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18746446",
+  "scraped_at": "2026-02-14T12:38:10.530624",
+  "organization_id": "121369",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kutyások a XV. Kerületért Állatvédő Egyesület",
+      "rövid_név": "Kutyások a XV. Kerületért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1151 Budapest, Csobogós utca 2. VIII/47.",
+      "x_koordináta": "47.538688",
+      "y_koordináta": "19.1460651",
+      "adószám": "18746446-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-04-23",
+      "statisztikai_számjel": "18746446-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelmi Őrszolgálat létrehozása és működtetése a XV. kerületben az Önkormányzattal 3együttmáködve, valamint az állatok védelme és mentése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016128",
+      "régi_nyilvántartási_száma": "16128/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Danielisz",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2029-04-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vámos",
+        "Képviselő keresztneve": "Vera",
+        "Képviselő titulusa": "Violetta",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "317",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 475 592 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "274",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 646 115 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "287",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 038 400 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

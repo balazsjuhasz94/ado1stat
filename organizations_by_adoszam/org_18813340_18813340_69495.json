@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18813340",
+  "scraped_at": "2026-02-14T14:34:17.591266",
+  "organization_id": "69495",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Isteni Szeretet\" Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4320 Nagykálló, Kossuth út 3.",
+      "x_koordináta": "47.8761536",
+      "y_koordináta": "21.8462455",
+      "adószám": "18813340-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-03-22",
+      "statisztikai_számjel": "18813340-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "- Óvodás, iskolás gyermekek, közép- és felsőfokú képzésben tanulók erkölcsi oktatása, nevelése - fiataljaink részére szabadidős, kulturális programok, nyári táborok szervezése, ehhez anyagi és egyéb támogatás nyújtása, illetve hátrányos helyzetű és fogyatékos gyermekek részvételéhez anyagi támogatás nyújtása - házasságra készülők és ifjú házasok részére családtervezési és gyermeknevelési tanácsadás, szükség esetén gyermekfelügyelet biztosítása - családi funkciók, családi kapcsolatok harmonizálása, erősítése - gyermekek helyes szocializációjának elősegítése - fiatalok helyben maradásának elősegítése - cserekapcsolatok szervezése és támogatás a hazai és határon túli katolikus közösségekkel - katolikus egyház vallási hagyományainak, értékrendjének megőrzése és ápolása, a nagykállói római katolikus egyházközség és fíliái történelmének kutatása, megismertetése - Nagykálló és környéke népi hagyományainak megismerése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0002642",
+      "régi_nyilvántartási_száma": "2642/2004",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-03-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdei",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "171 463 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "197 083 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 351 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "239 673 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "304 227 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "683 929 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Isteni Szeretet Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Isteni Szeretet\" Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Isteni Szeretet\" Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

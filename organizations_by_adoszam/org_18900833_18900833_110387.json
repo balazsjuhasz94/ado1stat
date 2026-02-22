@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18900833",
+  "scraped_at": "2026-02-14T13:03:51.598204",
+  "organization_id": "110387",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ezer mosoly a Beteg Gyermekekért Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1184 Budapest, Építő utca 15. A.lph. 1//5.",
+      "x_koordináta": "47.4506889",
+      "y_koordináta": "19.176123",
+      "adószám": "18900833-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-18",
+      "statisztikai_számjel": "18900833-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány elsődleges célja a különböző betegségekben szenvedő gyermekek gyógyítását elősegítő orvosi műszerek és készülékek biztosítása az egészségügyi intézményekben, elsősorban kórházakban. Manapság szemmel látható a különböző kórházakban a műszerek, eszközök hiánya. Az alapító és az alapítványhoz csatlakozók vagyoni hozzájárulásaikkal törekednek pótolni ezek hiányát és közreműködnek abban, hogy az intézmények felszereltebbek legyenek. Az alapítvány céljainak hatékony megvalósítása érdekében az alapító okiratban meghatározottak szerint szervezi tevékenységét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012431",
+      "régi_nyilvántartási_száma": "12431/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-10-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-07-04",
+      "alkalmazottak_száma": "10",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kozák",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "653 346 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "155",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "890 084 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 007 756 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "167",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "798 663 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "185",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 625 649 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EZER MOSOLY A BETEG GYERMEKEKÉRT ALAPITVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EZER MOSOLY A BETEG GYERMEKEKÉRT ALAPITVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19226903",
+  "scraped_at": "2026-02-21T14:25:55.616603",
+  "organization_id": "116658",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szociális és Bűnmegelőzési szakemberek Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4732 Cégénydányád, Petőfi Sándor utca 42.",
+      "x_koordináta": "47.9931099",
+      "y_koordináta": "22.5082392",
+      "adószám": "19226903-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-09",
+      "statisztikai_számjel": "19226903-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az egyesület alapvető célként határozta meg az egyén, a család, valamint a hátrányos helyzetű rétegek (fogyatékkal élők, idősek) társadalmi helyzetének, megítélésének javítását, megelőzését és rehabilitációját. Különösen figyel az utóbbi időben egyre súlyosbodó problémaként felmerülő elsősorban a fiatalságot érintő kábító hatású anyagok fogyasztásának megelőzésére, a fogyatékkal élő emberek társadalmi életben való egyenrangú részvételére, az időskorúak társadalmi kirekesztődésének meggátolására. Az egyesület ezen tevékenységét a társadalmi gondoskodási és ellátó rendszer mellett, leginkább a hasonló céllal létrehozott civil szervezetek segítségével és közreműködésével hajtja végre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004093",
+      "régi_nyilvántartási_száma": "4093/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-04-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gere",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "428 406 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "312 147 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

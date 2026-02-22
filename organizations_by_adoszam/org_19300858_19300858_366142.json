@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19300858",
+  "scraped_at": "2026-02-14T12:16:52.687309",
+  "organization_id": "366142",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Safi Cicamenedék Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2142 Nagytarcsa, Honfoglalás utca 33",
+      "adószám": "19300858-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-22",
+      "statisztikai_számjel": "19300858-9499-569-13",
+      "x_koordináta": "47.5230422",
+      "y_koordináta": "19.2888062"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja elsősorban a macskák születésszabályozásának elősegítése, a gazdátlan állomány csökkentése a megelőzés humánus és hatékony eszközével (ivartalanítás); a gazdátlan, szelíd macskák felelős gazdához juttatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004182",
+      "régi_nyilvántartási_száma": "4182/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-06-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Magyari",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1564",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 164 037 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1754",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "17 593 163 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

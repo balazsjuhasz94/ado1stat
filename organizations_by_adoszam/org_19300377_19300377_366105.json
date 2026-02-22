@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19300377",
+  "scraped_at": "2026-02-14T15:03:14.302677",
+  "organization_id": "366105",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Níla a Daganatos Gyermekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7586 Bolhó, Kossuth utca 42",
+      "adószám": "19300377-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-15",
+      "statisztikai_számjel": "19300377-8412-569-14",
+      "x_koordináta": "46.0335745",
+      "y_koordináta": "17.2971901"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány célja: 1. Leukémiás és daganatos megbetegedésben szenvedő gyermekek gyógyulási esélyeinek javítása, családjaik támogatása. 2. A gyógykezelés alatt álló gyermekek életének könnyítését szolgáló eszközök és berendezések beszerzésének elősegítése. 3. A Magyarországon nem kivitelezhető gyógykezelésekre való eljutás támogatása. 4. Beteg gyermekek rehabilitációját segítő táborok és összejövetelek szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003442",
+      "régi_nyilvántartási_száma": "3442/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szász",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "543 244 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "82",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "590 457 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

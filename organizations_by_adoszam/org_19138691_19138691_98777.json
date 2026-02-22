@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19138691",
+  "scraped_at": "2026-02-21T12:43:00.125349",
+  "organization_id": "98777",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fair-way Sportegyesület",
+      "rövid_név": "Fair-way SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1094 Budapest, Ferenc tér 10. A.lph. III./3.",
+      "x_koordináta": "47.481393",
+      "y_koordináta": "19.074574",
+      "adószám": "19138691-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-03-04",
+      "statisztikai_számjel": "19138691-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A sportág, a sportolás népszerűsítése és a mozgás szeretetének közvetítése, rekreáció. Alapvetően a footgolfon és pickleballon keresztül a koncentráció és az egészségtudatosság növelése. Gyakorlás és versenyzés minél nagyobb százalékú biztosítása. Törekvés a folyamatos fejlődésre egyéni, csapat és egyesületi szinten.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017108",
+      "régi_nyilvántartási_száma": "17108/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-04",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bőhm",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-08-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "384 811 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "62",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "611 834 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "601 950 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "514 729 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fair-way Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

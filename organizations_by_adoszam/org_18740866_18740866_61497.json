@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18740866",
+  "scraped_at": "2026-02-14T12:33:18.767357",
+  "organization_id": "61497",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Anyák az Anyákért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1145 Budapest, Torontál utca 35.",
+      "x_koordináta": "47.513592",
+      "y_koordináta": "19.106732",
+      "adószám": "18740866-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-03-02",
+      "statisztikai_számjel": "18740866-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Támogatni a rászoruló és mély szegénységben élő gyermekeket és családjaikat, továbbá gyermekkórházakat (újszülött, koraszülött, csecsemőosztály, stb.), óvodákat és bölcsődéket. Az alapítvány támogatja és segíti továbbá az egyedülálló kismamákat és az otthonukat elvesztő családokat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012202",
+      "régi_nyilvántartási_száma": "12202/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-07-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Almádi",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 791 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "141",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "745 355 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "393",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 464 694 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "281",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 830 810 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "289",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 159 860 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "266",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 605 404 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "377",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 773 045 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ANYÁK AZ ANYÁKÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ANYÁK AZ ANYÁKÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ANYÁK AZ ANYÁKÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ANYÁK AZ ANYÁKÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

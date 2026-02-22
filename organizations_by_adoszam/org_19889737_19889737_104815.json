@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "19889737",
+  "scraped_at": "2026-02-21T12:34:20.664777",
+  "organization_id": "104815",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dág Községi Sportegyesület",
+      "rövid_név": "Dág KSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2522 Dág, Deák u. 28. utca 28.",
+      "x_koordináta": "47.6664461",
+      "y_koordináta": "18.7204253",
+      "adószám": "19889737-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19889737-9319-521-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A szabadidő és versenysport keretében végzett rendszeres sportolás, testedzés, felüdülés biztosítása, az ilyen igények felkeltése, tagjainak nevelése a társadalmi öntevékenység és a közösségi élet kibontakoztatása. A működési területén lévő oktatási intézmények tanulóinak, továbbá a lakosság testnevelési, sporttevékenységének elősegítése. A társadalmi szervezet jellege: sportegyesület.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0000211",
+      "régi_nyilvántartási_száma": "211/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-16",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schmidt",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "235 485 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "294 515 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "393 784 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "72",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "948 424 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 221 150 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "539 781 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dág Községi Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DÁG KÖZSÉGI SPORTEGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dág Községi Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

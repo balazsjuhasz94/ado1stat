@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19103534",
+  "scraped_at": "2026-02-21T14:08:28.949903",
+  "organization_id": "115154",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MAGYAR INTEGRATÍV HOMEOPÁTIÁS EGYESÜLET",
+      "rövid_név": "MIHE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Testvérhegyi út 12/A.",
+      "x_koordináta": "47.519733",
+      "y_koordináta": "19.0151697",
+      "adószám": "19103534-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-09",
+      "statisztikai_számjel": "19103534-8559-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdek-képviseleti tevékenység (pl. vállalkozói érdekképviselet, munkavállalói érdekképviselet, szakmai érdekképviselet)",
+      "céljának_leírása": "1. Praxisjog megszerzése a nem- orvos homeopaták számára, különös tekintettel a CHE Homeopátiás Magániskolában végzettek, vagy Homeopátiás tanácsadó felnőttképzésben akkreditált végzettséggel rendelkezők vagy azzal egyenértékű végzettséggel rendelkezők számára. 2. A homeopátia, az egészséges életmód és prevenció népszerűsítése előadások, konferenciák, írott és egyéb tájékoztatás által. 3. Homeopátia integrálása az egészségügyi rendszerbe, a prevenciós programokba. A homeopátiás szakma összefogása, megosztottságának felszámolása az integráció által. 4. Előadások, workshopok és konferenciák taratása és szervezése hazai és nemzetközi előadókkal, homeopátiás témában. 5. Szakmai képzések és továbbképzések szervezése homeopaták és homeopátia iránt érdeklődők számára. 6.Szakmai minőségbiztosítás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007431",
+      "régi_nyilvántartási_száma": "7431/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-24",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "24",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "16200010-10120721",
+      "számlavezető_pénzintézet_neve": "MagNet Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Radványi",
+        "Képviselő keresztneve": "Noémi",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "115 106 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "49 042 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "290 250 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "350 207 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 279 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR INTEGRATÍV HOMEOPÁTIÁS EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR INTEGRATÍV HOMEOPÁTIÁS EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

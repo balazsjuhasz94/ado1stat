@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19316420",
+  "scraped_at": "2026-02-14T13:25:54.215624",
+  "organization_id": "367329",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kis Kincsek Állatvédelmi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2713 Csemő, Lángi dűlő 17.",
+      "adószám": "19316420-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-25",
+      "statisztikai_számjel": "19316420-9499-569-13",
+      "x_koordináta": "47.1158995",
+      "y_koordináta": "19.674534"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A gazdátlan, kidobott, balesetet szenvedett, bajbajutott, bántalmazott, rossz tartási körülmények között élő, gazda által leadott, elkobzott, gyepmesteri telepről átvállalt állatok (leginkább kutyák) - biztonságba helyezése, - akut-, krónikus-, preventív orvosi ellátása (chip, oltások, ivartalanítás), - folyamatos külső-belső parazitamentesítés, kötelező oltások évenkénti ismétlése, - minőségi alapellátása (étkeztetés, megfelelő szállás, élettér biztosítása) - a faj és fajta specifikus igények kielégítése, - esetleges terápiák (mentális, viselkedésbeli) biztosítása, - szükség szerinti szocializálása, - eredeti gazda felkutatása, visszajuttatása (amennyiben a tartási körülmények megfelelőek) - új családba helyezés elő- és utóellenőrzéssel, szerződéssel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004247",
+      "régi_nyilvántartási_száma": "4247/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kis",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 146 942 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "106",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 190 491 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

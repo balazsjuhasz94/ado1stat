@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19000785",
+  "scraped_at": "2026-02-14T14:19:23.787424",
+  "organization_id": "93867",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Fogorvosok Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6720 Szeged, Vár utca 7. I. em./3.",
+      "x_koordináta": "46.249733",
+      "y_koordináta": "20.1459",
+      "adószám": "19000785-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1987-01-01",
+      "statisztikai_számjel": "19000785-7210-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység",
+      "céljának_leírása": "A fogorvostudomány fejlődésének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0000918",
+      "régi_nyilvántartási_száma": "918/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-16",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "26",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "Ágnes",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "767 923 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

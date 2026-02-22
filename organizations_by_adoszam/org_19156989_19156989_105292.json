@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19156989",
+  "scraped_at": "2026-02-21T13:47:19.282839",
+  "organization_id": "105292",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyereksziget Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8087 Alcsútdoboz, Szabadság utca 105.",
+      "x_koordináta": "47.4261842",
+      "y_koordináta": "18.6021655",
+      "adószám": "19156989-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-06-20",
+      "statisztikai_számjel": "19156989-9499-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja az Alcsútdobozi József Nádor Általános Iskola tanulóinak, pedagógusainak sokoldalú segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001135",
+      "régi_nyilvántartási_száma": "1135/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-05-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11736020-21455591-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt. Bicskei Fiók"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Keindl",
+        "Képviselő keresztneve": "Zoltánné",
+        "Képviselő titulusa": "szül. Richter Mariann",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "101 824 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "129 031 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "320 574 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 789 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyereksziget Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

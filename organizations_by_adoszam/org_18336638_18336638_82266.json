@@ -1,0 +1,129 @@
+{
+  "search_adoszam": "18336638",
+  "scraped_at": "2026-02-14T12:19:34.781678",
+  "organization_id": "82266",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Korábban Érkeztem Alapítvány",
+      "rövid_név": "Korábban Érkeztem Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Fő fasor 9.",
+      "x_koordináta": "46.2466826",
+      "y_koordináta": "20.1388088",
+      "adószám": "18336638-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-12-20",
+      "statisztikai_számjel": "18336638-8696-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A koraszülött, ill. súlyos, életveszélyes állapotban lévő csecsemők sürgősségi és intenzív ellátásának támogatása; ezen a területen dolgozó szakorvosok, nővérek oktatása, továbbképzése, sürgősségi és intenzív orvosi ellátás költségeihez történő hozzájárulás, orvosok és nővérek kongresszusokon való részvétele; az osztályon lévő csecsemők gyógyulását megteremtő berendezések vásárlása; oktató, továbbképző tanfolyamok, kongresszusok szervezése és az ehhez szükséges anyagi eszközök megteremtése; olyan körülmények biztosítása, amelyek segítik a gyermek felépülését, a család ezen életszakaszának megkönnyítését; az osztályon lévő csecsemők teljes körű ellátása, amely magában foglalja a tápszerek, pelenkák, törlőkendők, tisztálkodási szerek, évszaknak megfelelő ruhák, stb. biztosítását; az érzékeny bőrű, ill. allergiás csecsemők részére hypoallergén tisztálkodási, ápolási szerek biztosítása; az osztályon ellátott és az ellátás után utángondozott csecsemők és családjaik támogatás; a család, szülők a születés következményeinek feldolgozásához pszichológus, család terapeuta bevonásának biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001561",
+      "régi_nyilvántartási_száma": "1561/2012",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-09-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-02",
+      "alkalmazottak_száma": "7",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tápler",
+        "Képviselő keresztneve": "Zita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagyillés",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "1279",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 502 030 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1235",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 543 943 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1105",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 911 665 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "583",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 012 020 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "575",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 615 854 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1053",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 899 419 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korábban Érkeztem Dél-alföldi Regionális Koraszülött Intenzív Osztályért Alapítv"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korábban Érkeztem Dél-alföldi Regionális Koraszülött Osztályért Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korábban Érkeztem Dél-Alföldi Regionális Koraszülött Intenzívosztályért Alapítv."
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korábban Érkeztem Dél-Alföldi Regionális Koraszülött Intenzívosztályért Alapítv."
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korábban Érkeztem Dél-alföldi Reg.Kor. Int. Oszt. Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korábban Érkeztem Dél-alföldi Reg.Kor.Int. Oszt. Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Korábban Érkeztem Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

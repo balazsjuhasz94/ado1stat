@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19286567",
+  "scraped_at": "2026-02-21T14:05:21.876482",
+  "organization_id": "365035",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hétvezér Baptista Általános Iskoláért Alapítvány",
+      "rövid_név": "Hétvezérért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4831 Tiszaszalka, Váci Mihály utca 42.",
+      "adószám": "19286567-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-05",
+      "statisztikai_számjel": "19286567-9499-569-15",
+      "x_koordináta": "48.1876743",
+      "y_koordináta": "22.3257917"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Hétvezér Baptista Általános Iskoláért Alapítvány célja a tiszaszalkai Hétvezér Baptista Általános Iskola, Óvoda és Alapfokú Művészeti Iskolában folyó nevelő és oktató munka anyagi támogatásával hozzájárulni a tanulók képességeinek sokoldalú fejlesztéséhez, az eredményesebb tanulás elősegítéseként a tanulók támogatása, jutalmazása, elismerése, közösségi programjaik szervezésének támogatása. E célok elérése érdekében a feladatai: - az Iskola éves munkatervében támogatott tanulmányi versenyekre való benevezés finanszírozása, - a kiemelkedő teljesítményt nyújtó tanulók jutalmazása, - a rászoruló, hátrányos helyzetű tanulók és családjaik támogatása - az Iskola által alapított elismerések anyagi vonzatának biztosítása, - az Iskoláért, az Iskola tanulóiért kiemelkedő munkát végző pedagógusok elismerése, - a tanulók felkészültségét segítő szemléltető eszközök vásárlása - a neveléssel-oktatással kapcsolatos eszközök beszerzésének anyagi támogatása - kulturális és hagyományőrző tevékenység segítése, támogatása - a közösségfejlesztést elősegítő programok; sport, szabadidős és művészeti rendezvények, osztálykirándulások, táborok támogatása - a célok megvalósítását elősegítő lehetőségek felkutatása, támogatások igénybe vétele és támogatások nyújtása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002574",
+      "régi_nyilvántartási_száma": "2574/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-19",
+      "bankszámlaszám": "11744065-24470957-00000000",
+      "számlavezető_pénzintézet_neve": "Otp Bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szalai",
+        "Képviselő keresztneve": "Annamária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "306 932 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 810 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "341 916 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

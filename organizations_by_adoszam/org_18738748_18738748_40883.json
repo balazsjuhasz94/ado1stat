@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18738748",
+  "scraped_at": "2026-02-14T12:21:27.947285",
+  "organization_id": "40883",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "IGÉZŐ Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6800 Hódmezővásárhely, Andrássy út 45.",
+      "x_koordináta": "46.4146717",
+      "y_koordináta": "20.3180514",
+      "adószám": "18738748-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-17",
+      "statisztikai_számjel": "18738748-9699-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Állatvédelem, a veszélybe került, gazdátlanná vált házi állatok befogadása, gyógykezeltetése, rehabilitációja, gondozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003163",
+      "régi_nyilvántartási_száma": "3163/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-30",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bodrogi",
+        "Képviselő keresztneve": "Jolán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "443",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 808 507 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "613",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 178 375 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "726",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 848 807 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "667",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 236 657 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1131",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 660 441 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1085",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 513 959 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1057",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 885 110 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igéző Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igéző Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igéző Állatvédő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Igéző Állatvédő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

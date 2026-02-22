@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18946385",
+  "scraped_at": "2026-02-14T13:45:41.320480",
+  "organization_id": "77607",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budaörsi Cserkészekért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2040 Budaörs, Ibolya utca 29",
+      "x_koordináta": "47.435046",
+      "y_koordináta": "18.9691191",
+      "adószám": "18946385-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-18",
+      "statisztikai_számjel": "18946385-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület olyan szociális és nonprofit társadalmi szervezet, amely programok szervezésével, lebonyolításával segíti a rendezvényen résztvevő gyermekek és fiatalok egészséges testi és szellemi fejlődését. Képviseli a gyermekek érdekeit, segíti a gyermekek családban való nevelkedését. Az egyesület az általa szervezett programok útján, tevékenysége által, valamint az egyetemes értékek képviselet által a gyermekek szociális és közösségi érzékenységét fejleszti.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007354",
+      "régi_nyilvántartási_száma": "7354/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hegyi",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "Lehel",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "516 389 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 359 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "652 923 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "808 332 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "971 206 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budaörsi Cserészekért Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budaörsi Cserészekért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,48 @@
+{
+  "search_adoszam": "19116873",
+  "scraped_at": "2026-02-14T21:09:27.345535",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Vöröskereszt Győr-Moson-Sopron Vármegyei Szervezete",
+      "rövid_név": "",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9024 GYŐR NAGY IMRE UTCA 28.",
+      "x_koordináta": "47.6617794",
+      "y_koordináta": "17.6286583",
+      "adószám": "19116873",
+      "adószám_állapota": "",
+      "adószám_kiadásának_dátuma": "",
+      "statisztikai_számjel": ""
+    },
+    "fonadatok": {
+      "szervezet_típusa": "",
+      "szervezet_célja_szerinti_besorolás": "",
+      "céljának_leírása": "",
+      "állapot": "",
+      "nyilvantartási_száma": "",
+      "régi_nyilvantartási_száma": "",
+      "közhasznú_fokozata": "",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "",
+      "alkalmazottak_száma": "",
+      "a_nyilvántartott_adatok_verziószáma": "",
+      "a_verzió_bejegyzésének_dátuma": ""
+    },
+    "kepviselok": [],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "729 081 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

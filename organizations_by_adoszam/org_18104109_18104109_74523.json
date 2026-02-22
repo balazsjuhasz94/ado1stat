@@ -1,0 +1,193 @@
+{
+  "search_adoszam": "18104109",
+  "scraped_at": "2026-02-14T13:22:15.060152",
+  "organization_id": "74523",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány",
+      "rövid_név": "MMSZ Iskola Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1033 Budapest, Miklós utca 32.",
+      "x_koordináta": "47.5452335",
+      "y_koordináta": "19.0435589",
+      "adószám": "18104109-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-09-05",
+      "statisztikai_számjel": "18104109-8532-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "a) 0-24 éves korú gyermekek, fiatalok számára magas színvonalú nevelő-oktató munka biztosítására óvodai, alapfokú, középfokú és szakképesítő középoktatási intézményeket - óvodát, iskolát, kollégiumot - tart fenn. Az alapítvány a fenntartáson kívül hozzájárul az intézményeiben folyó munka szakmai, anyagi és tárgyi feltételeinek megteremtéséhez, az intézményi ellátás, a képzés és működés színvonalának emeléséhez, támogatja a rászoruló gyermekeket, részükre foglalkozásokat, előadásokat, táborokat szervez, vagy ezekhez támogatást nyújt. b) 16. életévet betöltött, általános iskolai végzettséggel rendelkező fiatalok és felnőttek részére olyan piacképes szakképzettség nyújtása, mellyel keresett munkaerővé képesek válni az iskolánkban végzett diákok. Az alapítvány segítséget nyújt az intézményben tanuló fiatalok gondozásában, esetleges segélyezésében, valamint támogatást kíván nyújtani a képzésben résztvevő hallgatók számára az optimális munkahelyek megtalálásához. c) A 24. életévet betöltött, általános iskolai végzettséggel nem rendelkező felnőttek részére felzárkóztató, kompetencia fejlesztő foglalkozások biztosítása, az általános iskolai végzettség eléréséhez segítség nyújtás a munkaerő-piaci sikeres részvétel érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0008227",
+      "régi_nyilvántartási_száma": "8227/2001",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-05-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-15",
+      "alkalmazottak_száma": "33",
+      "a_nyilvántartott_adatok_verziószáma": "29",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Thaisz",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-04-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6820",
+        "Leírás": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "6920",
+        "Leírás": "Számviteli, könyvvizsgálói, adószakértői tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 297 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "76 927 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "150 359 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "116",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "506 893 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "559 495 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "99",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "547 949 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "103",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "721 162 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "89",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "735 187 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "112",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 043 853 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "165",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 443 140 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "135",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 394 587 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 253 299 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR MÁLTAI SZERETETSZOLGÁLAT ISKOLA ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskoa Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeetetszolgálat Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Máltai Szeretetszolgálat Iskola Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

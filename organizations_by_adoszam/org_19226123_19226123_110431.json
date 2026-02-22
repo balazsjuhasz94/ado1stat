@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19226123",
+  "scraped_at": "2026-02-14T12:59:00.392144",
+  "organization_id": "110431",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szolgálat-teljesítés közben alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Ungvár utca 22. fszt/8.",
+      "x_koordináta": "47.634803",
+      "y_koordináta": "19.156727",
+      "adószám": "19226123-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-20",
+      "statisztikai_számjel": "19226123-8899-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Kortól, nemtől függetlenül minden szolgálat-teljesítés közben vagy azzal kapcsolatban sérült vagy életet vesztett és családjaik életvitelének jobbá tétele és érdekképviselete. Városokban, falvakban a szolgálat-teljesítés közben vagy azzal kapcsolatban sérült nappali ellátásának, szállításának, oktatásának - fejlesztéssel együtt való - megszervezése, házi segítségnyújtó rendszer kialakulásának segítése, megszervezése, üzemeltetése. Családias lakás-otthonok létesítése országszerte szolgálat-teljesítés közben vagy azzal kapcsolatban sérült számára, családias lakó közösség létrejöttének támogatása. Szolgálat-teljesítés közben vagy azzal kapcsolatban sérült védelme és segítése az élet minden területén, a fogyatékosokat megillető jogoktól kezdve, az egészségügyi ellátáson át, a foglalkoztatási lehetőségekig. Egészségmegőrző és egészségügyi rehabilitációs tevékenység megszervezése a szolgálat-teljesítés közben vagy azzal kapcsolatban sérült számára. Szolgálat-teljesítés közben vagy azzal kapcsolatban sérült foglalkoztatásának elősegítése. Rendezvények, táborok, képzések szervezése szolgálat-teljesítés közben vagy azzal kapcsolatban sérült számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004068",
+      "régi_nyilvántartási_száma": "4068/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-03-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-24",
+      "bankszámlaszám": "11600006-00000000-85520264",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mátyásné Berki",
+        "Képviselő keresztneve": "Valéria",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "140",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 762 717 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

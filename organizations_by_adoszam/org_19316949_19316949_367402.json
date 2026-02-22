@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19316949",
+  "scraped_at": "2026-02-21T14:34:26.739018",
+  "organization_id": "367402",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A tiszadobi tehetségekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4456 Tiszadob, Vörösmarty utca 27.",
+      "adószám": "19316949-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-01",
+      "statisztikai_számjel": "19316949-9499-569-15",
+      "x_koordináta": "47.9899856",
+      "y_koordináta": "21.1577068"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány a Tiszadobi Széchenyi István Általános Iskola és Alapfokú Művészeti Iskola (továbbiakban: iskola) tehetséggondozási tevékenységet kívánja elősegíteni, e körben elsősorban az idegennyelv-oktatás színvonalának fejlesztését tűzve ki célként. Ehhez kapcsolódóan az alapítvány segíteni kívánja a tehetséggondozásban résztvevő oktatók anyagi és erkölcsi elismerését. Az alapítvány rendelkezésére bocsátott vagyon hozadéka felhasználható a tanulók képességeinek az általános iskolai oktatás keretei közti kibontakoztatásához, az idegennyelvi oktatás és az egyéb területeken megvalósuló tehetséggondozás feltételeinek megteremtéséhez, javításához, bővítéséhez. a tanulók motiválásához. Felhasználható továbbá az idegennyelv oktatás és a tehetséggondozás tanórán kívüli kereteinek megteremtéséhez és finanszírozásához, ideértve például szakkörök létrehozását, kiscsoportos foglalkozások, különórák megtartását, tanulmányi versenyek vagy nyári táborok szervezését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002605",
+      "régi_nyilvántartási_száma": "2605/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11734114-25875647-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Királyné Réthi",
+        "Képviselő keresztneve": "Julianna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "372 122 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 518 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

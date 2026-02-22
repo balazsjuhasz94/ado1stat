@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19290687",
+  "scraped_at": "2026-02-14T12:22:57.423901",
+  "organization_id": "365373",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cerberos Pitbull Mentő Alapítvány",
+      "rövid_név": "Cerberos Pitbull Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2244 Úri, Síp utca 9.",
+      "adószám": "19290687-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-18",
+      "statisztikai_számjel": "19290687-9499-569-13",
+      "x_koordináta": "47.4101826",
+      "y_koordináta": "19.5388536"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja az állatok védelme továbbá, hogy megoldást nyújtson valamennyi segítségre szoruló kutya, illetve kutyatulajdonos számára. Az alapítvány gondoskodik a gazdátlan, krízishelyzetben lévő kutyák átmeneti, vagy végleges befogadásáról, életkörülményeinek javításáról, egészségének megőrzéséről, emellett a kutyatulajdonosok igényeihez igazodva nyújt a kutyatartás körébe tartozó bármilyen témában segítséget.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004149",
+      "régi_nyilvántartási_száma": "4149/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-12-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gál",
+        "Képviselő keresztneve": "Teréz",
+        "Képviselő titulusa": "Gabriella",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "993",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 482 364 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1025",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 377 974 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "812",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 490 432 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

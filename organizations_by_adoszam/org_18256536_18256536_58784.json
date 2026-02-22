@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18256536",
+  "scraped_at": "2026-02-21T14:09:55.101865",
+  "organization_id": "58784",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KÖZért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1096 Budapest, Lenhossék utca 24-28.",
+      "x_koordináta": "47.482697",
+      "y_koordináta": "19.078183",
+      "adószám": "18256536-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-01-26",
+      "statisztikai_számjel": "18256536-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Elsősorban a Középső-Ferencvárosban és környékén élő emberek életminőségének javítása, közösségi kezdeményezések támogatása, közösségi tér létrehozása, fenntartása. Szociális, kulturális tevékenység folytatása, nemzetközi tapasztalatok bekapcsolásával. Az egyesület céljai elősegítése érdekében közösségi teret hoz létre, és üzemeltet.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0011679",
+      "régi_nyilvántartási_száma": "11679/2005",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-09",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vámosi",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8299",
+        "Leírás": "M.n.s. egyéb kiegészítő üzleti szolgáltatás"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "461 482 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "290 345 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 510 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

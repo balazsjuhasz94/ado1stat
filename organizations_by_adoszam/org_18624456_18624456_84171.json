@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "18624456",
+  "scraped_at": "2026-02-21T14:37:24.450167",
+  "organization_id": "84171",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Régi Vitorlázórepülők Klubja Egyesület",
+      "rövid_név": "MRVK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1172 Budapest, Besenyszög utca 95",
+      "x_koordináta": "47.4911125",
+      "y_koordináta": "19.2799729",
+      "adószám": "18624456-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-10-21",
+      "statisztikai_számjel": "18624456-9312-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "A Magyar Régi Vitorlázórepülők Klubja célja, hogy szervezeti keretet nyújtson a repüléstörténet, ezen belül a sport és hobbi, amatőr, polgári és katonai repülés történetét aktívan kutatók és érdeklődök számára kutatási tevékenységük végzéséhez. Kiemelt figyelemmel a magyar sportrepülés, vitorlázórepülés történetére és a magyar polgári repülőgépipar kialakulására ( az egyesület további részletes céljait az alapszabály II.1. pontja tartalmazza.)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003498",
+      "régi_nyilvántartási_száma": "3498/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-01-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 279 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,204 @@
+{
+  "search_adoszam": "19654205",
+  "scraped_at": "2026-02-21T12:44:12.383357",
+  "organization_id": "54477",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Hegymászó Oktatók Egyesülete",
+      "rövid_név": "MAHOE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1098 Budapest, Börzsöny utca 10. II. lph. III./10.",
+      "x_koordináta": "47.4632961",
+      "y_koordináta": "19.1126584",
+      "adószám": "19654205-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-12-17",
+      "statisztikai_számjel": "19654205-9319-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja, hogy elősegítse, támogassa, megvalósítsa a hegy-, alpesi-, sportmászás, valamint síalpinista sportágakban, illetve a természeti környezetben a természetjáráshoz kötődő sport és egyéb szabadidős tevékenységek biztonságos, színvonalas, és értékteremtő művelését, az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését. Hozzájáruljon a hátrányos helyzetű társadalmi csoportok, többek között a fogyatékkal élők sporttevékenységének, illetve a gyemek- és ifjúsági sport finaszírozásához. Az egyesület célja még a hegy-, alpesi-, sportmászás, valamint síalpinista sportágakban, illetve a természeti környezetben a természetjáráshoz kötődő sport és egyéb szabadidős tevékenységek művelése a természet értékeinek megőrzése, szükség esetén helyreállítása elsődlegessége mellett történjen. Ennek érdekében az egyesület célja, hogy elősegítse azon ismeretterjesztési, oktatási és egyéb gyakorlati tevékenységeket, mely a természettel való harmonikus, fenntartható együttélés kultúrájának terjesztését célozza, a természetvédelem iránti elkötelezettséget erősíti, illetve részt vegyen a természetvédelem, mint közhasznú tevékenység során felmerülő gyakorlati feladatok ellátásában. Az egyesület célja továbbá, hogy elősegítse e sportágak és tevékenységi formák fejlődését és eredményességét, képviselje a tagjai érdekeit, valamint részt vegyen a hazai és a nemzetközi sport és természetjáró szervezetek tevékenységében, e sportágak és tevékenységek népszerűsítésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0003156",
+      "régi_nyilvántartási_száma": "3156/1990",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-06-07",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-02-03",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vörös",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Juhász",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bódis",
+        "Képviselő keresztneve": "Pál",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Suhaj",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gyarmati",
+        "Képviselő keresztneve": "Gréta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gádoros",
+        "Képviselő keresztneve": "Patrik",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 090 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "265 828 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 761 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "281 377 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "381 146 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "417 764 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "412 308 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "532 635 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "509 793 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "436 816 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "496 412 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "509 867 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MAGYAR HEGYMÁSZÓ OKTATÓK EGYESÜLETE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

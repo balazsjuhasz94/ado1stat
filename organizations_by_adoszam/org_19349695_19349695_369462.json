@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19349695",
+  "scraped_at": "2026-02-21T14:17:27.223139",
+  "organization_id": "369462",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bende Jövője Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8154 Polgárdi, Kossuth utca 155.",
+      "adószám": "19349695-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-28",
+      "statisztikai_számjel": "19349695-9499-569-07",
+      "x_koordináta": "47.0579167",
+      "y_koordináta": "18.3152957"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja a KCNC1-VAL421-es géneltéréssel született Pethő Bendegúz (8154 Polgárdi, Kossuth u. 155.) gyógykezelésének, fejlesztésének, állapota javulásának elősegítése. Ezen belül különösen: - az egészségügyi ellátás lehetőségének felkutatása, egészségügyi ellátások, műtétek, rehabilitációs lehetőségek, beleértve a gyermek és kísérője utazással és külföldön tartózkodással és ellátással kapcsolatos költségének finanszírozása; - fizikai és mentális terápiák, rehabilitáció, gyógyszerköltségekhez történő támogatás nyújtása; - orvosi eszközök, konzultációk, a betegséggel kapcsolatos ellátások költségeinek fedezése; - a gyermek szükségleteinek kielégítéséhez eszközök, gyógyászati és higiéniás szerek, gyógyulást segítő étrendhez tartozó termékek költségeinek viselése; - segítségnyújtás az ápolásához, felügyeletéhez, a fejlesztő terápiás lehetőségekhez; - pályázatok, támogatások felkutatása; - az alapítvány és módszereinek megismertetése; - kapcsolattartás más szervezetekkel, kiadványok készítése és terjesztése, internetes portál fenntartása, a beteg gyermek fejlődését, állapotjavulását elősegítő eszközök érdekében szükséges helyiség-átalakítási munkák finanszírozása; - az alapítvány célok megvalósítását támogató termékek előállítása, forgalmazása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001206",
+      "régi_nyilvántartási_száma": "1206/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Péter",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "322 407 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

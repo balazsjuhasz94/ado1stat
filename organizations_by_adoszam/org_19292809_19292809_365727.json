@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19292809",
+  "scraped_at": "2026-02-14T12:20:04.888804",
+  "organization_id": "365727",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Civilek a Németjuhászokért Alapítvány",
+      "rövid_név": "CNJ Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3623 Borsodszentgyörgy, Dobsina út 63",
+      "adószám": "19292809-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-07",
+      "statisztikai_számjel": "19292809-9499-569-05",
+      "x_koordináta": "48.1777127",
+      "y_koordináta": "20.1909725"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Általános célok: állatvédelem, az egész élővilág iránt felelősséget érző emberek összefogása az állatok kizsákmányolásának megszüntetése, védelmük előmozdítása érdekében. Konkrét célok:Bántalmazott, elhagyott, gazdátlan, kóborló, sintértelepekről kimentett vagy sérült illetve gazda által tovább tartani nem kívánt ebek vagy egyéb módon rászoruló ebek védelmezése, befogadása, állatorvosok segítségével teljeskörű egészségügyi ellátása, ivartalanítása, ideiglenes elszállásolása, szocializálása, rehabilitálása, megfelelő élelmezése, chipes azonosítóval való ellátása, és megfelelő gazdához juttatása, örökbe adása. Az ideiglenes befogadók anyagiakkal és tárgyi eszközökkel való ellátása. Férőhelyek kialakítása, fejlesztése, Állatmenhely (otthon) létrehozása, fenntartása, ehhez megfelelő gépjármű park kialakítása, fenntartása, Állatvédelemmel kapcsolatos weboldal(ak) készítése, fenntartása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064632",
+      "régi_nyilvántartási_száma": "64632/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-31",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vassné Víg",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "858",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 346 283 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "840",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 264 145 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

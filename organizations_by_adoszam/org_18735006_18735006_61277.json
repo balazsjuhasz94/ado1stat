@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "18735006",
+  "scraped_at": "2026-02-14T12:55:09.531366",
+  "organization_id": "61277",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent László és Szent István Kórház Betegeiért, Orvosaiért és Dolgozóiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1097 Budapest, Nagyvárad tér 1.",
+      "x_koordináta": "47.4779728",
+      "y_koordináta": "19.0897622",
+      "adószám": "18735006-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-05-01",
+      "statisztikai_számjel": "18735006-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Magán- és jogi személyek, egyéb szervezetek bevonásával hozzájáruljon az Egyesített Szent István és Szent László Kórház-Rendelőintézetben kezelt, fekvő- és járóbeteg ellátásban részesülő pácienseknek, hozzátartozóinak betegségmegelőző, gyógyító tevékenysége optimális feltételeinek megteremtéséhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012058",
+      "régi_nyilvántartási_száma": "12058/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-03-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jankai",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "79",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "667 982 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "2001",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 195 695 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "494",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 637 612 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "205",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 413 000 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "202",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 029 535 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "155",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 078 098 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "148",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 901 756 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent László és Szent István Kórház"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent László és Szent István Kórház"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent László és Szent István Kórház"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szent László és Szent István Kórház"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

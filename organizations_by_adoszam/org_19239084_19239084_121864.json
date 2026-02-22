@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19239084",
+  "scraped_at": "2026-02-21T13:36:29.323110",
+  "organization_id": "121864",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "VIDES MAGYARORSZÁG Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1029 Budapest, Zárda utca 2.",
+      "x_koordináta": "47.5669121",
+      "y_koordináta": "18.9586187",
+      "adószám": "19239084-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-31",
+      "statisztikai_számjel": "19239084-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A szolidáris és demokratikus társadalom megteremtése a fiatalok közötti szolidáris társadalom és emberi jogok kultúrájának elősegítésével, különösen a hátrányos helyzetben élő gyermekek, nők és fiatalok érdekeinek érvényesítésével, a VIDES nemzetközi szervezeteivel és más nemzetközi szervezetekkel együttműködve. Elősegíteni, Don Bosco Megelőző pedagógiai Módszere szerint, a fiatalok felelősségvállalását a nevelés területén, hogy az elkötelezett fiatalok aktív polgárokként a közjóért tevékenykedjenek. Különös figyelemmel lenni, az oktatási, nevelési, kulturális és társadalmi dimenziókra, a szervezet céljainak megvalósítása során. Létrehozni a különböző nemzetiségű és kultúrájú emberek között helyeket, találkozási módokat és különféle kezdeményezéseket, úgy, hogy integrációjuk több irányba történjen, tiszteletben tartva az emberi jogokat, a szolidaritást és a békét. Elősegíteni a magyar nyelv, népi kultúra, hagyományok (eszközök, zene és tánc) elterjedését a nevelés, oktatás, képességfejlesztésen keresztül, ehhez kapcsolódó kulturális rendezvények szervezésével. Segíteni a hátrányos helyzetű, szükséget szenvedő gyerekeket, fiatalokat, családokat, etnikai kisebbségeket határon belül és határon túl. Hozzájárulni az életminőség javításához, a fenntartható jövőhöz.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012913",
+      "régi_nyilvántartási_száma": "12913/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-12-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11705015-21457122",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "Ilona",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "149 517 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "391 471 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

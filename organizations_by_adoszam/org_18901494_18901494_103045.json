@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18901494",
+  "scraped_at": "2026-02-14T13:45:51.775317",
+  "organization_id": "103045",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EGYÜTT A GYERMEKEINKÉRT EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5000 Szolnok, Karinthy Frigyes út 15.",
+      "x_koordináta": "47.134331",
+      "y_koordináta": "20.213133",
+      "adószám": "18901494-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-03-16",
+      "statisztikai_számjel": "18901494-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület kiemelt célja támogatni, elősegíteni és kezdeményezni minden olyan tevékenységet, amely Magyarország ifjúsági és kulturális életének fejlesztését célozza. Az egyesület elsődleges célja az iskoláskorú gyermekek és fiatalok támogatása, életminőségük javítása, illetve a szükségben levő családok erkölcsi és anyagi támogatása. Az egyesület célja az is, hogy következetes nevelési programokkal informálja és eredményesen formálja a felnövekvő generációt. Az egyesület holisztikus nevelési szemléletet képvisel – négy fejlődési (fizikai, lelki, szellemi, és szociális) területen igyekszik elősegíteni a fiatalok egészséges személyiségformálását. Az egyesület további célja, hogy megelőzze az antiszociális magatartásformák kialakulását, szükség esetén elősegítse azok szakszerű kezelését, és bátorítani kívánja a fiatalok megfelelő szociális integrációját. Az egyesület programját bibliai elvekre építi.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002704",
+      "régi_nyilvántartási_száma": "2704/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-12-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ferenczi",
+        "Képviselő keresztneve": "Rebeka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "258 228 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "288 887 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "115",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "612 420 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "133",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "804 444 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "143",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "969 814 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYÜTT A GYERMEKEINKÉRT EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYÜTT A GYERMEKEINKÉRT EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

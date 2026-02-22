@@ -1,0 +1,113 @@
+{
+  "search_adoszam": "18755987",
+  "scraped_at": "2026-02-14T12:23:55.759086",
+  "organization_id": "113627",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Együtt A Kisállatokért Alapítvány",
+      "rövid_név": "E.K.A.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1155 Budapest, Ozmán utca 3. II/6.",
+      "x_koordináta": "47.572327",
+      "y_koordináta": "19.085292",
+      "adószám": "18755987-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-07-26",
+      "statisztikai_számjel": "18755987-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A kisállatok kulturált tartásának népszerűsítése a magyar emberek körében. Az állatvédelem fontosságának terjesztése az állatok szeretete, az állati élet méltóságának tisztelete érdekében. Adományok gyűjtése mentett kisállatok ellátására, gyógykezelésére. Összefogás a tömegesen vagy otthonukban felelőtlenül, az állat életét veszélyeztetve szaporítók ellen",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012231",
+      "régi_nyilvántartási_száma": "12231/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-01-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-27",
+      "bankszámlaszám": "16200106-11578165",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vakula",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "466",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 546 798 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "552",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 144 811 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "551",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 723 204 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "654",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 040 624 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "709",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 418 726 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "693",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 848 834 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Együtt a Kisállatokért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Együtt a Kisállotokért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Együtt a Kisállatokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

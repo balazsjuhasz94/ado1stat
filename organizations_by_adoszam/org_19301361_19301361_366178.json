@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19301361",
+  "scraped_at": "2026-02-14T12:49:13.439386",
+  "organization_id": "366178",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KEMENESALJAI MENTÉSÜGYI EGYESÜLET",
+      "rövid_név": "KEMENSALJAI M.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9542 Nemeskocs, Rákóczi utca 42.",
+      "adószám": "19301361-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-26",
+      "statisztikai_számjel": "19301361-9499-529-18",
+      "x_koordináta": "47.1994874",
+      "y_koordináta": "17.1864977"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az egyesület célja a Celldömölki Mentőállomás ellátási körzetének lakossága érdekében, a mentőállomás színvonalának fokozása, a mentés minőségének és hatékonyságának növelése, illetve e cél érdekében a működési és tárgyi feltételekről való gondoskodás. Ennek keretében: 1. korszerű mentéstechnikai eszközök, műszerek beszerzése, azoknak a Celldömölki Mentőállomáson történő alkalmazása a mentésben, betegellátásban, 2. a mentőellátásban résztvevők szaktudásának szinten tartásához, fejlesztéséhez tanfolyamokon való részvétel biztosítása, szakmai tanulmányok támogatása, 3. a mentőkocsik mentési és járműtechnikai berendezések korszerűsítése 4. az ellátási körzetben a mentésügyben résztvevő állomások munkájának lehetőség szerinti segítése 5. kapcsolattartás társszervezetekkel, civil szervezetekkel, 6. aktív részvétel Kemenesalja és környéke rendezvényein, együttműködés ezek szervezésében, 7. lehetőség szerint kemenesaljai társszervek támogatása. Az egyesület céljai megvalósítása érdekében rendezvényeket szervez és tart. Céljaink megvalósítása érdekében magyarországi és határon túli szervezetekkel való együttműködés. Az egyesület politikai tevékenységet nem folytat. Pártoktól függetlenül folytatja tevékenységét és valósítja meg céljait. Pártoktól történő támogatás elfogadását, valamint országgyűlési képviselőjelölt állítását és támogatását az egyesület tevékenységei köréből kifejezetten kizárja. Az Egyesület fenti célok megvalósításának elősegítése érdekében kiegészítő jelleggel gazdasági-vállalkozási tevékenységet végez. Ennek eredményét tagjai között nem osztja fel, azt céljai megvalósítására fordítja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200859",
+      "régi_nyilvántartási_száma": "200859/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hajós",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-03-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2026-03-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dorcsi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-01-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "310",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 405 868 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "235",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 190 852 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

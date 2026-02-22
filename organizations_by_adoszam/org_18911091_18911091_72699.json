@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "18911091",
+  "scraped_at": "2026-02-14T14:39:56.567292",
+  "organization_id": "72699",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MAGYAR MX-5 KLUB Egyesület",
+      "rövid_név": "MX-5 Klub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Farkas Ferenc u. 25. 2/a. utca 25. 2/a.",
+      "x_koordináta": "47.632366",
+      "y_koordináta": "19.1651719",
+      "adószám": "18911091-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-08-23",
+      "statisztikai_számjel": "18911091-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az Egyesület célja a Mzda MX-5 típusú személyegépkocsik tulajdonosainak, használóinak összefogása, színvonalas tájékoztatása, érdekvédelme, érdekképviselete, számukra színvonalas összejövetelek, rendezvények szervezése, közösségépító egyéb tevékenységek megvalósítása. Az Egyesület tevékenységét mindenkor úgy végzi, hogy e tevékenység az MX-5 típus presztízsével összhangban történjen a típus további magyarországi népszerűsítése érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007297",
+      "régi_nyilvántartási_száma": "7297/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2017-07-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2020-07-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "380 406 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "690 448 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "660 239 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

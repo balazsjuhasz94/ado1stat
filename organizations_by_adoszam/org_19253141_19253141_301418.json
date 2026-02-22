@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19253141",
+  "scraped_at": "2026-02-14T14:27:10.241989",
+  "organization_id": "301418",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alsószentiván Községért Egyesület",
+      "rövid_név": "ALIVÁN",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7012 Alsószentiván, Béke utca 56. A.",
+      "adószám": "19253141-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-02",
+      "statisztikai_számjel": "19253141-9499-529-07",
+      "x_koordináta": "46.7911393",
+      "y_koordináta": "18.744057"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Elsődleges cél Alsószentiván község kulturális és történeti örökségének megőrzése, hagyományainak újjáélesztése. Alsószentiván Község Önkormányzata közigazgatási területén közreműködés Alsószentiván Község Önkormányzata kötelező közszolgáltatási feladatai ellátásában: különösen a településfejlesztés, településrendezés, az épített és természeti környezet védelme, a helyi közutak és közterületek, közparkok, a köztemető karbantartásában való részvétel, a vallásturizmus fellendítésének elősegítése. További céljai: - A közművelődési, kulturális, művészeti tevékenységek és helyi sporttevékenység támogatása, népszerűsítése. - A faluközösség fejlesztése, hagyományainak őrzése, kulturális programok, rendezvények szervezése, támogatása. - Egészséges táplálkozásra, egészséges, környezettudatos életmódra ösztönző szemlélet formálása, közreműködés az ahhoz szükséges közösségi feltételek megteremtésében. - A mozgáskultúra fejlesztése, szabadidőben végezhető tömegsport szervezése, tárgyi feltételeinek biztosítása. - A település gyermekei nevelésének magasabb színvonalát biztosító tárgyi eszközök bővítéséhez segítségnyújtás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003264",
+      "régi_nyilvántartási_száma": "3264/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11736051-21449716-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "95",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "493 440 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "102",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "677 212 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "717 692 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

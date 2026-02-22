@@ -1,0 +1,98 @@
+{
+  "search_adoszam": "19296803",
+  "scraped_at": "2026-02-14T15:11:47.944135",
+  "organization_id": "365713",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Együtt a Taekwondoért Alapítvány",
+      "rövid_név": "Együtt TKD",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1048 Budapest, Székpatak utca 5. 6/20.",
+      "adószám": "19296803-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-27",
+      "statisztikai_számjel": "19296803-8551-569-01",
+      "x_koordináta": "47.5903762",
+      "y_koordináta": "19.1115067"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az alapítvány célja, hogy a magyarországi taekwondo sport művelését, a taekwondo hagyományait és kulturális eredetének megismerését továbbá a taekwondo sportolókat, utánpótlást és edzőiket támogassa, ezen belül - a színvonalas sportot minél nagyobb mértékben ismerhesse meg a hazai és a külföldi nagyközönség, illetve, hogy - a sportolók és edzőik közcélú támogatása révén minél több kiemelkedő és jó színvonalú sportoló, avagy utánpótlásnevelő szülessen, (anélkül azonban, hogy gazdasági, vállalkozási, avagy egyesületi jelleget öltene).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013052",
+      "régi_nyilvántartási_száma": "13052/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Böröczi",
+        "Képviselő keresztneve": "Botond",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Turán-Schnitta",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "Dóra",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "568 744 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

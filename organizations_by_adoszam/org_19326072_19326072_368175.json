@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19326072",
+  "scraped_at": "2026-02-14T14:00:01.024130",
+  "organization_id": "368175",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tüskeböki Menedék Alapítvány",
+      "rövid_név": "Tükeböki Menedék",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1213 Budapest, Retyezáti utca 21/a.",
+      "adószám": "19326072-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-09",
+      "statisztikai_számjel": "19326072-7500-569-01",
+      "x_koordináta": "47.4028301",
+      "y_koordináta": "19.0945997"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az alapítvány legfőbb célja a vadon élő keleti sünök védelme, a sérült sünök mentése. Ennek keretében befogadja, gyógyítja és ellátja a sérült sünöket, majd gondoskodik a természetbe visszaengedhető sünök eredeti élőhelyrevaló visszahelyezéséről. Gondoskodik a maradandóan sérült, természetes élőhelyre nem visszahelyezhető példányok tartásáról. Az alapítvány célja eléréséért a fajta fennmaradása, megóvása, jobb megismerése érdekében ismeretterjesztő oktatásokat és rendezvényeket szervez a sünökön segíteni vágyó emberek számára. Ennek érdekében óvodákat, iskolákat is látogat, hogy a keleti sünökről szóló ismereteket már gyermekkorban elsajátíthassák. Az alapítvány célja emellett szükség szerint más fajhoz tartozó ellátásra szoruló vagy elkóborolt egyedek mentése, tulajdonosukhoz való visszajuttatása, vagy ennek sikertelensége, akadályozottsága estén az állat új tulajdonosnál történő elhelyezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013272",
+      "régi_nyilvántartási_száma": "13272/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Füri",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "János",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "858 837 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

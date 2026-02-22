@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18730403",
+  "scraped_at": "2026-02-21T14:24:52.045673",
+  "organization_id": "45255",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bird Song Madárvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8651 Balatonszabadi, Vak Bottyán utca 100",
+      "x_koordináta": "46.8853979",
+      "y_koordináta": "17.2216893",
+      "adószám": "18730403-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-11-12",
+      "statisztikai_számjel": "18730403-9499-529-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A természet, ezen belül különösen a madárvilág védelmének társadalmi támogatása. A hazánkban megtalálható madárfajok egészségvédelme, állatorvosi gyógykezelése, ellátása, majd a természetbe való visszahelyezése. A természetbe visszahelyezésre alkalmatlan egyedek elhelyezése. A természet ápolása, annak fenntartása, környezetvédelmi szemlélet kialakítása és fejlesztése. A lakosság természetvédelmi szemléletének kialakítása. Fellépés az állatkínzás ellen. A fenti feladatok ellátására intézmény létrehozása, üzemeltetése, így különösen mentőhely, oktató központ, tábor, önkéntesek elhelyezésre szolgáló szálláshely, falusi szálláshely. A célok megvalósítását segítő eszközök felkutatása, támogatások, adományok igénybevétele és felhasználása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002802",
+      "régi_nyilvántartási_száma": "2802/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10403923-50527090-90691001",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erlich",
+        "Képviselő keresztneve": "Renáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Papp",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Riegler",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "86",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 293 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "97",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "329 437 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "322 957 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19294791",
+  "scraped_at": "2026-02-21T13:27:02.934394",
+  "organization_id": "365656",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mátraderecskei Üdülőövezetért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3246 Mátraderecske, Peres utca 10.",
+      "adószám": "19294791-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-29",
+      "statisztikai_számjel": "19294791-9499-529-10",
+      "x_koordináta": "47.9521074",
+      "y_koordináta": "20.0779793"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az üdülőövezet természetes környezetének védelme, ápolása, az üdülőövezet fejlesztésében való közreműködés, részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002989",
+      "régi_nyilvántartási_száma": "2989/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-12-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bere",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "347 816 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "407 885 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19241803",
+  "scraped_at": "2026-02-14T12:46:22.197329",
+  "organization_id": "121516",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EbRehab Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4241 Bocskaikert, Farkas köz 6.",
+      "x_koordináta": "47.6195936",
+      "y_koordináta": "21.6535747",
+      "adószám": "19241803-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-04",
+      "statisztikai_számjel": "19241803-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Problémás, veszélyesnek minősülő ebek befogása, rehabilitációja, szocializálása más kutyákhoz és emberekhez. Felelősségteljes állattartás népszerűsítése kifejezetten a nagytestű hobbi állatokra vonatkozóan, valamint mentett kutyák kiképzése terápiás céllal. Beteg gyerekek és felnőttek tartós életkörülményeinek céljából. Edukációs és prevenciós előadások, oktatások, workshopok megtartása a tudatos állattartás fejlesztése érdekében. Területileg és országosan is ismert szervezetekkel való aktív szakmai kapcsolat ápolása. Eb és veszélyes hobbi állattartásban illetékes szakhatóságokkal való professzionális együttműködés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005063",
+      "régi_nyilvántartási_száma": "5063/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gál",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sinyi",
+        "Képviselő keresztneve": "Erik",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fodor",
+        "Képviselő keresztneve": "Máté",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "172",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 451 913 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "273",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 379 154 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18789146",
+  "scraped_at": "2026-02-14T13:29:19.796042",
+  "organization_id": "92527",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bolyhos Sport- és Hagyományőrző Lovas Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6346 Sükösd, Deák Ferenc utca 46.",
+      "x_koordináta": "46.2793489",
+      "y_koordináta": "18.9916847",
+      "adószám": "18789146-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-10-01",
+      "statisztikai_számjel": "18789146-9312-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Lovas sportokkal (fogathajtás, lovaglás, lovas ügyesség, díjlovaglás, díjugratás) összefüggő sporttevékenységek szervezése, valamint a sporttevékenység feltételeinek megteremtése. Lovas emberek egyesületbe való tömörítése. Szabadidősport, versenysport, tehetséggondozás és utánpótlás nevelés. A ló és a vele kialakult sokrétű kapcsolat(fogathajtás, lovassport, szabadidős lovaglás, lovas turizmus, gyógyító lovaglás) népszerűsítése, széles körű elterjesztése. A tagok számára a versenysportba való bekacsolódás feltételeinek megteremtése. Őshonos lófajták bemutatása, népszerűsítése, tenyésztése. Lovak speciális célra való kiképzése. Hagyományőrzés. Rendkívül gazdag magyar lovas hagyományok kulturális értékeinek feltárása, megőrzése, publikálása. Lovas iskola fenntartása. Lovas turizmus fejlesztése, népszerűsítése. Rehabilitációs foglalkozások szervezése. Terápiás lovaglás( gyógylovaglás) lehetőségének megteremtése. Általános és középiskolai lovas oktatás elősegítése és népszerűsítése. A gyermekek fizikai, szellemi és morális fejlődésének elősegítése. Olyan események, tanfolyamok, táborok, konferenciák, rendezvények, versenyek, felvonulások szervezése, amelyek alkalmasak lehetnek a lovas sport népszerűsítésére. Hazai és külföldi egyesületekkel, szervezetekkel való kapcsolattartás, közös rendezvényszervezés. Aktív állatvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003574",
+      "régi_nyilvántartási_száma": "3574/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-15",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sipos",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 526 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "145",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "629 396 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "151",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "841 705 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "157",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "963 006 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "165",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 145 284 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bolyhos Sport- és Hagyományőrző Lovas Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bolyhos Sport- és Hagyományőrző Lovas Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

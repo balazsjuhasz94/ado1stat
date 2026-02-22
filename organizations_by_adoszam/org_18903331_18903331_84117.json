@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18903331",
+  "scraped_at": "2026-02-21T14:01:30.561246",
+  "organization_id": "84117",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zalalövő Tájház Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8999 Zalalövő, Petőfi S. utca 42.",
+      "x_koordináta": "46.8470768",
+      "y_koordináta": "16.5799909",
+      "adószám": "18903331-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-05-17",
+      "statisztikai_számjel": "18903331-9499-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "• Zalalövő természeti és építészeti értékeinek védelme, fejlesztése és szépítése. • A természet élő és élettelen világának, kultúrájának védelme és fenntartása. • A természeti környezet és tájház vonzereje által a város és a környék idegenforgalmának növelése. • A területünkön keresztül haladó túra útvonalakat látogató gyalogos, illetve kerékpáros turistáknak pihenő és sátorozó hely kialakítása. • A tájház épületéhez építészetileg hozzáillő modern vizesblokk építése. • A hely adottságainak megfelelő közösségi kapcsolatteremtő létesítmény építése, létrehozása. • Pajtaszínház létrehozása, amely programjaival aktívan részt vesz a város kulturális életében. • A helyi és a környékbeli kulturális hagyományok felkutatása, ápolása, megörökítése. • Tájjellegű, őshonos gyümölcsfákból kert létrehozása, Fűszerkert ültetése és gondozása. • Zalalövőt érintő rendszeres kommunikáció a lakossággal, a helyi városvezetéssel és a hatóságokkal. • A lakossági igények felmérése és közvetítése Zalalövő Város Önkormányzata felé. • Összefoglalja és közvetíti az illetékesek felé a Zalalövő infrastruktúrájának fejlesztése és karbantartása kapcsán felmerülő igényeket. • Feladatának tekinti az utak minőségének, állapotának megfigyelését, veszélyes útszakaszok bejelentését. Turisztikai, szabadidő sport és kulturális rendezvények szervezése és lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002912",
+      "régi_nyilvántartási_száma": "2912/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-03-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Komáromi",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "elnök",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "45",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 834 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 343 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 756 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "328 959 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 888 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalalövő Tájház Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zalalövő ájház Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

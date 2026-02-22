@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19321345",
+  "scraped_at": "2026-02-14T13:23:55.192087",
+  "organization_id": "367787",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EGYÜTT CSONGOR FEJLŐDÉSÉÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7130 Tolna, Munkácsy utca 23.",
+      "adószám": "19321345-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-07",
+      "statisztikai_számjel": "19321345-9499-569-17",
+      "x_koordináta": "46.4326106",
+      "y_koordináta": "18.7746954"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Horváth Csongor fejlesztő terápiái, gyógytornái, egészségügyi ellátásai, magyarországi és külföldi gyógykezelései költségeinek viselése, ezekkel kapcsolatban felmerülő utazási, szállás- és étkezési költségek támogatása. Csongor életvitelének, életkörülményeinek segítése, hozzájárulás a szükséges speciális eszközök, gyógyászati segédeszközök finanszírozásához. A gyógyításhoz, fejlesztéshez szükséges feltételek és pénzügyi források rendelkezésre állásának biztosítása. Kollagén-VI izomdisztrófiában érintett betegek támogatása, a betegséggel kapcsolatos kutatások figyelemmel kísérése és támogatása, rendezvények és új generációs segédeszközök promóciója.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000197",
+      "régi_nyilvántartási_száma": "197/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Annamária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "124",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 223 270 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

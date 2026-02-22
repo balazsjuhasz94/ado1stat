@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19250997",
+  "scraped_at": "2026-02-21T14:28:35.581323",
+  "organization_id": "301125",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Felébredt Tudat Magyarország Egyesület",
+      "rövid_név": "Felébredt Tudat Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1147 Budapest, Fűrész utca 24/B. fsz./2.",
+      "adószám": "19250997-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-18",
+      "statisztikai_számjel": "19250997-9499-529-01",
+      "x_koordináta": "47.5263631",
+      "y_koordináta": "19.1185606"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesül et az indo-tibeti vadzsrajána buddhizmusban gyökerező vallási szervezet , amelynek célja az általa meghatározott és kinyilvánított hitelvek követőinek egységes szervezetbe tömörítése, tevékenységének jelen alapszabályi keretek között meghatározott formában történő gyakorlása, tagjainak és tagjain kívül álló személyek közérzetének, személyes képességeinek javítása, fejlesztése, lelki egyensúlyuk megteremtése, különösen meditációs tréningek, kurzusok, távol keleti mozgásformák, küzdősportok gyakorlása révén. A buddhista hagyomány lényegi ősi tanításai integrálása révén az egyesület célja, hogy a meditációban elért egyensúly és tisztánlátás az élet minden területén érvényesíthető legyen, így a szakmai sikerekben, a személyes képességeket illetően és a vitalitásban is. Az egyesület célja segítségnyújtás, az egyesület tagjai és más személyek számára , különösen az alábbiakban: -testi, lelki, szellemi egészség megőrzésében, hitéleti tevékenység gyakorlásában, -szociális biztonság érzet elősegítésében, -önművelődésben és karrierépítésben, -a szabadidő értékes eltöltésében kulturális kiadványok és programok biztosításával, rendezvények szervezésével, -tematikus kisközösségek kialakításában, ehhez szükséges infrastruktúra biztosításában, -nemzetközi kapcsolatok építésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017420",
+      "régi_nyilvántartási_száma": "17420/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-11-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sinkó",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-05-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "265 016 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 372 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 683 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

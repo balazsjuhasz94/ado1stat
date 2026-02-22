@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19286165",
+  "scraped_at": "2026-02-14T12:38:42.489117",
+  "organization_id": "365008",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CicAngyal Macskamentő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5540 Szarvas, Sirály utca 13.",
+      "adószám": "19286165-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-06",
+      "statisztikai_számjel": "19286165-9499-529-04",
+      "x_koordináta": "46.8470957",
+      "y_koordináta": "20.6026583"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Egyesület elsődleges célja az állatok - elsősorban a társállatok - védelme, rehabilitációja, a kulturált állattartás feltételeinek terjesztése, a kulturált állattartás feltételeinek megteremtése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003561",
+      "régi_nyilvántartási_száma": "3561/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hetényi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "296",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 299 871 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "316",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 631 444 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "326",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 006 684 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

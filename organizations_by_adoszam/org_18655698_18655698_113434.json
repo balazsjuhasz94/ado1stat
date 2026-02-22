@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "18655698",
+  "scraped_at": "2026-02-14T13:09:32.332101",
+  "organization_id": "113434",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Aranyüllő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1101 Budapest, Üllői út 118.",
+      "x_koordináta": "47.4704791",
+      "y_koordináta": "19.1131557",
+      "adószám": "18655698-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-01",
+      "statisztikai_számjel": "18655698-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja a Kőbányai Csukás István Magyar-Angol Két Tanítási Nyelvű Általános Iskola (\"Iskola\") támogatása, a tanári kar, valamint a hallgatók erkölcsi és anyagi megbecsülésének javítása, ennek keretébe pedig -az Iskolában a magas színvonalú nyelvoktatás feltételeinek támogatása; -a gyermeknevelés eszközeinek megteremtéséhez történő segítségnyújtás, különös figyelmet szentelve a nehéz körülmények között élő és árva gyermekek nevelésére, fejlődésére; -az oktatás és a nevelés elősegítése, a fejlődést segítő korszerű technikai eszközök beszerzése, a számítástechnikai oktatás fejlesztése; -a felnőttképzésben történő résztvállalás, különösen a számítástechnika és a nyelvoktatás területén; -az egészséges életmód propagálása, az arra való nevelés; -a szakterületen dolgozók támogatása, továbbképzése és az ott tevékenykedni kívánók átképzése és szakképzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012108",
+      "régi_nyilvántartási_száma": "12108/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-28",
+      "bankszámlaszám": "11705084-20000655-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pásztor",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "813 990 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "94",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "829 004 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "892 176 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 069 120 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "101",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 214 831 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "105",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 457 824 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "91",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 482 539 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Aranyüllő Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Aranyüllő Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ARANYÜLLŐ ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ARANYÜLLŐ ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

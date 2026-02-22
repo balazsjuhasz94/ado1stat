@@ -1,0 +1,124 @@
+{
+  "search_adoszam": "18909533",
+  "scraped_at": "2026-02-21T14:01:10.374391",
+  "organization_id": "72545",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Shvoy Lajos Cserkészcsapatért Egyesület",
+      "rövid_név": "Shovy Cscsapatért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2060 Bicske, Váradi Dániel utca 5.",
+      "x_koordináta": "47.482369",
+      "y_koordináta": "18.6165619",
+      "adószám": "18909533-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-14",
+      "statisztikai_számjel": "18909533-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Bicskei 188. Shvoy Lajos Cserkészcsapatának támogatása érdekében a csapatban résztvevő gyermekek egészségesebb testi fejlődésének, harmonikusabb, kiegyensúlyozottabb személyiség-fejlődésének elősegítése az alábbi formákban: ifjúsági programok és kulturális programokon való részvétel támogatása; magyarságismeret kialakítása, erősítése; sportprogramok szervezése, azokon való részvétel támogatása; eszközök-felszerelések beszerzése, karbantartása; természetvédelem és környezetvédelem; szociális és hátrányos helyzetű fiatalok integrálása; szabadidős-rekreációs céllal működő ingatlanok vásárlása, bérlése, bérbeadása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003113",
+      "régi_nyilvántartási_száma": "3113/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balázs",
+        "Képviselő keresztneve": "Magdolna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5829",
+        "Leírás": "Egyéb szoftverkiadás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "102 952 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "120 670 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 056 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "267 828 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "349 226 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Shvoy Lajos Cserkészcsapatért"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Shvoy Lajos Cserkészcsapatért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19342306",
+  "scraped_at": "2026-02-21T13:42:51.281221",
+  "organization_id": "368892",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ÉRTED VAGYUNK 1987 Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2400 Dunaújváros, Bartók Béla út 6. B",
+      "adószám": "19342306-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-21",
+      "statisztikai_számjel": "19342306-8899-569-07",
+      "x_koordináta": "46.9457587",
+      "y_koordináta": "18.9254793"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A dunaújvárosi Útkeresés Segítő Szolgálat (PIR: 365028, Ksh: 15365020-8899-322-07, adószám: 15365020, 2400 Dunaújváros, Bartók Béla út 6/B.sz.) vagy esetleges későbbi jogutód szervezete, illetőleg szervezetei által ellátott tevékenységek feltételeinek javítása. A szervezet által ellátandó szociális és gyermekjóléti feladatok segítése, valamint az intézmény működésének, dolgozók szakmai képzésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001199",
+      "régi_nyilvántartási_száma": "1199/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Budavári",
+        "Képviselő keresztneve": "Sándorné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 921 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

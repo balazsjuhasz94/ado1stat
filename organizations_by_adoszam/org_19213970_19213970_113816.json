@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19213970",
+  "scraped_at": "2026-02-21T14:34:22.012434",
+  "organization_id": "113816",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zöld erdőben, zöld mezőben oktatási, kulturális Alapítvány",
+      "rövid_név": "Zöld erdőben, zöld mezőben Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8251 Zánka, Ifjúság útja 8.",
+      "x_koordináta": "46.8745892",
+      "y_koordináta": "17.6822543",
+      "adószám": "19213970-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-03",
+      "statisztikai_számjel": "19213970-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapító meggyőződése, hogy a magyar társadalomnak feladata és az eljövendő nemzedéknek érdeke a tehetséges, ám rászoruló gyerekek tanulásának megfelelő támogatása. - Az alapítvány célja a tehetséges diákok felkutatása, ide értve azokat is, akik tanáraik, szüleik vagy saját maguk jelentkezése alapján kerülnek az alapítvány látókörébe. - A megismert diákok képességeinek fejlesztése, életük segítése a rendelkezésre álló eszközökkel, ide értve az anyagi segítségnyújtást is. - Ennek érdekében hozta létre az alapító a Monostorapáti Művészetek Völgye Általános Iskola (továbbiakban Iskola) tanulói számára az alábbi alapítványt. - Az alapítvány céljai és feladatai teljesítése érdekében kész együttműködni minden olyan szervezettel, közösséggel és személlyel, amelyek a közölt cél érdekében anyagi támogatást nyújtanak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001833",
+      "régi_nyilvántartási_száma": "1833/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-11-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-85198913",
+      "számlavezető_pénzintézet_neve": "ERSTE Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Imréné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 927 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "184 827 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 528 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 596 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Zöld erdőben, zöld mezőben oktatási, kulturális Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

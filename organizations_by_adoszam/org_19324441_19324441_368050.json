@@ -1,0 +1,115 @@
+{
+  "search_adoszam": "19324441",
+  "scraped_at": "2026-02-21T13:37:33.587306",
+  "organization_id": "368050",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tánczos Alapítvány a Daganatos és Egyéb Krónikus Betegek és Hozzátartozóik Kezelésének Támogatására",
+      "rövid_név": "Tánczos Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1027 Budapest, Bem József utca 9. fszt./10.",
+      "adószám": "19324441-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-18",
+      "statisztikai_számjel": "19324441-9499-569-01",
+      "x_koordináta": "47.511184",
+      "y_koordináta": "19.037784"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Alapítvány célja az orvostudomány és társterületeinek fejlesztése és átalakítása annak érdekében, hogy szorosabban összekapcsolódjanak a súlyos vagy összetett betegségek kezelése és gyógyítása érdekében. Alapítvány küldetése a remény ösztönzésére és az egészség előmozdítására szolgáló integrált, preventív, klinikai, diagnosztikai, ellátási, rehabilitációs, pszichés, palliatív gyakorlatok, oktatás, kutatás és pszicho-edukáció támogatása. Elsődleges érték: A páciens szükségleteinek teljesség-elvű figyelembevétele.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013262",
+      "régi_nyilvántartási_száma": "13262/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-30",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11600006-00000000-97784328",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Róna",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kóbor",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tánczos",
+        "Képviselő keresztneve": "Enikő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "389 141 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

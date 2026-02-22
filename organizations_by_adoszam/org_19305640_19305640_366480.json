@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19305640",
+  "scraped_at": "2026-02-21T14:06:24.201764",
+  "organization_id": "366480",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "TYÚKANYÓ Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4434 Kálmánháza, Kossuth út 44.",
+      "adószám": "19305640-2-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-11",
+      "statisztikai_számjel": "19305640-9499-569-15",
+      "x_koordináta": "47.8771657",
+      "y_koordináta": "21.5988442"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A hívők, a lakosság és a vállalkozók összefogásával és anyagi támogatásával elősegíteni a hátrányos helyzetű gyermekek fizikai, szellemi, kulturális és szociális fejlődését, a tehetséges gyerekek kibontakoztatásának segítését. Idős, gondozásra vagy segítségre szoruló emberek ellátása, gondozása. A falusi, vidéki élet népszerűsítése, a falvakban élő lakosság digitális fejlődésének elősegítése. Szabadidős tevékenység szervezése, oktatás, nyelvtanulás elősegítése, a rászorulók szociális támogatása, karitatív tevékenység, a képzőművészet, tehetséggondozás, keresztény ifjúsági egyesületek, szervezetek támogatása, a természet, a sport, az állatvilág és a környezet védelmére, szeretetére, megóvására nevelés. Az állami gondozásban élő, de nevelőszülőknél elhelyezett gyermekek üdültetésének támogatása, nevelőcsaládok kulturált pihenésének elősegítése, belföldi és külföldi utazások, gyógykezelések támogatása, az átmenetileg nehéz helyzetbe került családok anyagi segítése, támogatása, a nagyobb anyagi befektetést igénylő célok megvalósításának támogatása, esetenként vissza nem térítendő támogatás formájában; a célok megvalósulása érdekében az alapítvány beruházásokat kezdeményezhet. Az önálló életre nevelés, az önismeret fejlesztése, a kreatív képességek kibontakoztatása. A helyes énkép kialakítása érdekében a kommunikációs készségek és ismeretek fejlesztését szolgáló tréningek, szabadidős programok szervezése gyermekeknek, és a civil szféra szereplőinek, amellyel elő kívánja segíteni aktív szerepvállalásukat a társadalomban. A határon túl élő magyarság gondjainak megoldásához, önazonosságuk megőrzéséhez, közösségi életük gazdagításához támogatást nyújt, lehetővé teszi a széleskörű információ- és tapasztalatcserét (ezzel is fejlesztve a szolidaritáson alapuló szociális fogékonyságot és jótékonysági, emberbaráti attitűdöt). Szükség szerint koordinálja az összefogást és a segítségnyújtást.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002595",
+      "régi_nyilvántartási_száma": "2595/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-05-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dávid-Kaszás",
+        "Képviselő keresztneve": "Dorottya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 105 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19926139",
+  "scraped_at": "2026-02-14T14:03:05.363173",
+  "organization_id": "85369",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ERŐMŰ Horgász Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3100 Salgótarján, Rákóczi út 13.",
+      "x_koordináta": "48.1142742",
+      "y_koordináta": "19.8121146",
+      "adószám": "19926139-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19926139-9312-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "a. tagjai horgászérdekeinek képviselete, valamint kedvező horgászlehetőségek biztosítása, b. a horgászsport fejlesztése, népszerűsítése, c. a horgászok körében a környezet és természetvédelem népszerűsítése, a jogszabályok tiszteletben tartására, a természet szeretetére és védelmére való nevelése d. az egyesület, a fenti céljai megvalósítása érdekében más gazdasági- vállalkozási tevékenységet is folytathat",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0000047",
+      "régi_nyilvántartási_száma": "47/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Majkúth",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "98",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "699 527 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "107",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "841 334 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

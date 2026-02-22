@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "19251345",
+  "scraped_at": "2026-02-14T12:44:31.120639",
+  "organization_id": "301289",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Papírsárkány Gyermekalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2143 Kistarcsa, Borostyán utca 13.",
+      "adószám": "19251345-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-02",
+      "statisztikai_számjel": "19251345-9499-569-13",
+      "x_koordináta": "47.5412996",
+      "y_koordináta": "19.2814073"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Papírsárkány egy olyan közösség, ami a gyermekotthonokban élőknek segít kibontakoztatni a bennük rejlő értékeket, ezzel eszközt adva nekik, hogy a felnőtt életben egyenlő esélyekkel induljanak. Célunk a Gyermekvédelmi Intézményekben élő gyerekek egyéni mentorálása, illetve segítségnyújtás továbbtanulás és pályaválasztás terén. Ezt kiegészítve hangsúlyt fektetünk élmény és fejlesztő programok szervezésére is, valamint a gyerekek környezetének szépítésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004123",
+      "régi_nyilvántartási_száma": "4123/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-10-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-09",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-29",
+      "bankszámlaszám": "11703006-25970515",
+      "számlavezető_pénzintézet_neve": "OTP bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gál-Kormos",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "721 437 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "129",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 344 380 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "185",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 494 218 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

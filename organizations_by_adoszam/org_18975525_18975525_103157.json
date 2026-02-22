@@ -1,0 +1,145 @@
+{
+  "search_adoszam": "18975525",
+  "scraped_at": "2026-02-21T14:00:09.735365",
+  "organization_id": "103157",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bodyway – Nonduális Önismeret Egyesület",
+      "rövid_név": "Bodyway Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1021 Budapest, Széher út 56. 4.ajtó",
+      "x_koordináta": "47.5253165",
+      "y_koordináta": "18.9780173",
+      "adószám": "18975525-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-08",
+      "statisztikai_számjel": "18975525-8551-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "a) Az egyesület szakmai civil szervezet. Célja a Bodyway önismereti módszer hazai megismertetése, művelése, fejlesztése, kutatása, alkalmazásával dolgozó szakemberek tömörítése, érdekeinek védelme, szakmai igényeinek képviselete, alap- és továbbképzése, a módszer szakmai hitelének védelme, rangjának képviselése, mind a társszakmák, mind a széles közvélemény előtt. b) Az egyesület a Bodyway önismereti módszernek, valamint általában a testtudat alapú önismereti módszerek, tánc- és mozgásterápiás önismereti módszerek, születéstréning, nonduális módszerek az önismeretben, a személyiségfejlesztésben, a betegségmegelőzésben, a rehabilitációban, valamint az oktatás és nevelés területén történő színvonalas alkalmazásával, és közösségfejlesztő ill. szervezetfejlesztő programokkal kíván hozzájárulni a magyar társadalom céljainak megvalósításához. c) Az egyesület célja a tagok számára a Bodyway módszer alkalmazásához szükséges ismeretek megszerzésének segítése, elméleti és gyakorlati képzésük elősegítése, valamint szakmai továbbképzésük biztosítása. d) Az egyesület célja, a minőségi és etikai sztenderdek kidolgozásán és képviseletén keresztül, az egyesület keretein belül folyó szakmai munka színvonalának biztosítása és fejlesztése. e) Az egyesület célja, a Bodyway módszer folyamatos továbbfejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016815",
+      "régi_nyilvántartási_száma": "16815/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-06-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pecsenka",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ferencz",
+        "Képviselő keresztneve": "Klaudia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sebő",
+        "Képviselő keresztneve": "Júlia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5829",
+        "Leírás": "Egyéb szoftverkiadás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 018 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 861 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "362 411 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "414 395 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "351 034 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bodywork Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bodywork Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

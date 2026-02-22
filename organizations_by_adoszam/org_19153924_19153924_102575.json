@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19153924",
+  "scraped_at": "2026-02-21T14:26:11.485279",
+  "organization_id": "102575",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "FAIRPLAY VÍVÁSÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1111 Budapest, Vak Bottyán utca 3.",
+      "x_koordináta": "47.4771007",
+      "y_koordináta": "19.0521252",
+      "adószám": "19153924-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-21",
+      "statisztikai_számjel": "19153924-8551-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A magyar vívás, kiemelten a párbajtőr sport, mint szakág támogatása, fejlesztése és népszerűsítése. Élsport, utánpótlássport és második vonalbeli vívók támogatása, felkészülő táborokba, versenyekre utaztatása és felszerelésekkel való ellátása. Nemzetközi edzőtáborok szervezése a versenyzők nemzetközi szintre hozatala érdekében. Versenyeken a fair vívás népszerűsítése. Az OSC vívó szakosztályának támogatása. Az utánpótlás mezőny növelése, a sportág népszerűsítésével és toborzással a fogyatékkal élők és a magyar kerekes székes vívók támogatása. Sajátos nevelési igényű és hátrányos helyzetű gyermekek sportolásának elősegítése, fejlesztése és támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012776",
+      "régi_nyilvántartási_száma": "12776/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-30",
+      "bankszámlaszám": "16200223-10090985",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pap",
+        "Képviselő keresztneve": "Jenő",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "292 201 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "136 684 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "224 636 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 902 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "FAIR PLAY VÍVÁSÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

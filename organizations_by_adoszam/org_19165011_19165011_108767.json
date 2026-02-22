@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "19165011",
+  "scraped_at": "2026-02-14T14:09:55.701501",
+  "organization_id": "108767",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tégy jót a fogyatékkal élőkért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3600 Ózd, Nemzetőr út 19. 5/13",
+      "x_koordináta": "48.2213081",
+      "y_koordináta": "20.2651277",
+      "adószám": "19165011-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-10",
+      "statisztikai_számjel": "19165011-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja a tartósan beteg, – kiemelten a fogyatékkal élők – támogatása, rehabilitációs fejlesztésének és életkörülményeinek javítása, segítése. 1. Elismerő emlékdíj a fogyatékkal élő gyermeküket ápoló szülők részére. Neve: „Angyalom“ Emlékdíj a hős szülőkért. 2. Fogyatékkal és tartós betegséggel élők életkörülményeinek javítása, otthonuk akadálymentesítésének segítése, gyógyászati segédeszközök beszerzésének koordinálása. Államilag nem, vagy csak részben finanszírozott gyógykezelésekhez, fejlesztésekhez, műtétekhez, gyógyászati segédeszközökhöz való hozzájutásának segítése. 3. Fogyatékkal vagy tartós betegséggel élő gyermekek és fiatal felnőttek támogatása, segítése, életminőségük és rehabilitációjuk érdekében. 4. Tégy Jót!® adománygyűjtő oldal üzemeltetése, fejlesztése. 5. Gyógyítást végző intézmények, szervek támogatása. 6. Élményterápiás foglalkozások szervezése, lebonyolítása. 7. Segítő kutyát képző és alkalmazó szervezetként is való működés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064558",
+      "régi_nyilvántartási_száma": "64558/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "22",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10400353-50527166-87721001",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ganyi",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "134 243 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "575 659 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "778 780 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "87",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "801 860 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tégy jót a fogyatékkal élőkért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

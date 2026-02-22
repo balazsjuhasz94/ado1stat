@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "19294715",
+  "scraped_at": "2026-02-21T12:30:32.551318",
+  "organization_id": "365645",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ghettogym Rekreációszervezés és Egészségfejlesztés Sportegyesület",
+      "rövid_név": "Ghettogym SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9025 Győr, Szirom utca 1.",
+      "adószám": "19294715-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-04",
+      "statisztikai_számjel": "19294715-9312-521-08",
+      "x_koordináta": "47.6756448",
+      "y_koordináta": "17.594409"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "- tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása; - a társadalmi öntevékenység és közösségi élet kibontakoztatása; - a sportegyesülettel kapcsolatban lévő oktatási, nevelési intézmények tanulói részére a sportolási, testedzési lehetőségek megteremtése, a lakosság szabadidősportjának segítése; - sportkapcsolatok létesítése és fejlesztése; - a sporttevékenység minőségi fejlesztése; - a fitnesz, a testépítés, küzdősportok, aerobic, hazai népszerűsítése, megismertetése a szélesebb közönség számára, - egészségmegőrzés és rekreáció keretein belül végzett tevékenységek – masszázs, gyógytorna – népszerűsítése, megismertetése a szélesebb közönség számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063220",
+      "régi_nyilvántartási_száma": "63220/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-13",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Győrfi",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-01-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sörös",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-01-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 473 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "552 928 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

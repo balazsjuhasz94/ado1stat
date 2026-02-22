@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19237130",
+  "scraped_at": "2026-02-14T14:36:11.247385",
+  "organization_id": "119781",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sport Egymásért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9798 Ják, Erdélyi József utca 46.",
+      "x_koordináta": "47.2384709",
+      "y_koordináta": "16.6409701",
+      "adószám": "19237130-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-04",
+      "statisztikai_számjel": "19237130-9312-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Egy olyan segítő közösség megteremtése, amely a sort fontosságát és összetartó erejét mutatja meg. Munkánkkal támogatni szeretnénk azon gyermekeket és felnőtteket, akiknek fontosa sport, vagy be akarják építeni mindennapjaikba, de anyagi vagy egészségügyi állapotuk miatt ez nem egyszerűen megoldható. Fontosnak tartjuk a társadalmi felelősségvállalást, ezért Sport Egymásért néven szerveztünk már jótékonysági gyűjtéseket. A segített családoknak, alapítványoknak a jövőben is szeretnénk segítő kezet nyújtani, az egyesület adta lehetőségek által. Így tagjaink folyamatos képzése is elsődleges céljaink közé tartozik. Az egyesület munkája során tajaira koordináló, irányt mutató, szervező feladatokat is ellátna. Konzorcium kialakítása és javítása más hasonló céllal megalakult egyesületekkel, szervezetekkel. Ezentúl minden olyan fejlesztési, környezetvédelmi, megelőzési projekt szervezése és támogatása, amely a régiót a benne élők és látogatók számára vonzóbbá, biztonságosabbá, és élhetőbbé teheti. A szabadidő hasznos és tartalmas eltöltését szolgáló kulturális, sport és turisztikai programok szervezése. lebonyolítása. Az egyesület alapvetően szabadidős tevékenységet szervez és bonyolít le, amelynek keretein belül elsősorban olyan személyeket céloz meg, akik érdeklődnek a sport és kultúra iránt, valamint szeretnének tenni környezetük fejlesztéséért, fenntarthatóságáért. Kulturális és turisztikai programok keretén belül rendezvényeket, versenyeket szervez, amelyeken az egyesület tagjain kívül más személyek is részt vehetnek. Az egyesület céljának megvalósítása érdekében együttműködik minden állami, társadalmi és gazdálkodó szervezetekkel, más egyesülettel és szövetséggel, amelyek segítik az Egyesület eredményes működését és céljainak megvalósítását. Az egyesület nemzetközi tevékenységet is folytathat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200800",
+      "régi_nyilvántartási_száma": "200800/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hangay",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "243 131 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "860 708 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "74",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "676 010 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

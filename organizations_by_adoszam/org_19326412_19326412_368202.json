@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19326412",
+  "scraped_at": "2026-02-14T13:20:05.454986",
+  "organization_id": "368202",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bottyán Alapítvány a Diákokért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2500 Esztergom, Visegrádi út 45.",
+      "adószám": "19326412-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-17",
+      "statisztikai_számjel": "19326412-8569-569-11",
+      "x_koordináta": "47.757576",
+      "y_koordináta": "18.7775339"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "AZ ESZC Bottyán János Technikumban és jogutódaiban folyó oktatási-nevelési programban megfogalmazott célok, úgy mint: nevelés oktatás, képességfejlesztés, ismeretterjesztés, szociális tevékenység, kulturális tevékenység, a kulturális örökség megóvása, természetvédelem, környezetvédelem, sportélet - a kor igényeinek megfelelő szintű megvalósításának segítése anyagi és humán erőforrások bevonásával. Az oktatási-nevelési programban megfogalmazott területeken a tehetséggondozás feltételeinek jobbításáért folyó intézményi munka támogatása, valamint a kiemelkedő teljesítményt elérő diákok díjazásának, jutalmazásának kiegészítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001140",
+      "régi_nyilvántartási_száma": "1140/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Domján",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "108",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 288 151 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

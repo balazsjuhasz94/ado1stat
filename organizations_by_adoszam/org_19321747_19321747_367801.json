@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19321747",
+  "scraped_at": "2026-02-14T13:59:31.268341",
+  "organization_id": "367801",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mentők Kiskunmajsa és Térségéért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6120 Kiskunmajsa, Petőfi S. utca 2/D.",
+      "adószám": "19321747-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-17",
+      "statisztikai_számjel": "19321747-9499-569-03",
+      "x_koordináta": "46.4605896",
+      "y_koordináta": "19.7274367"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "- az emberi élet mentése, a lakosság jobb ellátása, a mentőellátás és a betegszállítás szakmai színvonalának emelése, katasztrófa-elhárítás, és ezeknek szakszerűbb ellátásához szükséges feltételek megteremtése; - a Kiskunmajsai Mentőállomáson dolgozók munka- és életkörülményeinek javítása, szakmai fejlődésük elősegítése, egészségük megőrzése; - a mentős tevékenység széles körű bemutatása, megismertetése, és társadalmi elismertségének emelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002656",
+      "régi_nyilvántartási_száma": "2656/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "117",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "865 589 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "18946660",
+  "scraped_at": "2026-02-21T13:16:45.829398",
+  "organization_id": "77743",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "IMPÉRIUM Ökölvívó Sportegyesület",
+      "rövid_név": "IMPÉRIUM SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5400 Mezőtúr, Eötvös utca 6.",
+      "x_koordináta": "47.00609",
+      "y_koordináta": "20.604822",
+      "adószám": "18946660-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-11-20",
+      "statisztikai_számjel": "18946660-9313-521-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A rendszeres sportolás, versenyzés, testedzés, az ilyen igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása. Tagjai számára, illetve elsődlegesen Mezőtúr és vonzáskörzete területén támogatja a helyi lakosság szabadidősportját, valamint a diáksportot, elősegíti a fiatal, tehetséges sportolók kibontakozását haza és nemzetközi versenyeken, bajnokságokon, kupaversenyeken, melyeken részt vesz, illetve szervez. Az egyesület célja továbbá az E-sport fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002733",
+      "régi_nyilvántartási_száma": "2733/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-05-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-20",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-24",
+      "bankszámlaszám": "10402049-50526874-57761003",
+      "számlavezető_pénzintézet_neve": "K&amp;H. Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Héjja",
+        "Képviselő keresztneve": "Judit Mariann",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 264 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "36 721 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "116 802 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "120 643 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "429 433 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Impérium Ökölvívó Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "IMPÉRIUM Ökölvívó Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

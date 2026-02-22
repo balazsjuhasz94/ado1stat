@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19310888",
+  "scraped_at": "2026-02-21T14:38:44.597747",
+  "organization_id": "366850",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Papírsárkány Alapítvány a Különleges Gyermekekért",
+      "rövid_név": "Papírsárkány Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9700 Szombathely, Hosszú utca 34",
+      "adószám": "19310888-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-09-07",
+      "statisztikai_számjel": "19310888-8891-569-18",
+      "x_koordináta": "47.2183673",
+      "y_koordináta": "16.6250063"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Egy olyan családi bölcsőde létrehozása és működtetése, ahol a sajátos nevelési igényű gyermekeket is bizalommal elhelyezhetik szüleik, és kis létszámú csoportban, fejlesztő és biztonságos környezetben foglalkoznak velük és a bölcsődei szolgáltatásra építve minél több családot elérhessen (akik 1 12 éves korú gyermeket nevelnek), hiszen a család megfelelő működése érdekében fontos, hogy már a koragyermekkor kezdetétől fogva támogatást kapjon a család valamennyi tagja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-01-0000395",
+      "régi_nyilvántartási_száma": "395/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-08-25",
+      "alkalmazottak_száma": "4",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Babos",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "295 253 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

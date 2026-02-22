@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18993600",
+  "scraped_at": "2026-02-14T15:01:37.941793",
+  "organization_id": "62140",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Platina 5 D Ifjúsági, Kulturális és Szociális Egyesület",
+      "rövid_név": "Platina 5 D Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4371 Nyírlugos, TSZ telep 0645/2.",
+      "x_koordináta": "47.5226195",
+      "y_koordináta": "21.5990927",
+      "adószám": "18993600-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-12-14",
+      "statisztikai_számjel": "18993600-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Az egyesület céljai: • Ösztönözni a lakosságot az aktív, egészségtudatos életmód kialakításában. • A nemzeti kultúra tradicionális elemeinek védelmének előmozdítása, együttműködve más, hasonló célkitűzésű szervezetekkel. • Elősegíteni a táplálkozás minőségi szintjének, valamint tudatosságának folyamatos emelését. • Elősegíteni a helyi közösségek; családok stabilitását, illetve a családon belüli kapcsolatok erősödését. • Ösztönözni a környezettudatos életmód kialakítását. • A Platina 5D Egyesület célja, hogy bevonja a fiatalokat a civil társadalom életébe, működésébe szociális és kulturális programok által. • Célunk egy aktív közösség létrehozásának támogatása, amely segít a problémák megoldásában, a konfliktusok krízis helyzetek megelőzésében és kezelésében. Segíteni, hogy az egyén képessé váljon a saját problémájának a megoldására, erőforrásait, lehetőségeit kellő képen felhasználja. • Társadalmi célunknak tekintjük a hátrányos helyzetű emberek bevonását a kulturális életbe, a kulturális élet összekapcsolását a szociális segítségnyújtással, a szolidaritás, a tolerancia és a művészetek jegyében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0003278",
+      "régi_nyilvántartási_száma": "3278/2006",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hugert",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "69",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "337 512 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "333 014 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "90",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "549 207 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "71",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "443 738 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "76",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "593 707 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PLATINA 5D Ifjúsági, Kulturális és Szociális Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PLATINA 5D Ifjúsági, Kulturális és Szociális Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

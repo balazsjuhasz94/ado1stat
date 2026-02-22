@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19310008",
+  "scraped_at": "2026-02-21T14:09:22.246644",
+  "organization_id": "366794",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Apci Faluszépítő Egyesület",
+      "rövid_név": "AFE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3032 Apc, Petőfi út 24.",
+      "adószám": "19310008-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-08-25",
+      "statisztikai_számjel": "19310008-9499-529-10",
+      "x_koordináta": "47.7960518",
+      "y_koordináta": "19.6890529"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- a település szépítése, nevezetességeinek, tereinek, emlékműveinek felújítása, folyamatos gondozása; - rekreációs és szabadidős tevékenységek megszervezése, népszerűsítése - Apc község lakói, ill. a társaság tagjai részére; - a lakosság összefogásával koordinálásával, érdeklődési körének felkutatásával, igényeik felmérésével. Szabadidős programok szervezése számukra a prevenció, a kultúra, a sport, a természet és a környezetvédelem terén. Biztosítottá válik ezzel a szabadidő hasznos, tartalmas eltöltése közösségben és kulturált környezetben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0003010",
+      "régi_nyilvántartási_száma": "3010/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Müllerné Gémes",
+        "Képviselő keresztneve": "Hilda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-08",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-08",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szőkéné Balog",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "Ágnes",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 202 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "336 039 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

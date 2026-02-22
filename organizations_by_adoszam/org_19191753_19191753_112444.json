@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19191753",
+  "scraped_at": "2026-02-14T13:00:06.251579",
+  "organization_id": "112444",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kisgyerekek is lehetnek nagybetegek Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Izabella utca 15. B.",
+      "x_koordináta": "46.2324013",
+      "y_koordináta": "20.1857724",
+      "adószám": "19191753-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-14",
+      "statisztikai_számjel": "19191753-8559-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A korszerű akut gyermekellátás fejlesztésének támogatása, a gyermekintenzív terápiás szakellátás lehetőségeinek, eredményeinek széleskörű megismertetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001718",
+      "régi_nyilvántartási_száma": "1718/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-03-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "18400010-10000515-10335514",
+      "számlavezető_pénzintézet_neve": "Oberbank AG Magyarország"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváthné dr. Tajti",
+        "Képviselő keresztneve": "Zsanett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "191",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 324 631 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "196",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 608 528 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "172",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 735 683 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

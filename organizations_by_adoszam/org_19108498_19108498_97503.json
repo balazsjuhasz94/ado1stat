@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19108498",
+  "scraped_at": "2026-02-21T12:40:21.666219",
+  "organization_id": "97503",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Buruczki Testedző Szabadidős Sportegyesület",
+      "rövid_név": "BTS SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1171 Budapest, Tubarózsa utca 36.",
+      "x_koordináta": "47.4774652",
+      "y_koordináta": "19.2887398",
+      "adószám": "19108498-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-04",
+      "statisztikai_számjel": "19108498-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "• Az egészséges életmód, egészségmegőrzés elősegítése első sorban keréksport által • A kerékpár sport, kerékpár versenyzés iránt érdeklődők számára közösségteremtés • Aktív, sportos, egészséges életmódra nevelés, • A kerékpározás során a természet megőrzésére, védelmére, tiszteletére nevelés, • A kerékpárversenyeken történő részvétel koordinálása, szervezése a tagok részére • Kerékpárversenyek szervezése • Utánpótlás korú versenyzők tehetséggondozása • Buruczki Szilárd 18-szoros magyar bajnok, 22 év versenyzői tapasztalatának az egyesület tagjainak az érdekében történő kamatoztatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017091",
+      "régi_nyilvántartási_száma": "17091/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-20",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buruczki",
+        "Képviselő keresztneve": "Szilárd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "260 227 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "343 283 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "459 242 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "522 772 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BTS SE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

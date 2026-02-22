@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19236407",
+  "scraped_at": "2026-02-14T14:10:21.298895",
+  "organization_id": "119334",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jenő Község Jövőjéért Egyesület",
+      "rövid_név": "JKJE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8146 Jenő, Hősök utca 11.",
+      "x_koordináta": "47.1045959",
+      "y_koordináta": "18.2479223",
+      "adószám": "19236407-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-25",
+      "statisztikai_számjel": "19236407-9499-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Településfejlesztési és lakásügyi tevékenység (pl. helyi és regionális településfejlesztés, kommunális és közlekedésfejlesztés, közösségfejlesztés, ingatlantulajdonosok szervezetei, lakásellátás javítása)",
+      "céljának_leírása": "Az egyesület célja természet- és környezetvédelem, a község szépítése; környezetkímélő terület- és településfejlesztés, az épített környezet – különösen a falukép – javítása; lakókörnyezet alakítása, középületek és környékük, közterületek gondozása; kulturális örökségünk védelme, gazdagítása, hagyományok, helyi sajátosságok megóvása, felelevenítése, a vidéki életforma megőrzése, népszerűsítése; közösségi érdekek képviselete és érvényesítése; kapcsolattartás a községben működő civil szervezetekkel; határon kívüli magyar civil szervezetekkel való kapcsolattartás; község rendezvényein való aktív részvétel; civil kontroll érvényesítése az érdekkörüket érintő önkormányzati döntések folyamatában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003243",
+      "régi_nyilvántartási_száma": "3243/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-11-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Herczeg",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "383 893 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "411 189 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "798 988 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

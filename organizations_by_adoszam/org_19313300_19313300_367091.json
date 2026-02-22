@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19313300",
+  "scraped_at": "2026-02-14T13:41:34.489528",
+  "organization_id": "367091",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MAZSOLA KUCKÓ Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1039 Budapest, Zrínyi utca 20.",
+      "adószám": "19313300-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-11",
+      "statisztikai_számjel": "19313300-8899-569-01",
+      "x_koordináta": "47.5923449",
+      "y_koordináta": "19.0608042"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány a fogyatékkal élő, autizmussal élő, figyelemzavaros, ADHD-s és halmozottan sérült gyermekek és felnőttek, azok családtagjaik, testvéreik, egyéb más, környezetükben élő, velük szoros kapcsolatban lévő személyek – a továbbiakban: kedvezményezettek – kiszolgáltatottságtól mentes, minél teljesebb társadalmi részvételének, életminőségük javításának elősegítését tűzte ki célul, beleértve a tipikus fejlődésű testvérek és a szülők életminőségének a javítását is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013201",
+      "régi_nyilvántartási_száma": "13201/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-12-19",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szolnok",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 024 071 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

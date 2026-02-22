@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19326584",
+  "scraped_at": "2026-02-14T14:36:00.491821",
+  "organization_id": "30413",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Holdfényoviért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2040 Budaörs, Holdfény utca 31.",
+      "x_koordináta": "47.4597421",
+      "y_koordináta": "18.9358194",
+      "adószám": "19326584-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-16",
+      "statisztikai_számjel": "19326584-8510-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Tehetséggondozás, vagyis felismeri a gyermekek tehetségének különböző megjelenési formáit, kielégíteni a kiemelkedő képességű gyermekek megismerési, alkotási és speciális szükségleteinek fejlesztési igényeit, illetve az alulteljesítő tehetségek felismerése, megsegítése képességeik maximális kibontakoztatása érdekében. A tehetségek sokszínűségéhez igazodva olyan tevékenységi lehetőségek biztosítása, melyek segítenek a gyermekeknek érdeklődési irányaik megismerésében. Egyéni foglalkozások keretében történő célzott fejlesztés, képességfejlesztés biztosítása, a gyermekek pozitivén - tudatának kialakítása és erősítése. Tehetségfejlesztő programok szervezése, és az óvodai élet folyamatos gazdagítása egyéb tehetségfejlesztő tevékenységekkel. Az óvodai szakmai munkaszínvonalát emelő kül - és beltéri eszközök támogatása, felújítása, pótlása. Az óvodai nevelőmunkát segítő eszközök pótlása. Az óvodai alkalmazottak szakmai ismeretének bővítésére továbbképzésének szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003755",
+      "régi_nyilvántartási_száma": "3755/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10918001-00000081-43510002",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Urainé Pócsik",
+        "Képviselő keresztneve": "Adrienn",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "677 761 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

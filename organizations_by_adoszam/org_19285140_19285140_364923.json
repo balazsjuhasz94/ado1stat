@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19285140",
+  "scraped_at": "2026-02-21T13:10:00.585151",
+  "organization_id": "364923",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ékszer Balett Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1042 Budapest, Árpád út 56. I/17.",
+      "adószám": "19285140-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-22",
+      "statisztikai_számjel": "19285140-9020-529-01",
+      "x_koordináta": "47.5608154",
+      "y_koordináta": "19.0939699"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az Egyesület létrehozásának és működésének célja – elsősorban amatőr –hazai és külföldi táncművészeti és zeneművészeti, valamint egyéb előadó művészeti,színházművészeti, továbbá az azokkal rokon művészeti alkotások és alkotóik, előadóik bemutatása, művészeti alkotások, programok létrehozásának támogatása, művészeti oktatás és ismeretterjesztés a gyermek, a fiatal és a felnőtt lakosság körében, lehetőség szerint bevonva a határainkon túl élő magyarságot és külföldi partnereket is.Ezen célok megvalósítása érdekében balett- és táncelőadások, hangversenyek, fesztiválok,egyéb kulturális programok rendezése, az ehhez szükséges oktatás biztosítása, más szervezetek, illetve magánszemélyek által szervezett művészeti rendezvények látogatásának megszervezése, lemez-, könyv- és ismeretterjesztő kiadványok létrehozása, kiadásuk támogatása, továbbképzés szervezése, valamint együttműködés hasonló tevékenységet folytatóhazai és külföldi civil és más szervezetekkel",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017481",
+      "régi_nyilvántartási_száma": "17481/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-11-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-20",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Renge",
+        "Képviselő keresztneve": "Györgyi",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 645 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 879 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "40",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "445 625 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}
