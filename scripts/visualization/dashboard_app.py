@@ -535,14 +535,15 @@ def build_sunburst_figure():
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Default',
-        visible=True, hovertemplate=hover_tpl, textfont=dict(size=9)
+        visible=True, hovertemplate=hover_tpl, textfont=dict(size=9),
+        maxdepth=2
     ))
 
     # Salary trace
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Salary',
-        visible=False, marker=dict(
+        visible=False, maxdepth=2, marker=dict(
             colorscale='RdYlGn', cmid=(min_salary + max_salary) / 2,
             cmin=min_salary, cmax=max_salary,
             showscale=True, colorbar=dict(
@@ -558,7 +559,7 @@ def build_sunburst_figure():
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Growth',
-        visible=False, marker=dict(
+        visible=False, maxdepth=2, marker=dict(
             colorscale='RdYlGn', cmid=0, cmin=-50.0, cmax=50.0,
             showscale=True, colorbar=dict(
                 title=dict(text='Változás (%)', side='right'),
