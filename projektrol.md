@@ -4,7 +4,7 @@ Ez az oldal egy hobbiprojekt, mely két hétvége alatt készült, nagyrészt AI
 A projekt célja, hogy 
 - bemutassa a civil szervezeteknek felajánlott adó 1% összegek trendjeit, 
 - lehetőséget adjon az embereknek böngészni a lehetséges szervezetek között
-- mutasson egy példát arra, hogy milyen jó dolgokra lehet használni az AI-t
+- közérthetően bemutasson egy példát arra, hogyan lehet ilyesfajta dolgokra használni az AI-t manapság.
 
 
 ## Adatforrások
@@ -90,9 +90,15 @@ A filozofálásba való belemerülést nélkülözve: persze tudom, hogy nem csa
 
 *"Vizualizáld egy weboldalon minél részletesebben az SZJA 1%-os felajánlásokat."*
 
+Most az a fázis van, hogy szükség van egyfajta felületes hozzáértésre, az ötletre és elképzelésre, hogy pontosan mit szeretnénk, ami alapján terelgetni lehet az AI asszistensünk. Kérdés mennyi idő múlva jutunk, hogy ehhez az elképzelésre sem lesz szükség.  
+
 ## A kategorizáláshoz használt prompt
 
-Az alábbi szöveget kapta meg a Claude Haiku modell minden egyes szervezet-kötegnél. A `{categories_text}` helyére a kategóriák és leírásaik kerültek, az `{orgs_text}` helyére pedig a szervezetek adatai (név, székhely, célkitűzés).
+Az alábbi szöveget kapta meg a Claude Haiku modell minden egyes szervezet csoportnál. 
+
+Minden lépésben 10 szervezet helyes kategorizálást kérjük a modelltől. Ennek oka, hogy ennyi adatra még hatékonyan tud emlékezni egyszerre.
+
+A `{categories_text}` helyére a kategóriák és leírásaik kerültek, az `{orgs_text}` helyére pedig a szervezetek adatai (név, székhely, célkitűzés).
 
 ```
 Kategorizáld a magyar civil szervezeteket a céljuk ÉS székhelyük alapján.
