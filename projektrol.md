@@ -126,62 +126,55 @@ A te válaszod:
 A `{categories_text}` az alábbi kategóriákat és leírásaikat tartalmazta:
 
 ```
-=== KULTURÁLIS SZERVEZETEK ===
-
-• sajtó, média
-  Használd ezt a címkét, ha a szervezet FÓKUSZA sajtó vagy média tevékenység.
-  Ide tartozik: újságok, online hírportálok, magazinok, rádió, televízió,
-  hírszolgáltatás, újságírás támogatása, média szabadság.
-
-• vallás népszerűsítés
-  Használd, ha a szervezet FÓKUSZA vallási értékek terjesztése.
-  Ide tartozik: egyházi alapítványok, bibliai programok, hitéleti programok.
-
-• etnikai szervezetek
-  Használd, ha a szervezet FÓKUSZA etnikai, nemzeti kisebbségek, népcsoportok.
-  Ide tartozik: roma, német, horvát, szerb nemzetiségi szervezetek, hagyományőrzés.
+=== KULTÚRA ÉS MŰVÉSZET ===
 
 • művészeti szervezetek
   Használd, ha a szervezet FÓKUSZA művészet, kultúra.
   Ide tartozik: zenei együttesek, színházak, festészet, tánccsoportok, galériák.
-
-• demokráciáért tevő szervezetek
-  Használd, ha a szervezet FÓKUSZA demokrácia erősítése, civil társadalom fejlesztése.
-
-• nőjogi szervezetek
-  Használd, ha FÓKUSZA nők jogai, nők egyenlősége.
-
-• nemi kisebbségek
-  Használd, ha FÓKUSZA LMBTQ+ közösség jogai.
-
-• egyéb jogvédő szervezetek
-  Használd, ha jogvédő tevékenység, de nem nő- vagy LMBTQ-specifikus.
-
+• etnikai szervezetek
+  Használd, ha a szervezet FÓKUSZA etnikai, nemzeti kisebbségek, népcsoportok.
+  Ide tartozik: roma, német, horvát, szerb nemzetiségi szervezetek, hagyományőrzés.
+• vallási szervezetek
+  Használd, ha a szervezet FÓKUSZA vallási értékek terjesztése.
+  Ide tartozik: egyházi alapítványok, bibliai programok, hitéleti programok.
 • egyéb kulturális szervezetek
-  Használd, ha kulturális tevékenység, de egyik specifikus alkategóriába sem illik.
+  Ide tartozik: könyvtári támogatás, közösségi házak, kulturális örökség megőrzése.
 
-=== OKTATÁSI SZERVEZETEK ===
+=== EMBERI JOGOK ÉS CIVIL TÁRSADALOM ===
 
-• budapesti gimnáziumok
-• Budapesten kívüli gimnáziumok
+• sajtó, média
+  Ide tartozik: újságok, online hírportálok, rádió, televízió, újságírás támogatása.
+• demokrácia és átláthatóság
+  Ide tartozik: anti-korrupció, választási megfigyelés, állampolgári részvétel.
+• nőjogi szervezetek
+  Ide tartozik: női esélyegyenlőség, nők ellen irányuló erőszak megelőzése.
+• LMBTQ+ szervezetek
+• egyéb jogvédő szervezetek
+  Ide tartozik: általános emberi jogi szervezetek, fogyasztóvédelem, menekültek jogai.
+
+=== OKTATÁS ===
+
+• gimnáziumok
 • általános iskolák
 • óvodák
 • egyéb iskolák
   Ide tartozik: szakgimnáziumok, szakiskolák, kollégiumok, nemzetiségi iskolák.
 • egyéb oktatási szervezetek
   Ide tartozik: tehetséggondozás, diákversenyek, ösztöndíjak, felnőttképzés.
+• tudományos kutatás
+  Ide tartozik: kutatóintézetek támogatása, tudományos ösztöndíjak, tudománynépszerűsítés.
 
-=== ÁLLAT ÉS TERMÉSZETVÉDELEM ===
+=== KÖRNYEZET- ÉS ÁLLATVÉDELEM ===
 
-• környezet és természetvédelem
+• környezet- és természetvédelem
 • kutyák
 • macskák
 • madarak
-• egyéb konkrét állatok
+• más konkrét állatfajok
 • állatkertek
 • egyéb állatvédelem
 
-=== SZOCIÁLIS SZERVEZETEK ===
+=== SZOCIÁLIS SEGÍTSÉGNYÚJTÁS ===
 
 • rászorulók segítése
   Ide tartozik: étkeztetés, ruhaosztás, hajléktalan ellátás, szegénység elleni küzdelem.
@@ -189,15 +182,23 @@ A `{categories_text}` az alábbi kategóriákat és leírásaikat tartalmazta:
 • gyermekvédelem
 • családalapítást segítő szervezetek
 • fogyatékkal élők segítése
+• idősek gondozása
+  Ide tartozik: idősotthonok, nyugdíjas klubok, magányos idősek látogatása, demencia.
 • beteg emberek lelki és szociális támogatása
   Ide tartozik: hospice, palliatív ellátás, haldoklók kísérése.
 • egyházhoz kötődő szociális szervezetek
+• mentális egészség és szenvedélybetegségek
+  Ide tartozik: depresszió, öngyilkosság megelőzés, alkoholizmus, drogfüggőség.
+• települési és közösségfejlesztés
+  Ide tartozik: faluszépítés, városvédő egyesületek, lokálpatrióta szervezetek.
 
-=== KATASZTRÓFAVÉDELEM ===
+=== KATASZTRÓFAVÉDELEM ÉS KÖZBIZTONSÁG ===
 
 • országos szervezetek
-• helyi szervezetek
-• önkéntes tűzoltó egyesületek
+• helyi mentő szervezetek
+• tűzoltó egyesületek
+• speciális mentőszervezetek
+  Ide tartozik: barlangi mentők, vízimentők, légimentők, kutató mentők.
 
 === FELNŐTT EGÉSZSÉGÜGY ===
 
@@ -216,7 +217,7 @@ A `{categories_text}` az alábbi kategóriákat és leírásaikat tartalmazta:
 • konkrét beteg gyerekek
 • egyéb gyermek egészségügy
 
-=== SZABADIDŐS ÉS SPORTTEVÉKENYSÉGEK ===
+=== SPORT ÉS SZABADIDŐ ===
 
 • sportklubok
 • vadásztársaságok
