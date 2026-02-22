@@ -11,6 +11,7 @@ import json
 import os
 import sys
 import re
+from datetime import date
 
 # Base directory paths
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -199,6 +200,120 @@ def lighten_color(hex_color, factor=0.3):
     return f'#{r:02x}{g:02x}{b:02x}'
 
 
+def get_countdown_text():
+    """Calculate days remaining until May 20 tax 1% donation deadline."""
+    today = date.today()
+    deadline = date(today.year, 5, 20)
+    if today > deadline:
+        deadline = date(today.year + 1, 5, 20)
+    days_left = (deadline - today).days
+    if days_left == 0:
+        return "Ma van a határidő!", "today"
+    elif days_left <= 7:
+        return f"{days_left} nap van hátra", "urgent"
+    elif days_left <= 30:
+        return f"{days_left} nap van hátra", "soon"
+    else:
+        return f"{days_left} nap van hátra", "normal"
+
+
+def make_banner():
+    """Create the top banner with project info and countdown."""
+    countdown_text, urgency = get_countdown_text()
+    urgency_colors = {
+        "today": "#dc3545", "urgent": "#e85d04",
+        "soon": "#f4a261", "normal": "#2a9d8f",
+    }
+    badge_color = urgency_colors.get(urgency, "#2a9d8f")
+
+    return html.Div([
+        html.Div([
+            html.Div([
+                html.Span("Civil Szervezetek Adó 1% Elemzése", style={
+                    'fontWeight': '700', 'fontSize': '15px', 'color': '#ffffff'
+                }),
+                html.Span(" — ", style={'color': 'rgba(255,255,255,0.5)', 'margin': '0 8px'}),
+                html.Span(
+                    "A legnagyobb szervezetek felajánlásainak interaktív áttekintése",
+                    style={'fontSize': '13px', 'color': 'rgba(255,255,255,0.8)'}
+                ),
+            ], style={'flex': '1'}),
+            html.Div([
+                html.Span("Felajánlási határidő: május 20.", style={
+                    'fontSize': '12px', 'color': 'rgba(255,255,255,0.7)', 'marginRight': '12px'
+                }),
+                html.Span(countdown_text, style={
+                    'backgroundColor': badge_color, 'color': '#fff',
+                    'padding': '6px 18px', 'borderRadius': '20px',
+                    'fontSize': '15px', 'fontWeight': '700', 'whiteSpace': 'nowrap',
+                    'boxShadow': '0 2px 4px rgba(0,0,0,0.2)',
+                }),
+            ], style={'display': 'flex', 'alignItems': 'center'}),
+        ], style={
+            'display': 'flex', 'alignItems': 'center',
+            'justifyContent': 'space-between', 'flexWrap': 'wrap', 'gap': '8px',
+        }),
+    ], className="top-banner")
+
+
+PAGE_DESCRIPTIONS = {
+    'sunburst': (
+        "Ez az ábra a civil szervezeteket kategóriák szerint mutatja hierarchikus megoszlásban. "
+        "Kattintson egy szektorra a részletekért, vagy kattintson a közepére a visszalépéshez. "
+        "A színezés gombokkal válthat a kategória, jövedelem és változás nézetek között."
+    ),
+    'map': (
+        "A térképen a szervezetek földrajzi elhelyezkedése látható. "
+        "A keresővel szervezetre kereshet. Görgessen a nagyításhoz, kattintson egy pontra a részletekért. "
+        "A legördülő menüből kategória szerint szűrhet."
+    ),
+    'timeseries': (
+        "Itt az egyes szervezetek éves adó 1%-os bevételeit követheti nyomon. "
+        "Válasszon kategóriát a bal oldali legördülőből, majd szűrjön összeg szerint. "
+        "Az Összeg, Arány és Eloszlás nézetek között a gombokkal válthat."
+    ),
+    'category_timeseries': (
+        "Ez az oldal a kategóriák összesített éves trendjeit mutatja. "
+        "Válasszon egy szülő kategóriát, vagy nézze meg az összeset egyben. "
+        "Az Arány nézet megmutatja, hogyan változott az egyes kategóriák részesedése az évek során."
+    ),
+    'scatter': (
+        "Ez a pontdiagram az adó 1%-os összeget veti össze a felajánlók becsült átlagos havi bruttó jövedelmével. "
+        "Minden pont egy szervezet — vigye rá az egeret a részletekért. "
+        "A jelmagyarázatban kategóriákat kapcsolhat ki/be."
+    ),
+    'city': (
+        "Keressen településre, és nézze meg az ott bejegyzett vagy a közelben lévő szervezeteket. "
+        "A székhely/10 km mód gombokkal válthat. "
+        "Bal oldalon a térkép, jobb oldalon az éves trend látható."
+    ),
+    'about': None,
+}
+
+
+def make_page_info(page_key):
+    """Create a subtle info box with page explanation."""
+    text = PAGE_DESCRIPTIONS.get(page_key)
+    if not text:
+        return html.Div()
+    return html.Div([
+        html.Span("ℹ ", style={
+            'fontWeight': 'bold', 'marginRight': '6px', 'fontSize': '14px', 'color': '#4a9eff'
+        }),
+        html.Span(text),
+    ], className="page-info-box")
+
+
+def wrap_page(page_key, title, content_children):
+    """Wrap page content with banner and info box."""
+    return html.Div([
+        make_banner(),
+        html.H2(title, className="page-title"),
+        make_page_info(page_key),
+        *content_children
+    ])
+
+
 # ============================================================================
 # DATA LOADING (shared across all pages)
 # ============================================================================
@@ -289,6 +404,25 @@ leaf_categories = sorted(df_ts['leaf_category'].unique())
 
 print(f"\nData ready: {len(df_merged)} total orgs, {len(df_ts)} with history")
 print(f"Years: {min(all_years)} - {max(all_years)}, Categories: {len(leaf_categories)}")
+
+# Pre-compute category-level yearly aggregations for fast timeseries
+print("Pre-computing category timeseries aggregations...")
+cat_year_totals = {}  # {('leaf', leaf_cat, year): amount, ('parent', parent_cat, year): amount}
+for _, row in df_ts.iterrows():
+    hist = row['historical_dict']
+    lc = row['leaf_category']
+    pc = row['parent_category']
+    for year, amount in hist.items():
+        if amount > 0:
+            cat_year_totals[('leaf', lc, year)] = cat_year_totals.get(('leaf', lc, year), 0) + amount
+            cat_year_totals[('parent', pc, year)] = cat_year_totals.get(('parent', pc, year), 0) + amount
+            cat_year_totals[('all', '__all__', year)] = cat_year_totals.get(('all', '__all__', year), 0) + amount
+print(f"Pre-computed {len(cat_year_totals)} category-year aggregations")
+
+# Pre-compute leaf_category → parent_category mapping
+leaf_to_parent_map = {}
+for _, row in df_ts[['leaf_category', 'parent_category']].drop_duplicates().iterrows():
+    leaf_to_parent_map[row['leaf_category']] = row['parent_category']
 
 # Load pre-computed city radius data
 city_data_path = os.path.join(DATA_DIR, 'city_radius_data.json')
@@ -385,10 +519,19 @@ def build_sunburst_figure():
     # Root
     all_hist_chart = format_historical_table(total_aggregated_hist)
     all_yoy_growth = original.calculate_yoy_growth(total_aggregated_hist)
+    root_purpose = (
+        "Ez az összesítés a legtöbb 1%-os SZJA felajánlást kapó<br>"
+        f"top {len(df_merged):,} szervezetet tartalmazza, mely az összes<br>"
+        "felajánlás kb. 89%-át teszi ki.<br>"
+        "Az összes felajánlás országosan ~20,3 milliárd Ft volt.<br>"
+        "A fennmaradó ~27 000 kisebb szervezet adatai<br>"
+        "nincsenek benne az elemzésben."
+    )
     nodes.append({
         'id': str(current_id), 'label': 'Összes', 'parent': '',
-        'összeg': total_összeg, 'db': total_db, 'szekhely': '',
-        'formatted_purpose': '', 'historical_chart': all_hist_chart,
+        'összeg': total_összeg, 'db': total_db,
+        'szekhely': f"{len(df_merged):,} szervezet összesítve",
+        'formatted_purpose': root_purpose, 'historical_chart': all_hist_chart,
         'org_name': 'Összes szervezet', 'yoy_growth': all_yoy_growth, 'depth': 0
     })
     id_map['__root__'] = str(current_id)
@@ -401,10 +544,16 @@ def build_sunburst_figure():
             aggregated_hist = original.aggregate_historical_data(subset)
             hist_chart = format_historical_table_with_pct(aggregated_hist, total_aggregated_hist)
             yoy_growth = original.calculate_yoy_growth(aggregated_hist)
+            top5 = subset.nlargest(5, 'összeg')
+            top5_lines = [f"  {row['Szervezet neve'][:50]}: {row['összeg']:,.0f} Ft"
+                          for _, row in top5.iterrows()]
+            purpose_text = (f"{len(subset)} szervezet ebben a kategóriában<br>"
+                           f"Top 5:<br>" + "<br>".join(top5_lines))
             nodes.append({
                 'id': str(current_id), 'label': parent_cat, 'parent': id_map['__root__'],
-                'összeg': subset['összeg'].sum(), 'db': subset['db'].sum(), 'szekhely': '',
-                'formatted_purpose': '', 'historical_chart': hist_chart,
+                'összeg': subset['összeg'].sum(), 'db': subset['db'].sum(),
+                'szekhely': f"{len(subset)} szervezet",
+                'formatted_purpose': purpose_text, 'historical_chart': hist_chart,
                 'org_name': parent_cat, 'yoy_growth': yoy_growth, 'depth': 1
             })
             id_map[parent_cat] = str(current_id)
@@ -421,11 +570,17 @@ def build_sunburst_figure():
                     hist_chart = format_historical_table_with_pct(aggregated_hist, total_aggregated_hist)
                     yoy_growth = original.calculate_yoy_growth(aggregated_hist)
                     cat_key = f"{parent_cat}|{leaf_cat}"
+                    top5 = subset.nlargest(5, 'összeg')
+                    top5_lines = [f"  {row['Szervezet neve'][:50]}: {row['összeg']:,.0f} Ft"
+                                  for _, row in top5.iterrows()]
+                    purpose_text = (f"{len(subset)} szervezet ebben az alkategóriában<br>"
+                                   f"Top 5:<br>" + "<br>".join(top5_lines))
                     nodes.append({
                         'id': str(current_id), 'label': leaf_cat,
                         'parent': id_map.get(parent_cat, '0'),
-                        'összeg': subset['összeg'].sum(), 'db': subset['db'].sum(), 'szekhely': '',
-                        'formatted_purpose': '', 'historical_chart': hist_chart,
+                        'összeg': subset['összeg'].sum(), 'db': subset['db'].sum(),
+                        'szekhely': f"{len(subset)} szervezet",
+                        'formatted_purpose': purpose_text, 'historical_chart': hist_chart,
                         'org_name': leaf_cat, 'yoy_growth': yoy_growth, 'depth': 2
                     })
                     id_map[cat_key] = str(current_id)
@@ -536,14 +691,14 @@ def build_sunburst_figure():
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Default',
         visible=True, hovertemplate=hover_tpl, textfont=dict(size=9),
-        maxdepth=2
+        maxdepth=3
     ))
 
     # Salary trace
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Salary',
-        visible=False, maxdepth=2, marker=dict(
+        visible=False, maxdepth=3, marker=dict(
             colorscale='RdYlGn', cmid=(min_salary + max_salary) / 2,
             cmin=min_salary, cmax=max_salary,
             showscale=True, colorbar=dict(
@@ -559,7 +714,7 @@ def build_sunburst_figure():
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Growth',
-        visible=False, maxdepth=2, marker=dict(
+        visible=False, maxdepth=3, marker=dict(
             colorscale='RdYlGn', cmid=0, cmin=-50.0, cmax=50.0,
             showscale=True, colorbar=dict(
                 title=dict(text='Változás (%)', side='right'),
@@ -573,7 +728,7 @@ def build_sunburst_figure():
     fig.update_layout(
         annotations=[dict(
             text="Színezés:", showarrow=False,
-            x=0.22, y=1.04, xref="paper", yref="paper",
+            x=0.35, y=1.02, xref="paper", yref="paper",
             font=dict(size=13, color="#333")
         )],
         updatemenus=[dict(
@@ -584,10 +739,10 @@ def build_sunburst_figure():
                 dict(args=[{"visible": [False, False, True]}], label="Tavalyhoz képesti változás", method="update"),
             ],
             pad={"r": 10, "t": 10}, showactive=True,
-            x=0.35, xanchor="left", y=1.04, yanchor="middle"
+            x=0.45, xanchor="left", y=1.02, yanchor="middle"
         )],
-        margin=dict(t=70, l=10, r=60, b=300),
-        height=850
+        margin=dict(t=50, l=0, r=0, b=100),
+        height=1100
     )
 
     return fig
@@ -910,6 +1065,24 @@ app.index_string = '''
 
             /* Slider tooltip formatting */
             .rc-slider-tooltip { font-size: 14px !important; font-weight: bold !important; }
+
+            .top-banner {
+                background: linear-gradient(135deg, #1a1a2e 0%, #2d2d5e 100%);
+                border-radius: 8px;
+                padding: 14px 22px;
+                margin-bottom: 16px;
+                box-shadow: 0 2px 8px rgba(26,26,46,0.15);
+            }
+            .page-info-box {
+                background: #f0f6ff;
+                border: 1px solid #d0e0f0;
+                border-radius: 6px;
+                padding: 10px 16px;
+                margin-bottom: 16px;
+                font-size: 13px;
+                color: #444;
+                line-height: 1.5;
+            }
         </style>
         <script>
             function formatSliderValue(value) {
@@ -994,15 +1167,13 @@ sidebar = html.Div([
 
 # Page layouts
 def sunburst_page():
-    return html.Div([
-        html.H2("Kategóriák - Hierarchikus megoszlás", className="page-title"),
-        dcc.Graph(figure=sunburst_fig, style={'height': '850px'},
+    return wrap_page('sunburst', "Kategóriák - Hierarchikus megoszlás", [
+        dcc.Graph(figure=sunburst_fig, style={'height': '1100px'},
                   config={'displayModeBar': True, 'displaylogo': False})
     ])
 
 def map_page():
-    return html.Div([
-        html.H2("Térkép - Szervezetek elhelyezkedése", className="page-title"),
+    return wrap_page('map', "Térkép - Szervezetek elhelyezkedése", [
         html.Div([
             html.Label("Szervezet keresése:", className="fw-bold", style={'marginRight': '10px'}),
             dcc.Dropdown(
@@ -1043,8 +1214,7 @@ def timeseries_page():
                 'value': leaf_cat
             })
 
-    return html.Div([
-        html.H2("Évenkénti adatok szervezetenként", className="page-title"),
+    return wrap_page('timeseries', "Évenkénti adatok szervezetenként", [
         dbc.Row([
             dbc.Col([
                 html.Label("Kategória:", className="fw-bold"),
@@ -1108,8 +1278,7 @@ def category_timeseries_page():
     ]
     cat_options += [{'label': cat, 'value': cat} for cat in parent_cats]
 
-    return html.Div([
-        html.H2("Évenkénti adatok kategóriánként", className="page-title"),
+    return wrap_page('category_timeseries', "Évenkénti adatok kategóriánként", [
         dbc.Row([
             dbc.Col([
                 html.Label("Kategória:", className="fw-bold"),
@@ -1142,16 +1311,13 @@ def category_timeseries_page():
 
 
 def scatter_page():
-    return html.Div([
-        html.H2("Összeg vs Átlagos Havi Jövedelem", className="page-title"),
+    return wrap_page('scatter', "Összeg vs Átlagos Havi Jövedelem", [
         dcc.Graph(figure=scatter_fig, style={'height': '800px'},
                   config={'displayModeBar': True, 'displaylogo': False})
     ])
 
 def city_page():
-    return html.Div([
-        html.H2("Település keresés", className="page-title"),
-
+    return wrap_page('city', "Település keresés", [
         # Search mode + city dropdown at top
         dbc.Row([
             dbc.Col([
@@ -1251,6 +1417,7 @@ def about_page():
     else:
         md_content = "*A projektről szóló leírás nem található.*"
     return html.Div([
+        make_banner(),
         html.H2("A projektről", className="page-title"),
         dcc.Markdown(md_content, link_target='_blank',
                      style={'maxWidth': '800px', 'lineHeight': '1.7', 'fontSize': '15px'}),
@@ -1583,9 +1750,8 @@ def ts_update_graph(selected_category, amount_range, chart_mode, selected_org):
         return fig
 
     # --- Line chart modes (absolute / percentage) ---
-    color = COLORS_20[cat_idx % len(COLORS_20)]
-
-    for _, row in df_cat.iterrows():
+    for org_idx, (_, row) in enumerate(df_cat.iterrows()):
+        color = COLORS_20[org_idx % len(COLORS_20)]
         org_name = row['Szervezet neve']
         hist_dict = row['historical_dict']
         hist_data = row['historical_data']
@@ -1718,25 +1884,26 @@ def cat_ts_update_graph(selected_parent, chart_mode):
     # Get all orgs — either for one parent or all
     is_all = selected_parent == '__all__'
     is_all_parents = selected_parent == '__all_parents__'
-    if is_all or is_all_parents:
-        df_parent = df_ts.copy()
-    else:
-        df_parent = df_ts[df_ts['parent_category'] == selected_parent]
 
-    # Aggregate by parent categories or leaf categories
+    # Determine grouping level and categories
     if is_all_parents:
         group_col = 'parent_category'
+        key_prefix = 'parent'
     else:
         group_col = 'leaf_category'
-    group_cats = sorted(df_parent[group_col].dropna().unique())
+        key_prefix = 'leaf'
 
-    # Aggregate historical data per category per year
+    if is_all or is_all_parents:
+        group_cats = sorted(df_ts[group_col].dropna().unique())
+    else:
+        group_cats = sorted(df_ts[df_ts['parent_category'] == selected_parent][group_col].dropna().unique())
+
+    # Use pre-computed aggregations instead of iterating over rows
     leaf_year_data = {}  # {cat_name: {year: total_amount}}
     for cat in group_cats:
-        df_cat = df_parent[df_parent[group_col] == cat]
         year_totals = {}
         for year in all_years:
-            total = sum(row['historical_dict'].get(year, 0) for _, row in df_cat.iterrows())
+            total = cat_year_totals.get((key_prefix, cat, year), 0)
             if total > 0:
                 year_totals[year] = total
         if year_totals:
@@ -1749,9 +1916,8 @@ def cat_ts_update_graph(selected_parent, chart_mode):
     leaf_to_parent = {}
     if not is_all_parents:
         for cat in group_cats:
-            df_lc = df_parent[df_parent['leaf_category'] == cat]
-            if len(df_lc) > 0:
-                leaf_to_parent[cat] = df_lc['parent_category'].iloc[0]
+            if cat in leaf_to_parent_map:
+                leaf_to_parent[cat] = leaf_to_parent_map[cat]
 
     # Parent totals per year (for percentage calc)
     parent_totals_by_year = {}
@@ -2270,4 +2436,4 @@ if __name__ == '__main__':
     print("Dashboard running at: http://127.0.0.1:8050/")
     print("Press Ctrl+C to stop")
     print("=" * 60)
-    app.run(debug=False, port=8080)
+    app.run(debug=False, port=8090)
