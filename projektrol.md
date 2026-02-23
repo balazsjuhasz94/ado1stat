@@ -15,7 +15,7 @@ A felhasznált adatok bárki által elérhető adatok az interneten,
 ## A projekt lépései
 2025-ben összesen 20,3 mrd Ft-ot ajánlottak fel, összesen több, mint 37 ezer szervezetnek. 
 
-A felajánlások összegei persze nagyon nem egyenletesen oszlanak el a több mint 30 ezer szervezet között:
+A felajánlások összegei persze nagyon nem egyenletesen oszlanak el a szervezetek között:
 - az első 100 legtöbb felajánlást kapó szervezet a teljes összeg 34%-át kapta (7,0 mrd Ft)
 - az első 1 000 szervezet az összeg 59%-át (11,9 mrd Ft)
 - az első 5 000 szervezet az összeg 79%-át (15,9 mrd Ft)

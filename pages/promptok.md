@@ -1,3 +1,5 @@
+Ezen az oldalon az látható, hogy amikor a szervezetek automatikus kategorizálása történt, akkor milyen "kérdésre" kellett válaszolnia a modellnek. Leegyszerűsítve az történik, mintha a chatGPT-től kérdeznénk, de úgy, hogy elkészítünk egy vázat, hogy mi lesz a kérdés, amibe más és más adatot helyettesítünk be, és automatikusan futtatjuk ezt majd mentjük el az eredményeket. Felhívjuk a figyelmét, hogy pontosan milyen alakban várjuk a választ, ami persze nem garantált, hogy úgy is lesz, de jó eséllyel igen.    
+
 Az alábbi szöveget kapta meg a Claude Haiku modell minden egyes szervezet csoportnál.
 
 Minden lépésben 10 szervezet helyes kategorizálását kérjük a modelltől. Ennek oka, hogy ennyi adatra még hatékonyan tud emlékezni egyszerre.

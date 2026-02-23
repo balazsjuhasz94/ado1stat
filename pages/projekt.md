@@ -1,3 +1,4 @@
+
 ## Adatforrások
 
 A felhasznált adatok **bárki által elérhető** adatok az interneten:
@@ -26,6 +27,10 @@ A projekt lépései:
 További nem elhanyagolható része volt a folyamatnak az olykor félrekategorizált szervezetek kézzel való javítása, ami így sem tökéletes. Nem feltétlenül egyértelmű bekategorizálni a szervezeteket konkrét csoportokba, hiszen a profiljuk nem feltétlenül szűkíthető le egy kategóriára, illetve néhol a kategóriák is összefedhetnek.
 
 A [civil.info.hu](https://civil.info.hu) oldalon elérhető volt egyébként egyfajta kategorizálás — először azt szerettem volna használni, de a kategóriák sem voltak túl jól szétbontva, és maga a kategorizálás sem volt pontos egyáltalán.
+
+A projekt teljes forráskódja elérhető a [GitHubon](https://github.com/balazsjuhasz94/ado1stat).
+
+
 
 ## Technikai részletek és költségek
 
@@ -62,7 +67,7 @@ Az ilyen webhelyes dolgokhoz legkevésbé sem értek, de pofon egyszerűen ment 
 | Claude Pro előfizetés | 25,4 € (~9 680 Ft) |
 | Claude Pro intenzív használat | 48,2 € (~18 293 Ft) |
 | Claude API hívás kategorizáláshoz | 12,29 $ (~3 970 Ft) |
-| Claude API + web search (oktatás) | 15.39 $ (~4 947 Ft) |
+| Claude API + web search (oktatás) | 15,39 $ (~4 947 Ft) |
 | Szerver bérlése az oldalhoz | 3,49 €/hó (~1 330 Ft) |
 | Web domain megvétele | 2 527 Ft (1. évre) |
 | **Összesen** | **~40 750 Ft** |

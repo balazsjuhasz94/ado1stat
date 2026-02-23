@@ -10,13 +10,13 @@ Ehhez képest **az adó 1%-os felajánlás valós dilemma mindenki számára**. 
 ## AI forradalom
 
 Dolgoztam itt-ott az elmúlt években mind scrape-elős, mind vizualizációs kódokkal — ezek tipikusan olyan pepecselős dolgok, amikkel rengeteg időt el lehet tölteni. 
-Az AI-val ez gyökeresen megváltozott: **a fókusz az ötleteken lehet**, nem az implementáció részletein. Ha megvan, hogy pontosan mit szeretnék, onnantól már nem nehéz megvalósítani.
+Az AI-val ez gyökeresen megváltozott: **a fókusz az ötleteken lehet**, nem az implementáció technicai részletein. Ha tudom, hogy pontosan mit is szeretnék, onnantól már nem nehéz azt megvalósítani.
 
-Többször előfordult már, hogy egy-egy technikai nehézség megakasztott valamilyen munkafolyamatban. És általában az olyan elakadásokon töltöttem el sok időt, amihez nem értek, amikkel meg nem is szívesen foglalkozom. Most **az elakadások megoldását, amihez nem értünk, ki lehet szervezni az AI-nak**. Ez nagyszerű, nem kell mindenhez érteni.
+Többször előfordult már, hogy egy-egy technikai nehézség megakasztott valamilyen munkafolyamatban. És általában az olyan elakadásokon töltöttem el sok időt, amihez nem értek, és azokkal meg nem is szívesen foglalkozom. Most **az elakadások megoldását, amihez nem értünk, ki lehet szervezni az AI-nak**. Ez nagyszerű, nem kell mindenhez érteni.
 
-Persze sokat tanultam is közben. Amellett, hogy minden részfeladatot delegálunk, még mi is követjük a folyamatot, és bármikor belekérdezhetünk - **könnyűvé vált az új tudáshoz való hozzájutás**. 
+Persze sokat tanultam is közben. Amellett, hogy minden részfeladatot delegálni lehet, még mi is követjük a folyamatot, és bármikor belekérdezhetünk - **könnyűvé vált az új tudáshoz való hozzájutás**. 
 
-Külön öröm volt a vizualizációkon dolgozni, bogarászni a szervezetek között, az adatokon olykor meglepődni. Rengeteg jó ügy létezik az országban, amiről nem is hallottam korábban. El tudom képzelni, hogy az adónk maradék 99,6%-a nem hasznosul ilyen jól, mint az itt felajánlott.
+Külön öröm volt a vizualizációkon dolgozni, bogarászni a szervezetek között, az adatokon olykor meglepődni. Rengeteg jó ügy létezik az országban, amiről nem is hallottam korábban. Mennyi minden jó ügy van támogatva, és mindez a befizetett adónk 0,4%-a. 
 
 Összességében nagyon lelkesít, hogy ilyen gyorsan tudtam haladni, és hasonló hobbiprojekteknek is mindenképp nekiülök a közeljövőben.
 
@@ -24,6 +24,6 @@ A filozofálásba való belemerülést nélkülözve: persze tudom, hogy árnyal
 
 *"Vizualizáld egy weboldalon minél részletesebben az SZJA 1%-os felajánlásokat."*
 
-Most az a fázis van, hogy nagyon sokat segít az AI a magamfajtáknak: szükség van egyfajta felületes hozzáértésre, az ötletre és az elképzelésre ami alapján terelgetni lehet az AI-t, de kérdés, mennyi idő múlva jutunk oda, hogy ehhez az elképzelésre sem lesz igazán szükség.
+Most az a korszak van, hogy nagyon sokat segít az AI a magamfajtáknak: szükség van egyfajta felületes hozzáértésre, az ötletre és az elképzelésre ami alapján terelgetni lehet az AI-t, de kérdés, mennyi idő múlva jutunk oda, hogy ehhez az elképzelésre sem lesz igazán szükség.
 
 *2026. február 23.*
