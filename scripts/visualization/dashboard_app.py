@@ -12,6 +12,7 @@ import os
 import sys
 import re
 from datetime import date
+from flask import send_from_directory
 
 # Base directory paths
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -258,33 +259,42 @@ def make_banner():
 
 PAGE_DESCRIPTIONS = {
     'sunburst': (
-        "Ez az ábra a civil szervezeteket kategóriák szerint mutatja hierarchikus megoszlásban. "
-        "Kattintson egy szektorra a részletekért, vagy kattintson a közepére a visszalépéshez. "
-        "A színezés gombokkal válthat a kategória, jövedelem és változás nézetek között."
+        "Itt a szervezeteket kategóriák szerint látod hierarchikus megoszlásban. "
+        "Kattints egy szektorra, hogy belenézz a részletekbe — a középső körre kattintva tudsz visszalépni. "
+        "A felső gombokkal válthatsz a kategória szín, a becsült jövedelem és az előző évhez képesti változás nézetek között."
     ),
     'map': (
-        "A térképen a szervezetek földrajzi elhelyezkedése látható. "
-        "A keresővel szervezetre kereshet. Görgessen a nagyításhoz, kattintson egy pontra a részletekért. "
-        "A legördülő menüből kategória szerint szűrhet."
+        "A térképen a szervezetek földrajzi elhelyezkedését látod. "
+        "A keresővel rákereshetsz egy szervezetre, görgetéssel tudsz nagyítani, "
+        "és bármelyik pontra kattintva megnézheted a részleteket."
     ),
     'timeseries': (
-        "Itt az egyes szervezetek éves adó 1%-os bevételeit követheti nyomon. "
-        "Válasszon kategóriát a bal oldali legördülőből, majd szűrjön összeg szerint. "
-        "Az Összeg, Arány és Eloszlás nézetek között a gombokkal válthat."
+        "Itt az egyes szervezetek éves adó 1%-os bevételeit tudod nyomon követni. "
+        "Válassz kategóriát a bal oldali legördülőből, és szűrj összeg szerint a csúszkával. "
+        "A három nézet között gombokkal válthatsz: "
+        "az Összeg nézet a nyers forint értékeket mutatja szervezetenként; "
+        "a Kat. % nézet azt mutatja, hogy az adott szervezet a kategóriáján belül mekkora részt képvisel (%); "
+        "az Eloszlás nézet pedig azt, hogyan oszlik meg a kategória összege a szervezetek között (halmozott terület). "
+        "⚠ A korábbi évek adatai csak azon szervezeteket tartalmazzák, amelyek 2025-ben is kaptak felajánlást — "
+        "így az összesített összegek az egyes években a valósnál alacsonyabbak lehetnek."
     ),
     'category_timeseries': (
         "Ez az oldal a kategóriák összesített éves trendjeit mutatja. "
-        "Válasszon egy szülő kategóriát, vagy nézze meg az összeset egyben. "
-        "Az Arány nézet megmutatja, hogyan változott az egyes kategóriák részesedése az évek során."
+        "Válassz egy szülő kategóriát, vagy nézd meg az összeset egyben. "
+        "Az Összeg nézet a kategóriák forint értékeit mutatja; "
+        "az Arány (%) nézet megmutatja, hogyan változott az egyes kategóriák részesedése az összes felajánlásból; "
+        "az Eloszlás nézet pedig a kategóriák egymásra halmozott trendjét, hogy lásd, melyik nőtt vagy csökkent. "
+        "⚠ A korábbi évek adatai csak azon szervezeteket tartalmazzák, amelyek 2025-ben is kaptak felajánlást — "
+        "így az összesített összegek az egyes években a valósnál alacsonyabbak lehetnek."
     ),
     'scatter': (
-        "Ez a pontdiagram az adó 1%-os összeget veti össze a felajánlók becsült átlagos havi bruttó jövedelmével. "
-        "Minden pont egy szervezet — vigye rá az egeret a részletekért. "
-        "A jelmagyarázatban kategóriákat kapcsolhat ki/be."
+        "Ezen a pontdiagramon az adó 1%-os összeget veted össze a felajánlók becsült átlagos havi bruttó jövedelmével. "
+        "Minden pont egy szervezet — vidd rá az egeret a részletekért. "
+        "A jelmagyarázatban kategóriákat tudsz ki/be kapcsolni."
     ),
     'city': (
-        "Keressen településre, és nézze meg az ott bejegyzett vagy a közelben lévő szervezeteket. "
-        "A székhely/10 km mód gombokkal válthat. "
+        "Keress rá egy településre, és nézd meg az ott bejegyzett vagy a közelben lévő szervezeteket. "
+        "A székhely/10 km gombokkal válthatsz a pontos székhely és a 10 km-es körzet között. "
         "Bal oldalon a térkép, jobb oldalon az éves trend látható."
     ),
     'about': None,
@@ -586,20 +596,22 @@ def build_sunburst_figure():
                     id_map[cat_key] = str(current_id)
                     current_id += 1
 
-    # Top N individual orgs
+    # Top N individual orgs (grouped by leaf category, so "további" can go last per group)
+    remaining_nodes = []  # collect "további" nodes separately to append last
+
     for _, row in top_orgs.iterrows():
         parent_key = f"{row['parent_category']}|{row['leaf_category']}"
         nodes.append({
             'id': str(current_id), 'label': row['short_name'],
             'parent': id_map.get(parent_key, '0'),
             'összeg': row['összeg'], 'db': row['db'], 'szekhely': row['szekhely'],
-            'formatted_purpose': row['formatted_purpose'],
+            'formatted_purpose': str(row['formatted_purpose']),
             'historical_chart': row['historical_table'],
             'org_name': row['Szervezet neve'], 'yoy_growth': row['yoy_growth'], 'depth': 3
         })
         current_id += 1
 
-    # Aggregated remaining orgs
+    # Aggregated remaining orgs — collected separately, appended last
     for parent_cat in remaining_orgs['parent_category'].unique():
         if pd.notna(parent_cat):
             for leaf_cat in remaining_orgs[remaining_orgs['parent_category'] == parent_cat]['leaf_category'].unique():
@@ -615,8 +627,14 @@ def build_sunburst_figure():
                         top10 = subset.nlargest(10, 'összeg')
                         top10_lines = [f"  {row['Szervezet neve'][:45]}: {row['összeg']:,.0f} Ft"
                                        for _, row in top10.iterrows()]
-                        top10_text = "Legnagyobb szervezetek a továbbiak közül:<br>" + "<br>".join(top10_lines)
-                        nodes.append({
+                        top10_text = (
+                            "Legnagyobb szervezetek a továbbiak közül:<br>" +
+                            "<br>".join(top10_lines) +
+                            "<br><br>Ezek a szervezetek az átláthatóság miatt lettek<br>"
+                            "összesítve, de a többi oldalon egyenként is<br>"
+                            "kereshetők (Térkép, Évenkénti adatok, Település)."
+                        )
+                        remaining_nodes.append({
                             'id': str(current_id), 'label': f"további kisebb {leaf_cat}",
                             'parent': id_map.get(parent_key, '0'),
                             'összeg': subset['összeg'].sum(), 'db': subset['db'].sum(),
@@ -627,6 +645,9 @@ def build_sunburst_figure():
                             'yoy_growth': yoy_growth, 'depth': 3
                         })
                         current_id += 1
+
+    # Append "további" nodes last so they appear at the end in the chart
+    nodes.extend(remaining_nodes)
 
     # Calculate statistics for nodes
     for node in nodes:
@@ -690,15 +711,15 @@ def build_sunburst_figure():
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Default',
-        visible=True, hovertemplate=hover_tpl, textfont=dict(size=9),
-        maxdepth=3
+        visible=True, hovertemplate=hover_tpl, textfont=dict(size=13),
+        maxdepth=3, sort=False
     ))
 
     # Salary trace
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Salary',
-        visible=False, maxdepth=3, marker=dict(
+        visible=False, maxdepth=3, sort=False, marker=dict(
             colorscale='RdYlGn', cmid=(min_salary + max_salary) / 2,
             cmin=min_salary, cmax=max_salary,
             showscale=True, colorbar=dict(
@@ -707,14 +728,14 @@ def build_sunburst_figure():
             ),
             line=dict(width=2)
         ), marker_colors=colors_salary,
-        hovertemplate=hover_tpl, textfont=dict(size=9)
+        hovertemplate=hover_tpl, textfont=dict(size=13)
     ))
 
     # Growth trace
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Growth',
-        visible=False, maxdepth=3, marker=dict(
+        visible=False, maxdepth=3, sort=False, marker=dict(
             colorscale='RdYlGn', cmid=0, cmin=-50.0, cmax=50.0,
             showscale=True, colorbar=dict(
                 title=dict(text='Változás (%)', side='right'),
@@ -722,7 +743,7 @@ def build_sunburst_figure():
             ),
             line=dict(width=2)
         ), marker_colors=colors_growth,
-        hovertemplate=hover_tpl, textfont=dict(size=9)
+        hovertemplate=hover_tpl, textfont=dict(size=13)
     ))
 
     fig.update_layout(
@@ -780,8 +801,9 @@ def build_map_figure():
                     df_sub['Szervezet neve'], df_sub['szekhely'], df_sub['összeg'],
                     df_sub['db'], df_sub['átlag'], df_sub['monthly_gross'],
                     df_sub['parent_category'], df_sub['leaf_category'],
-                    df_sub['formatted_purpose'], df_sub['historical_table'],
-                    df_sub['yoy_growth'].apply(lambda x: f"{x:+.1f}")
+                    df_sub['formatted_purpose'],
+                    df_sub['yoy_growth'].apply(lambda x: f"{x:+.1f}"),
+                    df_sub['historical_table']
                 )),
                 hovertemplate=(
                     '<b>%{customdata[0]}</b><br>%{customdata[1]}<br><br>'
@@ -789,10 +811,10 @@ def build_map_figure():
                     '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>'
                     '<b>Átlag/fő:</b> %{customdata[4]:,.0f} Ft<br>'
                     '<b>Havi bruttó:</b> %{customdata[5]:,.0f} Ft<br>'
-                    '<b>Előző évhez képest:</b> %{customdata[10]}%<br>'
+                    '<b>Előző évhez képest:</b> %{customdata[9]}%<br>'
                     '<br><b>Kategória:</b> %{customdata[6]} → %{customdata[7]}<br>'
                     '<br><b>Cél:</b><br>%{customdata[8]}<br>'
-                    '<br><b>Éves történet:</b><br>%{customdata[9]}'
+                    '<br><b>Éves történet:</b><br>%{customdata[10]}'
                     '<extra></extra>'
                 ),
                 visible=True
@@ -866,9 +888,9 @@ def build_scatter_figure():
             for _, row in df_leaf.iterrows():
                 customdata.append([
                     row['Szervezet neve'], row['szekhely'], row['összeg'], row['db'],
-                    row['átlag_per_donor'], row['monthly_gross'], 0, 0,
-                    parent_cat, row['formatted_purpose'], row['historical_table'],
-                    row['yoy_growth'], f"{row['yoy_growth']:+.1f}"
+                    row['átlag_per_donor'], row['monthly_gross'],
+                    parent_cat, row['formatted_purpose'],
+                    f"{row['yoy_growth']:+.1f}"
                 ])
 
             fig.add_trace(go.Scatter(
@@ -884,10 +906,9 @@ def build_scatter_figure():
                     '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>'
                     '<b>Átlag/fő:</b> %{customdata[4]:,.0f} Ft<br>'
                     '<b>Havi bruttó:</b> %{customdata[5]:,.0f} Ft<br>'
-                    '<b>Előző évhez képest:</b> %{customdata[12]}%<br>'
-                    '<br><b>Kategória:</b> %{customdata[8]} → ' + leaf_cat + '<br>'
-                    '<br><b>Cél:</b><br>%{customdata[9]}<br>'
-                    '<br><b>Éves történet:</b><br>%{customdata[10]}'
+                    '<b>Előző évhez képest:</b> %{customdata[8]}%<br>'
+                    '<br><b>Kategória:</b> %{customdata[6]} → ' + leaf_cat + '<br>'
+                    '<br><b>Cél:</b> %{customdata[7]}...'
                     '<extra></extra>'
                 )
             ))
@@ -937,13 +958,19 @@ map_org_lookup = {
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
 server = app.server  # Expose Flask server for gunicorn
 
+IMGS_DIR = os.path.join(BASE_DIR, 'imgs')
+
+@server.route('/imgs/<path:filename>')
+def serve_image(filename):
+    return send_from_directory(IMGS_DIR, filename)
+
 # Custom CSS
 app.index_string = '''
 <!DOCTYPE html>
 <html>
     <head>
         {%metas%}
-        <title>ADÓ 1% Dashboard</title>
+        <title>Civil Szervezetek Adó 1% Elemzése</title>
         {%favicon%}
         {%css%}
         <style>
@@ -981,15 +1008,32 @@ app.index_string = '''
                 margin: 0;
             }
 
-            .nav-section { padding: 16px 0; }
+            .nav-section { padding: 8px 0; }
+
+            .nav-group-label {
+                display: flex;
+                align-items: center;
+                padding: 10px 20px 6px;
+                color: #8888bb;
+                font-size: 11px;
+                font-weight: 700;
+                text-transform: uppercase;
+                letter-spacing: 1.2px;
+                margin-top: 6px;
+            }
+
+            .nav-group-label .nav-icon {
+                font-size: 13px;
+                opacity: 0.7;
+            }
 
             .nav-link {
                 display: flex;
                 align-items: center;
-                padding: 12px 20px;
+                padding: 9px 20px 9px 36px;
                 color: #b0b0cc !important;
                 text-decoration: none !important;
-                font-size: 14px;
+                font-size: 13px;
                 font-weight: 500;
                 cursor: pointer;
                 transition: all 0.2s;
@@ -1008,10 +1052,10 @@ app.index_string = '''
             }
 
             .nav-icon {
-                width: 20px;
-                margin-right: 12px;
+                width: 18px;
+                margin-right: 10px;
                 text-align: center;
-                font-size: 16px;
+                font-size: 14px;
             }
 
             .content-area {
@@ -1073,6 +1117,59 @@ app.index_string = '''
                 margin-bottom: 16px;
                 box-shadow: 0 2px 8px rgba(26,26,46,0.15);
             }
+            /* Loading spinner overlay */
+            #_loading-overlay {
+                position: fixed;
+                top: 0; left: 0; right: 0; bottom: 0;
+                background: #f8f9fa;
+                z-index: 9999;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+            #_loading-overlay .spinner {
+                width: 48px; height: 48px;
+                border: 4px solid #e0e0e0;
+                border-top-color: #4a9eff;
+                border-radius: 50%;
+                animation: spin 0.8s linear infinite;
+            }
+            @keyframes spin { to { transform: rotate(360deg); } }
+            #_loading-overlay .brand {
+                margin-top: 20px;
+                font-size: 18px;
+                font-weight: 600;
+                color: #1a1a2e;
+            }
+            #_loading-overlay .sub {
+                margin-top: 6px;
+                font-size: 13px;
+                color: #888;
+            }
+
+            .about-page img {
+                max-width: 100%;
+                margin: 16px 0;
+                border-radius: 6px;
+            }
+            .about-page table {
+                border-collapse: collapse;
+                margin: 12px 0;
+            }
+            .about-page th, .about-page td {
+                border: 1px solid #ccc;
+                padding: 6px 12px;
+                font-size: 14px;
+            }
+            .about-page th {
+                background: #f0f0f0;
+                font-weight: 600;
+            }
+            .about-page tr:nth-child(even) {
+                background: #fafafa;
+            }
+
             .page-info-box {
                 background: #f0f6ff;
                 border: 1px solid #d0e0f0;
@@ -1102,12 +1199,46 @@ app.index_string = '''
         </script>
     </head>
     <body>
+        <div id="_loading-overlay">
+            <div class="spinner"></div>
+            <div class="brand">Civil Szervezetek Adó 1% Elemzése</div>
+            <div class="sub">Az adatok betöltése folyamatban...</div>
+        </div>
         {%app_entry%}
         <footer>
             {%config%}
             {%scripts%}
             {%renderer%}
         </footer>
+        <script>
+            // Hide loading overlay once Dash has rendered
+            (function() {
+                var overlay = document.getElementById('_loading-overlay');
+                if (!overlay) return;
+                var check = setInterval(function() {
+                    var app = document.getElementById('react-entry-point');
+                    if (app && app.children.length > 0) {
+                        overlay.style.transition = 'opacity 0.3s';
+                        overlay.style.opacity = '0';
+                        setTimeout(function() { overlay.remove(); }, 300);
+                        clearInterval(check);
+                    }
+                }, 100);
+            })();
+        </script>
+        <script>
+            // External links open in new tab, internal links stay in same tab
+            document.addEventListener('click', function(e) {
+                var a = e.target.closest('a');
+                if (!a) return;
+                var href = a.getAttribute('href');
+                if (!href) return;
+                if (href.startsWith('http://') || href.startsWith('https://')) {
+                    a.setAttribute('target', '_blank');
+                    a.setAttribute('rel', 'noopener noreferrer');
+                }
+            });
+        </script>
     </body>
 </html>
 '''
@@ -1120,24 +1251,30 @@ sidebar = html.Div([
     ], className="sidebar-header"),
 
     html.Div([
-        dcc.Link([
-            html.Span("◉", className="nav-icon"),
-            "Kategóriák"
-        ], href="/", className="nav-link", id="nav-sunburst"),
+        # --- Vizualizációk section ---
+        html.Div([
+            html.Span("📊", className="nav-icon"),
+            "Vizualizációk"
+        ], className="nav-group-label"),
 
         dcc.Link([
             html.Span("◎", className="nav-icon"),
             "Térkép"
-        ], href="/terkep", className="nav-link", id="nav-map"),
+        ], href="/", className="nav-link", id="nav-map"),
+
+        dcc.Link([
+            html.Span("◉", className="nav-icon"),
+            "Kategóriák"
+        ], href="/kategoriak", className="nav-link", id="nav-sunburst"),
 
         dcc.Link([
             html.Span("◈", className="nav-icon"),
-            "Évenkénti adatok szervezetenként"
+            "Éves adatok — szervezetek"
         ], href="/idosor", className="nav-link", id="nav-timeseries"),
 
         dcc.Link([
             html.Span("◆", className="nav-icon"),
-            "Évenkénti adatok kategóriánként"
+            "Éves adatok — kategóriák"
         ], href="/idosor-kat", className="nav-link", id="nav-ts-category"),
 
         dcc.Link([
@@ -1145,19 +1282,47 @@ sidebar = html.Div([
             "Összeg vs Jövedelem"
         ], href="/scatter", className="nav-link", id="nav-scatter"),
 
-        html.Hr(style={'borderColor': 'rgba(255,255,255,0.1)', 'margin': '8px 20px'}),
-
         dcc.Link([
             html.Span("⊕", className="nav-icon"),
             "Település keresés"
         ], href="/telepules", className="nav-link", id="nav-city"),
 
-        html.Hr(style={'borderColor': 'rgba(255,255,255,0.1)', 'margin': '8px 20px'}),
+        # --- Információk section ---
+        html.Div([
+            html.Span("📖", className="nav-icon"),
+            "Információk"
+        ], className="nav-group-label"),
 
         dcc.Link([
-            html.Span("ℹ", className="nav-icon"),
-            "A projektről"
-        ], href="/about", className="nav-link", id="nav-about"),
+            html.Span("·", className="nav-icon"),
+            "Bevezetés"
+        ], href="/bevezetes", className="nav-link", id="nav-intro"),
+
+        dcc.Link([
+            html.Span("·", className="nav-icon"),
+            "A projekt leírása"
+        ], href="/projekt", className="nav-link", id="nav-project"),
+
+        dcc.Link([
+            html.Span("·", className="nav-icon"),
+            "Saját gondolatok"
+        ], href="/gondolatok", className="nav-link", id="nav-thoughts"),
+
+        dcc.Link([
+            html.Span("·", className="nav-icon"),
+            "A használt promptok"
+        ], href="/promptok", className="nav-link", id="nav-prompts"),
+
+        dcc.Link([
+            html.Span("·", className="nav-icon"),
+            "További tervek"
+        ], href="/tervek", className="nav-link", id="nav-plans"),
+
+        dcc.Link([
+            html.Span("·", className="nav-icon"),
+            "Érdekességek"
+        ], href="/erdekessegek", className="nav-link", id="nav-funfacts"),
+
     ], className="nav-section"),
 
     html.Div([
@@ -1168,8 +1333,11 @@ sidebar = html.Div([
 # Page layouts
 def sunburst_page():
     return wrap_page('sunburst', "Kategóriák - Hierarchikus megoszlás", [
-        dcc.Graph(figure=sunburst_fig, style={'height': '1100px'},
-                  config={'displayModeBar': True, 'displaylogo': False})
+        dcc.Loading(
+            dcc.Graph(id='sunburst-graph', style={'height': '1100px'},
+                      config={'displayModeBar': True, 'displaylogo': False}),
+            type='circle', color='#4a9eff'
+        )
     ])
 
 def map_page():
@@ -1187,8 +1355,11 @@ def map_page():
                 maxHeight=300,
             ),
         ], style={'display': 'flex', 'alignItems': 'center', 'marginBottom': '10px'}),
-        dcc.Graph(id='map-graph', figure=map_fig, style={'height': '800px'},
-                  config={'scrollZoom': True, 'displayModeBar': True, 'displaylogo': False})
+        dcc.Loading(
+            dcc.Graph(id='map-graph', style={'height': '800px'},
+                      config={'scrollZoom': True, 'displayModeBar': True, 'displaylogo': False}),
+            type='circle', color='#4a9eff'
+        )
     ])
 
 def timeseries_page():
@@ -1312,8 +1483,11 @@ def category_timeseries_page():
 
 def scatter_page():
     return wrap_page('scatter', "Összeg vs Átlagos Havi Jövedelem", [
-        dcc.Graph(figure=scatter_fig, style={'height': '800px'},
-                  config={'displayModeBar': True, 'displaylogo': False})
+        dcc.Loading(
+            dcc.Graph(id='scatter-graph', style={'height': '800px'},
+                      config={'displayModeBar': True, 'displaylogo': False}),
+            type='circle', color='#4a9eff'
+        )
     ])
 
 def city_page():
@@ -1329,7 +1503,7 @@ def city_page():
                                outline=True, size="sm"),
                 ], className="ms-2"),
                 dcc.Store(id='city-search-mode', data='szekhely'),
-            ], width=4),
+            ], xs=12, md=4, className="mb-2 mb-md-0"),
             dbc.Col([
                 html.Label("Település:", className="fw-bold"),
                 dcc.Dropdown(
@@ -1342,17 +1516,17 @@ def city_page():
                     maxHeight=400,
                     style={'width': '100%'}
                 ),
-            ], width=5),
+            ], xs=12, md=5),
         ], className="mb-3"),
 
-        # Two-column layout: map left, timeseries right
+        # Two-column layout: map left, timeseries right (stacks on <1200px)
         dbc.Row([
             # LEFT: Map
             dbc.Col([
                 dcc.Graph(id='city-map-graph', style={'height': '600px'},
                           config={'scrollZoom': True, 'displayModeBar': True,
                                   'displaylogo': False})
-            ], width=6),
+            ], xs=12, lg=6, className="mb-3 mb-lg-0"),
 
             # RIGHT: Timeseries
             dbc.Col([
@@ -1370,7 +1544,7 @@ def city_page():
                 dcc.Store(id='city-ts-chart-mode', data='absolute'),
                 dcc.Graph(id='city-ts-graph', style={'height': '560px'},
                           config={'displayModeBar': True, 'displaylogo': False})
-            ], width=6),
+            ], xs=12, lg=6),
         ]),
 
         # Summary text below
@@ -1408,20 +1582,43 @@ def city_page():
     ])
 
 
-def about_page():
-    # Read from projektrol.md file
-    md_path = os.path.join(BASE_DIR, 'projektrol.md')
+PAGES_DIR = os.path.join(BASE_DIR, 'pages')
+_MD_STYLE = {'maxWidth': '800px', 'lineHeight': '1.7', 'fontSize': '15px'}
+
+def _read_page_md(filename):
+    """Read a markdown file from the pages/ directory."""
+    md_path = os.path.join(PAGES_DIR, filename)
     if os.path.exists(md_path):
         with open(md_path, 'r', encoding='utf-8') as f:
-            md_content = f.read()
-    else:
-        md_content = "*A projektről szóló leírás nem található.*"
+            return f.read()
+    return f"*A(z) `{filename}` fájl nem található.*"
+
+def _info_page(title, filename):
+    """Generic info page builder: reads pages/<filename> and wraps it."""
     return html.Div([
         make_banner(),
-        html.H2("A projektről", className="page-title"),
-        dcc.Markdown(md_content, link_target='_blank',
-                     style={'maxWidth': '800px', 'lineHeight': '1.7', 'fontSize': '15px'}),
+        html.H2(title, className="page-title"),
+        dcc.Markdown(_read_page_md(filename), style=_MD_STYLE,
+                     dangerously_allow_html=True, id='page-markdown'),
     ], className="about-page")
+
+def intro_page():
+    return _info_page("Bevezetés", "bevezetes.md")
+
+def project_page():
+    return _info_page("A projekt leírása", "projekt.md")
+
+def thoughts_page():
+    return _info_page("Saját gondolatok", "gondolatok.md")
+
+def prompts_page():
+    return _info_page("A használt promptok", "promptok.md")
+
+def plans_page():
+    return _info_page("További tervek", "tervek.md")
+
+def funfacts_page():
+    return _info_page("Érdekességek", "fun_facts.md")
 
 # App layout
 app.layout = html.Div([
@@ -1436,35 +1633,64 @@ app.layout = html.Div([
 # ============================================================================
 
 # Page routing
+# Nav IDs in order for the routing callback outputs
+_NAV_IDS = [
+    'nav-sunburst', 'nav-map', 'nav-timeseries', 'nav-ts-category',
+    'nav-scatter', 'nav-city', 'nav-intro', 'nav-project',
+    'nav-thoughts', 'nav-prompts', 'nav-plans', 'nav-funfacts',
+]
+
 @app.callback(
-    [Output('page-content', 'children'),
-     Output('nav-sunburst', 'className'),
-     Output('nav-map', 'className'),
-     Output('nav-timeseries', 'className'),
-     Output('nav-ts-category', 'className'),
-     Output('nav-scatter', 'className'),
-     Output('nav-city', 'className'),
-     Output('nav-about', 'className')],
+    [Output('page-content', 'children')] + [Output(nid, 'className') for nid in _NAV_IDS],
     [Input('url', 'pathname')]
 )
 def display_page(pathname):
     base = "nav-link"
-    active = "nav-link active"
+    n = len(_NAV_IDS)
 
-    if pathname == '/terkep':
-        return map_page(), base, active, base, base, base, base, base
-    elif pathname == '/idosor':
-        return timeseries_page(), base, base, active, base, base, base, base
-    elif pathname == '/idosor-kat':
-        return category_timeseries_page(), base, base, base, active, base, base, base
-    elif pathname == '/scatter':
-        return scatter_page(), base, base, base, base, active, base, base
-    elif pathname == '/telepules':
-        return city_page(), base, base, base, base, base, active, base
-    elif pathname == '/about':
-        return about_page(), base, base, base, base, base, base, active
+    def _result(page, active_id):
+        classes = [base] * n
+        if active_id in _NAV_IDS:
+            classes[_NAV_IDS.index(active_id)] = "nav-link active"
+        return (page, *classes)
+
+    routes = {
+        '/kategoriak': (sunburst_page, 'nav-sunburst'),
+        '/idosor': (timeseries_page, 'nav-timeseries'),
+        '/idosor-kat': (category_timeseries_page, 'nav-ts-category'),
+        '/scatter': (scatter_page, 'nav-scatter'),
+        '/telepules': (city_page, 'nav-city'),
+        '/bevezetes': (intro_page, 'nav-intro'),
+        '/projekt': (project_page, 'nav-project'),
+        '/gondolatok': (thoughts_page, 'nav-thoughts'),
+        '/promptok': (prompts_page, 'nav-prompts'),
+        '/tervek': (plans_page, 'nav-plans'),
+        '/erdekessegek': (funfacts_page, 'nav-funfacts'),
+    }
+
+    if pathname in routes:
+        page_fn, nav_id = routes[pathname]
+        return _result(page_fn(), nav_id)
     else:
-        return sunburst_page(), active, base, base, base, base, base, base
+        return _result(map_page(), 'nav-map')
+
+
+# Lazy-load: populate sunburst figure when page appears
+@app.callback(
+    Output('sunburst-graph', 'figure'),
+    [Input('sunburst-graph', 'id')]
+)
+def load_sunburst(_):
+    return sunburst_fig
+
+
+# Lazy-load: populate scatter figure when page appears
+@app.callback(
+    Output('scatter-graph', 'figure'),
+    [Input('scatter-graph', 'id')]
+)
+def load_scatter(_):
+    return scatter_fig
 
 
 # Map: filter search options (min 2 chars, top 5)
@@ -1483,8 +1709,7 @@ def map_filter_search(search_value):
 # Map: search and highlight org
 @app.callback(
     Output('map-graph', 'figure'),
-    [Input('map-org-search', 'value')],
-    prevent_initial_call=True
+    [Input('map-org-search', 'value')]
 )
 def map_search_org(selected_org_idx):
     if selected_org_idx is None:
@@ -2157,12 +2382,12 @@ def city_update_map(selected_city, search_mode):
             name=parent_cat,
             customdata=customdata,
             hovertemplate=(
-                '<b>%{customdata[0]}</b><br>%{customdata[1]}<br><br>'
+                '<b>%{customdata[0]}</b><br>%{customdata[1]}<br>'
+                '<b>Kategória:</b> %{customdata[6]} → %{customdata[7]}<br><br>'
                 '<b>Összeg:</b> %{customdata[2]:,.0f} Ft<br>'
                 '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>'
                 '<b>Átlag/fő:</b> %{customdata[4]:,.0f} Ft<br>'
                 '<b>Havi bruttó:</b> %{customdata[5]:,.0f} Ft<br>'
-                '<b>Kategória:</b> %{customdata[6]} → %{customdata[7]}<br>'
                 '<extra></extra>'
             ),
             showlegend=True
@@ -2180,8 +2405,7 @@ def city_update_map(selected_city, search_mode):
         mapbox=dict(style="carto-positron",
                     center=dict(lat=city_lat, lon=city_lon), zoom=11),
         height=600, margin=dict(l=0, r=0, t=10, b=0),
-        showlegend=True,
-        legend=dict(font=dict(size=9), bgcolor='rgba(255,255,255,0.8)')
+        showlegend=False,
     )
 
     return fig
@@ -2284,14 +2508,14 @@ def city_ts_update_graph(selected_city, chart_mode, search_mode):
                     else:
                         pcts.append(0)
 
-                short_name = org_name[:40]
+                legend_name = (org_name[:20] + '…') if len(org_name) > 20 else org_name
                 fig.add_trace(go.Bar(
                     x=[str(y) for y in active_years], y=pcts,
-                    name=short_name,
+                    name=legend_name,
                     marker_color=dist_colors[i % len(dist_colors)],
                     text=[f"{p:.1f}%" if p >= 3 else "" for p in pcts],
                     textposition='inside', textfont=dict(size=10, color='white'),
-                    hovertemplate=f"<b>{short_name}</b><br>" +
+                    hovertemplate=f"<b>{org_name}</b><br>" +
                                   "Év: %{x}<br>Arány: %{y:.1f}%<extra></extra>"
                 ))
 
@@ -2306,7 +2530,7 @@ def city_ts_update_graph(selected_city, chart_mode, search_mode):
 
                 fig.add_trace(go.Bar(
                     x=[str(y) for y in active_years], y=other_pcts,
-                    name=f"Egyéb ({len(other_orgs)} szervezet)",
+                    name=f"Egyéb ({len(other_orgs)})",
                     marker_color='#cccccc',
                     text=[f"{p:.1f}%" if p >= 3 else "" for p in other_pcts],
                     textposition='inside', textfont=dict(size=10, color='#333'),
@@ -2319,9 +2543,10 @@ def city_ts_update_graph(selected_city, chart_mode, search_mode):
             xaxis=dict(title='Év', type='category'),
             yaxis=dict(title='Eloszlás (%)', range=[0, 100]),
             plot_bgcolor='white', hovermode='x unified', showlegend=True,
-            legend=dict(title=dict(text='Szervezetek', font=dict(size=12)), font=dict(size=9),
+            legend=dict(title=dict(text='Szervezetek', font=dict(size=11)),
+                        font=dict(size=9), itemwidth=30,
                         bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1),
-            margin=dict(l=80, r=20, t=20, b=80)
+            margin=dict(l=60, r=10, t=20, b=60)
         )
         return fig, summary
 
@@ -2378,9 +2603,10 @@ def city_ts_update_graph(selected_city, chart_mode, search_mode):
         y_data = pct_values if is_pct else amounts
         color = COLORS_20[hash(org_name) % len(COLORS_20)]
 
+        legend_name = (org_name[:20] + '…') if len(org_name) > 20 else org_name
         fig.add_trace(go.Scatter(
             x=years, y=y_data, mode='lines+markers',
-            name=org_name[:50], line=dict(color=color, width=2),
+            name=legend_name, line=dict(color=color, width=2),
             marker=dict(size=6, color=color),
             hovertemplate=hover_text + '<extra></extra>',
             hoverlabel=dict(bgcolor='white', font_size=11)
@@ -2394,9 +2620,10 @@ def city_ts_update_graph(selected_city, chart_mode, search_mode):
         yaxis=dict(title=y_title, gridcolor='lightgray', showline=True,
                    linewidth=1, linecolor='black', mirror=True),
         plot_bgcolor='white', hovermode='closest', showlegend=True,
-        legend=dict(title=dict(text='Szervezetek', font=dict(size=12)), font=dict(size=9),
+        legend=dict(title=dict(text='Szervezetek', font=dict(size=11)),
+                    font=dict(size=9), itemwidth=30,
                     bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1),
-        margin=dict(l=80, r=20, t=20, b=80)
+        margin=dict(l=60, r=10, t=20, b=60)
     )
 
     return fig, summary
@@ -2433,7 +2660,7 @@ def city_update_table(selected_city, search_mode):
 
 if __name__ == '__main__':
     print("=" * 60)
-    print("Dashboard running at: http://127.0.0.1:8050/")
+    print("Dashboard running at: http://127.0.0.1:8091/")
     print("Press Ctrl+C to stop")
     print("=" * 60)
-    app.run(debug=False, port=8090)
+    app.run(debug=False, port=8091)
