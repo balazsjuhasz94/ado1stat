@@ -10,27 +10,70 @@ env/
 .pytest_cache/
 .ipynb_checkpoints/
 
-# Folders not needed for dashboard
+# Notebooks (scratch work)
+*.ipynb
+
+# Folders not needed
 notebooks/
 output/
 logs/
 organizations/
 
-# IDE
+# IDE / OS
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# OS
 .DS_Store
 Thumbs.db
 nul
 
-# Root-level junk (old scripts, temp files)
-*.ipynb
-*.log
+# Claude Code local state
+.claude/
 
-# Keep everything needed for the dashboard
-!requirements.txt
-!projektrol.md
+# Temp/generated HTML files in root
+/*.html
+!index.html
+
+# Intermediate data files not needed for dashboard
+data/200.txt
+data/2500.txt
+data/api.txt
+data/data.txt
+data/adoszam_500.txt
+data/adoszam_5000.txt
+data/adoszam_second5000.txt
+data/organization_categories.csv
+data/organization_categories_llm.csv
+data/organization_categories_ALL_5000.csv
+data/organization_categories_adoszam_500.csv
+data/oktatas_reclassified.csv
+data/oktatas_reclassification_log.jsonl
+data/scraping_errors_with_names.csv
+data/civil_organizations_data.json
+data/civil_organizations_by_adoszam.json
+data/civil_organizations_by_adoszam_second5000.json
+data/organizations_to_categorize.json
+data/address_geocode_cache.json
+
+# Old standalone visualization scripts
+scripts/visualization/create_map_visualization.py
+scripts/visualization/create_map_visualization_ALL_5000.py
+scripts/visualization/create_scatter_plot_interactive.py
+scripts/visualization/create_timeseries_plot_interactive.py
+scripts/visualization/create_visualizations_ALL_5000_v3_go_aggregated.py
+scripts/visualization/create_visualizations_ALL_5000_v3_go_compact.py
+scripts/visualization/create_visualizations_ALL_5000_v3_go_optimized.py
+scripts/visualization/create_visualizations_adoszam_500.py
+scripts/visualization/create_visualizations_adoszam_500_v2.py
+scripts/visualization/create_visualizations_adoszam_500_v3_go.py
+scripts/visualization/timeseries_app_dash.py
+
+# Root-level one-off scripts
+/*.py
+/*.yaml
+
+# Misc data files not needed
+data/*.yaml
+data/city_geocode_cache.json
+data/*.log

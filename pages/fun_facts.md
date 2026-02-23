@@ -34,7 +34,7 @@ Kedvenc kategóriám a kutyák, macskák, és madarakon túli egyéb állatokkal
 | Magyar Tengerimalac-védő Közhasznú Egyesület |    1 419     |   
 | Rókales Alapítvány |   1 452     |   
 | Sünbarát Alapítvány |   500      |    
-| 2024 |   275    |   
+| Malacvédő Alapítvány |   275    |   
 | Magyar Vadászgörény Klub |     124  |   
 
 

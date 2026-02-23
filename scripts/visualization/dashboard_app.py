@@ -711,7 +711,7 @@ def build_sunburst_figure():
     fig.add_trace(go.Sunburst(
         ids=ids, labels=labels, parents=parents, values=values,
         branchvalues='total', customdata=customdata, name='Default',
-        visible=True, hovertemplate=hover_tpl, textfont=dict(size=13),
+        visible=True, hovertemplate=hover_tpl, textfont=dict(size=15),
         maxdepth=3, sort=False
     ))
 
@@ -728,7 +728,7 @@ def build_sunburst_figure():
             ),
             line=dict(width=2)
         ), marker_colors=colors_salary,
-        hovertemplate=hover_tpl, textfont=dict(size=13)
+        hovertemplate=hover_tpl, textfont=dict(size=15)
     ))
 
     # Growth trace
@@ -743,7 +743,7 @@ def build_sunburst_figure():
             ),
             line=dict(width=2)
         ), marker_colors=colors_growth,
-        hovertemplate=hover_tpl, textfont=dict(size=13)
+        hovertemplate=hover_tpl, textfont=dict(size=15)
     ))
 
     fig.update_layout(
@@ -1305,6 +1305,11 @@ sidebar = html.Div([
 
         dcc.Link([
             html.Span("·", className="nav-icon"),
+            "Érdekességek"
+        ], href="/erdekessegek", className="nav-link", id="nav-funfacts"),
+
+        dcc.Link([
+            html.Span("·", className="nav-icon"),
             "Saját gondolatok"
         ], href="/gondolatok", className="nav-link", id="nav-thoughts"),
 
@@ -1317,11 +1322,6 @@ sidebar = html.Div([
             html.Span("·", className="nav-icon"),
             "További tervek"
         ], href="/tervek", className="nav-link", id="nav-plans"),
-
-        dcc.Link([
-            html.Span("·", className="nav-icon"),
-            "Érdekességek"
-        ], href="/erdekessegek", className="nav-link", id="nav-funfacts"),
 
     ], className="nav-section"),
 
@@ -1444,8 +1444,8 @@ def timeseries_page():
 def category_timeseries_page():
     parent_cats = sorted(df_ts['parent_category'].dropna().unique())
     cat_options = [
+        {'label': '── ÖSSZES (fő kategóriák) ──', 'value': '__all_parents__'},
         {'label': '── ÖSSZES (alkategóriák) ──', 'value': '__all__'},
-        {'label': '── ÖSSZES (szülő kategóriák) ──', 'value': '__all_parents__'},
     ]
     cat_options += [{'label': cat, 'value': cat} for cat in parent_cats]
 
@@ -1456,7 +1456,7 @@ def category_timeseries_page():
                 dcc.Dropdown(
                     id='cat-ts-parent-dropdown',
                     options=cat_options,
-                    value='__all__',
+                    value='__all_parents__',
                     clearable=False,
                     style={'width': '100%'},
                     maxHeight=400
@@ -2660,7 +2660,7 @@ def city_update_table(selected_city, search_mode):
 
 if __name__ == '__main__':
     print("=" * 60)
-    print("Dashboard running at: http://127.0.0.1:8091/")
+    print("Dashboard running at: http://127.0.0.1:8092/")
     print("Press Ctrl+C to stop")
     print("=" * 60)
-    app.run(debug=False, port=8091)
+    app.run(debug=False, port=8092)
