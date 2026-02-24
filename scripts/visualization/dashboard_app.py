@@ -388,7 +388,11 @@ df_merged['átlag_per_donor'] = (df_merged['összeg'] / df_merged['db']).fillna(
 df_merged['monthly_gross'] = (df_merged['átlag_per_donor'] * 100 * (100/15) / 12).fillna(0).round(0).astype(int)
 df_merged['short_name'] = df_merged['Szervezet neve'].str[:50]
 df_merged['formatted_purpose'] = df_merged['purpose'].apply(original.format_purpose_multiline)
+df_merged['formatted_purpose_short'] = df_merged['purpose'].apply(
+    lambda x: (str(x)[:50] + '…') if x and len(str(x)) > 50 else (x or 'Nincs leírás'))
 df_merged['historical_table'] = df_merged['historical_data'].apply(format_historical_table)
+df_merged['historical_table_short'] = df_merged['historical_data'].apply(
+    lambda h: format_historical_table(sorted(h, key=lambda x: x.get('Év', '0'))[-3:]) if h and isinstance(h, list) else 'Nincs éves adat')
 df_merged['yoy_growth'] = df_merged['historical_data'].apply(original.calculate_yoy_growth)
 df_merged['szekhely'] = df_merged['szekhely'].fillna(df_merged.get('Székhely', '')).fillna('Nincs adat')
 df_merged['parent_category'] = df_merged['Szülő kategória']
@@ -803,18 +807,20 @@ def build_map_figure():
                     df_sub['parent_category'], df_sub['leaf_category'],
                     df_sub['formatted_purpose'],
                     df_sub['yoy_growth'].apply(lambda x: f"{x:+.1f}"),
-                    df_sub['historical_table']
+                    df_sub['historical_table'],
+                    df_sub['formatted_purpose_short'],
+                    df_sub['historical_table_short']
                 )),
                 hovertemplate=(
-                    '<b>%{customdata[0]}</b><br>%{customdata[1]}<br><br>'
+                    '<b>%{customdata[0]}</b><br>%{customdata[1]}<br>'
+                    '<b>Kategória:</b> %{customdata[6]} → %{customdata[7]}<br><br>'
                     '<b>Összeg:</b> %{customdata[2]:,.0f} Ft<br>'
                     '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>'
                     '<b>Átlag/fő:</b> %{customdata[4]:,.0f} Ft<br>'
                     '<b>Havi bruttó:</b> %{customdata[5]:,.0f} Ft<br>'
                     '<b>Előző évhez képest:</b> %{customdata[9]}%<br>'
-                    '<br><b>Kategória:</b> %{customdata[6]} → %{customdata[7]}<br>'
-                    '<br><b>Cél:</b><br>%{customdata[8]}<br>'
-                    '<br><b>Éves történet:</b><br>%{customdata[10]}'
+                    '<br><b>Cél:</b> %{customdata[8]}<br>'
+                    '<br>%{customdata[10]}'
                     '<extra></extra>'
                 ),
                 visible=True
@@ -1180,6 +1186,123 @@ app.index_string = '''
                 color: #444;
                 line-height: 1.5;
             }
+
+            /* Hamburger button - hidden on desktop */
+            .hamburger-btn {
+                display: none;
+                position: fixed;
+                top: 10px;
+                left: 10px;
+                z-index: 1100;
+                background: #1a1a2e;
+                color: #fff;
+                border: none;
+                border-radius: 6px;
+                width: 40px;
+                height: 40px;
+                font-size: 22px;
+                cursor: pointer;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+                line-height: 1;
+            }
+
+            /* Overlay behind sidebar on mobile */
+            .sidebar-overlay {
+                display: none;
+                position: fixed;
+                top: 0; left: 0; right: 0; bottom: 0;
+                background: rgba(0,0,0,0.5);
+                z-index: 999;
+            }
+
+            /* Mobile styles */
+            @media (max-width: 768px) {
+                .hamburger-btn {
+                    display: block;
+                }
+
+                .sidebar {
+                    transform: translateX(-100%);
+                    transition: transform 0.3s ease;
+                }
+
+                .sidebar.open {
+                    transform: translateX(0);
+                }
+
+                .sidebar-overlay.open {
+                    display: block;
+                }
+
+                .content-area {
+                    margin-left: 0 !important;
+                    padding: 60px 12px 20px 12px !important;
+                }
+
+                .top-banner {
+                    margin-top: 0;
+                }
+
+                .top-banner > div {
+                    flex-direction: column !important;
+                    align-items: flex-start !important;
+                    gap: 6px !important;
+                }
+
+                .page-title {
+                    font-size: 18px !important;
+                }
+
+                .about-page {
+                    padding: 0 !important;
+                }
+
+                .about-page img {
+                    max-width: 100% !important;
+                }
+
+                /* Fix Dash dropdowns on mobile */
+                .Select-menu-outer, .dash-dropdown .Select-menu-outer {
+                    position: relative !important;
+                    z-index: 9999 !important;
+                }
+
+                .dash-dropdown {
+                    z-index: 100;
+                }
+
+                .VirtualizedSelectOption {
+                    cursor: pointer !important;
+                    -webkit-tap-highlight-color: rgba(0,0,0,0.1);
+                }
+
+                /* Ensure dropdown menu is not clipped */
+                .Select.is-open {
+                    z-index: 9999 !important;
+                    position: relative;
+                }
+
+                /* Map and chart heights on mobile */
+                .js-plotly-plot, .plot-container {
+                    max-width: 100vw !important;
+                }
+
+                /* Constrain hover labels on mobile */
+                .hoverlayer .hovertext text {
+                    font-size: 10px !important;
+                }
+                .hoverlayer .hovertext {
+                    max-width: 280px !important;
+                }
+                .hoverlayer .hovertext rect {
+                    max-width: 280px !important;
+                }
+            }
+
+            /* Global dropdown touch fix */
+            .VirtualizedSelectOption {
+                touch-action: manipulation;
+            }
         </style>
         <script>
             function formatSliderValue(value) {
@@ -1227,6 +1350,27 @@ app.index_string = '''
             })();
         </script>
         <script>
+            // Mobile sidebar toggle
+            document.addEventListener('click', function(e) {
+                var btn = e.target.closest('#hamburger-btn');
+                var overlay = document.getElementById('sidebar-overlay');
+                var sidebar = document.querySelector('.sidebar');
+                if (!sidebar || !overlay) return;
+
+                if (btn) {
+                    sidebar.classList.toggle('open');
+                    overlay.classList.toggle('open');
+                    return;
+                }
+
+                // Close sidebar when clicking overlay or a nav link on mobile
+                if (e.target.closest('.sidebar-overlay') || e.target.closest('.nav-link')) {
+                    sidebar.classList.remove('open');
+                    overlay.classList.remove('open');
+                }
+            });
+        </script>
+        <script>
             // External links open in new tab, internal links stay in same tab
             document.addEventListener('click', function(e) {
                 var a = e.target.closest('a');
@@ -1238,6 +1382,46 @@ app.index_string = '''
                     a.setAttribute('rel', 'noopener noreferrer');
                 }
             });
+        </script>
+        <script>
+            // Mobile: swap map hover to short versions
+            (function() {
+                if (window.innerWidth > 768) return;
+                var MOBILE_HOVER =
+                    '<b>%{customdata[0]}</b><br>%{customdata[1]}<br>' +
+                    '<b>Összeg:</b> %{customdata[2]:,.0f} Ft<br>' +
+                    '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>' +
+                    '<b>Cél:</b> %{customdata[11]}<br>' +
+                    '<br>%{customdata[12]}<extra></extra>';
+                var observer = new MutationObserver(function() {
+                    var mapEl = document.getElementById('map-graph');
+                    if (!mapEl) return;
+                    var fig = mapEl._fullData;
+                    if (!fig) return;
+                    var needsUpdate = false;
+                    for (var i = 0; i < fig.length; i++) {
+                        if (fig[i].type === 'scattermapbox' && fig[i].hovertemplate &&
+                            fig[i].hovertemplate.indexOf('customdata[10]') !== -1) {
+                            needsUpdate = true;
+                            break;
+                        }
+                    }
+                    if (needsUpdate) {
+                        var update = {};
+                        var traceIndices = [];
+                        for (var i = 0; i < fig.length; i++) {
+                            if (fig[i].type === 'scattermapbox' && fig[i].hovertemplate) {
+                                traceIndices.push(i);
+                            }
+                        }
+                        if (traceIndices.length > 0 && window.Plotly) {
+                            Plotly.restyle(mapEl, {hovertemplate: MOBILE_HOVER}, traceIndices);
+                            observer.disconnect();
+                        }
+                    }
+                });
+                observer.observe(document.body, {childList: true, subtree: true});
+            })();
         </script>
     </body>
 </html>
@@ -1354,7 +1538,8 @@ def map_page():
                 style={'flex': '1'},
                 maxHeight=300,
             ),
-        ], style={'display': 'flex', 'alignItems': 'center', 'marginBottom': '10px'}),
+        ], style={'display': 'flex', 'alignItems': 'center', 'marginBottom': '10px',
+                  'flexWrap': 'wrap', 'gap': '6px', 'position': 'relative', 'zIndex': 10}),
         dcc.Loading(
             dcc.Graph(id='map-graph', style={'height': '800px'},
                       config={'scrollZoom': True, 'displayModeBar': True, 'displaylogo': False}),
@@ -1623,6 +1808,8 @@ def funfacts_page():
 # App layout
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
+    html.Button("☰", id="hamburger-btn", className="hamburger-btn"),
+    html.Div(id="sidebar-overlay", className="sidebar-overlay"),
     sidebar,
     html.Div(id='page-content', className="content-area")
 ])
