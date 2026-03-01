@@ -1258,7 +1258,7 @@ app.index_string = '''
             }
 
             /* Mobile styles */
-            @media (max-width: 768px) {
+            @media (max-width: 960px) {
                 .hamburger-btn {
                     display: block;
                 }
@@ -1517,7 +1517,7 @@ app.index_string = '''
         <script>
             // Mobile: swap map hover to short versions
             (function() {
-                if (window.innerWidth > 768) return;
+                if (window.innerWidth > 960) return;
                 var MOBILE_HOVER =
                     '<b>%{customdata[0]}</b><br>%{customdata[1]}<br>' +
                     '<b>Összeg:</b> %{customdata[2]:,.0f} Ft<br>' +
