@@ -12,7 +12,7 @@ import os
 import sys
 import re
 from datetime import date
-from flask import send_from_directory
+from flask import send_from_directory, request as flask_request
 
 # Base directory paths
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -233,12 +233,11 @@ def make_banner():
                 html.Span("Civil Szervezetek Adó 1% Elemzése", style={
                     'fontWeight': '700', 'fontSize': '15px', 'color': '#ffffff'
                 }),
-                html.Span(" — ", style={'color': 'rgba(255,255,255,0.5)', 'margin': '0 8px'}),
-                html.Span(
-                    "A legnagyobb szervezetek felajánlásainak interaktív áttekintése",
-                    style={'fontSize': '13px', 'color': 'rgba(255,255,255,0.8)'}
-                ),
-            ], style={'flex': '1'}),
+                html.Span("(telefonon a vizualizációk limitáltak)",
+                          className='mobile-subtitle',
+                          style={'fontSize': '11px', 'color': 'rgba(255,255,255,0.75)',
+                                 'display': 'none', 'marginTop': '2px'}),
+            ], style={'flex': '1', 'display': 'flex', 'flexDirection': 'column', 'gap': '0'}),
             html.Div([
                 html.Span("Felajánlási határidő: május 20.", style={
                     'fontSize': '12px', 'color': 'rgba(255,255,255,0.7)', 'marginRight': '12px'
@@ -751,23 +750,9 @@ def build_sunburst_figure():
     ))
 
     fig.update_layout(
-        annotations=[dict(
-            text="Színezés:", showarrow=False,
-            x=0.35, y=1.02, xref="paper", yref="paper",
-            font=dict(size=13, color="#333")
-        )],
-        updatemenus=[dict(
-            type="buttons", direction="right",
-            buttons=[
-                dict(args=[{"visible": [True, False, False]}], label="Kategória", method="update"),
-                dict(args=[{"visible": [False, True, False]}], label="Átlagos jövedelem", method="update"),
-                dict(args=[{"visible": [False, False, True]}], label="Tavalyhoz képesti változás", method="update"),
-            ],
-            pad={"r": 10, "t": 10}, showactive=True,
-            x=0.45, xanchor="left", y=1.02, yanchor="middle"
-        )],
-        margin=dict(t=50, l=0, r=0, b=100),
-        height=1100
+        margin=dict(t=10, l=0, r=0, b=100),
+        height=1100,
+        showlegend=False
     )
 
     return fig
@@ -830,32 +815,71 @@ def build_map_figure():
 
     fig = go.Figure(data=traces)
 
-    # Build dropdown buttons
-    buttons = [dict(label="▼ Összes kategória", method="update",
-                    args=[{"visible": [True] * len(traces)}])]
-    for parent_cat in parent_categories:
-        visible_parent = [info['parent'] == parent_cat for info in trace_info]
-        buttons.append(dict(label=f"▼ {parent_cat}", method="update",
-                            args=[{"visible": visible_parent}]))
-        for info in trace_info:
-            if info['parent'] == parent_cat:
-                visible_leaf = [False] * len(traces)
-                visible_leaf[info['trace_idx']] = True
-                buttons.append(dict(label=f"    • {info['leaf']}", method="update",
-                                    args=[{"visible": visible_leaf}]))
-
     fig.update_layout(
         mapbox=dict(style="carto-positron", center=dict(lat=47.2, lon=19.5), zoom=6.5),
         dragmode='pan', hovermode='closest',
-        updatemenus=[dict(
-            type="dropdown", direction="down", x=0.01, y=0.99,
-            xanchor="left", yanchor="top", buttons=buttons,
-            bgcolor="white", bordercolor="gray", borderwidth=1, font=dict(size=11)
-        )],
         height=800, margin=dict(l=0, r=0, t=10, b=0), showlegend=False
     )
 
-    return fig
+    return fig, trace_info
+
+
+def build_map_figure_mobile():
+    """Lightweight map for mobile: strips large text fields from customdata."""
+    print("  Building mobile map...")
+    df_map = df_merged.dropna(subset=['lat', 'lon']).copy()
+    df_map['átlag'] = (df_map['összeg'] / df_map['db']).fillna(0).round()
+
+    parent_categories = sorted(df_map['parent_category'].dropna().unique())
+    color_map = {}
+    for i, cat in enumerate(parent_categories):
+        color_map[cat] = PARENT_COLORS[i % len(PARENT_COLORS)]
+
+    traces = []
+    trace_info = []
+
+    for parent_cat in parent_categories:
+        leaf_cats = sorted(df_map[df_map['parent_category'] == parent_cat]['leaf_category'].unique())
+        for leaf_cat in leaf_cats:
+            df_sub = df_map[(df_map['parent_category'] == parent_cat) &
+                            (df_map['leaf_category'] == leaf_cat)]
+
+            trace = go.Scattermapbox(
+                lat=df_sub['lat'], lon=df_sub['lon'], mode='markers',
+                marker=dict(
+                    size=df_sub['összeg'].apply(lambda x: min(max((x ** 0.5) / 200, 5), 25)),
+                    color=color_map[parent_cat], opacity=0.8, sizemode='diameter'
+                ),
+                text=df_sub['Szervezet neve'],
+                name=f"{parent_cat} / {leaf_cat}",
+                customdata=list(zip(
+                    df_sub['Szervezet neve'], df_sub['szekhely'], df_sub['összeg'],
+                    df_sub['db'], df_sub['átlag'], df_sub['monthly_gross'],
+                    df_sub['parent_category'], df_sub['leaf_category'],
+                    df_sub['yoy_growth'].apply(lambda x: f"{x:+.1f}")
+                )),
+                hovertemplate=(
+                    '<b>%{customdata[0]}</b><br>%{customdata[1]}<br>'
+                    '<b>Kategória:</b> %{customdata[6]} → %{customdata[7]}<br><br>'
+                    '<b>Összeg:</b> %{customdata[2]:,.0f} Ft<br>'
+                    '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>'
+                    '<b>Átlag/fő:</b> %{customdata[4]:,.0f} Ft<br>'
+                    '<b>Havi bruttó:</b> %{customdata[5]:,.0f} Ft<br>'
+                    '<b>Előző évhez képest:</b> %{customdata[8]}%<br>'
+                    '<extra></extra>'
+                ),
+                visible=True
+            )
+            traces.append(trace)
+            trace_info.append({'parent': parent_cat, 'leaf': leaf_cat, 'trace_idx': len(traces) - 1})
+
+    fig = go.Figure(data=traces)
+    fig.update_layout(
+        mapbox=dict(style="carto-positron", center=dict(lat=47.2, lon=19.5), zoom=6.5),
+        dragmode='pan', hovermode='closest',
+        height=800, margin=dict(l=0, r=0, t=10, b=0), showlegend=False
+    )
+    return fig, trace_info
 
 
 def build_scatter_figure():
@@ -940,8 +964,25 @@ def build_scatter_figure():
 
 print("\nBuilding figures...")
 sunburst_fig = build_sunburst_figure()
-map_fig = build_map_figure()
+map_fig, map_trace_info = build_map_figure()
+map_fig_mobile, _ = build_map_figure_mobile()
 scatter_fig = build_scatter_figure()
+
+# Build parent→leaf mapping for cascading map dropdowns
+_map_parent_to_leaves = {}
+for _r in df_merged[['parent_category', 'leaf_category']].drop_duplicates().itertuples():
+    if pd.notna(_r.parent_category) and pd.notna(_r.leaf_category):
+        _map_parent_to_leaves.setdefault(_r.parent_category, []).append(_r.leaf_category)
+for _k in _map_parent_to_leaves:
+    _map_parent_to_leaves[_k] = sorted(_map_parent_to_leaves[_k])
+_map_parent_options = [{'label': '— Összes kategória —', 'value': '__all__'}] + \
+    [{'label': pc, 'value': pc} for pc in sorted(_map_parent_to_leaves.keys())]
+
+# Default parent/leaf for timeseries page
+_ts_default_parent = sorted(_map_parent_to_leaves.keys())[0]
+_ts_default_leaf = _map_parent_to_leaves[_ts_default_parent][0]
+_ts_parent_options = [{'label': pc, 'value': pc} for pc in sorted(_map_parent_to_leaves.keys())]
+
 print("All figures ready!\n")
 
 # Build org search options for map (name → lat/lon lookup)
@@ -1282,6 +1323,61 @@ app.index_string = '''
                     position: relative;
                 }
 
+                /* Sunburst: fill screen width and center on mobile */
+                #sunburst-graph {
+                    height: 90vw !important;
+                    min-height: 360px !important;
+                    max-height: 580px !important;
+                    width: 100% !important;
+                }
+                #sunburst-graph .js-plotly-plot,
+                #sunburst-graph .plot-container,
+                #sunburst-graph .svg-container {
+                    height: 100% !important;
+                    width: 100% !important;
+                }
+                /* Hide colorbar (Átlagos jövedelem / Változás scale) on mobile */
+                #sunburst-graph g.colorbar {
+                    display: none !important;
+                }
+
+                /* Sunburst mode radio buttons: stack vertically, smaller text */
+                .sunburst-mode-selector {
+                    display: flex !important;
+                    flex-direction: column !important;
+                    gap: 2px !important;
+                }
+                .sunburst-mode-selector label {
+                    font-size: 11px !important;
+                    margin-right: 0 !important;
+                }
+
+                /* Show mobile subtitle in top banner */
+                .mobile-subtitle {
+                    display: block !important;
+                }
+
+                /* Hide slider section on Évenkénti pages on mobile */
+                #ts-filter-col {
+                    display: none !important;
+                }
+
+                /* Évenkénti: full-width dropdowns and chart */
+                #ts-dropdown-col,
+                #cat-ts-dropdown-col,
+                #cat-ts-chart-col {
+                    width: 100% !important;
+                    flex: 0 0 100% !important;
+                    max-width: 100% !important;
+                }
+
+                /* Évenkénti: taller charts to fill freed space */
+                #ts-graph,
+                #cat-ts-graph {
+                    height: 65vw !important;
+                    min-height: 280px !important;
+                }
+
                 /* Map and chart heights on mobile */
                 .js-plotly-plot, .plot-container {
                     max-width: 100vw !important;
@@ -1300,8 +1396,21 @@ app.index_string = '''
             }
 
             /* Global dropdown touch fix */
-            .VirtualizedSelectOption {
-                touch-action: manipulation;
+            .Select-control,
+            .Select--single > .Select-control,
+            .Select--multi > .Select-control {
+                touch-action: manipulation !important;
+                -webkit-tap-highlight-color: transparent;
+                cursor: pointer !important;
+            }
+            .VirtualizedSelectOption,
+            .Select-option {
+                touch-action: manipulation !important;
+                cursor: pointer !important;
+            }
+            .Select-menu-outer {
+                z-index: 9999 !important;
+                -webkit-overflow-scrolling: touch;
             }
         </style>
         <script>
@@ -1369,6 +1478,27 @@ app.index_string = '''
                     overlay.classList.remove('open');
                 }
             });
+        </script>
+        <script>
+            // Fix Dash dcc.Dropdown touch support on mobile (react-select uses mousedown, not click)
+            (function() {
+                document.addEventListener('touchend', function(e) {
+                    // Open/close dropdown when tapping the control area
+                    var control = e.target.closest('.Select-control');
+                    if (control) {
+                        e.preventDefault();
+                        control.dispatchEvent(new MouseEvent('mousedown', {bubbles: true, cancelable: true, view: window}));
+                        return;
+                    }
+                    // Select an option when tapping an item
+                    var option = e.target.closest('.VirtualizedSelectOption, .Select-option');
+                    if (option) {
+                        e.preventDefault();
+                        option.dispatchEvent(new MouseEvent('click', {bubbles: true, cancelable: true, view: window}));
+                        return;
+                    }
+                }, {passive: false});
+            })();
         </script>
         <script>
             // External links open in new tab, internal links stay in same tab
@@ -1484,42 +1614,39 @@ sidebar = html.Div([
 
         dcc.Link([
             html.Span("·", className="nav-icon"),
-            "A projekt leírása"
-        ], href="/projekt", className="nav-link", id="nav-project"),
-
-        dcc.Link([
-            html.Span("·", className="nav-icon"),
             "Érdekességek"
         ], href="/erdekessegek", className="nav-link", id="nav-funfacts"),
-
-        dcc.Link([
-            html.Span("·", className="nav-icon"),
-            "Saját gondolatok"
-        ], href="/gondolatok", className="nav-link", id="nav-thoughts"),
-
-        dcc.Link([
-            html.Span("·", className="nav-icon"),
-            "A használt promptok"
-        ], href="/promptok", className="nav-link", id="nav-prompts"),
-
-        dcc.Link([
-            html.Span("·", className="nav-icon"),
-            "További tervek"
-        ], href="/tervek", className="nav-link", id="nav-plans"),
 
     ], className="nav-section"),
 
     html.Div([
-        html.P(f"{len(df_merged):,} szervezet"),
+        html.P("A 10 000 legtöbb adó 1% felajánlást kapó szervezet elemzése és vizualizálása"),
     ], className="sidebar-footer")
 ], className="sidebar")
 
 # Page layouts
 def sunburst_page():
     return wrap_page('sunburst', "Kategóriák - Hierarchikus megoszlás", [
+        html.Div([
+            html.Span("Színezés:", style={'fontWeight': '600', 'fontSize': '13px', 'marginRight': '10px'}),
+            dcc.RadioItems(
+                id='sunburst-mode',
+                options=[
+                    {'label': 'Kategória', 'value': 'default'},
+                    {'label': 'Átlagos jövedelem', 'value': 'salary'},
+                    {'label': 'Tavalyhoz képesti változás', 'value': 'growth'},
+                ],
+                value='default',
+                inline=True,
+                className='sunburst-mode-selector',
+                inputStyle={'marginRight': '4px'},
+                labelStyle={'marginRight': '16px', 'fontSize': '13px', 'cursor': 'pointer'},
+            ),
+        ], style={'padding': '8px 4px', 'display': 'flex', 'alignItems': 'center', 'flexWrap': 'wrap'}),
         dcc.Loading(
             dcc.Graph(id='sunburst-graph', style={'height': '1100px'},
-                      config={'displayModeBar': True, 'displaylogo': False}),
+                      config={'displayModeBar': True, 'displaylogo': False},
+                      responsive=True),
             type='circle', color='#4a9eff'
         )
     ])
@@ -1527,57 +1654,98 @@ def sunburst_page():
 def map_page():
     return wrap_page('map', "Térkép - Szervezetek elhelyezkedése", [
         html.Div([
-            html.Label("Szervezet keresése:", className="fw-bold", style={'marginRight': '10px'}),
-            dcc.Dropdown(
-                id='map-org-search',
-                options=[],
-                value=None,
-                placeholder="Írjon be legalább 2 karaktert...",
-                searchable=True,
-                clearable=True,
-                style={'flex': '1'},
-                maxHeight=300,
-            ),
-        ], style={'display': 'flex', 'alignItems': 'center', 'marginBottom': '10px',
+            html.Div([
+                html.Label("Főkategória:", className="fw-bold", style={'fontSize': '13px'}),
+                dcc.Dropdown(
+                    id='map-parent-dropdown',
+                    options=_map_parent_options,
+                    value='__all__',
+                    clearable=False,
+                    style={'width': '260px'},
+                    maxHeight=400,
+                ),
+            ], style={'marginRight': '8px'}),
+            html.Div([
+                html.Label("Alkategória:", className="fw-bold", style={'fontSize': '13px'}),
+                dcc.Dropdown(
+                    id='map-leaf-dropdown',
+                    options=[],
+                    value=None,
+                    clearable=True,
+                    placeholder='Összes alkategória...',
+                    style={'width': '230px'},
+                    maxHeight=400,
+                ),
+            ], id='map-leaf-container', style={'marginRight': '8px', 'display': 'none'}),
+            html.Div([
+                html.Label("Szervezet keresése:", className="fw-bold", style={'fontSize': '13px'}),
+                dcc.Dropdown(
+                    id='map-org-search',
+                    options=[],
+                    value=None,
+                    placeholder="Írjon be legalább 2 karaktert...",
+                    searchable=True,
+                    clearable=True,
+                    style={'width': '280px'},
+                    maxHeight=300,
+                ),
+            ]),
+        ], style={'display': 'flex', 'alignItems': 'flex-end', 'marginBottom': '10px',
                   'flexWrap': 'wrap', 'gap': '6px', 'position': 'relative', 'zIndex': 10}),
         dcc.Loading(
             dcc.Graph(id='map-graph', style={'height': '800px'},
                       config={'scrollZoom': True, 'displayModeBar': True, 'displaylogo': False}),
             type='circle', color='#4a9eff'
-        )
+        ),
+        html.Div(id='map-table-container', children=[
+            html.H4(id='map-table-title', className="mt-3 mb-2"),
+            dash_table.DataTable(
+                id='map-table',
+                columns=[
+                    {'name': 'Szervezet neve', 'id': 'Szervezet neve'},
+                    {'name': 'Összeg (Ft)', 'id': 'összeg', 'type': 'numeric',
+                     'format': dash_table.FormatTemplate.money(0).symbol_suffix(' Ft')},
+                    {'name': 'Szülő kategória', 'id': 'parent_category'},
+                    {'name': 'Alkategória', 'id': 'leaf_category'},
+                    {'name': 'Székhely', 'id': 'szekhely'},
+                ],
+                data=[],
+                sort_action='native',
+                sort_by=[{'column_id': 'összeg', 'direction': 'desc'}],
+                filter_action='native',
+                page_size=20,
+                style_table={'overflowX': 'auto'},
+                style_cell={'textAlign': 'left', 'padding': '8px', 'fontSize': '13px',
+                            'maxWidth': '300px', 'overflow': 'hidden', 'textOverflow': 'ellipsis'},
+                style_header={'backgroundColor': '#f8f9fa', 'fontWeight': 'bold',
+                              'borderBottom': '2px solid #dee2e6'},
+                style_data_conditional=[
+                    {'if': {'row_index': 'odd'}, 'backgroundColor': '#f8f9fa'}
+                ],
+            )
+        ], style={'display': 'none'})
     ])
 
 def timeseries_page():
-    # Build grouped dropdown options by parent category
-    ts_dropdown_options = []
-    parent_to_leaves = {}
-    for _, row in df_ts[['parent_category', 'leaf_category']].drop_duplicates().iterrows():
-        pc = row['parent_category']
-        lc = row['leaf_category']
-        if pc not in parent_to_leaves:
-            parent_to_leaves[pc] = []
-        if lc not in parent_to_leaves[pc]:
-            parent_to_leaves[pc].append(lc)
-    for parent_cat in sorted(parent_to_leaves.keys()):
-        ts_dropdown_options.append({
-            'label': f"── {parent_cat.upper()} ──",
-            'value': f"__parent__{parent_cat}",
-            'disabled': True
-        })
-        for leaf_cat in sorted(parent_to_leaves[parent_cat]):
-            ts_dropdown_options.append({
-                'label': f"    {leaf_cat}",
-                'value': leaf_cat
-            })
-
     return wrap_page('timeseries', "Évenkénti adatok szervezetenként", [
         dbc.Row([
             dbc.Col([
-                html.Label("Kategória:", className="fw-bold"),
+                html.Label("Főkategória:", className="fw-bold"),
+                dcc.Dropdown(
+                    id='ts-parent-dropdown',
+                    options=_ts_parent_options,
+                    value=_ts_default_parent,
+                    clearable=False,
+                    style={'width': '100%'},
+                    maxHeight=400
+                ),
+                html.Label("Alkategória:", className="fw-bold mt-2"),
                 dcc.Dropdown(
                     id='ts-category-dropdown',
-                    options=ts_dropdown_options,
-                    value=leaf_categories[0], clearable=False,
+                    options=[{'label': lc, 'value': lc}
+                             for lc in _map_parent_to_leaves[_ts_default_parent]],
+                    value=_ts_default_leaf,
+                    clearable=False,
                     style={'width': '100%'},
                     maxHeight=400
                 ),
@@ -1593,7 +1761,7 @@ def timeseries_page():
                     ], className="mt-1 d-flex"),
                 ]),
                 dcc.Store(id='ts-chart-mode', data='percentage'),
-            ], width=3),
+            ], width=3, id='ts-dropdown-col'),
             dbc.Col(width=1),
             dbc.Col([
                 dcc.Graph(id='ts-histogram', style={'height': '70px'},
@@ -1605,9 +1773,9 @@ def timeseries_page():
                     step=100000, tooltip={"placement": "bottom", "always_visible": False},
                     allowCross=False, className="mb-2"
                 )
-            ], width=8)
+            ], width=8, id='ts-filter-col')
         ], className="mb-2"),
-        dbc.Row([dbc.Col([dcc.Graph(id='ts-graph', style={'height': '700px'})])]),
+        dbc.Row([dbc.Col([dcc.Graph(id='ts-graph', style={'height': '700px'}, responsive=True)])]),
         dbc.Row([
             dbc.Col(width=3),
             dbc.Col([
@@ -1658,10 +1826,10 @@ def category_timeseries_page():
                     ], className="mt-1 d-flex"),
                 ]),
                 dcc.Store(id='cat-ts-chart-mode', data='percentage'),
-            ], width=3),
+            ], width=3, id='cat-ts-dropdown-col'),
             dbc.Col([
-                dcc.Graph(id='cat-ts-graph', style={'height': '700px'})
-            ], width=9)
+                dcc.Graph(id='cat-ts-graph', style={'height': '700px'}, responsive=True)
+            ], width=9, id='cat-ts-chart-col')
         ])
     ])
 
@@ -1790,18 +1958,6 @@ def _info_page(title, filename):
 def intro_page():
     return _info_page("Bevezetés", "bevezetes.md")
 
-def project_page():
-    return _info_page("A projekt leírása", "projekt.md")
-
-def thoughts_page():
-    return _info_page("Saját gondolatok", "gondolatok.md")
-
-def prompts_page():
-    return _info_page("A használt promptok", "promptok.md")
-
-def plans_page():
-    return _info_page("További tervek", "tervek.md")
-
 def funfacts_page():
     return _info_page("Érdekességek", "fun_facts.md")
 
@@ -1823,8 +1979,7 @@ app.layout = html.Div([
 # Nav IDs in order for the routing callback outputs
 _NAV_IDS = [
     'nav-sunburst', 'nav-map', 'nav-timeseries', 'nav-ts-category',
-    'nav-scatter', 'nav-city', 'nav-intro', 'nav-project',
-    'nav-thoughts', 'nav-prompts', 'nav-plans', 'nav-funfacts',
+    'nav-scatter', 'nav-city', 'nav-intro', 'nav-funfacts',
 ]
 
 @app.callback(
@@ -1848,10 +2003,6 @@ def display_page(pathname):
         '/scatter': (scatter_page, 'nav-scatter'),
         '/telepules': (city_page, 'nav-city'),
         '/bevezetes': (intro_page, 'nav-intro'),
-        '/projekt': (project_page, 'nav-project'),
-        '/gondolatok': (thoughts_page, 'nav-thoughts'),
-        '/promptok': (prompts_page, 'nav-prompts'),
-        '/tervek': (plans_page, 'nav-plans'),
         '/erdekessegek': (funfacts_page, 'nav-funfacts'),
     }
 
@@ -1862,13 +2013,37 @@ def display_page(pathname):
         return _result(map_page(), 'nav-map')
 
 
-# Lazy-load: populate sunburst figure when page appears
+# Lazy-load + mode switch for sunburst
 @app.callback(
     Output('sunburst-graph', 'figure'),
-    [Input('sunburst-graph', 'id')]
+    [Input('sunburst-graph', 'id'),
+     Input('sunburst-mode', 'value')]
 )
-def load_sunburst(_):
-    return sunburst_fig
+def load_sunburst(_, mode):
+    vis_map = {
+        'default': [True, False, False],
+        'salary':  [False, True, False],
+        'growth':  [False, False, True],
+    }
+    visibility = vis_map.get(mode or 'default', [True, False, False])
+    ua = flask_request.user_agent.string.lower()
+    is_mobile = any(x in ua for x in ['mobile', 'android', 'iphone', 'ipad'])
+    fig = copy.deepcopy(sunburst_fig)
+    for i, v in enumerate(visibility):
+        fig.data[i].visible = v
+    if is_mobile:
+        mobile_hover = (
+            '<b>%{label}</b><br>%{customdata[1]}<br>'
+            '<br><b>Összeg:</b> %{value:,.0f} Ft<br>'
+            '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>'
+            '<b>Átlag/fő:</b> %{customdata[4]:,.0f} Ft<br>'
+            '<b>Részarány (%{customdata[8]}):</b> %{customdata[6]:.2f}%<br>'
+            '<b>Előző évhez képest:</b> %{customdata[12]}%'
+            '<extra></extra>'
+        )
+        for trace in fig.data:
+            trace.hovertemplate = mobile_hover
+    return fig
 
 
 # Lazy-load: populate scatter figure when page appears
@@ -1893,40 +2068,92 @@ def map_filter_search(search_value):
     return matches[:5]
 
 
-# Map: search and highlight org
+# Map: update leaf dropdown options when parent changes
 @app.callback(
-    Output('map-graph', 'figure'),
-    [Input('map-org-search', 'value')]
+    [Output('map-leaf-dropdown', 'options'),
+     Output('map-leaf-dropdown', 'value'),
+     Output('map-leaf-container', 'style')],
+    [Input('map-parent-dropdown', 'value')]
 )
-def map_search_org(selected_org_idx):
-    if selected_org_idx is None:
-        return map_fig
+def update_map_leaf_dropdown(parent_value):
+    if not parent_value or parent_value == '__all__':
+        return [], None, {'display': 'none', 'marginRight': '8px'}
+    leaves = _map_parent_to_leaves.get(parent_value, [])
+    options = [{'label': lc, 'value': lc} for lc in leaves]
+    return options, None, {'display': 'block', 'marginRight': '8px'}
 
-    info = map_org_lookup.get(selected_org_idx)
-    if info is None:
-        return map_fig
 
-    fig = copy.deepcopy(map_fig)
+# Map: update figure and table based on category + org search
+@app.callback(
+    [Output('map-graph', 'figure'),
+     Output('map-table', 'data'),
+     Output('map-table-title', 'children'),
+     Output('map-table-container', 'style')],
+    [Input('map-parent-dropdown', 'value'),
+     Input('map-leaf-dropdown', 'value'),
+     Input('map-org-search', 'value')]
+)
+def update_map_and_table(parent_value, leaf_value, selected_org_idx):
+    show_all = not parent_value or parent_value == '__all__'
 
-    # Add a highlight marker for the selected org
-    fig.add_trace(go.Scattermapbox(
-        lat=[info['lat']], lon=[info['lon']], mode='markers+text',
-        marker=dict(size=22, color='red', opacity=0.9,
-                    symbol='circle'),
-        text=[info['name']],
-        textposition='top center',
-        textfont=dict(size=13, color='red', family='Arial Black'),
-        name='Keresett szervezet',
-        hoverinfo='text',
-        showlegend=False
-    ))
+    # Use lightweight figure on mobile (detected via User-Agent)
+    ua = flask_request.user_agent.string.lower()
+    is_mobile = any(x in ua for x in ['mobile', 'android', 'iphone', 'ipad'])
+    base = map_fig_mobile if is_mobile else map_fig
 
-    # Zoom to the selected org
-    fig.update_layout(
-        mapbox=dict(center=dict(lat=info['lat'], lon=info['lon']), zoom=12)
-    )
+    # Build figure with filtered trace visibility
+    fig = copy.deepcopy(base)
+    if not show_all:
+        for i, info in enumerate(map_trace_info):
+            if leaf_value:
+                fig.data[i].visible = (info['parent'] == parent_value and info['leaf'] == leaf_value)
+            else:
+                fig.data[i].visible = (info['parent'] == parent_value)
 
-    return fig
+    # Highlight searched org if any
+    if selected_org_idx is not None:
+        info = map_org_lookup.get(selected_org_idx)
+        if info:
+            fig.add_trace(go.Scattermapbox(
+                lat=[info['lat']], lon=[info['lon']], mode='markers+text',
+                marker=dict(size=22, color='red', opacity=0.9, symbol='circle'),
+                text=[info['name']],
+                textposition='top center',
+                textfont=dict(size=13, color='red', family='Arial Black'),
+                name='Keresett szervezet',
+                hoverinfo='text',
+                showlegend=False
+            ))
+            fig.update_layout(mapbox=dict(center=dict(lat=info['lat'], lon=info['lon']), zoom=12))
+
+    if show_all:
+        return fig, [], '', {'display': 'none'}
+
+    # Build table data for selected category
+    if leaf_value:
+        df_filtered = df_merged[df_merged['leaf_category'] == leaf_value]
+        title = f"{parent_value} → {leaf_value} — {len(df_filtered)} szervezet"
+    else:
+        df_filtered = df_merged[df_merged['parent_category'] == parent_value]
+        title = f"{parent_value} — {len(df_filtered)} szervezet"
+
+    table_data = df_filtered[
+        ['Szervezet neve', 'összeg', 'parent_category', 'leaf_category', 'szekhely']
+    ].sort_values('összeg', ascending=False).to_dict('records')
+
+    return fig, table_data, title, {'display': 'block'}
+
+
+# Time series: update leaf dropdown when parent changes
+@app.callback(
+    [Output('ts-category-dropdown', 'options'),
+     Output('ts-category-dropdown', 'value')],
+    [Input('ts-parent-dropdown', 'value')]
+)
+def ts_update_leaf_dropdown(parent_value):
+    leaves = _map_parent_to_leaves.get(parent_value, [])
+    options = [{'label': lc, 'value': lc} for lc in leaves]
+    return options, leaves[0] if leaves else None
 
 
 # Time series: update slider
@@ -2043,6 +2270,8 @@ def ts_toggle_mode(abs_clicks, pct_clicks, dist_clicks):
 def ts_update_graph(selected_category, amount_range, chart_mode, selected_org):
     if chart_mode is None:
         chart_mode = 'distribution'
+    ua = flask_request.user_agent.string.lower()
+    is_mobile = any(x in ua for x in ['mobile', 'android', 'iphone', 'ipad'])
 
     df_all_category = df_ts[df_ts['leaf_category'] == selected_category].copy()
 
@@ -2143,11 +2372,12 @@ def ts_update_graph(selected_category, amount_range, chart_mode, selected_org):
             barmode='stack', barnorm='percent',
             xaxis=dict(title='Év', type='category'),
             yaxis=dict(title='Eloszlás (%)', range=[0, 100]),
-            plot_bgcolor='white', hovermode='x unified', showlegend=True,
+            plot_bgcolor='white', hovermode='x unified',
+            showlegend=not is_mobile,
             legend=dict(title=dict(text='Szervezetek', font=dict(size=12)), font=dict(size=9),
                         bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1,
                         traceorder='normal'),
-            margin=dict(l=80, r=20, t=20, b=80)
+            margin=dict(l=80, r=0 if is_mobile else 20, t=20, b=80)
         )
 
         # Highlight selected org in distribution mode
@@ -2182,32 +2412,44 @@ def ts_update_graph(selected_category, amount_range, chart_mode, selected_org):
             continue
 
         # Build hover table
-        table_rows = ['<br><br><b>Éves adatok:</b>']
-        table_rows.append("<br><span style='font-family: monospace;'>")
-        table_rows.append("───────────────────────────────────────────────────────────<br>")
-        table_rows.append(f"{'Év':<4}  {'Összeg':>10}  {'Fő':>6}  {'Havi br.':>10}  {'Kat %':>7}<br>")
-        table_rows.append("───────────────────────────────────────────────────────────<br>")
-
-        for year in sorted(hist_dict.keys()):
-            amount = hist_dict[year]
-            if amount > 0:
-                donors = get_donor_count(hist_data, year)
-                if donors > 0:
-                    avg_per_donor = amount / donors
-                    monthly_gross = int(avg_per_donor * 100 * (100/15) / 12)
-                else:
-                    monthly_gross = 0
-
-                category_pct = (amount / category_totals_by_year.get(year, 1) * 100)
-                amount_str = f"{amount/1e6:>9.1f}M" if amount >= 1e6 else f"{amount/1e3:>9.0f}K"
-                monthly_str = f"{monthly_gross/1e6:>9.1f}M" if monthly_gross >= 1e6 else (
-                    f"{monthly_gross/1e3:>9.0f}K" if monthly_gross >= 1e3 else f"{monthly_gross:>9}")
-
-                table_rows.append(f"{year:<4}  {amount_str:>10}  {donors:>6}  {monthly_str:>10}  {category_pct:>6.1f}%<br>")
-
-        table_rows.append("</span>")
         parent_cat = row.get('parent_category', '')
-        table_rows.append(f"<br><b>Kategória:</b> {parent_cat} → {selected_category}")
+        if is_mobile:
+            table_rows = ['<br><br><b>Éves adatok:</b>']
+            table_rows.append("<br><span style='font-family: monospace;'>")
+            table_rows.append("────────────────────────────────<br>")
+            table_rows.append(f"{'Év':<4}  {'Összeg':>8}  {'Fő':>5}  {'Kat%':>6}<br>")
+            table_rows.append("────────────────────────────────<br>")
+            for year in sorted(hist_dict.keys()):
+                amount = hist_dict[year]
+                if amount > 0:
+                    donors = get_donor_count(hist_data, year)
+                    category_pct = (amount / category_totals_by_year.get(year, 1) * 100)
+                    amount_str = f"{amount/1e6:>7.1f}M" if amount >= 1e6 else f"{amount/1e3:>7.0f}K"
+                    table_rows.append(f"{year:<4}  {amount_str:>8}  {donors:>5}  {category_pct:>5.1f}%<br>")
+            table_rows.append("</span>")
+            table_rows.append(f"<br><b>Kat.:</b> {parent_cat} → {selected_category}")
+        else:
+            table_rows = ['<br><br><b>Éves adatok:</b>']
+            table_rows.append("<br><span style='font-family: monospace;'>")
+            table_rows.append("───────────────────────────────────────────────────────────<br>")
+            table_rows.append(f"{'Év':<4}  {'Összeg':>10}  {'Fő':>6}  {'Havi br.':>10}  {'Kat %':>7}<br>")
+            table_rows.append("───────────────────────────────────────────────────────────<br>")
+            for year in sorted(hist_dict.keys()):
+                amount = hist_dict[year]
+                if amount > 0:
+                    donors = get_donor_count(hist_data, year)
+                    if donors > 0:
+                        avg_per_donor = amount / donors
+                        monthly_gross = int(avg_per_donor * 100 * (100/15) / 12)
+                    else:
+                        monthly_gross = 0
+                    category_pct = (amount / category_totals_by_year.get(year, 1) * 100)
+                    amount_str = f"{amount/1e6:>9.1f}M" if amount >= 1e6 else f"{amount/1e3:>9.0f}K"
+                    monthly_str = f"{monthly_gross/1e6:>9.1f}M" if monthly_gross >= 1e6 else (
+                        f"{monthly_gross/1e3:>9.0f}K" if monthly_gross >= 1e3 else f"{monthly_gross:>9}")
+                    table_rows.append(f"{year:<4}  {amount_str:>10}  {donors:>6}  {monthly_str:>10}  {category_pct:>6.1f}%<br>")
+            table_rows.append("</span>")
+            table_rows.append(f"<br><b>Kategória:</b> {parent_cat} → {selected_category}")
         hover_text = f"<b>{org_name}</b><br>{row.get('szekhely', '')}{''.join(table_rows)}"
 
         y_data = pct_values if is_pct else amounts
@@ -2227,10 +2469,11 @@ def ts_update_graph(selected_category, amount_range, chart_mode, selected_org):
                    linecolor='black', mirror=True, dtick=1),
         yaxis=dict(title=y_title, gridcolor='lightgray', showline=True,
                    linewidth=1, linecolor='black', mirror=True),
-        plot_bgcolor='white', hovermode='closest', showlegend=True,
+        plot_bgcolor='white', hovermode='closest',
+        showlegend=not is_mobile,
         legend=dict(title=dict(text='Szervezetek', font=dict(size=12)), font=dict(size=9),
                     bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1),
-        margin=dict(l=80, r=20, t=20, b=80)
+        margin=dict(l=80, r=0 if is_mobile else 20, t=20, b=80)
     )
 
     # Highlight selected org in line chart mode
@@ -2292,6 +2535,8 @@ def cat_ts_update_graph(selected_parent, chart_mode):
         chart_mode = 'distribution'
     if not selected_parent:
         return go.Figure()
+    ua = flask_request.user_agent.string.lower()
+    is_mobile = any(x in ua for x in ['mobile', 'android', 'iphone', 'ipad'])
 
     # Get all orgs — either for one parent or all
     is_all = selected_parent == '__all__'
@@ -2381,11 +2626,12 @@ def cat_ts_update_graph(selected_parent, chart_mode):
             barmode='stack', barnorm='percent',
             xaxis=dict(title='Év', type='category'),
             yaxis=dict(title='Eloszlás (%)', range=[0, 100]),
-            plot_bgcolor='white', hovermode='x unified', showlegend=True,
+            plot_bgcolor='white', hovermode='x unified',
+            showlegend=not is_mobile,
             legend=dict(title=dict(text='Kategóriák' if is_all_parents else 'Alkategóriák', font=dict(size=12)), font=dict(size=9),
                         bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1,
                         traceorder='normal'),
-            margin=dict(l=80, r=20, t=20, b=80)
+            margin=dict(l=80, r=0 if is_mobile else 20, t=20, b=80)
         )
 
     else:
@@ -2432,10 +2678,11 @@ def cat_ts_update_graph(selected_parent, chart_mode):
                        linecolor='black', mirror=True, dtick=1),
             yaxis=dict(title=y_title, gridcolor='lightgray', showline=True,
                        linewidth=1, linecolor='black', mirror=True),
-            plot_bgcolor='white', hovermode='closest', showlegend=True,
+            plot_bgcolor='white', hovermode='closest',
+            showlegend=not is_mobile,
             legend=dict(title=dict(text='Kategóriák' if is_all_parents else 'Alkategóriák', font=dict(size=12)), font=dict(size=9),
                         bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1),
-            margin=dict(l=80, r=20, t=20, b=80)
+            margin=dict(l=80, r=0 if is_mobile else 20, t=20, b=80)
         )
 
     return fig
@@ -2608,6 +2855,8 @@ def city_update_map(selected_city, search_mode):
 )
 def city_ts_update_graph(selected_city, chart_mode, search_mode):
     fig = go.Figure()
+    ua = flask_request.user_agent.string.lower()
+    is_mobile = any(x in ua for x in ['mobile', 'android', 'iphone', 'ipad'])
 
     if search_mode is None:
         search_mode = 'szekhely'
@@ -2757,34 +3006,46 @@ def city_ts_update_graph(selected_city, chart_mode, search_mode):
             continue
 
         # Build hover table
-        table_rows = ['<br><br><b>Éves adatok:</b>']
-        table_rows.append("<br><span style='font-family: monospace;'>")
-        table_rows.append("───────────────────────────────────────────────────────────<br>")
-        table_rows.append(f"{'Év':<4}  {'Összeg':>10}  {'Fő':>6}  {'Havi br.':>10}  {'Város %':>7}<br>")
-        table_rows.append("───────────────────────────────────────────────────────────<br>")
-
-        for year in sorted(hist_dict.keys()):
-            amount = hist_dict[year]
-            if amount > 0:
-                donors = get_donor_count(hist_data, year)
-                if donors > 0:
-                    avg_per_donor = amount / donors
-                    monthly_gross = int(avg_per_donor * 100 * (100 / 15) / 12)
-                else:
-                    monthly_gross = 0
-
-                city_pct = (amount / city_totals_by_year.get(year, 1) * 100)
-                amount_str = f"{amount / 1e6:>9.1f}M" if amount >= 1e6 else f"{amount / 1e3:>9.0f}K"
-                monthly_str = f"{monthly_gross / 1e6:>9.1f}M" if monthly_gross >= 1e6 else (
-                    f"{monthly_gross / 1e3:>9.0f}K" if monthly_gross >= 1e3 else f"{monthly_gross:>9}")
-
-                table_rows.append(
-                    f"{year:<4}  {amount_str:>10}  {donors:>6}  {monthly_str:>10}  {city_pct:>6.1f}%<br>")
-
-        table_rows.append("</span>")
         parent_cat = row.get('parent_category', '')
         leaf_cat = row.get('leaf_category', '')
-        table_rows.append(f"<br><b>Kategória:</b> {parent_cat} → {leaf_cat}")
+        if is_mobile:
+            table_rows = ['<br><br><b>Éves adatok:</b>']
+            table_rows.append("<br><span style='font-family: monospace;'>")
+            table_rows.append("────────────────────────────────<br>")
+            table_rows.append(f"{'Év':<4}  {'Összeg':>8}  {'Fő':>5}  {'Vár%':>6}<br>")
+            table_rows.append("────────────────────────────────<br>")
+            for year in sorted(hist_dict.keys()):
+                amount = hist_dict[year]
+                if amount > 0:
+                    donors = get_donor_count(hist_data, year)
+                    city_pct = (amount / city_totals_by_year.get(year, 1) * 100)
+                    amount_str = f"{amount/1e6:>7.1f}M" if amount >= 1e6 else f"{amount/1e3:>7.0f}K"
+                    table_rows.append(f"{year:<4}  {amount_str:>8}  {donors:>5}  {city_pct:>5.1f}%<br>")
+            table_rows.append("</span>")
+            table_rows.append(f"<br><b>Kat.:</b> {parent_cat} → {leaf_cat}")
+        else:
+            table_rows = ['<br><br><b>Éves adatok:</b>']
+            table_rows.append("<br><span style='font-family: monospace;'>")
+            table_rows.append("───────────────────────────────────────────────────────────<br>")
+            table_rows.append(f"{'Év':<4}  {'Összeg':>10}  {'Fő':>6}  {'Havi br.':>10}  {'Város %':>7}<br>")
+            table_rows.append("───────────────────────────────────────────────────────────<br>")
+            for year in sorted(hist_dict.keys()):
+                amount = hist_dict[year]
+                if amount > 0:
+                    donors = get_donor_count(hist_data, year)
+                    if donors > 0:
+                        avg_per_donor = amount / donors
+                        monthly_gross = int(avg_per_donor * 100 * (100 / 15) / 12)
+                    else:
+                        monthly_gross = 0
+                    city_pct = (amount / city_totals_by_year.get(year, 1) * 100)
+                    amount_str = f"{amount/1e6:>9.1f}M" if amount >= 1e6 else f"{amount/1e3:>9.0f}K"
+                    monthly_str = f"{monthly_gross/1e6:>9.1f}M" if monthly_gross >= 1e6 else (
+                        f"{monthly_gross/1e3:>9.0f}K" if monthly_gross >= 1e3 else f"{monthly_gross:>9}")
+                    table_rows.append(
+                        f"{year:<4}  {amount_str:>10}  {donors:>6}  {monthly_str:>10}  {city_pct:>6.1f}%<br>")
+            table_rows.append("</span>")
+            table_rows.append(f"<br><b>Kategória:</b> {parent_cat} → {leaf_cat}")
         hover_text = f"<b>{org_name}</b><br>{row.get('szekhely', '')}{''.join(table_rows)}"
 
         y_data = pct_values if is_pct else amounts
@@ -2847,7 +3108,7 @@ def city_update_table(selected_city, search_mode):
 
 if __name__ == '__main__':
     print("=" * 60)
-    print("Dashboard running at: http://127.0.0.1:8092/")
+    print("Dashboard running at: http://0.0.0.0:8097/")
     print("Press Ctrl+C to stop")
     print("=" * 60)
-    app.run(debug=False, port=8092)
+    app.run(debug=False, host='0.0.0.0', port=8103)
