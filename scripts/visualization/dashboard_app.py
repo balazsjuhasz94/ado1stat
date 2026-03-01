@@ -1257,24 +1257,6 @@ app.index_string = '''
                 z-index: 999;
             }
 
-            /* TEMP DEBUG: CSS-only mobile indicator */
-            #css-mobile-indicator { display: none; }
-            @media (max-width: 960px) {
-                #css-mobile-indicator {
-                    display: block !important;
-                    position: fixed;
-                    bottom: 40px;
-                    right: 10px;
-                    background: red;
-                    color: white;
-                    padding: 6px 10px;
-                    border-radius: 6px;
-                    z-index: 999999;
-                    font-size: 13px;
-                    font-weight: bold;
-                }
-            }
-
             /* Mobile styles */
             @media (max-width: 960px) {
                 .hamburger-btn {
@@ -1476,17 +1458,6 @@ app.index_string = '''
                     }
                 }, 100);
             })();
-        </script>
-        <script>
-            // TEMP DEBUG: show viewport width on screen
-            window.addEventListener('load', function() {
-                var w = window.innerWidth;
-                var el = document.createElement('div');
-                el.id = 'debug-viewport';
-                el.style.cssText = 'position:fixed;bottom:10px;right:10px;background:rgba(0,0,0,0.8);color:#fff;padding:6px 10px;border-radius:6px;z-index:999999;font-size:13px;font-family:monospace;';
-                el.textContent = 'VP: ' + w + 'px';
-                document.body.appendChild(el);
-            });
         </script>
         <script>
             // Mobile sidebar toggle
@@ -1996,7 +1967,6 @@ app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
     html.Button("☰", id="hamburger-btn", className="hamburger-btn"),
     html.Div(id="sidebar-overlay", className="sidebar-overlay"),
-    html.Div("CSS<960px", id="css-mobile-indicator"),
     sidebar,
     html.Div(id='page-content', className="content-area")
 ])
