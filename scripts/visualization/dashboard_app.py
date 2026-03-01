@@ -1011,18 +1011,13 @@ IMGS_DIR = os.path.join(BASE_DIR, 'imgs')
 def serve_image(filename):
     return send_from_directory(IMGS_DIR, filename)
 
-@server.route('/debug-ua')
-def debug_ua():
-    ua = flask_request.user_agent.string
-    is_mobile = any(x in ua.lower() for x in ['mobile', 'android', 'iphone', 'ipad'])
-    return f"UA: {ua}<br>is_mobile: {is_mobile}"
-
 # Custom CSS
 app.index_string = '''
 <!DOCTYPE html>
 <html>
     <head>
         {%metas%}
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Civil Szervezetek Adó 1% Elemzése</title>
         {%favicon%}
         {%css%}
