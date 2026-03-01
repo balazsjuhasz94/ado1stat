@@ -1,7 +1,5 @@
-Összegyűjtöttem néhány megmosolyogtató jelenséget, amit a fejlesztés alatt észrevettem. 
-
-Clickbait alapanyag érdekességek. 
-
+Összegyűjtöttem néhány jópofa jelenséget, amit a munka során észrevettem. 
+ 
 ## A sajtó térnyerése
 
 Az elmúlt években egészen hirtelen emelkedett a sajtót támogató felajánlások összege, 2022-ben a felajánlások 1,0% volt az egészből, az 2025-ben már 7,2%. 

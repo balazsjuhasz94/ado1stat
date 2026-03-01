@@ -171,10 +171,9 @@ def aggregate_historical_data(df_subset):
     """Aggregate historical data from multiple organizations by year"""
     from collections import defaultdict
 
-    # Dictionary to store amounts by year
     year_totals = defaultdict(int)
+    year_donors = defaultdict(int)
 
-    # Collect all historical data
     for _, row in df_subset.iterrows():
         hist_data = row.get('historical_data')
         if hist_data and isinstance(hist_data, list):
@@ -186,16 +185,28 @@ def aggregate_historical_data(df_subset):
                     year_totals[year] += amount
                 except:
                     pass
+                donor_str = entry.get('Érvényesen rendelkező magánszemélyek száma',
+                                     entry.get('Felajánlók száma (fő)',
+                                     entry.get('Felajánlók száma', '0')))
+                try:
+                    if isinstance(donor_str, (int, float)):
+                        donors = int(donor_str)
+                    else:
+                        cleaned = str(donor_str).replace(' ', '').replace('fő', '').strip()
+                        donors = int(cleaned) if cleaned else 0
+                    year_donors[year] += donors
+                except:
+                    pass
 
     if not year_totals:
         return []
 
-    # Convert back to list format
     aggregated = []
     for year, amount in sorted(year_totals.items()):
         aggregated.append({
             'Év': year,
-            'Az érvényes civil kedvezményezettet megillető szja 1% összege': f'{amount} Ft'
+            'Az érvényes civil kedvezményezettet megillető szja 1% összege': f'{amount} Ft',
+            'Érvényesen rendelkező magánszemélyek száma': str(year_donors.get(year, 0))
         })
 
     return aggregated
