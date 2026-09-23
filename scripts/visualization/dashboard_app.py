@@ -291,6 +291,13 @@ PAGE_DESCRIPTIONS = {
         "Minden pont egy szervezet — vidd rá az egeret a részletekért. "
         "A jelmagyarázatban kategóriákat tudsz ki/be kapcsolni."
     ),
+    'allami': (
+        "Ezen a pontdiagramon az adó 1%-os felajánlásokat veted össze az állami forrásokból "
+        "(pl. NEA, NKA, Városi Civil Alap és további alapok) 2022-2026 között kapott összesített támogatással. "
+        "Mindkét tengely logaritmikus. Csak azok a szervezetek szerepelnek, amelyekről mindkét adatforrásban van adat. "
+        "⚠ A két összeg más-más dolgot mér: az adó 1% több százezer adófizető egyéni döntése, "
+        "az állami támogatás pedig pályázati/döntési úton odaítélt forrás — nem összemérhető \"ugyanaz a pénz\"."
+    ),
     'city': (
         "Keress rá egy településre, és nézd meg az ott bejegyzett vagy a közelben lévő szervezeteket. "
         "A székhely/10 km gombokkal válthatsz a pontos székhely és a 10 km-es körzet között. "
@@ -401,6 +408,17 @@ df_merged = df_merged.dropna(subset=['parent_category', 'leaf_category'])
 # Add coordinates
 df_merged['lat'] = df_merged['Adószám'].map(lambda x: coord_data.get(x, (None, None))[0])
 df_merged['lon'] = df_merged['Adószám'].map(lambda x: coord_data.get(x, (None, None))[1])
+
+# Állami támogatás (state funding, kormany.hu, 2022-2026 összesen)
+ALLAMI_FUNDING_FILE = os.path.join(DATA_DIR, 'allami_tamogatas_by_adoszam.json')
+allami_funding = {}
+if os.path.exists(ALLAMI_FUNDING_FILE):
+    with open(ALLAMI_FUNDING_FILE, 'r', encoding='utf-8') as f:
+        allami_funding = json.load(f)
+print(f"  Állami támogatás (kormany.hu): {len(allami_funding)} szervezet")
+
+df_merged['allami_total'] = df_merged['Adószám'].map(lambda x: allami_funding.get(x, {}).get('total', 0))
+df_merged['allami_by_fund'] = df_merged['Adószám'].map(lambda x: allami_funding.get(x, {}).get('by_fund', {}))
 
 # Historical dict for time series
 df_merged['historical_dict'] = df_merged['historical_data'].apply(parse_historical_data_to_dict)
@@ -958,6 +976,91 @@ def build_scatter_figure():
     return fig
 
 
+def format_allami_breakdown(by_fund):
+    """Format the per-fund state-funding breakdown as HTML lines for a hover tooltip."""
+    if not by_fund:
+        return ''
+    lines = [
+        f"&nbsp;&nbsp;{fund}: {amount:,.0f} Ft".replace(',', ' ')
+        for fund, amount in sorted(by_fund.items(), key=lambda kv: -kv[1])
+    ]
+    return '<br>' + '<br>'.join(lines) + '<br>'
+
+
+def build_allami_scatter_figure():
+    """Build scatter plot: adó 1% vs. állami támogatás (2022-2026 összesen)"""
+    print("  Building állami támogatás scatter...")
+    df_plot = df_merged[(df_merged['összeg'] > 0) & (df_merged['allami_total'] > 0)].copy()
+    parent_cats = sorted(df_plot['parent_category'].unique())
+
+    parent_color_map = {}
+    default_colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd',
+                      '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf']
+    for i, cat in enumerate(parent_cats):
+        parent_color_map[cat] = default_colors[i % len(default_colors)]
+
+    leaf_colors = {}
+    for parent_cat in parent_cats:
+        base_color = parent_color_map[parent_cat]
+        leaf_cats = sorted(df_plot[df_plot['parent_category'] == parent_cat]['leaf_category'].unique())
+        for idx, leaf_cat in enumerate(leaf_cats):
+            if len(leaf_cats) == 1:
+                leaf_colors[leaf_cat] = base_color
+            else:
+                factor = idx / (len(leaf_cats) - 1) * 0.5
+                leaf_colors[leaf_cat] = lighten_color(base_color, factor)
+
+    fig = go.Figure()
+
+    for parent_cat in parent_cats:
+        df_parent = df_plot[df_plot['parent_category'] == parent_cat]
+        leaf_cats = sorted(df_parent['leaf_category'].unique())
+
+        for idx, leaf_cat in enumerate(leaf_cats):
+            df_leaf = df_parent[df_parent['leaf_category'] == leaf_cat]
+
+            customdata = []
+            for _, row in df_leaf.iterrows():
+                customdata.append([
+                    row['Szervezet neve'], row['szekhely'], row['összeg'], row['db'],
+                    row['allami_total'], parent_cat, row['formatted_purpose'],
+                    format_allami_breakdown(row['allami_by_fund']),
+                ])
+
+            fig.add_trace(go.Scatter(
+                x=df_leaf['összeg'], y=df_leaf['allami_total'], mode='markers',
+                name=leaf_cat, legendgroup=parent_cat,
+                legendgrouptitle_text=parent_cat if idx == 0 else None,
+                marker=dict(size=8, color=leaf_colors.get(leaf_cat, '#999'),
+                            opacity=0.7, line=dict(width=0.5, color='white')),
+                customdata=customdata,
+                hovertemplate=(
+                    '<b>%{customdata[0]}</b><br>%{customdata[1]}<br>'
+                    '<br><b>Adó 1% (2026):</b> %{customdata[2]:,.0f} Ft<br>'
+                    '<b>Felajánlók:</b> %{customdata[3]:,} fő<br>'
+                    '<br><b>Állami támogatás (2022-2026 összesen):</b> %{customdata[4]:,.0f} Ft<br>'
+                    '%{customdata[7]}'
+                    '<br><b>Kategória:</b> %{customdata[5]} → ' + leaf_cat + '<br>'
+                    '<br><b>Cél:</b> %{customdata[6]}...'
+                    '<extra></extra>'
+                )
+            ))
+
+    fig.update_layout(
+        xaxis=dict(title='Adó 1% felajánlás, 2026 (Ft)', type='log',
+                   gridcolor='lightgray', showline=True, linewidth=1, linecolor='black', mirror=True),
+        yaxis=dict(title='Állami támogatás, 2022-2026 összesen (Ft)', type='log',
+                   gridcolor='lightgray', showline=True, linewidth=1, linecolor='black', mirror=True),
+        plot_bgcolor='white', hovermode='closest', height=800,
+        legend=dict(title=dict(text='Kategóriák', font=dict(size=13)),
+                    font=dict(size=10), groupclick="toggleitem",
+                    bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1),
+        margin=dict(l=80, r=20, t=20, b=80)
+    )
+
+    return fig
+
+
 # ============================================================================
 # PRE-BUILD STATIC FIGURES
 # ============================================================================
@@ -967,6 +1070,7 @@ sunburst_fig = build_sunburst_figure()
 map_fig, map_trace_info = build_map_figure()
 map_fig_mobile, _ = build_map_figure_mobile()
 scatter_fig = build_scatter_figure()
+allami_fig = build_allami_scatter_figure()
 
 # Build parent→leaf mapping for cascading map dropdowns
 _map_parent_to_leaves = {}
@@ -1598,6 +1702,11 @@ sidebar = html.Div([
         ], href="/scatter", className="nav-link", id="nav-scatter"),
 
         dcc.Link([
+            html.Span("◐", className="nav-icon"),
+            "Állami támogatás vs Adó 1%"
+        ], href="/allami-tamogatas", className="nav-link", id="nav-allami"),
+
+        dcc.Link([
             html.Span("⊕", className="nav-icon"),
             "Település keresés"
         ], href="/telepules", className="nav-link", id="nav-city"),
@@ -1844,6 +1953,15 @@ def scatter_page():
         )
     ])
 
+def allami_page():
+    return wrap_page('allami', "Állami Támogatás vs Adó 1%", [
+        dcc.Loading(
+            dcc.Graph(id='allami-graph', style={'height': '800px'},
+                      config={'displayModeBar': True, 'displaylogo': False}),
+            type='circle', color='#4a9eff'
+        )
+    ])
+
 def city_page():
     return wrap_page('city', "Település keresés", [
         # Search mode + city dropdown at top
@@ -1980,7 +2098,7 @@ app.layout = html.Div([
 # Nav IDs in order for the routing callback outputs
 _NAV_IDS = [
     'nav-sunburst', 'nav-map', 'nav-timeseries', 'nav-ts-category',
-    'nav-scatter', 'nav-city', 'nav-intro', 'nav-funfacts',
+    'nav-scatter', 'nav-allami', 'nav-city', 'nav-intro', 'nav-funfacts',
 ]
 
 @app.callback(
@@ -2002,6 +2120,7 @@ def display_page(pathname):
         '/idosor': (timeseries_page, 'nav-timeseries'),
         '/idosor-kat': (category_timeseries_page, 'nav-ts-category'),
         '/scatter': (scatter_page, 'nav-scatter'),
+        '/allami-tamogatas': (allami_page, 'nav-allami'),
         '/telepules': (city_page, 'nav-city'),
         '/bevezetes': (intro_page, 'nav-intro'),
         '/erdekessegek': (funfacts_page, 'nav-funfacts'),
@@ -2054,6 +2173,15 @@ def load_sunburst(_, mode):
 )
 def load_scatter(_):
     return scatter_fig
+
+
+# Lazy-load: populate állami támogatás scatter figure when page appears
+@app.callback(
+    Output('allami-graph', 'figure'),
+    [Input('allami-graph', 'id')]
+)
+def load_allami(_):
+    return allami_fig
 
 
 # Map: filter search options (min 2 chars, top 5)
