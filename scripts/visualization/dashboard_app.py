@@ -294,7 +294,8 @@ PAGE_DESCRIPTIONS = {
     'allami': (
         "Ezen a pontdiagramon az adó 1%-os felajánlásokat veted össze az állami forrásokból "
         "(pl. NEA, NKA, Városi Civil Alap és további alapok) 2022-2026 között kapott összesített támogatással. "
-        "Mindkét tengely logaritmikus. Csak azok a szervezetek szerepelnek, amelyekről mindkét adatforrásban van adat. "
+        "Mindkét tengely logaritmikus. A szaggatott vonal alatti sávban azok a szervezetek látszanak, "
+        "amelyek ebben az adatforrásban nem szerepelnek állami támogatással (0 Ft). "
         "⚠ A két összeg más-más dolgot mér: az adó 1% több százezer adófizető egyéni döntése, "
         "az állami támogatás pedig pályázati/döntési úton odaítélt forrás — nem összemérhető \"ugyanaz a pénz\"."
     ),
@@ -987,10 +988,15 @@ def format_allami_breakdown(by_fund):
     return '<br>' + '<br>'.join(lines) + '<br>'
 
 
+ALLAMI_ZERO_FLOOR = 10000  # plotted y-position (Ft) standing in for "0 Ft állami támogatás" on the log axis
+ALLAMI_ZERO_LINE = 20000   # dashed separator between the zero-bucket and real (nonzero) values
+
+
 def build_allami_scatter_figure():
     """Build scatter plot: adó 1% vs. állami támogatás (2022-2026 összesen)"""
     print("  Building állami támogatás scatter...")
-    df_plot = df_merged[(df_merged['összeg'] > 0) & (df_merged['allami_total'] > 0)].copy()
+    df_plot = df_merged[df_merged['összeg'] > 0].copy()
+    df_plot['allami_plot_y'] = df_plot['allami_total'].where(df_plot['allami_total'] > 0, ALLAMI_ZERO_FLOOR)
     parent_cats = sorted(df_plot['parent_category'].unique())
 
     parent_color_map = {}
@@ -1028,7 +1034,7 @@ def build_allami_scatter_figure():
                 ])
 
             fig.add_trace(go.Scatter(
-                x=df_leaf['összeg'], y=df_leaf['allami_total'], mode='markers',
+                x=df_leaf['összeg'], y=df_leaf['allami_plot_y'], mode='markers',
                 name=leaf_cat, legendgroup=parent_cat,
                 legendgrouptitle_text=parent_cat if idx == 0 else None,
                 marker=dict(size=8, color=leaf_colors.get(leaf_cat, '#999'),
@@ -1055,7 +1061,18 @@ def build_allami_scatter_figure():
         legend=dict(title=dict(text='Kategóriák', font=dict(size=13)),
                     font=dict(size=10), groupclick="toggleitem",
                     bgcolor='rgba(255,255,255,0.8)', bordercolor='lightgray', borderwidth=1),
-        margin=dict(l=80, r=20, t=20, b=80)
+        margin=dict(l=80, r=20, t=20, b=80),
+        shapes=[dict(
+            type='line', xref='paper', x0=0, x1=1,
+            yref='y', y0=ALLAMI_ZERO_LINE, y1=ALLAMI_ZERO_LINE,
+            line=dict(color='gray', width=1, dash='dash'),
+        )],
+        annotations=[dict(
+            xref='paper', x=0.01, yref='y', y=np.log10(ALLAMI_ZERO_LINE),
+            text='↓ 0 Ft (nincs állami támogatás)', showarrow=False,
+            font=dict(size=11, color='#666'), xanchor='left', yanchor='bottom', yshift=4,
+            bgcolor='rgba(255,255,255,0.85)',
+        )],
     )
 
     return fig
