@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19346647",
+  "scraped_at": "2026-09-22T22:20:30.228195",
+  "organization_id": "369214",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sóstó Természetvédelmi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Szent Vendel utca 17./A.",
+      "adószám": "19346647-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-07",
+      "statisztikai_számjel": "19346647-9499-569-07",
+      "x_koordináta": "47.1898773",
+      "y_koordináta": "18.4445329"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az alapítvány célja, hogy segítse Székesfehérvár városának környezet- és természetvédelmi feladatainak ellátását, hozzájáruljon az e területeken zajló kutatásokhoz, valamint, hogy előmozdítsa a lakosság környezet-tudatosságra történő edukálását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001202",
+      "régi_nyilvántartási_száma": "1202/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csete",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Györök",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Málits",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "Miklós",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,110 @@
+{
+  "search_adoszam": "19102739",
+  "scraped_at": "2026-09-22T22:12:37.435767",
+  "organization_id": "97448",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kaposfüredi Szent Őrangyalok Plébániáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7451 Kaposvár, Rozmaring utca 2.",
+      "x_koordináta": "46.413222",
+      "y_koordináta": "17.780053",
+      "adószám": "19102739-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-18",
+      "statisztikai_számjel": "19102739-9491-569-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "A kaposfüredi Szent Őrangyalok római katolikus plébánia és a hozzá tartozó filiák területén a keresztény közösségi élet kialakítása, fejlesztése, a hátrányos helyzetű családok, fiatalok, felnőttek élethelyzetének javítása, közösségi épületek, közösségi terek kialakítása, karbantartása, fejlesztése, működtetése, műemlékek védelme és mindezen feladatok személyi, tárgyi és anyagi feltételeinek biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003385",
+      "régi_nyilvántartási_száma": "3385/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-12-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "HU84107001727079116351100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dús",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9491",
+        "Leírás": "Egyházi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 922 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "100 560 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "144 283 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 201 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 046 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kaposfüredi SzentŐrangyalok Plébániáért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kaposfüredi Szent Őrangyalok Plébániáért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19357386",
+  "scraped_at": "2026-09-22T22:22:14.821010",
+  "organization_id": "370147",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Svábhegyi Csillagvizsgálóért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2093 Budajenő, Sport utca 25",
+      "adószám": "19357386-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-03-31",
+      "statisztikai_számjel": "19357386-7210-569-13",
+      "x_koordináta": "47.5693172",
+      "y_koordináta": "18.8149587"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység (pl. természettudomány, társadalomtudomány)",
+      "céljának_leírása": "Az Alapítvány célja a Svábhegyi Csillagvizsgálóban folyó csillagászati tudománykommunikációs és egyéb tudományos munka elősegítése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004370",
+      "régi_nyilvántartási_száma": "4370/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kuli",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-17",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rózsahegyi",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

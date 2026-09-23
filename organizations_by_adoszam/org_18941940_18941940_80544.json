@@ -1,0 +1,121 @@
+{
+  "search_adoszam": "18941940",
+  "scraped_at": "2026-09-22T22:09:20.710837",
+  "organization_id": "80544",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Esztétikai és Restauratív Fogászati Társaság",
+      "rövid_név": "MERT",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1088 Budapest, Szentkirály utca 47.",
+      "x_koordináta": "47.4885735",
+      "y_koordináta": "19.0664012",
+      "adószám": "18941940-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-20",
+      "statisztikai_számjel": "18941940-8559-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_altípusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A szervezet elsődleges célja, hogy a konzerváló fogászat tárgykörébe tartozó betegellátó fogorvosi gyakorlat, az oktatás és ismeretterjesztés, és a tudományos kutatás kiválósága révén elősegítse a társadalom szájüregi egészségének fejlődését. A szakmai fejlődés és a színvonal magas szinten tartása érdekében tagjai és az érdeklődők felé közvetíti a hazai és a nemzetközi tudományos eredményeket. Kiépíti és ápolja a kapcsolatait a hasonló célokkal rendelkező hazai és külföldi tudományos szervezetekkel. Az esztétikus fogászati restaurátumokkal kapcsolatos új eljárásokat, anyagokat véleményezi, továbbképzéseken és tudományos programokon ismerteti.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016672",
+      "régi_nyilvántartási_száma": "16672/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-01-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10918001-00000098-12220004",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lempel",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "31 158 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "64 191 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 728 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "144 055 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 064 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 308 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Esztétikai és Restaurativ Fogászati Társaság"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Esztétikai és Restaurativ Fogászati Társaság"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Esztétikai és Restaurativ Fogászati Társaság"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

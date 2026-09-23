@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "18977668",
+  "scraped_at": "2026-09-22T22:10:47.873047",
+  "organization_id": "72913",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gárdonyisok a Gárdonyiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Széchenyi utca 17.",
+      "x_koordináta": "47.903006",
+      "y_koordináta": "20.373028",
+      "adószám": "18977668-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-02-06",
+      "statisztikai_számjel": "18977668-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A társadalom és az egyén közös érdekeinek kielégítésére irányuló nevelő-oktató munka segítése a Gárdonyi Géza Ciszterci Gimnázium és Kollégiumban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001164",
+      "régi_nyilvántartási_száma": "1164/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "107002827070308551100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dr. Szabóné Kállay",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "Ágota",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "25 852 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "104 509 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "43 450 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "228 707 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gárdonyisok a Gárdonyiért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gárdonyisok a Gárdonyiért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

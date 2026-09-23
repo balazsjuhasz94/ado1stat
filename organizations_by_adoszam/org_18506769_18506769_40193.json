@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18506769",
+  "scraped_at": "2026-09-22T21:53:44.201517",
+  "organization_id": "40193",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Orgoványi Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Orgoványi ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6077 Orgovány, Molnár Gergely utca 2.",
+      "x_koordináta": "46.751093",
+      "y_koordináta": "19.476181",
+      "adószám": "18506769-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-07-03",
+      "statisztikai_számjel": "18506769-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "Tűzoltási és műszaki mentési tevékenység. Ifjúságnevelés és hagyományőrzési tevékenység.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003324",
+      "régi_nyilvántartási_száma": "3324/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sárkány",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vass",
+        "Képviselő keresztneve": "Ignác",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vass",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 280 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

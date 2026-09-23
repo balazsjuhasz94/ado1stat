@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19351373",
+  "scraped_at": "2026-09-22T22:21:14.047138",
+  "organization_id": "369618",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Kutyajó Menedék\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4320 Nagykálló, Rákóczi út 31.",
+      "adószám": "19351373-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-23",
+      "statisztikai_számjel": "19351373-9499-569-15",
+      "x_koordináta": "47.864199",
+      "y_koordináta": "21.8206853"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Civilizált színvonalú állatotthon, állatmenhely létesítése és fenntartása ebek és más gazdátlan állatok megsegítése céljából. A lakosság tájékoztatása a hatályos törvényeknek megfelelő, gondos állattartás feltételeiről. A gondatlan állattartás felszámolásának elősegítése, az állatvédelmi törvények betartásának és betartatásának elősegítése. Az állatokkal kapcsolatos prevenciók elősegítése, az ivartalanítás jelentőségének kihangsúlyozása és támogatása, a társadalmi szerepének népszerűsítése. Az illegális szaporítók megfékezése és felszámolása a törvény adta lehetőségek felhasználásával. Állatvédelmi megfigyelő hálózat kiépítése és segélyvonal működtetése. Állatkínzás és állatviadalok szervezésének megakadályozása. Állatvédelmi és állatmentési feladatok ellátása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002641",
+      "régi_nyilvántartási_száma": "2641/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kerezsi",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

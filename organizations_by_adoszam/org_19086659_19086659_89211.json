@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "19086659",
+  "scraped_at": "2026-09-22T22:12:15.733078",
+  "organization_id": "89211",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Reveláció Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1115 Budapest, Keveháza utca 1-3.",
+      "x_koordináta": "47.4675968",
+      "y_koordináta": "19.026191",
+      "adószám": "19086659-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-24",
+      "statisztikai_számjel": "19086659-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A társadalom, közérdek számára hasznos, meglévő és újonnan létrejövő technológiai innovációk. Szemléletformálás a jövő technológiájának lehetőségei a munkaerőpiac, tudomány és a mindennapi életben rejlő lehetőségek népszerűsítése, megvalósítása, megismerése. Modern eszközök, technológiák felhasználási lehetőségeinek népszerűsítése az oktatásban. A jövő technológiáit használó, meglévő és a jövőben megjelenő intézmények működtetése. A mai kihívásoknak és elvárásoknak megfelelő személyközpontú, tudás alapú oktatás kialakítása, tehetséggondozás újragondolása, új, modern, a mai kornak megfelelő tanulási módszertan létrehozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012675",
+      "régi_nyilvántartási_száma": "12675/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-02-02",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-23",
+      "bankszámlaszám": "109180010000010189690000",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bősz",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kecskés",
+        "Képviselő keresztneve": "Renáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szűcs",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "80 833 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "240 605 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 569 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

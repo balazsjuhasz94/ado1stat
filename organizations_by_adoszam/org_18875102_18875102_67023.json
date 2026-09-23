@@ -1,0 +1,122 @@
+{
+  "search_adoszam": "18875102",
+  "scraped_at": "2026-09-22T22:06:58.411640",
+  "organization_id": "67023",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mentőangyal Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1042 Budapest, Árpád út 44-46. I//1.a.",
+      "x_koordináta": "47.5607398",
+      "y_koordináta": "19.0843445",
+      "adószám": "18875102-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-18",
+      "statisztikai_számjel": "18875102-8559-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A gyermekek és az ifjak közösségeinek körében az elsősegélynyújtás és az alapszintű újraélesztés szakmai alapokon nyugvó széleskörű elméleti és gyakorlati oktatása, valamint a közérthető és a mindennapokban jól használható információk átadása balesetmegelőzés és az egészségmegőrzés területén",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012390",
+      "régi_nyilvántartási_száma": "12390/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-17",
+      "bankszámlaszám": "10700732-69850262-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kusper",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "101 023 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "127 003 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "120 868 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "140 693 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "276 965 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MENTŐANGYAL ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MENTŐANGYAL ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

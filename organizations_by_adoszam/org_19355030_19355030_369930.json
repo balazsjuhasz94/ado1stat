@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19355030",
+  "scraped_at": "2026-09-22T22:21:45.471025",
+  "organization_id": "369930",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lumen Christi Gospel Kórus Alapítvány",
+      "rövid_név": "Lumen Christi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1155 Budapest, Bulcsú utca 27.",
+      "adószám": "19355030-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-28",
+      "statisztikai_számjel": "19355030-9020-569-01",
+      "x_koordináta": "47.5424795",
+      "y_koordináta": "19.1140992"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Lumen Christi Gospel Kórus működésének szellemi és anyagi támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013430",
+      "régi_nyilvántartási_száma": "13430/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11715007-21535002",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gergó",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

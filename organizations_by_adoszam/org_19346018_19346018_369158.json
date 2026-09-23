@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19346018",
+  "scraped_at": "2026-09-22T22:20:28.220376",
+  "organization_id": "369158",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nemzetvédelmi Szabadegyetem Alapítvány",
+      "rövid_név": "Nemzetvédelmi Szabadegyetem",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2072 Zsámbék, Gábor Áron utca 8",
+      "adószám": "19346018-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-23",
+      "statisztikai_számjel": "19346018-8552-569-13",
+      "x_koordináta": "47.5351585",
+      "y_koordináta": "18.733556"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az emberek tájékoztatása a világban folyó eseményekről, illetve azok összefüggéseiről, továbbá a mindennapi életet befolyásoló várható jelenségekkel kapcsolatos elemzések közvetítése. Magyarország és a magyar műveltség népszerűsítése, a magyar fiatalok hazaszeretetre, a hagyományok tiszteletére, a szellemi és érzelmi nyitottságra való nevelése. Az egyének és közösségek felkészítése a társadalmi kihívásokra, megoldási lehetőségek oktatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003467",
+      "régi_nyilvántartási_száma": "3467/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-06",
+      "bankszámlaszám": "16200151-18571932",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Andrási",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Henrik",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Falatovics",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "282 579 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

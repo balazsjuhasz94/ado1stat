@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19299071",
+  "scraped_at": "2026-09-22T22:17:47.029450",
+  "organization_id": "365991",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Ne félj csak higgy\" Pestszentlőrinc Kossuth téri Református Egyházközségért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1183 Budapest, Kossuth tér 5.",
+      "adószám": "19299071-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-29",
+      "statisztikai_számjel": "19299071-8559-569-01",
+      "x_koordináta": "47.4504633",
+      "y_koordináta": "19.1911282"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az ifjúsági munkában kiemelkedő hitoktatók, önkéntesek tevékenységének elismerése, az Egyházközség által szervezett táborok, programok segítése, az Egyházközség közösségi életének támogatása, az Egyházközség ingatlanai infrastrukturális fejlesztésének támogatása, az Egyházközségen belüli és kívüli hitéleti tevékenység támogatása, az Egyházközségnél folyó hitoktatás elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013086",
+      "régi_nyilvántartási_száma": "13086/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-11-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11718000-22398390",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szöllössy",
+        "Képviselő keresztneve": "Áron",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Asztalos",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Ferencné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Czinke-Szabó",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 327 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

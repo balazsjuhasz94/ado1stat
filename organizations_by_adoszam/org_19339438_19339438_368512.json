@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19339438",
+  "scraped_at": "2026-09-22T22:19:55.751952",
+  "organization_id": "368512",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Korszerű Pécsi Fül-Orr-Gégészetért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7621 Pécs, Munkácsy Mihály utca 2.",
+      "adószám": "19339438-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-10",
+      "statisztikai_számjel": "19339438-8412-569-02",
+      "x_koordináta": "46.0765793",
+      "y_koordináta": "18.2284344"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "- A Pécsi Tudományegyetem Fül-, Orr-, Gégészeti és Fej-, Nyaksebészeti Klinika osztályain és ambulanciáján megjelenő beteget fogadása kulturált körülményeinek megteremtése. - Az újszülöttkori, a csecsemőkori hallásszűrés folyamatos végzése, támogatása elsősorban Baranya megyében; illetve országszerte - Szakmai továbbképzések elősegítése - Posztgraduális képzések segítése - Továbbképző kurzusok támogatása - Audiológiai továbbképzések orvosok és asszisztensek számára - A Pécsi Tudományegyetem Fül-, Orr-, Gégészeti és Fej-, Nyaksebészeti Klinika dolgozóinak támogatása, kongresszusokon, továbbképzéseken történő részvételük és más rendezvények esetén. - A klinikára látogató belföldi és külföldi szakemberek fogadása, a velük történő folyamatos kapcsolattartás és tanulmányúton való részvétel támogatása. - A klinika könyvtárának fejlesztése, könyvek, folyóiratok beszerzése. - A szakmai munkához szükséges megfelelő modern műszerek, gépek, számítógépek, berendezések beszerzése, azok korszerűsítése. - Kiemelkedő szakmai teljesítmények elismerése. - Szakmai rendezvények szervezése. - A klinika dolgozóinak publikációs tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001950",
+      "régi_nyilvántartási_száma": "1950/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-09-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szanyi",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      },
+      {
+        "Kód": "8621",
+        "Leírás": "Általános járóbeteg-ellátás"
+      },
+      {
+        "Kód": "8622",
+        "Leírás": "Szakorvosi járóbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

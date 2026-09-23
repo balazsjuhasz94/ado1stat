@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19154097",
+  "scraped_at": "2026-09-22T22:13:47.497342",
+  "organization_id": "102693",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zalaegerszegi Liszt Ferenc Vegyeskar Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Nemzetőr utca 32/ A 1/4",
+      "x_koordináta": "46.8208623",
+      "y_koordináta": "16.8320878",
+      "adószám": "19154097-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-21",
+      "statisztikai_számjel": "19154097-9499-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Liszt Ferenc Iskola egykori diákjainak művészeti célú összefogása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002996",
+      "régi_nyilvántartási_száma": "2996/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Miklós Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 492 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 876 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

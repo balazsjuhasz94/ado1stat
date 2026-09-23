@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "18946426",
+  "scraped_at": "2026-09-22T22:09:36.784406",
+  "organization_id": "116025",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budapesti Egyesület a Nemzetközi Sportért",
+      "rövid_név": "BENS",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1025 Budapest, Vend utca 7. 1/1.",
+      "x_koordináta": "47.4809797",
+      "y_koordináta": "19.0729579",
+      "adószám": "18946426-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-18",
+      "statisztikai_számjel": "18946426-8551-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "(1) Az aktív és egészséges életmód, rendszeres testmozgás népszerűsítése a Budapesten élő külföldi és magyar állampolgárok körében; (2) Információnyújtás a helyi szabadidős sport lehetőségekről a Budapesten élő külföldi és magyar állampolgárok részére; (3) Alkalmi szabadidős sportesemények szervezése és lebonyolítása a Budapesten élő külföldi és magyar állampolgárok részére; (4) Nemzetközi kapcsolatok létesítése és fejlesztése a szabadidősport és ifjúsági munka területén aktív külföldi szervezetekkel; (5) Budapest főváros népszerűsítése nemzetközi ifjúsági és sport programok szervezésén és lebonyolításán keresztül; (6) Együttműködés és kapcsolattartás az egyesület célkitűzéseihez kapcsolódó különböző szervezetekkel és hatóságokkal.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016742",
+      "régi_nyilvántartási_száma": "16742/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Garamvölgyi",
+        "Képviselő keresztneve": "Bence",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vágány",
+        "Képviselő keresztneve": "Barnabás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "125 302 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "162 486 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "197 618 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "164 276 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "151 009 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Budapesti Egyesület a Nemzetközi Sportért"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BENS"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

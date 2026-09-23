@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19316987",
+  "scraped_at": "2026-09-22T22:18:36.234634",
+  "organization_id": "366877",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bringás Barátok a Jászság - Mátra Kerékpárútért Egyesület",
+      "rövid_név": "Bringás Barátok Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5123 Jászárokszállás, Kossuth Lajos utca 18.",
+      "adószám": "19316987-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-26",
+      "statisztikai_számjel": "19316987-9312-521-16",
+      "x_koordináta": "47.6301574",
+      "y_koordináta": "19.945634"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az Egyesület elsődleges célja a kerékpározás megszerettetése, kerékpáros közlekedés népszerűsítése és a környékbeli bringázási lehetőségek népszerűsítése, kerékpártúrák szervezése Magyarországon, illetve külföldön, kerékpáros rendezvények szervezése, egyéb kerékpáros teljesítménytúrán való részvétel, a kerékpárosok érdekeinek képviselete önkormányzati és állami szinten, továbbá társadalmi munkájával és szakmai tanácsadásaival a biztonságos kerékpározás feltételeinek kialakításának elősegítése. Továbbá az Egyesület célja a Jászság és Mátra, mint szomszédos, térben és időben gazdag, kulturális – gazdasági kapcsolatokkal összefonódó tájegységeket összekötő kerékpárút megvalósulásában való segítő tevékenység, közreműködés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002865",
+      "régi_nyilvántartási_száma": "2865/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-25",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-09-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Agócs",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-05-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "200 447 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "288 311 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

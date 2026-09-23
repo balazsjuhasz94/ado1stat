@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19233624",
+  "scraped_at": "2026-09-22T22:15:27.389615",
+  "organization_id": "117354",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "EGYÜTT BENDEGÚZÉRT ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8500 Pápa, Ady Endre sétány 7/A. II./4.",
+      "x_koordináta": "47.3294139",
+      "y_koordináta": "17.46988",
+      "adószám": "19233624-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-01-23",
+      "statisztikai_számjel": "19233624-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Horváth Bendegúz (szül.: Celldömölk, 2013.11.11., an.: Szilos Edina) gyógykezelésének, gyógyulásának, állapot javulásának, rehabilitációjának elősegítése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001832",
+      "régi_nyilvántartási_száma": "1832/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pődör",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

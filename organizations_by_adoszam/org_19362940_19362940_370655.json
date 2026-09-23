@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19362940",
+  "scraped_at": "2026-09-22T22:23:13.854256",
+  "organization_id": "370655",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PAX Média Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1149 Budapest, Kövér Lajos utca 21-23.",
+      "adószám": "19362940-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-06-30",
+      "statisztikai_számjel": "19362940-9499-569-01",
+      "x_koordináta": "47.5108262",
+      "y_koordináta": "19.1160165"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "Evangélium hirdetése, az evangéliumi élő hit és a keresztény értékrend erősítése és népszerűsítése a média eszközeinek alkalmazásával. Keresztény egyházak tanító és szolgáló küldetését, hitvalló közösségek életének bemutatásával keresztény közösségek hitéletének és közösségépítő munkájának támogatása. Az ifjúság keresztényi alapokon nyugvó nevelésének segítése korcsoportnak megfelelő médiatartalmak készítésének támogatásával. Kárpát-medencei keresztény közösségi, kulturális és ismeretterjesztő műsorok készítésének támogatása, elősegítése a közösségek tájékoztatásának gazdasági és közéleti kérdésekben bibliai alapokon nyugvó elméleti és gyakorlati válaszokkal. Kárpát-medencei keresztény közösségek széleskörű tájékoztatása érdekében független keresztyén média tartalmak és online sajtótermékek készítésének, létrehozásának és bemutatásának támogatása. Kárpát-medencei keresztény műsorkészítők, filmesek és televíziósok munkájának, szakmai fejlődésének, önkéntesek képzésének és továbbképzésének támogatása. Kárpát-medencei más keresztyén médiumokkal, keresztény közösségekkel, és más szervezetekkel, amelyek hasonló célok eléréséért szerveződtek, együttműködés. Kárpát-medencei keresztény, keresztyéni értékek, hagyományok, kulturális örökség feltárása, képviselete, és közvetítése a társadalom minden szintjén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013490",
+      "régi_nyilvántartási_száma": "13490/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-09-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-25",
+      "bankszámlaszám": "11738008-21510999",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Babai",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hadnagy",
+        "Képviselő keresztneve": "Ernő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

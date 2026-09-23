@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "18943777",
+  "scraped_at": "2026-09-22T22:09:26.796390",
+  "organization_id": "108397",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar E-sport Szövetség",
+      "rövid_név": "HUNESZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1135 Budapest, Szegedi út 37-39.",
+      "x_koordináta": "47.5676437",
+      "y_koordináta": "19.0535051",
+      "adószám": "18943777-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-11-13",
+      "statisztikai_számjel": "18943777-9412-517-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A szövetség célja az e-sport, digitálissport sportolókat tömörítő, szabadidő és versenysport szervezetek, gamerek összefogása, a nemzeti és nemzetközi e-sport és digitálissport sportéletben a tagok részvételi lehetőségének biztosítása, e-sport és digitálissport sportversenyek szervezése, e-sport és digitálissport sporttevékenység feltételrendszerének megteremtése és koordinálása, országos bajnokságok szervezése. Az e-sportolók, digitális sportolók Nemzetközi Sportszervezetei által szerveződő Európai regionális, Európa és Világbajnokság, Világjátékok valamint egyéb nemzetközi versenyek eseményeire való felkészülés és részvétel biztosítása. A Szövetség céljainak megvalósulása általánosságban segíti az e-sportolók, digitális sportolók társadalomba történő integrációját.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016706",
+      "régi_nyilvántartási_száma": "16706/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-07",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bíró",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "György",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-23",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rékasi",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "29 305 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "58 982 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "78 725 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,50 @@
+{
+  "search_adoszam": "18722121",
+  "scraped_at": "2026-09-22T22:01:36.966122",
+  "organization_id": "36044",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fáy Diáksport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2151 Fót, Fáy András tér 1.",
+      "x_koordináta": "47.6116547",
+      "y_koordináta": "19.205336",
+      "adószám": "18722121-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-10-20",
+      "statisztikai_számjel": "18722121-9319-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Iskolai sporélet támogatás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0005310",
+      "régi_nyilvántartási_száma": "5310/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-07-01",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Richvalski",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-06-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

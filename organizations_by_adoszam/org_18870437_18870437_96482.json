@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18870437",
+  "scraped_at": "2026-09-22T22:06:40.329390",
+  "organization_id": "96482",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "I LOVE SPORT Sportegyesület",
+      "rövid_név": "ILS Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6724 Szeged, Pulz utca 46. B. 1/112.",
+      "x_koordináta": "46.2460055",
+      "y_koordináta": "20.1708706",
+      "adószám": "18870437-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-07",
+      "statisztikai_számjel": "18870437-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Amatőr labdarúgó események szervezése, sportolási lehetőség megteremtése, ezáltal sportközösség létrehozása. A motoros kultúra népszerűsítése és támogatása. A motorozás, mint közlekedési és szabadidős tevékenység társadalmi elfogadottságának növelése. Biztonságos közlekedés elősegítése oktatások, kampányok vagy rendezvények szervezésével. Jótékonysági tevékenységek szervezése, adománygyűjtés rászoruló személyek, családok vagy szervezetek (pl. gyermekotthonok, kórházak) támogatására. Motoros felvonulások és rendezvények, amelyekkel pénzt gyűjtenek jótékony célokra. Közösségépítés és szociális kapcsolatok erősítése. Motorosok összefogása és egy barátságos, támogató közösség kialakítása. Tagok közös túráinak, képzéseinek, találkozóinak és versenyeinek szervezése. Társadalmi érzékenyítés és segítségnyújtás. Részvétel helyi és országos szintű jótékonysági akciókban. Érzékenyítő programok szervezése a motoros közösség társadalmi szerepéről. Környezetvédelem és fenntarthatóság támogatása. A motorozás környezettudatos formáinak népszerűsítése. Környezetvédelmi projektekben való aktív részvétel, például faültetés, szemétszedési akciók. Motoros utánpótlás támogatása. Fiatalok biztonságos motorozásra történő felkészítése. Oktató programok és bemutatók szervezése. Mentorprogram fiatal motorosok számára: tapasztalt motorosok mentorálják a fiatalabb tagokat, segítve őket a biztonságos motorozásban és a közösségbe való beilleszkedésben. Kapcsolatok építése más motoros és jótékonysági szervezetekkel. Együttműködés hasonló célokat képviselő hazai és nemzetközi egyesületekkel. Részvétel közös projektekben és eseményeken.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003252",
+      "régi_nyilvántartási_száma": "3252/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-07",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jobbágy",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 639 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 410 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "51 233 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "I Love Sport Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

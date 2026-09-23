@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18948909",
+  "scraped_at": "2026-09-22T22:09:42.818947",
+  "organization_id": "80230",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cseperedők Jövőjéért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8719 Böhönye, Fő utca 2.",
+      "x_koordináta": "46.40634",
+      "y_koordináta": "17.386063",
+      "adószám": "18948909-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-01-19",
+      "statisztikai_számjel": "18948909-8510-569-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány elsődleges célja, hogy segítséget nyújtson a böhönyei bölcsődés és óvodás gyermekek boldog és egészséges oktatásához, neveléséhez, képességeik fejlesztéséhez. Támogassa és elősegítse a bölcsődei és óvodai nevelés és oktatás feltételeinek javítását, a gyermekek környezet- és egészségtudatos szemléletének kialakítását. Anyagilag hozzájáruljon az intézmény épületének és eszközeinek bővítéséhez, a neveléshez szükséges szakmai és egyéb eszközök megvásárlásához, a szociálisan rászoruló, hátrányos helyzetben lévő, valamint a tehetséges bölcsődés és óvodás gyermekek megsegítéséhez. Az Alapítvány támogassa és elismerje azon pedagógus, vagy pedagógus munkát segítőket, akik a gyermekek gondozása, nevelése kapcsán kiemelkedő munkát végeznek. Az Alapítványi célok megvalósítása érdekében programokat, rendezvényeket szervez, illetve azok szervezésében, lebonyolításában közreműködik, továbbá fejlesztési koncepciókat és terveket dolgoz ki, ezek sikeressége érdekében pályázatok és egyéb források lehetőségeit kihasználva.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003398",
+      "régi_nyilvántartási_száma": "3398/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-01-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gschvindt",
+        "Képviselő keresztneve": "Józsefné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "119 456 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "156 082 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 339 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "239 442 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSEPEREDŐK JÖVŐJÉÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

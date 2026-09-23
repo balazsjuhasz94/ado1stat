@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19250090",
+  "scraped_at": "2026-09-22T22:16:18.028512",
+  "organization_id": "301209",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pöttyös gomba Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1148 Budapest, Bánki Donát utca 12/G.",
+      "adószám": "19250090-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-10",
+      "statisztikai_számjel": "19250090-8510-569-01",
+      "x_koordináta": "47.5091164",
+      "y_koordináta": "19.1266702"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja: - a gyermekek egészséges életvitele, egészségmegőrzésük elősegítése; - a gyermekek általános ismereteinek bővítése, erkölcsi – és érzelmi fejlődésének elősegítése; - gondozási, nevelési feltételek javítása; - új pedagógiai programok megismertetése, megismerésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012939",
+      "régi_nyilvántartási_száma": "12939/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-05-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11714006-25979765",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Markolt",
+        "Képviselő keresztneve": "Emőke",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Czupponné Juhász",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "Anna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dezső-Pálné Kuzma",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

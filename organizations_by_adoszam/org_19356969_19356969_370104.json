@@ -1,0 +1,60 @@
+{
+  "search_adoszam": "19356969",
+  "scraped_at": "2026-09-22T22:22:10.903623",
+  "organization_id": "370104",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "300-ak Segítő Közhasznú Alapítványa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Bajcsy-Zsilinszky út 74.",
+      "adószám": "19356969-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-03-27",
+      "statisztikai_számjel": "19356969-8899-569-13",
+      "x_koordináta": "47.3708659",
+      "y_koordináta": "18.9007772"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A hátrányos helyzetben vagy térségben élők, különös tekintettel az óvodás és kisiskolás gyermekek és családtagjaik részére történő anyagi és természetbeni segítségnyújtás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004368",
+      "régi_nyilvántartási_száma": "4368/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-07-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-07-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-06",
+      "bankszámlaszám": "10403136-50527078-85571008",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy-Horváth",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "19366102",
+  "scraped_at": "2026-09-22T22:23:41.558453",
+  "organization_id": "370904",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Útelágazás Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7626 Pécs, Ady Endre utca 19.",
+      "adószám": "19366102-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-08-29",
+      "statisztikai_számjel": "19366102-9499-569-02",
+      "x_koordináta": "46.0789141",
+      "y_koordináta": "18.2442054"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Gyerekek, fiatalok, fiatal felnőttek támogatása, akik állami gondozásban vagy utógondozásban élnek, hátrányos helyzetű vagy halmozottan hátrányos helyzetűek, tanulási vagy beilleszkedési zavarokkal küzdenek, áldozatai bántalmazásnak, bűncselekményeknek vagy bármilyen hátrányos megkülönböztetésnek. Mélyszegénységben élő gyermekek, családjaik támogatása. Koronavírusban elhunyt szülők árváinak segítése. - Fent említett célcsoporthoz tartozó személyek életvitelének támogatása a sport eszközeivel, illetve szociális és kulturális segítséggel. Az eredményes támogatás érdekében a megfelelő módszerek kutatása, kidolgozása, továbbképzések, tanfolyamok szervezése, tanulmányok, könyvek, folyóiratok, kiadványok kiadása, szerkesztése, illusztrálása, módszertan fejlesztés. - Az alapítvány célja továbbá a társadalmi egyenlőtlenségek csökkentése, az emberi szabadságjogok és az emberi méltóság, emberi élet értékességének tudatosítása. A társadalom önsegítő erejének fejlesztése és hasznosítása. A keresztény kultúra és a magyar hagyományok ápolása, tovább örökítése, a keresztény kulturális szemlélet értékeinek és gyökereinek ápolása, megőrzése. Gyermekek és fiatalok lelki, szellemi fejlődésének elősegítése kulturális és szociális kapcsolódások kiépítése által. Az alapítvány célja továbbá a testi és szellemi betegségek és káros szokások, függőségek kialakulásának megelőzése, a gyógyulási folyamat elősegítése, valamint a bűnmegelőzés, a társadalmi igazságtalanságok kedvezőtlen hatásainak csökkentése, a bűncselekmények áldozatainak védelme a fent írt célcsoportban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001967",
+      "régi_nyilvántartási_száma": "1967/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-01-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-05-06",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Wiesner",
+        "Képviselő keresztneve": "Iván",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

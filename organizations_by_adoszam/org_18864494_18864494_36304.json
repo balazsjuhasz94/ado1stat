@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18864494",
+  "scraped_at": "2026-09-22T22:06:28.204273",
+  "organization_id": "36304",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bonyhádi Oyama Karate Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7150 Bonyhád, Budai Nagy Antal utca 49.",
+      "x_koordináta": "46.302593",
+      "y_koordináta": "18.5208746",
+      "adószám": "18864494-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2004-07-14",
+      "statisztikai_számjel": "18864494-9312-521-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Sportegyesület, amelynek elsődleges célja a rendszeres sportolás, versenyzés, tagjainak nevelése és a társadalmi öntevékenység és a sport iránti igény kibontakoztatása, a karate népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0001469",
+      "régi_nyilvántartási_száma": "1469/2004",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2004-06-20",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nyitrai",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "104 879 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "203 081 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "276 407 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BONYHÁDI OYAMA KARATE SPORTEGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

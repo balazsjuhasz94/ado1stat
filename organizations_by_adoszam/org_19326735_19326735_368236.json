@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19326735",
+  "scraped_at": "2026-09-22T22:19:19.900263",
+  "organization_id": "368236",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Birsalmafa Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2013 Pomáz, Majdán utca 20.",
+      "adószám": "19326735-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-24",
+      "statisztikai_számjel": "19326735-5530-529-13",
+      "x_koordináta": "47.6651476",
+      "y_koordináta": "18.9904602"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "alapvetően iskolás korú gyermekek nyári táboroztatása, ezzel közösségbe szerveződésük elősegítése, ismeretanyagaik bővítése, hagyományok továbbvitelének támogatása, valamint a hátrányos helyzetű fiatalok védelme, az egyenlőség tudatának erősítése. Célja továbbá egy olyan üdültetés hagyományának továbbvitele, amely egészen az 1930-as évekig nyúlik vissza. Az Egyesület feladatának tartja, hogy megismertesse a történelmi és kulturális hagyományokat a tanköteles korú fiatalokkal annak érdekében, hogy a későbbiekben ők is tovább ápolhassák ezeket a hagyományokat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008177",
+      "régi_nyilvántartási_száma": "8177/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szlávik",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "246 496 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

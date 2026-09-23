@@ -13,7 +13,15 @@
       "céljának_leírása": ""
     }
   },
-  "nav_1_percent": {},
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "364 199 Ft"
+      }
+    ]
+  },
   "fixed_from_excel": true,
   "leaf_category": "felsőoktatás",
   "parent_category": "oktatás"

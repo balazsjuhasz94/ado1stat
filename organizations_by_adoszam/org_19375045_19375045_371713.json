@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19375045",
+  "scraped_at": "2026-09-22T22:25:36.872944",
+  "organization_id": "371713",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "WATER HOUSE Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4431 Nyíregyháza, Kemecsei út 59.",
+      "adószám": "19375045-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-12-21",
+      "statisztikai_számjel": "19375045-9499-569-15",
+      "x_koordináta": "48.0091251",
+      "y_koordináta": "21.7266422"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Tehetséges gyermekek, fiatalok, valamint tehetségük kiteljesítésének megkönnyítése céljából létrejött közösségek, szervezetek támogatása a sport, a művészet és a tudomány területén. A hátrányos helyzetben lévő emberek életminőség javításához szükséges pénzbeli és természetbeni hozzájárulás juttatása. Támogatja a lakosság önszerveződő közösségeit, erősíti a település önfenntartó képességét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002680",
+      "régi_nyilvántartási_száma": "2680/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vizi",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

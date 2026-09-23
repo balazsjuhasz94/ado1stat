@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19349224",
+  "scraped_at": "2026-09-22T22:20:58.261935",
+  "organization_id": "369421",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sashalmi Manókért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1163 Budapest, Könyvtár utca 26.",
+      "adószám": "19349224-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-22",
+      "statisztikai_számjel": "19349224-9499-569-01",
+      "x_koordináta": "47.5091611",
+      "y_koordináta": "19.1752337"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Folyamatos magasszintű oktatás és fejlesztés megszervezésének és megvalósításának segítése a Sashalmi Manoda Óvoda mindenkori óvodásai érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013381",
+      "régi_nyilvántartási_száma": "13381/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11716008-22533845",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bisztrainé Csige",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

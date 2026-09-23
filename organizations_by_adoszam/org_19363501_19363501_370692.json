@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19363501",
+  "scraped_at": "2026-09-22T22:23:17.780606",
+  "organization_id": "370692",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Támasz-Pont, Tanulást Támogató Alapítvány az Etyeki Gyermekekért",
+      "rövid_név": "Támasz-Pont Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2091 Etyek, Kerekdomb utca 7.",
+      "adószám": "19363501-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-07-04",
+      "statisztikai_számjel": "19363501-8899-569-07",
+      "x_koordináta": "47.4523121",
+      "y_koordináta": "18.7391455"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány az etyeki gyermekek, kiváltképp a hátrányos és halmozottan hátrányos helyzetű valamilyen deprivációban élő gyermekek, valamint a szerény anyagi lehetőséggel rendelkező családokban növekvő gyermekek tanulásának, iskolai sikerességének elősegítésére jön létre. Az alapítvány tevékenységét annak érdekében fejti ki, hogy az etyeki gyermekek az általános iskolát sikeresen teljesítsék, továbbtanulásban ösztönözve és támogatva legyenek. Az alapítvány fontosnak tartja, hogy ezek a gyerekek továbbtanulva szakmát, középfokú végzettséget szerezzenek, mentorálásukkal középiskolai tanulmányaikat is sikeresen befejezzék. Célja, hogy a tudás megszerzésében, a korszerű ismeretek elsajátításában és a megfelelő társas kapcsolataik kialakításában segítse őket. Az alapítványnak fontos célja, az iskola és a család közötti kapcsolatok partneriebbek és kölcsönös tiszteleten alapuljanak, ezzel is elősegítve a gyermekek esélyegyenlőségének javítását. Az alapítványnak további célja a szabadidő tartalmas eltöltése, a világ tapasztalatokon keresztüli megismerése, az egészséges életre nevelése, valamint a megfelelő mentális egészség megőrzése. Az alapítvány támogatja a felnövekvő egyeki gyerekeket, hogy kiteljesedett, sikeres, a falu és tágabb értelemben a társadalom boldog, értékes, és saját életükben,valamint a közösségben boldogulni tudó, aktív tagjai legyenek. Az alapítvány célja a társadalmi inklúzió elősegítése, az elfogadás és egymás megértésének elősegítése, valamint, hogy a hátrányos helyzet ne öröklődjön át generációkon keresztül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001219",
+      "régi_nyilvántartási_száma": "1219/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11736020-21460519-0000000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Wortmann",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

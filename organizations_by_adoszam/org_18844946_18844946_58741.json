@@ -1,0 +1,114 @@
+{
+  "search_adoszam": "18844946",
+  "scraped_at": "2026-09-22T22:05:46.880285",
+  "organization_id": "58741",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyoma-Gym Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5500 Gyomaendrőd, Vásártéri lakótelep 28/A/9.",
+      "x_koordináta": "46.930189",
+      "y_koordináta": "20.819972",
+      "adószám": "18844946-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-10-28",
+      "statisztikai_számjel": "18844946-9312-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Fiatalok részvételével egészséges életmódra, egészséges táplálkozásra való nevelése. Segítse a szabadidő hasznos eltöltését, az önfegyelem kitartás javítását. További céljaink versenyek szervezése minden korosztály számára, valamint nevelés, oktatás és képességfejlesztés, továbbá egészséges testépítés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003363",
+      "régi_nyilvántartási_száma": "3363/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-08-30",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Torma",
+        "Képviselő keresztneve": "Lajos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hornok",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-30",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hornok",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "172 616 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "314 496 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "201 155 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "193 421 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "185 329 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "168 383 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "GYOMA-GYM Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyoma-Gyn Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyoma-Gym Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

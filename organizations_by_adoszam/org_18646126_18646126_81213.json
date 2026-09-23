@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "18646126",
+  "scraped_at": "2026-09-22T21:58:51.055784",
+  "organization_id": "81213",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Flórián Önkéntes és Ifjúsági Tűzoltó Egyesület",
+      "rövid_név": "Szent Flórián ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7771 Palkonya, Fő utca 112.",
+      "x_koordináta": "45.8950559",
+      "y_koordináta": "18.390851",
+      "adószám": "18646126-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-05-04",
+      "statisztikai_számjel": "18646126-8425-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Tűzoltási célok: önkéntes tűzoltás és műszaki mentés, balesetek helyszínén történő segítségnyújtás, vagyoni értékek megóvásában való közreműködés. Katasztrófa- és polgári védelmi célok: katasztrófa elhárítás, (természeti- és ipari katasztrófák felszámolásában való közreműködés és segítségnyújtás), katasztrófa készenlét és válaszadás, eltűnt személyek felkutatásában való részvétel, embertársak kimentése speciális helyzetekből, állatmentés. Szociális tevékenységi célok: gyermek és ifjúság utánpótlás nevelés, szociális segítségnyújtás, szabadidő programok szervezése, lebonyolítása, határon túli együttműködések szervezése. A német kisebbségi hagyományok ápolása, együttműködés a helyi önkormányzattal a német kisebbséget érintő ügyekben, a német kisebbséggel kapcsolatos helyi, megyei és regionális összejövetelek szervezése, részvétel kulturális rendezvényeken.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003492",
+      "régi_nyilvántartási_száma": "3492/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-27",
+      "bankszámlaszám": "50300109-15102294",
+      "számlavezető_pénzintézet_neve": "MBH Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vecsernyés",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kis-Nagy",
+        "Képviselő keresztneve": "Hanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nyaka",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "314 704 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "273 884 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

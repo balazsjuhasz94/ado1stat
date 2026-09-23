@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19063311",
+  "scraped_at": "2026-09-22T22:12:03.849103",
+  "organization_id": "111412",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CSAPÓ CSEMETÉKÉRT Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7135 Dunaszentgyörgy, Várdomb utca 26.",
+      "x_koordináta": "46.5287225",
+      "y_koordináta": "18.8121968",
+      "adószám": "19063311-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-08-23",
+      "statisztikai_számjel": "19063311-8569-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Dunaszentgyörgyi Csapó Vilmos Általános Iskola oktatási intézményben tanuló diákok oktató-nevelő tevékenységéhez kapcsolódó támogatás, segítségnyújtás, illetve település szinten tehetséggondozás, szabadidős tevékenységek szervezése és lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002169",
+      "régi_nyilvántartási_száma": "2169/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-10-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-12",
+      "bankszámlaszám": "11746012-24670999",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagyné Lépő",
+        "Képviselő keresztneve": "Lejla",
+        "Képviselő titulusa": "Magdolna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "254 029 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 609 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "332 857 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 938 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSAPÓ CSEMETÉKÉRT EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

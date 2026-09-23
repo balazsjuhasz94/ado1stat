@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19225373",
+  "scraped_at": "2026-09-22T22:15:17.416144",
+  "organization_id": "114581",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mozdulat Művészet Látványtánc Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1173 Budapest, Pesti út 67-81. D 3/12",
+      "x_koordináta": "47.484656",
+      "y_koordináta": "19.3384759",
+      "adószám": "19225373-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-17",
+      "statisztikai_számjel": "19225373-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A gyermekek mozgásra való ösztönzése, az egészséges életmód koncepciójának terjesztése. A ritmikus gimnasztika, látványtánc sportágak népszerűsítése, tehetségek gondozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007747",
+      "régi_nyilvántartási_száma": "7747/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-01",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gajdos",
+        "Képviselő keresztneve": "Niké",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "133 707 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "193 611 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

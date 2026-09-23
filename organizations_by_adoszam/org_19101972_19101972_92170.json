@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19101972",
+  "scraped_at": "2026-09-22T22:12:35.465687",
+  "organization_id": "92170",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Malomsori Óvodásokért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2840 Oroszlány, Rákóczi F. út 16/ a.",
+      "x_koordináta": "47.4851287",
+      "y_koordináta": "18.3118546",
+      "adószám": "19101972-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-14",
+      "statisztikai_számjel": "19101972-9499-569-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "a) Az óvodai környezet tárgyi feltételeinek fejlesztése. b) Az óvoda audiovizuális felszerelésének bővítése a korszerű nevelés érdekében. c) A helyi néphagyományok és a népi kismesterségek megismertetése, ápolása és az ehhez szükséges lehetőségek megteremtése. A néprajz kincseit őrző vidékek látogatása. d) A mozgáskultúra, mozgáskészség fejlesztése korszerű tornaeszközökkel. e) Óvodásaink biztonságával és a közlekedéssel kapcsolatos ismeretek bővítése f) Kirándulások, erdei séták szervezése minden évszakban, természetvédelmi feladatok kiemelésére törekedve. g) Gyermekeink egészségéért környezetkímélő szemlélet és magatartás megalapozása h) Ezenkívül minden olyan egyéb cél, melynek finanszírozása a gyermekek egészséges nevelése érdekében elengedhetetlen és e célra támogatást a kuratórium megszavazza. i) Az alapítvány támogatja a feladatok megvalósításához szükséges programok, tanulmányok, pályázatok kidolgozását; előadások, beszámolók megtartását és az ezzel kapcsolatos eszközigények és egyéb költségek megtérítésére törekszik.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0001099",
+      "régi_nyilvántartási_száma": "1099/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-11-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Herczegné Józa",
+        "Képviselő keresztneve": "Szilvia Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "IváncsánPap",
+        "Képviselő keresztneve": "Zsófia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Virág-Wittich",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "46 418 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 805 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "119 483 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "161 504 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Malomsori Óvodásokért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

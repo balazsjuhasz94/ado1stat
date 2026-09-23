@@ -1,0 +1,70 @@
+{
+  "search_adoszam": "19360876",
+  "scraped_at": "2026-09-22T22:22:42.441911",
+  "organization_id": "370399",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Subasa, Sziksóstó, Öreghegy Polgárőr és Önkéntes Tűzoltó Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6791 Szeged, Október 6. utca 46.",
+      "adószám": "19360876-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-05-25",
+      "statisztikai_számjel": "19360876-8424-529-06",
+      "x_koordináta": "46.2874697",
+      "y_koordináta": "20.0379053"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "céljának_leírása": "- a helyi közrend és közbiztonság védelme, valamint a bűnmegelőzésben való közreműködés érdekében közterületi járőrszolgálatot, felügyelőszolgálatot, - a közúti baleset helyszínén, valamint óvoda, általános iskola közvetlen közelében jelzőőri tevékenységet lát el, - koordinációs és információs kapcsolatot tart a helyi önkormányzattal és intézményeivel, továbbá a rendőrséggel, - áldozatsegítés, gyermek-, és ifjúságvédelem, vagyonvédelmi tanácsadás, tájékoztatás, - rendkívüli vészhelyzet esetében a védekezésben való részvétel, a károk megelőzésében és elhárításának való részvétel, - tűz elleni védekezés javítása, a megelőző és mentő tűzvédelem segítése, részvétel a tűzvédelmi és tűzoltási oktató és felvilágosító munkában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003636",
+      "régi_nyilvántartási_száma": "3636/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Virágh",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tancsik",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8424",
+        "Leírás": "Közbiztonság, közrend"
+      },
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

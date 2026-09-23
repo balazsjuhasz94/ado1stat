@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19163978",
+  "scraped_at": "2026-09-22T22:13:55.659847",
+  "organization_id": "105120",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Extrém Sport Kert Egyesület",
+      "rövid_név": "ESKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2360 Gyál, Erdőalja utca 36.",
+      "x_koordináta": "47.3746562",
+      "y_koordináta": "19.2111221",
+      "adószám": "19163978-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-03",
+      "statisztikai_számjel": "19163978-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Egyesület a BMX kerékpáros sportággal összefüggésben a lehető legtöbb állampolgár számára kívánja biztosítani a sportolás és a versenyzés lehetőségét. Az Egyesület népszerűsíteni és fejleszteni kívánja a sporttevékenységet, a nevelést, az oktatást, a tehetséggondozást, a képességfejlesztést. Az Egyesület szemléletmód és érték átadására törekszik. Az Egyesület távlati célként tűzi ki saját utánpótlás bázis megteremtését, a fiatalok körében a sport szellemének terjesztését. Célja, hogy kapcsolatot tartson és együttműködést hozzon létre a hazai és nemzetközi sportszervezetekkel, állami-, önkormányzati szervekkel, civil- és gazdálkodó szervezetekkel, valamint a sportág szurkolóival és szimpatizánsaival.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007665",
+      "régi_nyilvántartási_száma": "7665/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-06-04",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "24 980 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "112 331 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "259 209 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "18695917",
+  "scraped_at": "2026-09-22T22:00:54.521226",
+  "organization_id": "38188",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dombtető Lakóegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2093 Budajenő, Fecske utca 3.",
+      "x_koordináta": "47.549174",
+      "y_koordináta": "18.79985",
+      "adószám": "18695917-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2002-07-23",
+      "statisztikai_számjel": "18695917-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdekképviseleti tevékenység",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0002986",
+      "régi_nyilvántartási_száma": "2986/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Baranics",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9311",
+        "Leírás": "Sportlétesítmény működtetése"
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "266 802 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

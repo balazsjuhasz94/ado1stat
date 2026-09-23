@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19371986",
+  "scraped_at": "2026-09-22T22:24:48.038917",
+  "organization_id": "371412",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Besnyői Iskoláért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2456 Besnyő, Fő utca 35.",
+      "adószám": "19371986-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-11-16",
+      "statisztikai_számjel": "19371986-9499-569-07",
+      "x_koordináta": "47.1994676",
+      "y_koordináta": "18.7786781"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja a Besnyői Arany János Általános Iskola (2456 Besnyő, Iskola köz 1.) működési feltételeinek és tanulóinak anyagi és erkölcsi támogatása és a hatékony és magas szintű nevelő- és oktatói munka biztosítása céljából, az ehhez szükséges tanítási környezet egyes elemeinek megteremtése, a tárgyi feltételek javítása, ismeretterjesztés, kulturális-művészeti tevékenység (néptánc, vizuális kultúra), sporttevékenység segítése, támogatása, közösségfejlesztés, figyelmet fordítva a környezetvédelmi és fenntarthatósági szempontokra is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001226",
+      "régi_nyilvántartási_száma": "1226/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11742111-25353800",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "szül. Szabolics Mónika",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

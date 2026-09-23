@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19373074",
+  "scraped_at": "2026-09-22T22:25:03.558306",
+  "organization_id": "371512",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Duna Korfball Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Márton Áron utca 27",
+      "adószám": "19373074-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-12-01",
+      "statisztikai_számjel": "19373074-8551-569-13",
+      "x_koordináta": "47.6336345",
+      "y_koordináta": "19.1385131"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az alapítvány célja: a. A Dunakeszin korballozó gyermekek és felnőttek verseny, tömeg – és élménysportjának támogatása. b. Dunakeszi és környéke gyermekeinek, és felnőtteinek korfball és egyéb sport és kulturális tevékenységének segítése. c. Az élethosszig tartó sportolás feltételeinek megteremtése, és az élethosszig tartó sportolás megvalósítása Dunakeszin és környékén. d. A magyar korfball hagyományainak ápolása. e. A korfball sportággal kapcsolatos tudományos kutatások támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004427",
+      "régi_nyilvántartási_száma": "4427/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10300002-13542871-00014905",
+      "számlavezető_pénzintézet_neve": "MBH Bank Nyrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Felföldy",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "Miklós",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

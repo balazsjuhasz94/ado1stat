@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "18759307",
+  "scraped_at": "2026-09-22T22:03:09.596503",
+  "organization_id": "107173",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nyíregyházi Darts Club",
+      "rövid_név": "NyDC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4551 Nyíregyháza, Fő utca 16.",
+      "x_koordináta": "47.954378",
+      "y_koordináta": "21.8006711",
+      "adószám": "18759307-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-09-20",
+      "statisztikai_számjel": "18759307-9312-521-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Alapvető célja, hogy biztosítsa a szabadidő kulturált eltöltésének, valamint a darts sport gyakorlásának lehetőségét; a darts sportág népszerűsítése, helyi szintű terjesztése, támogatása, versenyeken, rendezvényeken való részvétel elősegítése; darts versenyek, bemutatók szervezése; a tagok szabadidejét kitöltő, szórakoztató műsorokon történő aktív közreműködés vagy azok lebonyolítása, támogatása; együttműködési lehetőségek keresése, tartós kapcsolatok kiépítése más hasonló céllal létrejött hazai és külföldi szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0003778",
+      "régi_nyilvántartási_száma": "3778/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-08-21",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-26",
+      "bankszámlaszám": "68800109-11136877",
+      "számlavezető_pénzintézet_neve": "Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kára",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "Attila",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "101 776 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "97 873 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 436 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "162 293 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "266 468 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nyíregyházi Darts Club"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nyíregyházi Darts Club"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

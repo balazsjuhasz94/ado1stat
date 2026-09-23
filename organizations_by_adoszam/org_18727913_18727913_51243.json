@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18727913",
+  "scraped_at": "2026-09-22T22:02:03.382212",
+  "organization_id": "51243",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Ikerregiszter Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1212 Budapest, Erdélyi utca 29.",
+      "x_koordináta": "47.4214837",
+      "y_koordináta": "19.0731809",
+      "adószám": "18727913-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-22",
+      "statisztikai_számjel": "18727913-7220-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység (pl. természettudomány, társadalomtudomány)",
+      "céljának_leírása": "A magyar ikertestvérek és hozzátartozói részére közösség megteremtése, fenntartása, fejlesztése és támogatása. Az ikerséggel kapcsolatos kutatások lehetővé tétele és folytatása, tudományos célú vizsgálatok végzése az orvostudomány, családkutatás, társadalomtudomány, egészségtudományok, közgazdaság-tudomány és multidiszciplináris tudományok terén. Nemzetközi együttműködés kialakítása és fenntartása a külföldi ikerregiszterekkel, kutatói hálózatokkal, tudományos tevékenységet végző intézményekkel és személyekkel, valamint hazai intézményekkel és szervezetekkel. Az ikerséggel összefüggő publikációk közlése, programok, előadások és konferenciák szervezésnek, média-megjelenések támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012124",
+      "régi_nyilvántartási_száma": "12124/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-06-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Melicher",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Littvay",
+        "Képviselő keresztneve": "Levente",
+        "Képviselő titulusa": "Viktor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

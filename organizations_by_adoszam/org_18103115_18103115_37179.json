@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18103115",
+  "scraped_at": "2026-09-22T21:41:59.191132",
+  "organization_id": "37179",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sway Sporttánc Egyesület",
+      "rövid_név": "SWAY STE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2113 Erdőkertes, Tavasz utca 28.",
+      "x_koordináta": "47.6628666",
+      "y_koordináta": "19.3319575",
+      "adószám": "18103115-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-05-23",
+      "statisztikai_számjel": "18103115-9319-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Egyesület célja a rendszeres amatőr sportolás, versenyzés, testedzés és az ilyen igények felkeltése tagjai számára. Alapvetően olyan magánszemélyek és jogi személyek egyesületbe való tömörítése, akik az Egyesület céljának megfelelően táncolni, sportolni kívánnak, vagy csupán érdeklődnek ez iránt. Ezen személyek versenyeztetése, részükre olyan sportrendezvények, edzések, szakmai tájékoztatók szervezése, lebonyolítása, ahol a résztvevők e témakörben újabb ismereteket szereznek, kapcsolatokat köthetnek. Az Egyesület részt kíván venni a Magyar Táncsport Szövetség munkájában, ezen keresztül Magyarország versenytánccal kapcsolatos állásfoglalásának kidolgozásában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0009401",
+      "régi_nyilvántartási_száma": "9401/2000",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-23",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fischer",
+        "Képviselő keresztneve": "Mariann",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "166 136 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "68 249 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "102 807 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 463 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "235 605 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SWAY STE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "SWAY STE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

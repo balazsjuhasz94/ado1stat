@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19374037",
+  "scraped_at": "2026-09-22T22:25:21.323058",
+  "organization_id": "371617",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tűzszerész és Folyamőr Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3580 Tiszaújváros, Mátyás király út 2. 5/2",
+      "adószám": "19374037-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-12-13",
+      "statisztikai_számjel": "19374037-9499-529-05",
+      "x_koordináta": "47.9197333",
+      "y_koordináta": "21.0595127"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A hadihajózás és tűzszerészet történelmi örökségének ápolása, továbbadása és tudatosítása, a csapathagyományok őrzése. Az egyesület a tagjai számára lehetőség teremtése ismereteik, tapasztalataik, eredményeik kicserélésére és ismertetésére. Célja továbbá, hogy fórumot teremtsen az ezen fejezetben felsorolt célokkal azonosulni kívánók számára, s tagjai között a szakmai és baráti összetartást építse és fejlessze.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0066290",
+      "régi_nyilvántartási_száma": "66290/2023",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-11-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lengyel",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-11-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

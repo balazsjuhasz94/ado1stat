@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19373438",
+  "scraped_at": "2026-09-22T22:25:09.444153",
+  "organization_id": "371017",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Erdei Csillagfény Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2213 Monorierdő, Akácfa utca 1/B.",
+      "adószám": "19373438-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-12-06",
+      "statisztikai_számjel": "19373438-8891-569-13",
+      "x_koordináta": "47.3148025",
+      "y_koordináta": "19.50269"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "(1) Az Alapítvány működése során meg kívánja teremteni azokat az oktatási, nevelési, művelődési formákat, amelyek a monorierdei, monori és a környező települések még nem iskoláskorú gyermekeinek egészséges, kiegyensúlyozott és biztonságos elhelyezését biztosítják, garantálja a vallási, művészeti, kulturális nevelésének lehetőségeit. (2) Vallási, környezeti, szellemi, művészeti értékek és hagyományaik feltárása, megismertetése, a fenntartható természeti és társadalmi környezet kialakításának elősegítése. (3) Civil önszerveződés elősegítése, tanácsadás, tanácsadói feladatok ellátása. (4) Civil szervezetek és természetes személyek támogatása az alapítvány cél szerinti tevékenységeivel összhangban. (5) A gyermekek gondozására létrejövő bölcsőde, óvoda, egyéb hasonló – és az Alapítvány céljaival összhangban működő – létrejövő intézmény létrehozásának, fenntartásának és fejlesztésének anyagi és kulturális támogatása. (6) Kulturális és szociális tevékenység végzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004400",
+      "régi_nyilvántartási_száma": "4400/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Abonyi",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "Anita",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Várdai",
+        "Képviselő keresztneve": "Enikő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Madar-Nemes",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8891",
+        "Leírás": "Gyermekek napközbeni ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

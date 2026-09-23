@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19362469",
+  "scraped_at": "2026-09-22T22:23:01.822979",
+  "organization_id": "370614",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány a Jeruzsálem Úti Bölcsőde Gyermekeiért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Jeruzsálem utca 3.",
+      "adószám": "19362469-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-06-22",
+      "statisztikai_számjel": "19362469-9499-569-10",
+      "x_koordináta": "47.778913",
+      "y_koordináta": "19.9386816"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja: a Jeruzsálem Úti Bölcsődében nevelt gyermekek gondozási-nevelési feltételeinek javítása, támogatása, egészséges értelmi-érzelmi fejlődésük elősegítése, a bölcsődei ellátás színvonalának emelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001247",
+      "régi_nyilvántartási_száma": "1247/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-10",
+      "bankszámlaszám": "10300002-13479526-00014903",
+      "számlavezető_pénzintézet_neve": "MKB Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fehér",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

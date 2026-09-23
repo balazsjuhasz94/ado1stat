@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "19373957",
+  "scraped_at": "2026-09-22T22:25:17.217046",
+  "organization_id": "371612",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nebulo Educatio Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9012 Győr, Hármashatár út 19.",
+      "adószám": "19373957-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-12-14",
+      "statisztikai_számjel": "19373957-9499-569-08",
+      "x_koordináta": "47.6241852",
+      "y_koordináta": "17.607981"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Gyermekek és fiatalok, hátrányos és halmozottan hátrányos gyermekek és fiatalok támogatása szociális, oktatási, kulturális és sport területén. Hátrányos és halmozottan hátrányos helyzetű gyermeknek és fiatalnak tekintendők a fenti cél tekintetében különösen, de nem kizárólag azok a magyar állampolgár és Magyarországon élő nem magyar állampolgár gyermekek és fiatalok, aki állami gondozásban, utógondozásban élnek, fogyatékkal élnek, tanulási vagy beilleszkedési zavarokkal küzdenek, áldozatai bántalmazásnak, bűncselekménynek vagy bármilyen hátrányos megkülönböztetésnek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051521",
+      "régi_nyilvántartási_száma": "51521/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-03-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-03-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

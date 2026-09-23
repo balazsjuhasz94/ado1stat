@@ -1,0 +1,28 @@
+{
+  "search_adoszam": "15387642",
+  "scraped_at": "2026-09-22T21:39:34.604378",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "TATABÁNYA MEGYEI JOGÚ VÁROS JÁSZAI MARI SZÍNHÁZ,NÉPHÁZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2800 TATABÁNYA NÉPHÁZ UTCA 5.",
+      "adószám": "15387642",
+      "x_koordináta": "47.5536697",
+      "y_koordináta": "18.4243123"
+    },
+    "fonadatok": {
+      "céljának_leírása": ""
+    }
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "332 788 Ft"
+      }
+    ]
+  },
+  "error": null
+}

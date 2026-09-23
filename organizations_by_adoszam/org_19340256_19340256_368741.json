@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19340256",
+  "scraped_at": "2026-09-22T22:20:05.848923",
+  "organization_id": "368741",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gém-Kapocs Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1078 Budapest, Hernád utca 40. 4/40.",
+      "adószám": "19340256-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-07",
+      "statisztikai_számjel": "19340256-9499-569-01",
+      "x_koordináta": "47.5053214",
+      "y_koordináta": "19.0822606"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Kőbányai Komplex Óvoda, Általános Iskola, Készségfejlesztő Iskola és Egységes Gyógypedagógiai Módszertani Intézmény (Továbbiakban Komplex EGYMI) szakmai munkájának sokoldalú támogatása. Hozzájárulás az intézménybe járó gyermekek, tanulók társadalmi beilleszkedésének elősegítéséhez, esélyegyenlőségük növeléséhez. A fogyatékkal élő személyek iránti társadalmi érzékenyítés elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013310",
+      "régi_nyilvántartási_száma": "13310/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-06-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyurkovics",
+        "Képviselő keresztneve": "Miklósné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "Éva",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Némethné Varga",
+        "Képviselő keresztneve": "Ibolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

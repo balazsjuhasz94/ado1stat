@@ -274,7 +274,7 @@ PAGE_DESCRIPTIONS = {
         "az Összeg nézet a nyers forint értékeket mutatja szervezetenként; "
         "a Kat. % nézet azt mutatja, hogy az adott szervezet a kategóriáján belül mekkora részt képvisel (%); "
         "az Eloszlás nézet pedig azt, hogyan oszlik meg a kategória összege a szervezetek között (halmozott terület). "
-        "⚠ A korábbi évek adatai csak azon szervezeteket tartalmazzák, amelyek 2025-ben is kaptak felajánlást — "
+        "⚠ A korábbi évek adatai csak azon szervezeteket tartalmazzák, amelyek 2026-ban is kaptak felajánlást — "
         "így az összesített összegek az egyes években a valósnál alacsonyabbak lehetnek."
     ),
     'category_timeseries': (
@@ -283,7 +283,7 @@ PAGE_DESCRIPTIONS = {
         "Az Összeg nézet a kategóriák forint értékeit mutatja; "
         "az Arány (%) nézet megmutatja, hogyan változott az egyes kategóriák részesedése az összes felajánlásból; "
         "az Eloszlás nézet pedig a kategóriák egymásra halmozott trendjét, hogy lásd, melyik nőtt vagy csökkent. "
-        "⚠ A korábbi évek adatai csak azon szervezeteket tartalmazzák, amelyek 2025-ben is kaptak felajánlást — "
+        "⚠ A korábbi évek adatai csak azon szervezeteket tartalmazzák, amelyek 2026-ban is kaptak felajánlást — "
         "így az összesített összegek az egyes években a valósnál alacsonyabbak lehetnek."
     ),
     'scatter': (
@@ -336,7 +336,7 @@ df_categories = pd.read_csv(os.path.join(DATA_DIR, 'organization_categories_ALL_
 print(f"  Categories: {len(df_categories)} organizations")
 
 # 2. Load Excel data
-excel_file = os.path.join(DATA_DIR, 'Szja 1-os felajanlasban reszesult civil kedvezmenyezettek_2025.xlsx')
+excel_file = os.path.join(DATA_DIR, 'Szja 1-os felajanlasban reszesult civil kedvezményezettek_2026.xlsx')
 df_excel = pd.read_excel(excel_file, sheet_name='Munka1', header=1)
 df_excel['összeg'] = pd.to_numeric(df_excel['Felajánlott összeg (Ft)'], errors='coerce').fillna(0).astype(int)
 df_excel['db'] = pd.to_numeric(df_excel['Felajánlók száma (fő)'], errors='coerce').fillna(0).astype(int)
@@ -536,8 +536,8 @@ def build_sunburst_figure():
         "Ez az összesítés a legtöbb 1%-os SZJA felajánlást kapó<br>"
         f"top {len(df_merged):,} szervezetet tartalmazza, mely az összes<br>"
         "felajánlás kb. 89%-át teszi ki.<br>"
-        "Az összes felajánlás országosan ~20,3 milliárd Ft volt.<br>"
-        "A fennmaradó ~27 000 kisebb szervezet adatai<br>"
+        "Az összes felajánlás országosan ~21,4 milliárd Ft volt.<br>"
+        "A fennmaradó ~21 000 kisebb szervezet adatai<br>"
         "nincsenek benne az elemzésben."
     )
     nodes.append({
@@ -778,7 +778,7 @@ def build_map_figure():
             df_sub = df_map[(df_map['parent_category'] == parent_cat) &
                             (df_map['leaf_category'] == leaf_cat)]
 
-            trace = go.Scattermapbox(
+            trace = go.Scattermap(
                 lat=df_sub['lat'], lon=df_sub['lon'], mode='markers',
                 marker=dict(
                     size=df_sub['összeg'].apply(lambda x: min(max((x ** 0.5) / 200, 5), 25)),
@@ -816,7 +816,7 @@ def build_map_figure():
     fig = go.Figure(data=traces)
 
     fig.update_layout(
-        mapbox=dict(style="carto-positron", center=dict(lat=47.2, lon=19.5), zoom=6.5),
+        map=dict(style="carto-positron", center=dict(lat=47.2, lon=19.5), zoom=6.5),
         dragmode='pan', hovermode='closest',
         height=800, margin=dict(l=0, r=0, t=10, b=0), showlegend=False
     )
@@ -844,7 +844,7 @@ def build_map_figure_mobile():
             df_sub = df_map[(df_map['parent_category'] == parent_cat) &
                             (df_map['leaf_category'] == leaf_cat)]
 
-            trace = go.Scattermapbox(
+            trace = go.Scattermap(
                 lat=df_sub['lat'], lon=df_sub['lon'], mode='markers',
                 marker=dict(
                     size=df_sub['összeg'].apply(lambda x: min(max((x ** 0.5) / 200, 5), 25)),
@@ -875,7 +875,7 @@ def build_map_figure_mobile():
 
     fig = go.Figure(data=traces)
     fig.update_layout(
-        mapbox=dict(style="carto-positron", center=dict(lat=47.2, lon=19.5), zoom=6.5),
+        map=dict(style="carto-positron", center=dict(lat=47.2, lon=19.5), zoom=6.5),
         dragmode='pan', hovermode='closest',
         height=800, margin=dict(l=0, r=0, t=10, b=0), showlegend=False
     )
@@ -1531,7 +1531,7 @@ app.index_string = '''
                     if (!fig) return;
                     var needsUpdate = false;
                     for (var i = 0; i < fig.length; i++) {
-                        if (fig[i].type === 'scattermapbox' && fig[i].hovertemplate &&
+                        if (fig[i].type === 'scattermap' && fig[i].hovertemplate &&
                             fig[i].hovertemplate.indexOf('customdata[10]') !== -1) {
                             needsUpdate = true;
                             break;
@@ -1541,7 +1541,7 @@ app.index_string = '''
                         var update = {};
                         var traceIndices = [];
                         for (var i = 0; i < fig.length; i++) {
-                            if (fig[i].type === 'scattermapbox' && fig[i].hovertemplate) {
+                            if (fig[i].type === 'scattermap' && fig[i].hovertemplate) {
                                 traceIndices.push(i);
                             }
                         }
@@ -2115,7 +2115,7 @@ def update_map_and_table(parent_value, leaf_value, selected_org_idx):
     if selected_org_idx is not None:
         info = map_org_lookup.get(selected_org_idx)
         if info:
-            fig.add_trace(go.Scattermapbox(
+            fig.add_trace(go.Scattermap(
                 lat=[info['lat']], lon=[info['lon']], mode='markers+text',
                 marker=dict(size=22, color='red', opacity=0.9, symbol='circle'),
                 text=[info['name']],
@@ -2125,7 +2125,7 @@ def update_map_and_table(parent_value, leaf_value, selected_org_idx):
                 hoverinfo='text',
                 showlegend=False
             ))
-            fig.update_layout(mapbox=dict(center=dict(lat=info['lat'], lon=info['lon']), zoom=12))
+            fig.update_layout(map=dict(center=dict(lat=info['lat'], lon=info['lon']), zoom=12))
 
     if show_all:
         return fig, [], '', {'display': 'none'}
@@ -2752,7 +2752,7 @@ def city_update_map(selected_city, search_mode):
     if not selected_city or selected_city not in data_source:
         # Empty map centered on Hungary
         fig.update_layout(
-            mapbox=dict(style="carto-positron",
+            map=dict(style="carto-positron",
                         center=dict(lat=47.2, lon=19.5), zoom=6.5),
             height=600, margin=dict(l=0, r=0, t=10, b=0), showlegend=False
         )
@@ -2763,7 +2763,7 @@ def city_update_map(selected_city, search_mode):
     city_lon = city_info.get('lon')
     if city_lat is None or city_lon is None:
         fig.update_layout(
-            mapbox=dict(style="carto-positron",
+            map=dict(style="carto-positron",
                         center=dict(lat=47.2, lon=19.5), zoom=6.5),
             height=600, margin=dict(l=0, r=0, t=10, b=0), showlegend=False
         )
@@ -2787,7 +2787,7 @@ def city_update_map(selected_city, search_mode):
             circle_lats.append(city_lat + dlat)
             circle_lons.append(city_lon + dlon)
 
-        fig.add_trace(go.Scattermapbox(
+        fig.add_trace(go.Scattermap(
             lat=circle_lats, lon=circle_lons, mode='lines',
             line=dict(width=2, color='rgba(0, 100, 255, 0.6)'),
             fill='toself', fillcolor='rgba(0, 100, 255, 0.08)',
@@ -2811,7 +2811,7 @@ def city_update_map(selected_city, search_mode):
             df_sub['parent_category'], df_sub['leaf_category']
         ))
 
-        fig.add_trace(go.Scattermapbox(
+        fig.add_trace(go.Scattermap(
             lat=df_sub['lat'], lon=df_sub['lon'], mode='markers',
             marker=dict(size=sizes, color=color_map.get(parent_cat, '#999'), opacity=0.8),
             name=parent_cat,
@@ -2829,7 +2829,7 @@ def city_update_map(selected_city, search_mode):
         ))
 
     # City center marker
-    fig.add_trace(go.Scattermapbox(
+    fig.add_trace(go.Scattermap(
         lat=[city_lat], lon=[city_lon], mode='markers',
         marker=dict(size=12, color='red', symbol='circle'),
         name=selected_city, hoverinfo='text',
@@ -2837,7 +2837,7 @@ def city_update_map(selected_city, search_mode):
     ))
 
     fig.update_layout(
-        mapbox=dict(style="carto-positron",
+        map=dict(style="carto-positron",
                     center=dict(lat=city_lat, lon=city_lon), zoom=11),
         height=600, margin=dict(l=0, r=0, t=10, b=0),
         showlegend=False,

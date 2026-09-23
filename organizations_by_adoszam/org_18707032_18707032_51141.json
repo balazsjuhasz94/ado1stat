@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "18707032",
+  "scraped_at": "2026-09-22T22:01:10.842768",
+  "organization_id": "51141",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány a Péteri Evangélikus Egyházközségért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2209 Péteri, Bohus Dániel tér 1",
+      "x_koordináta": "47.386037",
+      "y_koordináta": "19.4113994",
+      "adószám": "18707032-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-03-30",
+      "statisztikai_számjel": "18707032-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Az egyházközség hitoktatási tevékenységének támogatása. Az egyházzenei szolgálat támogatása. A szociálisan rászoruló egyházközségi hívek támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0002621",
+      "régi_nyilvántartási_száma": "2621/2005",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-10-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "185 679 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "search_adoszam": "18871892",
+  "scraped_at": "2026-09-22T22:06:48.353488",
+  "organization_id": "63165",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kutyaköztársaság-Munkakutya Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4031 Debrecen, Tócóskert tér 7. 9/70.",
+      "x_koordináta": "47.5166039",
+      "y_koordináta": "21.6022051",
+      "adószám": "18871892-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-04",
+      "statisztikai_számjel": "18871892-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Hátrányos helyzetű fiatalok életpályájának támogatása, családok életminőségének javítása, társadalomba való integrációjuk elősegítése. Segítőkutyák kiképzése, a kutyák fogyatékossággal élő személyek részére való átadásával. Ép családoknak, személyeknek segítségnyújtás kutyáikkal való foglalkozásban. Állatvédelem segítése, továbbá terápiás kutyák alkalmazásának népszerűsítése, elismertetése gyógypedagógiai, pszichológiai és pszichiátriai habilitációs- és rehabilitációs folyamatokban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004772",
+      "régi_nyilvántartási_száma": "4772/2016",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-12-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Földi",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 188 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "262 379 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "292 334 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "708 727 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "470 922 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 455 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyaköztársaság-Munkakutya Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyaköztársaság-Munkakutya Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kutyaköztársaság-Munkakutya Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

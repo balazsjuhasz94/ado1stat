@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19328500",
+  "scraped_at": "2026-09-22T22:19:30.009717",
+  "organization_id": "368372",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fuss Bende Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6756 Tiszasziget, Aradi utca 7. A.",
+      "adószám": "19328500-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-19",
+      "statisztikai_számjel": "19328500-9499-569-06",
+      "x_koordináta": "46.1711008",
+      "y_koordináta": "20.142914"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A nyitott gerinc (spina bifida) legsúlyosabb formájával (myelomeningocele) született és/vagy mozgásukban korlátozott gyermekek segítése adománygyűjtéssel, információ átadással, tanácsadással. Az alapítvány részére befolyt összeg a beteg gyermekek gyógykezelésére, szellemi, mentális, fizikai fejlődésükhöz szükséges költségek viselésére, a szükséges fejlesztő eszközök beszerzésére, részükre akadálymentes, biztos környezet kialakítására használható. Az alapítvány célja továbbá társadalmi érzékenyítés, szemléletformálás a mozgásukban korlátozott gyermekekkel kapcsolatban, hogy a történetüket megismerve, példáikon keresztül széles körben erősödjön az elfogadásuk.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001775",
+      "régi_nyilvántartási_száma": "1775/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-03-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Várkonyi",
+        "Képviselő keresztneve": "Beáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "18900792",
+  "scraped_at": "2026-09-22T22:07:57.617711",
+  "organization_id": "111286",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csodatölcsér Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8360 Keszthely, Pázmány Péter utca 2.",
+      "x_koordináta": "46.7748623",
+      "y_koordináta": "17.2508302",
+      "adószám": "18900792-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-20",
+      "statisztikai_számjel": "18900792-8559-569-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Keszthelyi Járás területén fejlesztésre szoruló gyermekek nevelése és fejlesztése, a velük foglalkozó pedagógusok képzésének támogatás, fejlesztéshez szükséges eszközök beszerzésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001177",
+      "régi_nyilvántartási_száma": "1177/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-03-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-14",
+      "bankszámlaszám": "11749039-21352175",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csite",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "80 952 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "90 271 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "31 802 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "70 816 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "110 298 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 139 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csodatölcsér Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csodatölcsér Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Csodatölcsér Alapitvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "18524837",
+  "scraped_at": "2026-09-22T21:54:22.566025",
+  "organization_id": "35563",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Műegyetemi Vitorlássportért Egyesület",
+      "rövid_név": "MVSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1126 Budapest, Németvölgyi út 22. 1. emelet/1. ajtó",
+      "x_koordináta": "46.9646687",
+      "y_koordináta": "17.8846335",
+      "adószám": "18524837-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-04-16",
+      "statisztikai_számjel": "18524837-9319-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyetemi, főiskolai vitorlás sport népszerűsítése verseny és szabadidő jelleggel, a rendszeres sportolás, versenyzés, testedzés, felüdülés biztosítása, a sportos (vízi sportos) életmód népszerűsítése, sport (vízi sport) iránti igény felkeltés, az egyesület tagjainak nevelés, a közösségi élet kibontakoztatása. Az Egyesület lehetőséget biztosít az egyesületi tagok, az egyetemi hallgatók, a főiskolai hallgatók rendszeres sportolására (vízi sportolására).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003483",
+      "régi_nyilvántartási_száma": "3483/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-07-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-09-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kondorosi",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "Rudolf",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-23",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Meszéna",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "György",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "52 338 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

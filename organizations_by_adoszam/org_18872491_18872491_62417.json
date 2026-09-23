@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18872491",
+  "scraped_at": "2026-09-22T22:06:50.362695",
+  "organization_id": "62417",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Komplexitás Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4220 Hajdúböszörmény, Honvéd utca 15",
+      "x_koordináta": "48.2226394",
+      "y_koordináta": "21.5089907",
+      "adószám": "18872491-2-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-31",
+      "statisztikai_számjel": "18872491-8730-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Célcsoportjaink közé tartoznak azon hátrányos helyzetű, pszichés betegséggel küzdő, egészségkárosodott, autista, fogyatékkal élő (látás-, hallás-, testi-, értelmi-, beszéd) gyerek, ifjú, felnőtt és idős emberek, akik problémával küzdenek, illetve állapotuk akadályozza őket abban, hogy teljes életet élhessenek. A fent említett csoportokon kívül alapítvány segíti és támogatja az idős embereket is. Az alapítvány célja a fenti célcsoportok számár olyan programok, tevékenységek és szolgáltatások biztosítása, amelyek elősegítik életminőségük javulását, illetve fejlődésüket, Cél továbbá a hátrányok csökkentése, a társadalmi helyzetük javítása, nevelés-oktatása, integráció, habilitáció és rehabilitáció elősegítése. Az alapítvány célja továbbá a fogyatékossággal élő emberek számára támogatott lakhatás biztosítása, olyan otthon teremtése számukra, ahol életkoruknak, egészségi állapotuknak és önellátási képességeiknek megfelelő és családias légkörben élhetnek. Ezáltal a normalizációs filozófia érvényesül, amely alatt azt kell érteni, hogy a célcsoportok számára olyan környezetet kíván biztosítani az alapítvány, mint amilyenben a társadalom állampolgárai élnek. Alapítvány céljainak egyik fontos eleme az ellátottak foglalkoztatása, azaz, hogy saját jövedelemre tegyenek szert. A foglalkoztatás az anyagi javak mellett erősítheti az önbizalmukat, a hasznosság tudatukat. Szociális gazdálkodás keretein belül célcsoportok munkatevékenysége több területet is magába foglal, a kézműves termékek előállításától kezdve a kertészkedésen és állattartáson keresztül az előállított termékek feldolgozásáig. Célkitűzés a környezettudatos gondolkodásra nevelés. Ennek érdekében a foglalkoztatás során fontos szempontok a „hulladék” felhasználása és új érték teremtése. Alapítvány célja az 1993. évi III. törvényben foglalt alapszolgáltatások és szakellátások biztosítása (pl. étkeztetés, nappali ellátás, támogatott lakhatás stb.) További cél az állampolgárokat megismertetése a célcsoportok értékeivel és képességeivel, ezzel elősegítve a társadalmi szemléletváltást.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064462",
+      "régi_nyilvántartási_száma": "64462/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-04-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "109180010000009000300004",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8730",
+        "Leírás": "Idősek, fogyatékosok bentlakásos ellátása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "171 930 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "67 635 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "279 283 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

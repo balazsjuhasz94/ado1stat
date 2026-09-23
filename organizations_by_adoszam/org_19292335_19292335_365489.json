@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19292335",
+  "scraped_at": "2026-09-22T22:17:31.454543",
+  "organization_id": "365489",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bárány Család a Családokért Közhasznú Alapítvány",
+      "rövid_név": "Bárány Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4600 Kisvárda, Ipari utca 9.",
+      "adószám": "19292335-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-06",
+      "statisztikai_számjel": "19292335-9499-569-15",
+      "x_koordináta": "48.2237578",
+      "y_koordináta": "22.0739031"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány kiemelt célja: A Master Good cégcsoporthoz kapcsolódó gazdasági társaságoknál (továbbiakban: „Master Good Cégcsoport”) dolgozó hátrányos helyzetben lévő munkavállalók gyermekeinek tehetséggondozás céljából való felkarolása, segítése illetve támogatása, különösen az oktatás, a kultúra, a különféle művészeti ágak, a zene, a sport és az egészségügyi ellátás területén, továbbá a Master Good Cégcsoportnál dolgozó hátrányos helyzetű munkavállalók illetve azok családja részére rendkívüli esetben (anyagi illetve tárgyi jellegű) támogatás nyújtása. Az alapítvány további célja a Master Good Cégcsoport működési területén (ez jelenleg: Szabolcs-Szatmár-Bereg Vármegye, Hajdú-Bihar Vármegye, Borsod-Abaúj-Zemplén Vármegye és Vas Vármegye) működő gyermek- illetve idősotthonok igény szerinti segítése, támogatása anyagi illetve tárgyi eszközök útján, valamint az élsportolók egyéni támogatása és a Ronald Mcdonald ház debreceni felépítésének és működésének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002580",
+      "régi_nyilvántartási_száma": "2580/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-05-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-17",
+      "bankszámlaszám": "11738008-21483981",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bárány-Béres",
+        "Képviselő keresztneve": "Rita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bárány-Balogh",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bárány",
+        "Képviselő keresztneve": "Lászlóné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 126 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19304993",
+  "scraped_at": "2026-09-22T22:18:06.584617",
+  "organization_id": "366446",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pakli Társasjáték Egyesület",
+      "rövid_név": "Pakli Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9400 Sopron, Csengery utca 26.",
+      "adószám": "19304993-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-07",
+      "statisztikai_számjel": "19304993-9499-529-08",
+      "x_koordináta": "47.6893832",
+      "y_koordináta": "16.618603"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Szabadidős tevékenység biztosítása felnőttek, családok, gyerekek számára társasjátékos alkalmak szervezésével, ezáltal a közösségszervezés, közösségépítés megvalósítása. Az egyesület a minőségi idő közös eltöltéséhez, megéléséhez nyújt teret, mellyel a jobb életminőséget szolgálja. A játék öröme mellett cél a felnőttek, gyermekek készségeinek fejlesztése, különös tekintettel a logikai, ügyességi és együttműködési készségekre. Céljai megvalósítása érdekében az egyesület az alábbi tevékenységeket folytatja: társasjáték klubokat, előadásokat, bemutatókat, akciókat, kampányokat, projekteket szervez és bonyolít, oktatással, tanácsadással segíti az érdeklődőket.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063244",
+      "régi_nyilvántartási_száma": "63244/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Henger",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-02",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-02",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Major",
+        "Képviselő keresztneve": "Vilmos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,102 @@
+{
+  "search_adoszam": "19290450",
+  "scraped_at": "2026-09-22T22:17:27.571855",
+  "organization_id": "365352",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Onkológiai Képalkotó Diagnosztika Fejlesztéséért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1163 Budapest, Gárda utca 54.",
+      "adószám": "19290450-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2024-11-11",
+      "adószám_törlésének_dátuma": "2024-05-11",
+      "statisztikai_számjel": "19290450-8230-569-01",
+      "x_koordináta": "47.5091611",
+      "y_koordináta": "19.1752337"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A radiológus szakemberek oktatásának, továbbképzésének szervezése, anyagi és szakmai támogatása, a pályakezdő szakemberek segítése. Radiológiai, szakmai tudományos értekezletek, konferenciák, előadások szervezése, lebonyolítása. Radiológiai szakmai tudományos munkák, szakirodalmak összegyűjtése, rendszerezése, pályázatok kiírása, díjazása, radiológiai kutatások támogatása. A radiológia továbbfejlesztésében való közreműködés tanulmányok készítésével, pályázatok kiírásával. Tudományos kiállítások, konferenciák, előadások szervezése és lebonyolítása. Radiológus szakemberek tudományos értekezleteken, konferenciákon való részvételének, továbbképzésének támogatása. Oktatási anyagok, az oktatást elősegítő informatikai berendezések beszerzése. A radiológia fejlődését elősegítő gépek, műszerek beszerzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013019",
+      "régi_nyilvántartási_száma": "13019/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tárnoki",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "Domonkos",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tárnoki",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "László",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fábiánné Kiss",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

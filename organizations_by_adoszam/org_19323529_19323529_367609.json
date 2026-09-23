@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19323529",
+  "scraped_at": "2026-09-22T22:19:11.907304",
+  "organization_id": "367609",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Körber Hungária Önsegélyező Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7632 Pécs, Móra Ferenc utca 72.",
+      "adószám": "19323529-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-10",
+      "statisztikai_számjel": "19323529-8899-569-02",
+      "x_koordináta": "46.0490901",
+      "y_koordináta": "18.2159482"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja, hogy az alapító szociálisan hátrányos helyzetű, vagy önhibájukon kívül nehéz élethelyzetbe kerülő munkavállalóit a társadalmi esélyegyenlőségük elősegítése érdekében támogassa, az ehhez szükséges feltételeket előteremtse, biztosítsa. Az alapítvány segíti a támogatott munkavállalók családját (egyenesági leszármazóit), a család egészségének a fenntartását, lakhatásuk biztosítását. Az alapítvány ennek érdekében adományokat gyűjt, szociális ellátást biztosít.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001941",
+      "régi_nyilvántartási_száma": "1941/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Inotai",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zalay",
+        "Képviselő keresztneve": "Buda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kónya",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

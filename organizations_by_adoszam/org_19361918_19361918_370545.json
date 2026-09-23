@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19361918",
+  "scraped_at": "2026-09-22T22:22:54.091600",
+  "organization_id": "370545",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány a krízishelyzetbe került rendőrökért és családjaikért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9400 Sopron, Várkerület utca 27. I/10.",
+      "adószám": "19361918-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-06-13",
+      "statisztikai_számjel": "19361918-9499-569-08",
+      "x_koordináta": "47.6893832",
+      "y_koordináta": "16.618603"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A Soproni Rendőrkapitányság hivatásos állományába tartozott, hivatásos állományban eltöltött 20 év tényleges szolgálati idővel rendelkező, krízis helyzetbe került aktív vagy nyugállományú rendőrök, illetve családjaik megsegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051508",
+      "régi_nyilvántartási_száma": "51508/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Herczeg",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19108113",
+  "scraped_at": "2026-09-22T22:12:41.354162",
+  "organization_id": "97431",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Rákász Gergely Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9026 Győr, Kertész utca 34.",
+      "x_koordináta": "47.7009166",
+      "y_koordináta": "17.6339387",
+      "adószám": "19108113-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-31",
+      "statisztikai_számjel": "19108113-9499-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Rákász Gergely Alapítvány határon túli és anyaországi magyar területekre, valamint magyar közösségeknek szervez hangversenyeket magyar művészekkel. Minden megvalósult koncertre onnan ide - innen oda, úgy tekint, mint egy-egy öltésre két elszakított nemzetrész között a művészet erejével. A támogatott művészekkel szemben elvárás az egy nemzet gondolatának ápolása, az eseményeknek ennek szellemében kell megvalósulniuk",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051422",
+      "régi_nyilvántartási_száma": "51422/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "58600300-16913688",
+      "számlavezető_pénzintézet_neve": "Duna Takarék Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kónya",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "Klára",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hrabovszky",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "87 949 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

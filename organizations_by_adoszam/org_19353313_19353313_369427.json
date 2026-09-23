@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19353313",
+  "scraped_at": "2026-09-22T22:21:19.838320",
+  "organization_id": "369427",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Búvársport Sportegyesület",
+      "rövid_név": "MBS SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7677 Orfű, Kishegyi utca 7. 21.",
+      "adószám": "19353313-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-02",
+      "statisztikai_számjel": "19353313-9312-521-02",
+      "x_koordináta": "46.1470877",
+      "y_koordináta": "18.1542395"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A szabadidős légzőkészülékes búvársport népszerűsítése hazai és nemzetközi szinten, oktatási rendszerektől függetlenül. Összefogni azokat, akik a búvársportot, a búvár tevékenységet űzni óhajtják. A tagok számára gyakorlási, merülési lehetőséget biztosítani, szervezni; támogatni tagjai belföldi és külföldi merüléseken való részvételét. Megismerni és megvédeni a víz alatti környezetet, az ott található tárgyakat és élőlényeket. A természet- és környezetvédelem elősegítése. A szabadidő hasznos eltöltésének elősegítése. A búvársporton keresztül az egészéges életmód népszerűsítése. Magyarországon és külföldön működő, búvárkodással foglalkozó egyesületekkel, más szervezetekkel történő kapcsolat kiépítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0004129",
+      "régi_nyilvántartási_száma": "4129/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-10",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bien",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dóri",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

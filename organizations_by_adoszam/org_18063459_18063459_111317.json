@@ -1,0 +1,164 @@
+{
+  "search_adoszam": "18063459",
+  "scraped_at": "2026-09-22T21:41:09.463723",
+  "organization_id": "111317",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Snowboard Szövetség",
+      "rövid_név": "MSBSZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1146 Budapest, Istvánmezei út 1-3.",
+      "x_koordináta": "47.5030304",
+      "y_koordináta": "19.090438",
+      "adószám": "18063459-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1994-07-01",
+      "statisztikai_számjel": "18063459-9312-515-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Országos sportági szakszövetség",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A szakszövetség célja, hogy elősegítse a snowboard sportág fejlődését, népszerűsítését, képviselje sportágának és tagjainak érdekeit, megvalósítsa a hazai jogszabályok és a nemzetközi szövetségei szabályzataiban foglalt célkitűzéseiket és feladatokat.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-07-0000062",
+      "régi_nyilvántartási_száma": "62/2006",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-03-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-05-13",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2026-08-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bécsy",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Némethné Harmat",
+        "Képviselő keresztneve": "Rózsa",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-03-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 986 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "4 030 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "18 078 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 240 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "28 822 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "43 034 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "156 466 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "200 317 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "105 726 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 416 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "212 802 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "206 188 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Sznowboard Szövetség"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Snowboard Szövetség"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

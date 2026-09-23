@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "19141679",
+  "scraped_at": "2026-09-22T22:13:23.033304",
+  "organization_id": "101629",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Öreg Sasok Motoros Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8154 Polgárdi, Balatoni út 17.",
+      "x_koordináta": "47.0590865",
+      "y_koordináta": "18.3070848",
+      "adószám": "19141679-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-11",
+      "statisztikai_számjel": "19141679-9319-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "1. A magyar nemzeti, valamint a keresztény eszmék és értékek megőrzése, a nemzeti hagyományok ápolása. 2. A motoros életforma megismertetése, népszerűsítése, melyet az Egyesület a motoros hagyományok ápolásával, új kapcsolatok kiépítésével, motoros találkozók megszervezésével és lebonyonyolításával kíván elérni. 3. A motorosok szabadidejének hasznos eltöltése, a motorozás, mint szabadidős tevékenység népszerűsítése. 4. A magyarországi motoros kultúra, közlekedési morál javításának elősegítése, segítségnyújtás a közlekedési ismeretek elsajátításához, gyakorlati tudás megszerzéséhez. részvétel az ezzel kapcsolatos rendezvényeken. 5. Motoros túrák, motorostalálkozók, kiállítások, motoros börzék megszervezése, lebonyolítása, amelyek során a résztvevők megismerhetik a motoros életformát, elsajátíthatják a gyakorlati közlekedési ismereteket és a motorral kapcsolatos egyéb gyakorlati tudásra tehetnek szert. 6. Kapcsolattartás más hazai motoros egyesületekkel, határon túli kapcsolatok kialakítása és azok ápolása. 7. Az Egyesület céljának megvalósítása érdekében együttműködik minden állami, társadalmi és gazdálkodó szervezettel, más egyesülettel és szövetséggel, amelyek segítik az Egyesület eredményes működését és céljainak megvalósítását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0003202",
+      "régi_nyilvántartási_száma": "3202/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gazdag",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-06",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Polácska",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-06",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Árpád",
+        "Képviselő titulusa": "Imre",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-06",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "19320234",
+  "scraped_at": "2026-09-22T22:18:52.218690",
+  "organization_id": "367685",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "VASUTAS MOTOROS EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6044 Kecskemét-Hetényegyháza, Kossuth Lajos utca 62.",
+      "adószám": "19320234-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-03",
+      "statisztikai_számjel": "19320234-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Magyarország és azon belül a régió motorsport és turisztikai népszerűsítése, a motoros életmód népszerűsítése nemzetközi, országos és regionális szinten kulturális és egyéb rendezvények szervezésén és lebonyolításán keresztül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003938",
+      "régi_nyilvántartási_száma": "3938/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fenyvesi",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

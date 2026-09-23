@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "18212158",
+  "scraped_at": "2026-09-22T21:44:46.776903",
+  "organization_id": "102687",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gödöllői Jégkorong Sportegyesület",
+      "rövid_név": "Gödöllői Jégkorong S.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2117 Isaszeg, Batthyány Lajos utca 47.",
+      "x_koordináta": "47.5154276",
+      "y_koordináta": "19.0507874",
+      "adószám": "18212158-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-05-31",
+      "statisztikai_számjel": "18212158-9312-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "a) Fiatalok oktatása, képességeik fejlesztése, rendszeres sportolásra, illetve sportszerű életmódra és példamutató magatartásra nevelése, valamint egészséges életmódjuk és pozitív életszemléletük kialakítása elsődlegesen a jégkorong sport, és a kapcsolódó közösség-szervezői munka segítségével. b) Szabadidősport keretében a sporttevékenység, és a testedzés népszerűsítése, valamint elsődlegesen a jégkorong, de akár más sportágban is széles körben elérhetővé tétele. c) Versenysport keretében az utánpótlás számára sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése, különösen hazai és nemzetközi versenyekre való felkészítése, illetve versenyeztetése. d) Fiatal sportolók továbbtanulásának támogatása, illetve aktív sportpályafutásuk utáni életre való felkészítésük. e) Hátrányos helyzetű gyerekek bevonása a hazai sportéletbe, felkarolásuk, sporttevékenységük előmozdítása, valamint sportpályafutásuk támogatása. f) Az egyesület a fenti, a)-e) pontokban írt céljait elsődlegesen Gödöllőn kívánja megvalósítani, elsődlegesen gödöllői magánszemélyek javára. Az egyesület célja továbbá Gödöllő városban mobil jégpálya és jégkorong csarnok beruházás megvalósítása és az ehhez kapcsolódó gödöllői jégkorong akadémiai megalapítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0014338",
+      "régi_nyilvántartási_száma": "14338/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-03-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-03-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "201 911 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "152 005 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "281 094 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

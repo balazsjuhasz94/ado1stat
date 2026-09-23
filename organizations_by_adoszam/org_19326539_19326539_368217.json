@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19326539",
+  "scraped_at": "2026-09-22T22:19:17.974271",
+  "organization_id": "368217",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyógyító Macik Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1082 Budapest, Baross utca 112. I/1.",
+      "adószám": "19326539-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-03-21",
+      "statisztikai_számjel": "19326539-9499-569-01",
+      "x_koordináta": "47.4873542",
+      "y_koordináta": "19.0751639"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Betegséggel küzdők segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013275",
+      "régi_nyilvántartási_száma": "13275/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Somlainé Kiss",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "Katalin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "201 478 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19424228",
+  "scraped_at": "2026-09-22T22:26:06.285586",
+  "organization_id": "375485",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hang-Szín Művészeti Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7100 Szekszárd, Széchenyi utca 38.",
+      "adószám": "19424228-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2025-09-27",
+      "statisztikai_számjel": "19424228-8520-569-17",
+      "x_koordináta": "46.3468945",
+      "y_koordináta": "18.7051347"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Szekszárdi Liszt Ferenc Alapfokú Művészeti Iskola intézményében tanuló gyermekek alapfokú művészeti nevelése, az alapfokú művészeti iskola támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000240",
+      "régi_nyilvántartási_száma": "240/2024",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kolozsvári",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

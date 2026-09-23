@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19212632",
+  "scraped_at": "2026-09-22T22:14:54.630363",
+  "organization_id": "112377",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Tündérvilág\" A Gyermekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Visonta út 2.",
+      "x_koordináta": "47.769771",
+      "y_koordináta": "19.926137",
+      "adószám": "19212632-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-28",
+      "statisztikai_számjel": "19212632-9499-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja olyan anyagi alap teremtése, amely lehetővé teszi, hogy a Gyöngyös Város Óvodai Tündérkert Tagóvodában (3200 Gyöngyös, Visonta út 2.) felkészült, elkötelezett pedagógusokkal, magas szintű oktatást és nevelést nyújtson tanulói számára, az előírt tananyag átadásán túlmenően a gyerekek személyiségét, képességeit fejlessze, azonos lehetőségeket biztosítva a nehéz körülmények között élő diákok számára a kultúra, illetőleg a sport lehetőségeihez való hozzájutásban, továbbá lehetőségeihez mérten támogassa a tagóvoda működését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001191",
+      "régi_nyilvántartási_száma": "1191/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-06-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szakácsné Nagy",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "500 635 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 774 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "193 198 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "257 409 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Tündérvilág\" a Gyermekekért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

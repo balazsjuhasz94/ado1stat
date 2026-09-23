@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19350743",
+  "scraped_at": "2026-09-22T22:21:04.191529",
+  "organization_id": "369557",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nyugat Társaság Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1051 Budapest, József Attila utca 1. 1. em./2.",
+      "adószám": "19350743-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-15",
+      "statisztikai_számjel": "19350743-8569-569-01",
+      "x_koordináta": "47.4991837",
+      "y_koordináta": "19.0492994"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány felsőoktatásban tanuló diákoknak nyújt ösztöndíjat és kiegészítő kurzusokat, tehetséggondozás céljából.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013396",
+      "régi_nyilvántartási_száma": "13396/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-07-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-16",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rajna-Celebi",
+        "Képviselő keresztneve": "Renáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7430",
+        "Leírás": "Fordítás, tolmácsolás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18610374",
+  "scraped_at": "2026-09-22T21:57:37.865738",
+  "organization_id": "86735",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ácsteszérért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2887 Ćcsteszér, Kossuth utca 45.",
+      "adószám": "18610374-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-02-03",
+      "statisztikai_számjel": "18610374-9499-569-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Támogatás nyújtása a község intézményei, közcélú szervezetei, valamint minden olyan lakossági kezdeményezés számára, amely különböző közösségi célok megvalósítására irányuló kulturális, oktatási, egészségügyi, szociális, környezetvédelmi stb. téren.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0000763",
+      "régi_nyilvántartási_száma": "763/1999",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-06-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Reif",
+        "Képviselő keresztneve": "Jánosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "94 463 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 271 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 585 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "134 405 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "249 523 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "380 867 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 893 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ácsteszérért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ácsteszérért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Ácsteszérért Alapítvány"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "CSTESZRRT KZALAPITVNY",
+        "Év": "2016"
+      }
+    ]
+  },
+  "error": null
+}

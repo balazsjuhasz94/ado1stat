@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19239314",
+  "scraped_at": "2026-09-22T22:15:43.494716",
+  "organization_id": "121877",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Civilek Püskiért 2020",
+      "rövid_név": "CP 2020",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9235 Püski, Szabadság utca 1.",
+      "x_koordináta": "47.8841479",
+      "y_koordináta": "17.4082704",
+      "adószám": "19239314-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-08",
+      "statisztikai_számjel": "19239314-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "- Püski településen a közművelődési, kulturális, művészeti és sport tevékenységek fejlesztése, támogatása, ápolása népszerűsítése. - A község vallási és kulturális hagyományainak, értékeinek, ünnepeinek megőrzése, fejlesztése, fenntartása és népszerűsítése. - A település arculatának formálása, épített és természeti környezetének megőrzése, fejlesztése, védelme természeti és környezetvédelmi munka által. - Segítség és támogatás nyújtása a települési önkormányzat részére annak Püski közigazgatási területén belül végzett közfeladatai ellátásához. - Püski településen a szociális segítségnyújtás fejlesztése, fenntartása, (nagycsaládosok, nyugdíjasok, betegek stb.) - A település energetikai takarékoskodásának elősegítése, fejlesztése. - A település idegenforgalmi és turisztikai fejlődésének előmozdítása. - A határon túli és testvérközségi kapcsolatok megőrzése, fejlesztése. - A község fiatal tehetségeinek felkutatása, támogatása a művészeti, kulturális, képzőművészeti, sport, tudomány stb. területén - A községben letelepülni kívánó családok támogatása, a helyben maradás elősegítése, a település lakosait kiszolgáló közoktatási és köznevelési (tag)intézmények (óvoda, bölcsőde, iskola) fejlesztése, támogatása - A település gazdasági fejlesztésének támogatása, elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063168",
+      "régi_nyilvántartási_száma": "63168/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-10-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Blázsovits",
+        "Képviselő keresztneve": "Lászlóné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 496 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "236 117 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

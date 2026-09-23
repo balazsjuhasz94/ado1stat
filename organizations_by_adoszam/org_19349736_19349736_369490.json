@@ -1,0 +1,135 @@
+{
+  "search_adoszam": "19349736",
+  "scraped_at": "2026-09-22T22:21:00.217105",
+  "organization_id": "369490",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "NORDIC SUN Kulturális Alapítvány",
+      "rövid_név": "NORDIC SUN Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2634 Nagybörzsöny, Völgy utca 2.",
+      "adószám": "19349736-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-01",
+      "statisztikai_számjel": "19349736-5920-569-13",
+      "x_koordináta": "47.9249296",
+      "y_koordináta": "18.8590001"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja az európai nemzetek közötti elfogadás, megértés elősegítése, a sovinizmus leküzdése, elsősorban a könnyűzenei kiadványok segítségével. Hiszünk abban, hogy egymás kultúrájának megismerése segít a falak lebontásában és minél több európai ébred rá, sokkal több dolog köt minket össze, mint ami elválaszt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013390",
+      "régi_nyilvántartási_száma": "13390/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szécsi",
+        "Képviselő keresztneve": "Levente",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [
+      {
+        "Folyamatban lévő eljárás típusa": "NAV végrehajtás",
+        "Folyamatban lévő eljárás kezdete": ""
+      }
+    ],
+    "teaor": [
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "5630",
+        "Leírás": "Italszolgáltatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "4761",
+        "Leírás": "Könyv-kiskereskedelem"
+      },
+      {
+        "Kód": "4762",
+        "Leírás": "Újság-, papíráru-kiskereskedelem"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4771",
+        "Leírás": "Ruházat kiskereskedelem"
+      },
+      {
+        "Kód": "4778",
+        "Leírás": "Egyéb m.n.s. új áru kiskereskedelme"
+      },
+      {
+        "Kód": "4791",
+        "Leírás": "Csomagküldő, internetes kiskereskedelem"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

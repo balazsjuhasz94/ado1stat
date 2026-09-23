@@ -1,0 +1,138 @@
+{
+  "search_adoszam": "18574124",
+  "scraped_at": "2026-09-22T21:55:57.254002",
+  "organization_id": "110557",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyöngyösi Polgárőrség",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3200 Gyöngyös, Fő tér 3.",
+      "x_koordináta": "47.7852939",
+      "y_koordináta": "19.9247054",
+      "adószám": "18574124-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-04-28",
+      "statisztikai_számjel": "18574124-9499-526-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0000557",
+      "régi_nyilvántartási_száma": "557/1991",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-04-20",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-04-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Medve",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Torma",
+        "Képviselő keresztneve": "Krisztián",
+        "Képviselő titulusa": "Károly",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vastag",
+        "Képviselő keresztneve": "Krisztián",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "20 975 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 228 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "50 205 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 988 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 500 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "185 370 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 263 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "221 145 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyöngyös Városi Polgárőrség"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyöngyösi Polgárőrség"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyöngyös Város Polgárőrség"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyöngyös Város Polgárőr Szervezete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gyöngyösi Polgárőrség"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

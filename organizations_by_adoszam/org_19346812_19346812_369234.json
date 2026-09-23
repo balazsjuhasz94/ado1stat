@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19346812",
+  "scraped_at": "2026-09-22T22:20:34.306736",
+  "organization_id": "369234",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csatahajó Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1135 Budapest, Csata utca 20.",
+      "adószám": "19346812-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-10",
+      "statisztikai_számjel": "19346812-8569-569-01",
+      "x_koordináta": "47.5282889",
+      "y_koordináta": "19.081622"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az iskolai alapfeladatokon túl elősegíteni az oktatás és nevelés fejlesztését, a személyi és tárgyi feltételek javítását, a tanulók lelki, szellemi és testi fejlődését, az egészséges életmódra való nevelés érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013355",
+      "régi_nyilvántartási_száma": "13355/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Hajnalka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

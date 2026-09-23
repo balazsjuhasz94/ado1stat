@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "18969300",
+  "scraped_at": "2026-09-22T22:10:21.252231",
+  "organization_id": "36438",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kanizsa Teniszklub Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8800 Nagykanizsa, Virág B. út 2.",
+      "x_koordináta": "46.4638312",
+      "y_koordináta": "16.9981015",
+      "adószám": "18969300-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-12-12",
+      "statisztikai_számjel": "18969300-9312-521-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_altípusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Megfelelő háttér biztosítása a tenisz gyakorlásához, a teniszen túl a szabadidősport népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0001895",
+      "régi_nyilvántartási_száma": "1895/2004",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-16",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "247 453 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

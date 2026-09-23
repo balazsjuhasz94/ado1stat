@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19361877",
+  "scraped_at": "2026-09-22T22:22:52.104507",
+  "organization_id": "370554",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jancsó Bence Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1108 Budapest, Szövőszék utca 16. fszt./2.",
+      "adószám": "19361877-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-06-08",
+      "statisztikai_számjel": "19361877-8412-569-01",
+      "x_koordináta": "47.4721006",
+      "y_koordináta": "19.1736735"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány segítséget kíván nyújtani Jancsó Bence kedvezményezettnek abban, hogy a tartós betegsége, súlyos fogyatékossága (aktivitás és figyelem zavara, gyermekkori autizmus, középsúlyos értelmi sérülés) ellenére is méltóságteljes életet tudjon élni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013480",
+      "régi_nyilvántartási_száma": "13480/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10408131-50527080-48691003",
+      "számlavezető_pénzintézet_neve": "Kereskedelmi és Hitelbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyalog",
+        "Képviselő keresztneve": "Gergő",
+        "Képviselő titulusa": "Sándor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

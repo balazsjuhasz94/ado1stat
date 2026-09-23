@@ -1,0 +1,117 @@
+{
+  "search_adoszam": "18646456",
+  "scraped_at": "2026-09-22T21:58:55.203506",
+  "organization_id": "53598",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Véméndért\" Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7726 Véménd, Tavasz utca 1.",
+      "x_koordináta": "46.155927",
+      "y_koordináta": "18.6149519",
+      "adószám": "18646456-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-05-06",
+      "statisztikai_számjel": "18646456-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Véménd természeti és társadalmi környezetének védelme, ápolása, a település szellemei és tárgyi fejelődésének elősegítése. A községben élő német nemzetiség kulturális és nyelvi hagyományainak ápolása az épített és tárgyi emlékek őrzése és gondozása. A településen élő emberek részére ismeretterjesztő oktató programok szervezése, megtartása. A község polgárai emberi és állampolgári jogai védelméhez való segítségnyújtás, kapcsolattartás hasonló szervezetekkel. Német kisebbséggel kapcsolatos helyi, megyei, regionális összejövetelek szervezése, részvétel kulturális rendezvényeken.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003488",
+      "régi_nyilvántartási_száma": "3488/2014",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2021-12-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-27",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Etele Péterné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-09-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 258 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "156 205 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "222 029 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 247 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 250 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 759 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Véméndért\" Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Véméndért\" Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Véméndért\" Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

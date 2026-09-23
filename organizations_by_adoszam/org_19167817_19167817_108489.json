@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19167817",
+  "scraped_at": "2026-09-22T22:14:01.777937",
+  "organization_id": "108489",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szombathelyi Futóklub Szabadidősport Egyesület",
+      "rövid_név": "Szombathelyi Futóklub SZSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9700 Szombathely, Kodály Zoltán utca 4. I./5.",
+      "x_koordináta": "47.2409866",
+      "y_koordináta": "16.5926124",
+      "adószám": "19167817-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-09-11",
+      "statisztikai_számjel": "19167817-9312-521-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "- az amatőr és a hobbifutás széles körben történő népszerűsítése, gyermekkortól az időskorig - stresszel teli rohanó világunkban tartalmas és egészséges szabadidő eltöltési lehetőség megteremtése, - mozgásszegény életmód elleni küzdelem példamutatással a fiatalok számára, - az egészséges életmód promótálása, - a dohányzás és a drog elleni alternatíva nyújtása a sport keretében, - amatőr és versenyfutók segítése, közösségépítés, - amatőr, utcai futóversenyek szervezése, - működési területén elősegíteni a futómozgalom elterjesztését, a saját programjában szereplő rendezvényeken kívül külön megállapodás alapján közreműködik más szervezet által rendezett sporteseményeken - az esélyegyenlőség jegyében testi és lelki fogyatékkal élők számára lehetőséget teremtünk, hogy közös sportolás alkalmával lehetőségük legyen a futás szépségét átélni. - az egyesület céljának megvalósítása érdekében együttműködik minden állami, társadalmi és gazdálkodó szervezettel, más egyesülettel és szövetséggel, amelyek segítik az egyesület eredményes működését és céljainak megvalósítását",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200773",
+      "régi_nyilvántartási_száma": "200773/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-17",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pátkai",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "113 227 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "197 741 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "255 377 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

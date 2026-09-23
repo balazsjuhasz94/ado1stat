@@ -1,0 +1,108 @@
+{
+  "search_adoszam": "18749449",
+  "scraped_at": "2026-09-22T22:02:49.050320",
+  "organization_id": "95478",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Alapellátás fejlesztéséért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6723 Szeged, Etelka sor 1. 1.",
+      "x_koordináta": "46.2596693",
+      "y_koordináta": "20.171909",
+      "adószám": "18749449-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-20",
+      "statisztikai_számjel": "18749449-8559-569-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az egészségügyi alapellátás fejlesztése. Orvosi és szakdolgozói továbbképzések szervezése, megtartása, új képzési módszerek bevezetése, ösztöndíjak létesítése, pályázatok kivitelezése, műszerpark fejlesztése a gyakorlati munka színvonalának emelése érdekében. Egészségügyi alapellátásban dolgozók szakmai feladatainak jobb teljesítése céljából szakirodalmi anyagokkal történő ellátása; hazai és nemzetközi tudományos rendezvényeken való részvétel elősegítése; hazai és nemzetközi kutatási eredmények publikálásának előmozdításával a tehetséges, egészségügyi alapellátásban dolgozó orvosok támogatása, szakképesítésük megszerzésében, doktori fokozatuk elnyerésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001630",
+      "régi_nyilvántartási_száma": "1630/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-02-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10702040-69590054-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Albert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "128 562 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "112 234 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "124 445 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "205 830 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "293 378 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "261 417 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Alapellátás fejlesztéséért\" Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Alapellátás fejlesztéséért\" Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Alapellátás fejlesztéséért\" Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

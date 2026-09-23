@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "18539783",
+  "scraped_at": "2026-09-22T21:54:56.430511",
+  "organization_id": "106757",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Önkéntes Tűzoltó Egyesület Pereszteg",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9484 Pereszteg, Ady Endre utca 1.",
+      "x_koordináta": "47.593296",
+      "y_koordináta": "16.734905",
+      "adószám": "18539783-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-07-05",
+      "statisztikai_számjel": "18539783-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "A Peresztegi Önkéntes Tűzoltó Egyesület alapszabályával összhangban: a jogszabályban meghatározott tűzvédelmi feladatok helyi megvalósításának társadalmi elősegítése és ennek ellátására önként jelentkezők szervezése, egyesítése. Tagjainak közösségi életre történő nevelése, szervezett keretek között - tagjai tűzvédelmi szakismeretének rendszeres növelése, a helyi tűzmegelőzési és tűzoltás tevékenység biztosításaként.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0000415",
+      "régi_nyilvántartási_száma": "415/1989",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-05-10",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Talhammer",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "Lajos",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 487 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

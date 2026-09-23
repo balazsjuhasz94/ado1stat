@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18750872",
+  "scraped_at": "2026-09-22T22:02:55.216518",
+  "organization_id": "91742",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tiszavirág Néptáncegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6772 Deszk, Tempfli tér 8.",
+      "x_koordináta": "46.2199706",
+      "y_koordináta": "20.2436255",
+      "adószám": "18750872-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-31",
+      "statisztikai_számjel": "18750872-9020-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A civil szervezet célja: A magyar néptánc kultúra, azon belül elsősorban a Dél-Alföldi térség népművészeti értékeinek összegyűjtése, megismertetése. Az egyesület keretében Deszken és Szegeden működő néptánccsoportok támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003199",
+      "régi_nyilvántartási_száma": "3199/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-09-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "Gergely",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-04-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "106 088 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "273 175 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 964 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

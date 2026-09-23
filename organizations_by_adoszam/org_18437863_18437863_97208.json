@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "18437863",
+  "scraped_at": "2026-09-22T21:51:18.547182",
+  "organization_id": "97208",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szalézi Szent Ferenc Gimnázium Diáksport Egyesület",
+      "rövid_név": "SDSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3700 Kazincbarcika, Jószerencsét út 2.",
+      "x_koordináta": "48.2543347",
+      "y_koordináta": "20.6261072",
+      "adószám": "18437863-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-08-24",
+      "statisztikai_számjel": "18437863-9312-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület sportegyesület, amely a magyar sport hagyományos szervezeti alapegysége, a versenysport, a tehetséggondozás, az utánpótlás-nevelés és a szabadidősport műhelye. Az egyesület olyan sportegyesület, amely az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény és a Polgári Törvénykönyv szabályai szerint működő olyan egyesület, amelynek alaptevékenysége a sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése. A sportegyesület célja: a rendszeres sportolás (versenyzés) testedzés, felüdülés biztosítása, az ilyen igények felkeltése, tagjainak nevelése. A tagok a közhasznú szervezetekről szóló 2011. évi CLXXV.törvény alapján egészségügyi tevékenység, egészségmegőrzés, valamint sporttevékenység közhasznú feladatok ellátására hozták létre az egyesületet.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0003145",
+      "régi_nyilvántartási_száma": "3145/2001",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-04-09",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-01-30",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Seresné Trója",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-29",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Móth",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "261 062 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

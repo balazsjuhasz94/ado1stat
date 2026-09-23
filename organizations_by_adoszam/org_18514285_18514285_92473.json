@@ -1,0 +1,111 @@
+{
+  "search_adoszam": "18514285",
+  "scraped_at": "2026-09-22T21:54:08.461540",
+  "organization_id": "92473",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Konok Kunok Motoros Klub Egyesület",
+      "rövid_név": "Konok Kunok Motoros Klub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6400 Kiskunhalas, Kadarka utca 1.",
+      "x_koordináta": "46.455576",
+      "y_koordináta": "19.4659109",
+      "adószám": "18514285-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-11-07",
+      "statisztikai_számjel": "18514285-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "A magyar nemzeti eszmék és értékek megőrzése, a nemzeti hagyományok ápolása. A kun hagyományok őrzése. A motoros kultúra fejlesztése, az emberek-család-motor természet összhangjának megteremtése. Karitatív tevékenységek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003322",
+      "régi_nyilvántartási_száma": "3322/2013",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-07-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Györgyi",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Péter-Szabó",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "4312",
+        "Leírás": "Építési terület előkészítése"
+      },
+      {
+        "Kód": "4321",
+        "Leírás": "Villanyszerelés"
+      },
+      {
+        "Kód": "4322",
+        "Leírás": "Víz-, gáz-, fűtés-, légkondicionáló-szerelés"
+      },
+      {
+        "Kód": "4331",
+        "Leírás": "Vakolás"
+      },
+      {
+        "Kód": "4332",
+        "Leírás": "Épületasztalos-szerkezet szerelése"
+      },
+      {
+        "Kód": "4333",
+        "Leírás": "Padló-, falburkolás"
+      },
+      {
+        "Kód": "4334",
+        "Leírás": "Festés, üvegezés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "231 235 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 528 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,120 @@
+{
+  "search_adoszam": "18856105",
+  "scraped_at": "2026-09-22T22:06:13.837342",
+  "organization_id": "94233",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bátaszéki Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "Bátaszék ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7140 Bátaszék, Hunyadi utca 46.",
+      "x_koordináta": "46.1918068",
+      "y_koordináta": "18.721054",
+      "adószám": "18856105-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-07-01",
+      "statisztikai_számjel": "18856105-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "A működési területén keletkezett tűz- és műszaki kár felszámolása. Szükség esetén segítségkérés, a munkáltatókban való közreműködés. Ehhez tűzoltóegységet szervezet és biztosítja a működését. Ápolja a tűzoltói hagyományok, tűzvédelmi felvilágosítást végez. A tűzvédelmi előírásokat társadalmi ellenőrzés, a tűzvédelemmel összefüggő és annak fejlesztését elősegítő szolgáltatások végzése. A tűzvédelmi feladatok helyi megvalósításának szakmai elősegítése. Tűzvédelmi szakmai képzést elősegítő tanfolyamok, a tűzvédelmi ismeretek bővítését célzó rendezvények szervezése, lebonyolítása. A diáktűzoltó mozgalom felelevenítése, a tanuló ifjúság tűzvédelmi nevelése. Kapcsolattartás más védelmi jellegű szervezetekkel, a hivatásos tűzoltósággal, a tűzoltószövetséggel, és Polgármesteri Hivatallal. Az egyesület közvetlen politikai tevékenységet nem folytat, szervezete pártoktól független és azoknak anyagi támogatást nem nyújt, és nem fogad el. Gazdálkodás az egyesület vagyonával és költségvetési bevételeivel. Az egyesület tűzvédelmi szakmai feladatát a mindenkori érvényes jogszabályok keretei belül végzi a helyi adottságok, elvárások és lehetőséget figyelembe vétele mellett.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0000163",
+      "régi_nyilvántartási_száma": "163/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2014-04-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ill",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mayer",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "80",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 797 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "239 632 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "140 690 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "296 414 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "133 346 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "400 799 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "287 155 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bátaszéki Önkéntes Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BÁTASZÉKI ÖNKÉNTES TŰZOLTÓ EGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "BÁTASZÉKI ÖNKÉNTES TŰZOLTÓ EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Bátaszéki Önkéntes Tűzoltó Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

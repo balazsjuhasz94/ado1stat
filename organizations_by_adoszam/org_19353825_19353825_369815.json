@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19353825",
+  "scraped_at": "2026-09-22T22:21:27.579594",
+  "organization_id": "369815",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egy lépéssel több Hajós István Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1131 Budapest, Rokolya utca 1-13. 5. em.",
+      "adószám": "19353825-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-07",
+      "statisztikai_számjel": "19353825-9499-569-01",
+      "x_koordináta": "47.5454237",
+      "y_koordináta": "19.0865687"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A szegénységben élő, társadalmi perifériára szorult, illetve hátrányos helyzetű társadalmi csoportok, személyek, családok természetbeni és pénzbeli támogatása, adományozás. - A szociális helyzetből adódó hátrány kompenzálása, felzárkóztatás. - Beteg gyermekek és családjaik részére anyagi támogatás juttatása, a gyógyításhoz szükséges gyógyszerek, eszközök beszerzéséhez anyagi támogatás juttatása. - Anyagi támogatás nyújtása gyógyító eljárásokhoz a szegénységben élő, társadalmi perifériára szorult, illetve hátrányos helyzetű társadalmi csoportok, személyek, családok részére. - A szegénységben élő, társadalmi perifériára szorult, illetve hátrányos helyzetű társadalmi csoportok, személyek, családok kulturális, táborozási, kirándulási, sportolási lehetőségeinek elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013418",
+      "régi_nyilvántartási_száma": "13418/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-09-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-04-29",
+      "alkalmazottak_száma": "5",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-09-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hajós",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "János",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csiszér",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

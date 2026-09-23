@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "18908185",
+  "scraped_at": "2026-09-22T22:08:13.942613",
+  "organization_id": "74739",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PROKON Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1097 Budapest, Gyáli út 15-/E. alagsor/4. ajtó",
+      "x_koordináta": "47.5054717",
+      "y_koordináta": "19.0828836",
+      "adószám": "18908185-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-12",
+      "statisztikai_számjel": "18908185-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesület célja a társadalmi és állampolgári tudatosság erősítése, oktatási kulturális és társadalomtudományi szakmai programokkal. Az egyesület tagjai szakmai tevékenységük mellett szeretnék soraikban integrálni az ifjúság tagjait, különös tekintettel a középiskolai, az egyetemi és főiskolai hallgatókra, pályakezdőkre, valamint fiatal, vagy kezdő vállalkozókra. Az egyesület nyitott minden olyan kulturális lehetőség irányába, amely erősítheti a polgári értékek fejlődését, és képes lehet integrálni a közösség tagjait a polgári létbe. Célunk, hogy tevékenységünkkel segítsük a kelet-közép európai országok kis- és közepes vállalkozásainak erősödését, az országok között átívelő, kölcsönösen előnyös kapcsolatok kialakítását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016587",
+      "régi_nyilvántartási_száma": "16587/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Klesch",
+        "Képviselő keresztneve": "Dávid",
+        "Képviselő titulusa": "Barnabás",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "141 126 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "205 584 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "206 316 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 036 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PROKON Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

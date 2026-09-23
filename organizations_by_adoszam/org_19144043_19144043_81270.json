@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19144043",
+  "scraped_at": "2026-09-22T22:13:31.187323",
+  "organization_id": "81270",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Béke és Igazság Pilisszentléleki Modell Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2508 Pilisszentlélek, Pálosok utcája 11.",
+      "x_koordináta": "47.726117",
+      "y_koordináta": "18.842698",
+      "adószám": "19144043-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-01-01",
+      "statisztikai_számjel": "19144043-9329-561-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "A különböző vallású, nemzetiségű és világnézetű emberek olyan közösségének létrehozása, akik feladatuknak tekintik: az emberi alapértékeket kibontakoztató közösségi szempontok szerinti nevelés és oktatás megújítását, a nemzetiségi kultúra megóvását és ismertetését, a falu és környéke történelmi értékeinek feltárását és bemutatását, a természet védelmét, rehabilitálását és a faluban a természettel harmonizáló életmód modelljének kialakítását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0000027",
+      "régi_nyilvántartási_száma": "27/1990",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-02-15",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kiss-Maly",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "88 982 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 853 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 612 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "278 667 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Béke és Igazság\" Pilisszentléleki Modell Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

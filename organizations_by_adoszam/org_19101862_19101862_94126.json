@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19101862",
+  "scraped_at": "2026-09-22T22:12:33.432868",
+  "organization_id": "94126",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "DOJO Szabadidő Sportegyesület",
+      "rövid_név": "DOJO Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5600 Békéscsaba, Fényesi utca 219",
+      "x_koordináta": "46.653081",
+      "y_koordináta": "21.1596698",
+      "adószám": "19101862-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-12-17",
+      "statisztikai_számjel": "19101862-9312-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Sportegyesület a rendszeres sportolás, versenyzés, testedzés, az ilyen irányú igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása céljából létrehozott civil szervezet. A Sportegyesület nemre, nemzetiségre, korra, világnézetre, vallási hovatartozásra tekintet nélkül tömöríti tagjait és számukra lehetőségei keretei között Sportegyesületi életet és sportolási alkalmat teremt. A Sportegyesület elsődlegesen Békéscsaba és a környező települések területén támogatja tagsága és a lakosság szabadidő sportját, valamint a diáksportot, elősegíti a fiatal, tehetséges sportolók tehetségének kibontakozását, hazai és nemzetközi versenyekre való felkészülését. Bajnokságokon, kupákban és mérkőzéseken vesz részt, illetve ilyeneket rendez. Hozzájárul a hazai sportélet céljainak megvalósításához. A Sportegyesület a Sportegyesületi célok megvalósításával közvetlenül összefüggő gazdasági tevékenységet végezhet.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003482",
+      "régi_nyilvántartási_száma": "3482/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-06",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdei",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "185 085 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 987 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "189 626 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "261 354 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "DOJO Szabadidő Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

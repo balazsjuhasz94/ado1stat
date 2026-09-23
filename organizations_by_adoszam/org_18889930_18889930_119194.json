@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18889930",
+  "scraped_at": "2026-09-22T22:07:29.173850",
+  "organization_id": "119194",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szombathelyi Darts Club Sport Egyesület",
+      "rövid_név": "Szombathelyi DCSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9700 Szombathely, Ciklámen körút 51.",
+      "x_koordináta": "47.2522426",
+      "y_koordináta": "16.6002424",
+      "adószám": "18889930-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-20",
+      "statisztikai_számjel": "18889930-9312-521-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A Szombathely és környéki dartozni vágyó egészséges fiatalok ésés idősebbek sportolási lehetőségeinek biztositása abból a célból, hogy a rendszeresmozgással és sportolással lehetőséget kapjanak arra, hogy az ennek révén elért kedvező fizikai változással egészségesebb életet élhessenek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0000016",
+      "régi_nyilvántartási_száma": "16/1999",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-24",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csóka",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 100 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "112 874 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "173 008 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "245 731 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "216 834 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "239 797 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szombathelyi Darts Club Sport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szombathelyi Darts Club Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szombathelyi Darts Club Sport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

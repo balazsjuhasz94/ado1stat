@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18267639",
+  "scraped_at": "2026-09-22T21:46:17.916612",
+  "organization_id": "35049",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jégkorszak Sport Egyesület",
+      "rövid_név": "Jégkorszak SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1046 Budapest, Lázár Vilmos utca 4.",
+      "x_koordináta": "47.4679596",
+      "y_koordináta": "19.0459896",
+      "adószám": "18267639-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-11-02",
+      "statisztikai_számjel": "18267639-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A versenyszerű és amatőr sportolás és testedzés biztosítása, kiemelten a fiatalok versenyeken való elindulása, a sportolás iránti igények felkeltése, sportemberhez méltó nevelése. Az egyesület törekszik arra, hogy tevékenységével kiszolgálja közönségét és tagságát, elősegítse a szabadidő hasznos eltöltésével a sportot szerető fiatalok összetartozását, közös programok szervezését elősegítse a sportolóinak országos és nemzetközi versenyeken való részvételét. Az Egyesület fő célja gyerekek és felnőttek számára korcsolya és kapcsolódó sporttevékenység végzését biztosítani rendszeres szabadidős és versenyszerű formában. Az Egyesület célja továbbá a korcsolya sport és egyéb sportolási és testedzési lehetőségek biztosítása. Az Egyesület célja a fentieken kívül a sérült, beteg gyermekek részére korcsolya oktatás és korcsolyázási lehetőség biztosítása. Az Egyesület célja a fentieken kívül a sérült, beteg gyermekek részére korcsolya oktatás és korcsolyázási lehetőség biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0013594",
+      "régi_nyilvántartási_száma": "13594/2009",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-22",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Erdődiné Császár",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "110 025 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "2 533 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "110 589 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "117 091 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "204 200 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jégkorszak Közhasznú Sport Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jégkorszak Közhasznú Sport Egyesület"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jégkorszak Közhasznú Sport Egyesület"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jégkorszak Közhasznú Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jégkorszak Sport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

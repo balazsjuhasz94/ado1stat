@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19372293",
+  "scraped_at": "2026-09-22T22:24:49.974005",
+  "organization_id": "371433",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zaklajda Team Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Lóverseny utca 27. 6/17.",
+      "adószám": "19372293-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-11-27",
+      "statisztikai_számjel": "19372293-8551-569-03",
+      "x_koordináta": "46.9096235",
+      "y_koordináta": "19.6815426"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Gyermekek részére táborok szervezése, illetve lebonyolítása. Adományok gyűjtése gyermekek táboroztatására. Rászoruló gyermekek támogatása tehetséggondozó program keretein belül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002704",
+      "régi_nyilvántartási_száma": "2704/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zaklajda",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

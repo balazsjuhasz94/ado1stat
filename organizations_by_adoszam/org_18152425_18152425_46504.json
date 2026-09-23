@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "18152425",
+  "scraped_at": "2026-09-22T21:43:17.610654",
+  "organization_id": "46504",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Prause József Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2230 Gyömrő, Szent István út 59-61.",
+      "x_koordináta": "47.4251671",
+      "y_koordináta": "19.3990704",
+      "adószám": "18152425-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-01-12",
+      "statisztikai_számjel": "18152425-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A Gyömrői Római Katolikus Egyházközség céljainak elősegítése, közösségeinek, éves tevékenységének és rendezvényeinek támogatása. A gyömrői római katolikus templomok fenntartása. A gyömrői plébánia vonzáskörzetébe tartozó nagycsaládosok és hátrányos helyzetűek támogatása, gyermekek táboroztatása, iskola rendszeren belüli képzésének és iskola rendszeren kívüli öntevékeny, önképző, szakképző közösségek támogatása, a gyermekek és az ifjúság erkölcsi és közösségi környezettudatos nevelésének elősegítése, a rászoruló fiatalok és családjaik támogatása, munkanélküliek támogatása, idősek gondozása. Az egyházközség közösségi, hitéleti és hitoktatási tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003352",
+      "régi_nyilvántartási_száma": "3352/2010",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Brandenburg",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

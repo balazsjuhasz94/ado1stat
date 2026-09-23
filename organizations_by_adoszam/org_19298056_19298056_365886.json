@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19298056",
+  "scraped_at": "2026-09-22T22:17:43.140084",
+  "organization_id": "365886",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KISKUNFÉLEGYHÁZI FUNKCIONÁLIS SPORTEGYESÜLET",
+      "rövid_név": "K.F.S.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6100 Kiskunfélegyháza, Szegedi út 62.",
+      "adószám": "19298056-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-19",
+      "statisztikai_számjel": "19298056-9312-521-03",
+      "x_koordináta": "46.7238778",
+      "y_koordináta": "19.8506138"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az Egyesület célja a rendszeres sportolás, testedzés, valamint a funkcionális fitnesz versenysport és szabadidőtevékenységek lehetőségeinek és szervezeti kereteinek biztosítása, az ilyen irányú igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és közösségi élet kibontakoztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003892",
+      "régi_nyilvántartási_száma": "3892/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-02-22",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-02-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 771 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

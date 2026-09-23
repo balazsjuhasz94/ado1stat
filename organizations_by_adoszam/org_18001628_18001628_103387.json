@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "18001628",
+  "scraped_at": "2026-09-22T21:39:46.663589",
+  "organization_id": "103387",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyáli úti Puskás Tivadar Almamáter Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1097 Budapest, Gyáli út 22.",
+      "x_koordináta": "47.4688667",
+      "y_koordináta": "19.1005119",
+      "adószám": "18001628-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-01-20",
+      "statisztikai_számjel": "18001628-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "a gyáli úti almamáterben végzettek szellemi tőkéjének aktivizálása a hazai telekommunikációs és tartalomszolgáltatási szakemberképzés fejlesztésének érdekében. ● A gyáli úti Puskás Tivadar Távközlési Technikum életében való szerepvállalás, a hagyományok ápolása, e célból a közéleti tevékenységben való aktív részvétel. ● A távközlési oktatást érintő döntések előkészítésében, meghozatalában való részvétel. ● A civil közélet fellendítése, a kapcsolatok fejlesztése. ● A telekommunikáció, az információs forradalom, új technológiák minél szélesebb körben való megismertetése és terjesztése. ● Az egyesület segíti azokat a kezdeményezéseket, amelyek az előbbiekben megfogalmazott általános és konkrét elképzelést és cselekvési szándékot tartalmaznak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0013590",
+      "régi_nyilvántartási_száma": "13590/2009",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-03-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Váradi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Heller",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-05-31",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sörös",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2027-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "18446184",
+  "scraped_at": "2026-09-22T21:51:34.831516",
+  "organization_id": "74805",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PATRÓNUS Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3980 Sátoraljaújhely, Pataki utca 45.",
+      "x_koordináta": "48.3809983",
+      "y_koordináta": "21.6478849",
+      "adószám": "18446184-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2004-11-08",
+      "statisztikai_számjel": "18446184-8899-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "A hátrányos helyzetű csoportok szociális felkarolása. Helyi kultúrális, sport, népművészeti, műemlékvédelmi, oktatási és környezetvédelmi feladatok, valamint az állampolgári jogok, a közrend és a közbiztonság védelme érdekében tevékenykedők támogatása, valamint az egészségmegőrzés, betegség megelőzés, gyógyító-egészségügyi rehabilitációs tevékenység, szociális tevékenység, családsegítés, időskorúak gondozása, tudományos tevékenység, kutatás képességfejlesztés, ismeretterjesztés, kulturális örökség megóvása, természetvédelem gyermek- és ifjúságvédelem, gyermek és ifjúság érdekképviselet, hátrányos helyzetű csoportok esélyegyenlőségének elősegítése, a magyarországi nemzeti és etnikai kisebbségekkel, valamint a a határon túli magyarsággal kapcsolatos tevékenység, az euroatlanti integráció elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0002101",
+      "régi_nyilvántartási_száma": "2101/2004",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-11-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szajkó",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "50 297 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "11",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "74 409 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "126 831 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "41 309 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Patrónus Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

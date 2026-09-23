@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19165169",
+  "scraped_at": "2026-09-22T22:13:57.644670",
+  "organization_id": "106599",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nyír1 Bikers Motoros Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4531 Nyírpazony, Kabalási út 98.",
+      "x_koordináta": "47.9912449",
+      "y_koordináta": "21.7786771",
+      "adószám": "19165169-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-07-16",
+      "statisztikai_számjel": "19165169-9499-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Hátrányos helyzetű gyerekek és családok, beteg gyerekek életminőségének javítása, motoros hagyomány őrzés. A társadalom hátrányos helyzetben lévő tagjainak történő segítségnyújtás, gazdasági, szociális és közösségi integrációjuk elősegítése, a társadalmi kirekesztettség csökkentése, Szabolcs-Szatmár-Bereg megye területén. Támogatja állatmenhelyek és állatotthonok kialakítását, üzemeltetését, ideiglenes befogadói hálózat fenntartását és működtetését, önkéntesek képzését és oktatását, tájékoztatás az állatvédelem elősegítése érdekében. Segítséget nyújt a nehéz helyzetben élő állattartók részére, tanácsadással és adományok kiosztásával, az állatvédő civil szervezetekkel való közreműködésével. Adományok gyűjtése, kiosztása. Motoros hagyományőrzés, az alapítvány tevékenységének keretein belül, és különállóan is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002550",
+      "régi_nyilvántartási_száma": "2550/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10918001-00000107-69250008",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Malakuczi",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

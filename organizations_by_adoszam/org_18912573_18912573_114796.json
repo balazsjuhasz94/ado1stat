@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18912573",
+  "scraped_at": "2026-09-22T22:08:22.175489",
+  "organization_id": "114796",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Vándor-Rock Motoros Egyesület",
+      "rövid_név": "M.V.B.T.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2315 Szigethalom, Egri utca 4.",
+      "x_koordináta": "47.3174778",
+      "y_koordináta": "19.0069072",
+      "adószám": "18912573-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-18",
+      "statisztikai_számjel": "18912573-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület célja a környezetvédelemmel, mint közhasznú tevékenységgel egészül ki, amely az alábbi közfeladathoz kapcsolódik: „közterület tisztántartásával és a lomtalanítási akciókkal kapcsolatos feladatok”, amelynek jogszabályhelye a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény 21.§.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007307",
+      "régi_nyilvántartási_száma": "7307/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bednarik",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "168 668 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "109 972 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "210 065 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "228 002 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 791 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Vándor-Rock Motoros Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Magyar Vándor Rock Motoros Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19007775",
+  "scraped_at": "2026-09-22T22:11:26.263326",
+  "organization_id": "92305",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Modern Filológiai Társaság",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1088 Budapest, Múzeum körút 4. D. 208.",
+      "x_koordináta": "47.4939606",
+      "y_koordináta": "19.0628491",
+      "adószám": "19007775-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1989-03-01",
+      "statisztikai_számjel": "19007775-9412-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység",
+      "céljának_leírása": "A modern filológiai kutatások (az élő idegen nyelvek irodalma, nyelvészete, kultúrája, illetve mindezek története és jelene tanulmányozásának) elősegítése; a modern filológia hazai teljesítményeinek megismertetése külföldön, valamint a külföldi eredmények bemutatása hazánkban; kölcsönhatások és tipológiai párhuzamok vizsgálata a nemzeti nyelvek, irodalmak és kultúrák között; az idegen nyelvek, az idegen nyelvű irodalmak és kultúrák oktatásának és közvetítésének előmozdítása; a modern filológia vívmányainak megismertetése az érdeklődők szélesebb körével, a közművelődés szolgálata; fiatal kutatók számára nyilvános megmérettetés biztosítása; külföldi irodalmak kiemelkedő alkotásainak elemzése és ismertetése, magyar nyelvre fordításuknak és kiadásuknak szorgalmazása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0000513",
+      "régi_nyilvántartási_száma": "513/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2011-04-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

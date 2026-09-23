@@ -1,0 +1,28 @@
+{
+  "search_adoszam": "16678370",
+  "scraped_at": "2026-09-22T21:39:41.271559",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SÁTORALJAÚJHELYI VÁROSI KÖNYVTÁR",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3980 SÁTORALJAÚJHELY DÓZSA GYÖRGY UTCA 8.",
+      "adószám": "16678370",
+      "x_koordináta": "48.3757074",
+      "y_koordináta": "21.6439265"
+    },
+    "fonadatok": {
+      "céljának_leírása": ""
+    }
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "340 243 Ft"
+      }
+    ]
+  },
+  "error": null
+}

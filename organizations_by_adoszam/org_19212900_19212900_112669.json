@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19212900",
+  "scraped_at": "2026-09-22T22:14:56.626390",
+  "organization_id": "112669",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szabolcs-Szatmár-Beregi Hospice Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Szent István utca 68.",
+      "x_koordináta": "48.0076339",
+      "y_koordináta": "21.7531576",
+      "adószám": "19212900-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-14",
+      "statisztikai_számjel": "19212900-8610-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Általános cél: Támogatás nyújtása a végstádiumba került daganatos betegek életvégi ellátásában. Ennek érdekében célunk: - A Jósa András Kórházban működő Hospice részleg segítése, a betegek gondozásának, jóllétének elősegítése, az ellátásukhoz szükséges tárgyi és személyi feltételek javítása. Szükség esetén beruházások finanszírozása. - A mátészalkai és fehérgyarmati kórházakban tervezett hospice részlegek fekvőbetegeinek ellátásához szükséges tárgyi és személyi feltételek javítása, a részlegek megalapításában segítségnyújtás. - Küldetésünknek tekintjük a széles körű lakossági felvilágosító munkát, az életvégi ellátásról szóló országos szintű szakmai ismeretterjesztést, szemléletformálást. - Kiemelt figyelmet fordítunk a hospice-palliatív ellátásban dolgozók szakmai képzésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002556",
+      "régi_nyilvántartási_száma": "2556/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szilágyi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8622",
+        "Leírás": "Szakorvosi járóbeteg-ellátás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

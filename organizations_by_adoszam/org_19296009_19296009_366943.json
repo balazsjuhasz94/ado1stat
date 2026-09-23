@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19296009",
+  "scraped_at": "2026-09-22T22:17:37.344141",
+  "organization_id": "366943",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vidám Napsugarak Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1239 Budapest, Grassalkovich út 279.",
+      "adószám": "19296009-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-19",
+      "statisztikai_számjel": "19296009-8569-569-01",
+      "x_koordináta": "47.3773182",
+      "y_koordináta": "19.1365536"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja, hogy Budapest Főváros XXIII. kerület Soroksár Önkormányzata II. számú Napsugár Óvodájának szociális vagy egészségügyi szempontból hátrányos helyzetű gyermekeinek segítséget nyújtson, anyagi támogatást biztosítson, hozzájáruljon a II. számú Napsugár Óvodában folyó nevelési és oktatási munka színvonalának emeléséhez, az óvodás gyermekek neveléséhez szükséges tárgyi eszközök beszerzéséhez. Mélyítse el az óvoda és a család kapcsolatát. Támogassa azokat a szülői és óvodai kezdeményezéseket, melyek az Intézmény életszínvonalának megtartását, emelését, a hatékonyság fokozását eredményezi. Hozzájárulásával támogassa a kulturális célok megvalósítását. Tegye lehetővé az óvodai dolgozók továbbképzését, beiskolázásuk anyagi támogatását, egyéni elbírálás alapján.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013061",
+      "régi_nyilvántartási_száma": "13061/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Káposztásné Kosztya",
+        "Képviselő keresztneve": "Henrietta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "289 702 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

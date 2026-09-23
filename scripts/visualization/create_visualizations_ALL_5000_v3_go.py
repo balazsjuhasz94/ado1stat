@@ -213,7 +213,7 @@ def aggregate_historical_data(df_subset):
 
 
 def calculate_yoy_growth(hist_data):
-    """Calculate year-over-year growth rate (2025 vs 2024)"""
+    """Calculate year-over-year growth rate (latest year vs. previous year present in the data)"""
     if not hist_data or len(hist_data) == 0:
         return 100.0  # Default to +100% if no data
 
@@ -228,15 +228,17 @@ def calculate_yoy_growth(hist_data):
         except:
             pass
 
-    # Get 2024 and 2025 amounts
-    amount_2024 = year_amounts.get('2024', 0)
-    amount_2025 = year_amounts.get('2025', 0)
+    if len(year_amounts) < 2:
+        return 100.0  # No prior year to compare against
 
-    # Calculate growth
-    if amount_2024 == 0:
-        return 100.0  # No 2024 data, default to +100%
+    latest, previous = sorted(year_amounts, reverse=True)[:2]
+    amount_previous = year_amounts.get(previous, 0)
+    amount_latest = year_amounts.get(latest, 0)
 
-    growth_rate = ((amount_2025 - amount_2024) / amount_2024) * 100
+    if amount_previous == 0:
+        return 100.0
+
+    growth_rate = ((amount_latest - amount_previous) / amount_previous) * 100
     return round(growth_rate, 1)  # Round to 1 decimal place
 
 

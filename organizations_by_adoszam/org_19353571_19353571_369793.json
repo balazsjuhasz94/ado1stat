@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19353571",
+  "scraped_at": "2026-09-22T22:21:23.708538",
+  "organization_id": "369793",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Talpra Zamat Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1212 Budapest, Kikötő utca 24.",
+      "adószám": "19353571-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-06",
+      "statisztikai_számjel": "19353571-8412-569-01",
+      "x_koordináta": "47.420944",
+      "y_koordináta": "19.0812176"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja Smitzer Zalán Bátor egészséges fejlődését, önálló mozgását, látásfejlődését biztosító, elősegítő, mozgás-koordinációját javító, fejlesztő, valamint életkörülményeinek megkönnyítését, javítását célzó magyarországi és külföldi műtétek, gyógykezelések, gyógymódok utókezelések, gyógytornák, fejlesztő foglalkozások finanszírozásának támogatása, mindezekkel összefüggő, ezekhez kapcsolódóan felmerülő utazási, szállás és étkezési költségek biztosítása, mozgást, látássegítő, könnyítő, valamint fejlesztő gyógyászati és egyéb segédeszközök, játékok, továbbá szállítást, közlekedést biztosító eszközök vásárlása, fenntartásukhoz, használatukhoz, karbantartásukhoz kapcsolódó költségek finanszírozása. Terápiás állatok vásárlása, kiképzésükkel, gondozásokkal kapcsolatos költségek finanszírozása (például: kutya).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013417",
+      "régi_nyilvántartási_száma": "13417/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11721002-21474457",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bodnár-Pap",
+        "Képviselő keresztneve": "Tünde",
+        "Képviselő titulusa": "Anikó",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19213509",
+  "scraped_at": "2026-09-22T22:14:58.688147",
+  "organization_id": "113937",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nádvirág Lovassport Egyesület",
+      "rövid_név": "Nádvirág LSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3700 Kazincbarcika, II. Rákóczi Ferenc út 1.",
+      "x_koordináta": "48.259246",
+      "y_koordináta": "20.629985",
+      "adószám": "19213509-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-20",
+      "statisztikai_számjel": "19213509-9319-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület szeretné a lovassportot és lovas hagyományokat minél több emberrel megismertetni. Lovassportokban való részvétellel, lovas rendezvények szervezésével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065903",
+      "régi_nyilvántartási_száma": "65903/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-08-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bán",
+        "Képviselő keresztneve": "Barbara",
+        "Képviselő titulusa": "Szilvia",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-08-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 400 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "231 216 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "237 378 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

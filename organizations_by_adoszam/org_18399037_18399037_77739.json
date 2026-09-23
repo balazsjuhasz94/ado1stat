@@ -1,0 +1,131 @@
+{
+  "search_adoszam": "18399037",
+  "scraped_at": "2026-09-22T21:50:03.066155",
+  "organization_id": "77739",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vízilabdasportért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3300 Eger, Szvorényi út 47.",
+      "x_koordináta": "47.8941086",
+      "y_koordináta": "20.3721812",
+      "adószám": "18399037-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-04-04",
+      "statisztikai_számjel": "18399037-9319-569-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az alapítvány célja , hogy népszerűsítse a vízilabda sportot, programokat, tornákat, amatőr bajnokságokat szervezzen és támogasson. Segítséget kíván nyújtani azon sportolóknak akik nem versenyszerűen kívánnak foglalkozni a vízilabdával, edzés és játéklehetőséget biztosítva számukra. Támogatni kívánja a sportág amatőr csapatait ezzel nagyobb közönség számára megnyitni a lehetőségeket a vízilabda irányába. Feladata a célok megvalósítását segítő eszközök felkutatása, támogatások igénybevétele és nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001095",
+      "régi_nyilvántartási_száma": "1095/2013",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-02-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Denk",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bánhidy",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csáki",
+        "Képviselő keresztneve": "Szabolcs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "45 443 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 445 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 179 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "19 988 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "41 794 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "39 002 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 853 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vizilabdasportért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vízilabdasportért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vízilabdasportért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vízilabdasportért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

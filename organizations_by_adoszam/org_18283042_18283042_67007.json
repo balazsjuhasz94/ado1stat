@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "18283042",
+  "scraped_at": "2026-09-22T21:46:44.324883",
+  "organization_id": "67007",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kecskeméti Szatyor Közösség Egyesület",
+      "rövid_név": "Kecskeméti Szatyor Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Szép utca 7/4.",
+      "x_koordináta": "46.9205295",
+      "y_koordináta": "19.6810877",
+      "adószám": "18283042-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-12-14",
+      "statisztikai_számjel": "18283042-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Az Egyesület célja: olyan közösségi kezdeményezéseket támogasson, amelyek terjesztik a lakosság körében a környezettudatos életmódot, hangsúlyozzák a környezettudatos fogyasztói magatartás hatását, a helyi gazdaság és a helyi identitás erősítésének jelentőségét, a közvetlen, rövid ellátási láncon keresztül létrejövő helyi termelő-fogyasztó kapcsolat előnyeit tudatosítják és a környezettudatos és társadalmilag felelős szemléletváltozást erősítik.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003221",
+      "régi_nyilvántartási_száma": "3221/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szigeti",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "106 055 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "150 272 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "206 800 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

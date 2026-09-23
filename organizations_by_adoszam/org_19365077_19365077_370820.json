@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19365077",
+  "scraped_at": "2026-09-22T22:23:33.696654",
+  "organization_id": "370820",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élő Szülőföld Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2481 Velence, Akácfa utca 14.",
+      "adószám": "19365077-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-07-31",
+      "statisztikai_számjel": "19365077-9499-569-07",
+      "x_koordináta": "47.2076337",
+      "y_koordináta": "18.6771409"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Primordiális szemléletformálás az organikus társadalmi képzetek kialakításának és a néptől elidegenedett társadalmi csoportok, emberek visszaintegrálásának érdekében, az érdem, a közösség és idealizmus értékei szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-01-0001249",
+      "régi_nyilvántartási_száma": "1249/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-02-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [
+      {
+        "Folyamatban lévő eljárás típusa": "NAV végrehajtás",
+        "Folyamatban lévő eljárás kezdete": ""
+      }
+    ],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

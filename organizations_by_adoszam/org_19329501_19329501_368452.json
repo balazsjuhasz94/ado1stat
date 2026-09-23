@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19329501",
+  "scraped_at": "2026-09-22T22:19:31.967979",
+  "organization_id": "368452",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mozgásfejlesztés és Küzdősport Alapítvány",
+      "rövid_név": "MOKÜ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2120 Dunakeszi, Balassi Bálint utca 3. 3/5.",
+      "adószám": "19329501-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-02",
+      "statisztikai_számjel": "19329501-9499-569-13",
+      "x_koordináta": "47.6336345",
+      "y_koordináta": "19.1385131"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Egyesületek, magánszemélyek támogatása a sporttal vagy fejlődéssel kapcsolatos tevékenységekben. Rendezvények, események szervezése, mely során biztosítani tudjuk az élményeket és a szórakozási lehetőségeket. Egy önálló sport központ létrehozása. Rászoruló gyermekek támogatása, anyagi, tárgyi és szellemi szinten egyaránt. Létrehozni a fiatal sportolók számára egy a tehetségüket és szorgalmukat jutalmazó díjátadót.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004291",
+      "régi_nyilvántartási_száma": "4291/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-12-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10700653-72992834-51100005",
+      "számlavezető_pénzintézet_neve": "CIB BANK Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kelemen",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 683 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

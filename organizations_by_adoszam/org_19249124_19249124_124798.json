@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19249124",
+  "scraped_at": "2026-09-22T22:16:11.886274",
+  "organization_id": "124798",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Tehetségkutató és Fejlesztő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1137 Budapest, Szent István park 35. 6. em./1.",
+      "x_koordináta": "47.5167631",
+      "y_koordináta": "19.0555064",
+      "adószám": "19249124-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-18",
+      "statisztikai_számjel": "19249124-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Tehetségkiválasztás, mentorálás, oktatásfejlesztés, kulturális szemléletformálás, sportfejlesztés, innovációs technológiák bevezetése, népszerűsítése. A fiatalok prevenciós önművelésének és nevelésének segítése annak érdekében, hogy a fiatalok képesek legyenek testi-lelki-szellemi egészségük kialakítására és megtartására, és így a társadalom értékes tagjaivá váljanak. Az egyesület elsősorban tagjainak, ugyanakkor minden magyar fiatalnak segítséget kíván nyújtani: a) a pályaválasztásban, b) a felkutatott tehetségek támogatásában, előmenetelük segítésében. c) a felelősségteljes gondolkodásmód kialakításában, szellemi látókörük szélesítésében, d) az egészséges, rendezett, környezettudatos életmód kialakításában, e) a szociális készségek és képességek fejlesztésében, f) a szabadidő értékes eltöltésében, különös tekintettel a sport és a kultúra ápolására és továbbadására, g) a regionális kisközösségek kialakításában.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017403",
+      "régi_nyilvántartási_száma": "17403/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-21",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

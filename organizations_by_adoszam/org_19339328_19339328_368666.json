@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "19339328",
+  "scraped_at": "2026-09-22T22:19:53.757489",
+  "organization_id": "368666",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BIG Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1051 Budapest, Sas utca 25.",
+      "adószám": "19339328-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-25",
+      "statisztikai_számjel": "19339328-9499-569-01",
+      "x_koordináta": "47.4991837",
+      "y_koordináta": "19.0492994"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Budapesti Innovatív Technikum, gimnázium és Szakképző Iskola és annak tanulói, pedagógusai, alkalmazottai támogatása, tehetséggondozás, tanulmányutak, tanulmányi versenyek és sportrendezvények, továbbképzések támogatása, technikai felszerelések beszerzése, eszközbeszerzések, fejlesztések támogatására.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013304",
+      "régi_nyilvántartási_száma": "13304/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-02-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-04",
+      "bankszámlaszám": "10918001-00000117-79090008",
+      "számlavezető_pénzintézet_neve": "UniCredit Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ráduly",
+        "Képviselő keresztneve": "Benedikta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 481 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

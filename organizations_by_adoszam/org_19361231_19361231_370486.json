@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19361231",
+  "scraped_at": "2026-09-22T22:22:48.216689",
+  "organization_id": "370486",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Betti Menedéke Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3744 Múcsony, Mező utca 69",
+      "adószám": "19361231-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-05-19",
+      "statisztikai_számjel": "19361231-9499-569-05",
+      "x_koordináta": "48.2686706",
+      "y_koordináta": "20.6831749"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány célja: állatmenhely létrehozása az állatbarátok összefogásával. Az alapítvány küldetése a beteg, bántalmazott, elhagyott, gazdátlan, vagy bármely más egyéb okból rászorult állatokról történő gondoskodás, táplálásuk, szükség szerint gyógykezelésük, ideiglenes és végleges elhelyezésük, lakhatásuk biztosítása, illetve megszervezése, és végső soron befogadó gazdáik megtalálása, befogadásuk megszervezése és lebonyolítása. Felhívni a közvélemény figyelmét a kulturált és felelős állattartásra, a tiszta környezet és a természet védelmére. Az állatvédelem támogatása, gyermekek és fiatalok állat- és természet szeretetre történő nevelése. Az Alapítvány törekszik önkéntesek bevonására, az általa esetlegesen foglalkoztatott, illetve közreműködő személyek a társadalmi és munkaerő piaci integrációjának elősegítésére, az ehhez szükséges, ezt segítő motivációk, készségek és képességek kialakítására, fejlesztésére",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064730",
+      "régi_nyilvántartási_száma": "64730/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kelemen",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "Magdolna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Bettina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

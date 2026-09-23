@@ -1,0 +1,154 @@
+{
+  "search_adoszam": "19070881",
+  "scraped_at": "2026-09-22T22:12:09.750149",
+  "organization_id": "102879",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3531 Miskolc, Győri kapu 42.",
+      "x_koordináta": "48.1144552",
+      "y_koordináta": "20.791828",
+      "adószám": "19070881-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1989-08-30",
+      "statisztikai_számjel": "19070881-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Az Egyesület alapfeladata: A fogyatékossággal élő, ezen belül elsősorban a súlyosan mozgássérült emberek társadalmi életben való egyenrangú részvételét segítő, a fogyatékosságból eredő sajátos érdekek képviseletét, szükség esetén védelmét is ellátó, civil szervezeti keretek közt működő segítség, támogatás nyújtása, melyet, a társadalmi gondoskodási és ellátó rendszer mellett, leginkább az ugyanezen hátrányokkal élő emberek által létrehozott civil szervezetek segítségével és közreműködésével kaphat meg. Az egyesület működésének alapvető célja A fogyatékossággal élő, de különösen, a mozgáskorlátozottság következtében tartósan fogyatékosság váló emberek érdekeinek megjelenítése, képviselete, szükséges esetén védelme, számukra szolgáltatások szervezése és nyújtása. E célok megvalósulása érdekében meghatározott további alapcélok - A fogyatékossággal élő emberek és családtagjaik számára lelki támasz, továbbá a társadalomban való részvételük elősegítése érdekében mentális, pszichés, sorstársi tanácsadás, jogi, információs és rehabilitációs segítség nyújtása. - Érdekérvényesítő, érdek-képviseleti, érdekvédelmi hálózat létrejöttének elősegítése és működtetése, fogyasztóvédelem. - Az érintett emberek és hozzátartozóik részére hiányt pótló szociális, képzési, egészségügyi és egyéb életvitelt segítő szolgáltatások nyújtása, illetve ilyen szolgáltatásokhoz való hozzáférés elősegítése. - A társadalmi beilleszkedést segítő közösségi szolgáltatások nyújtása az életvitel, a kultúra, a művészet, az önmegvalósítás, a sport, a szabadidősport, az egyéb szabadidős tevékenységek, a pihenés és rekreáció, a fejlesztés, a képzés, átképzés, felnőttképzés, a rehabilitációs célú foglalkoztatás területén. - A működési területén élő mozgássérültek helyzetének felmérése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0000421",
+      "régi_nyilvántartási_száma": "421/1989",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-12-02",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-30",
+      "alkalmazottak_száma": "17",
+      "a_nyilvántartott_adatok_verziószáma": "29",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gergely",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "107 734 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "184 342 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "78 522 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "79 028 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "106 696 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "52 259 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "194 952 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 978 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "282 230 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "222 643 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "278 741 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássésrültek és Barátaik Miskolc Városi Egyesülete"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Város Egyesülete"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek és Barátaik Miskolc Városi Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

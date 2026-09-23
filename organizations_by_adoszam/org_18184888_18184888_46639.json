@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "18184888",
+  "scraped_at": "2026-09-22T21:43:56.338964",
+  "organization_id": "46639",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ascher Oszkár Művészeti Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1171 Budapest, Rákoskert sugárút 66.",
+      "x_koordináta": "47.459997",
+      "y_koordináta": "19.306178",
+      "adószám": "18184888-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-07-28",
+      "statisztikai_számjel": "18184888-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Ascher Oszkár emlékének és a kultúra terén végzett áldozatos tevékenységének ápolása. Az Ascher Oszkár Színház tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0007951",
+      "régi_nyilvántartási_száma": "7951/2000",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Samodai",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

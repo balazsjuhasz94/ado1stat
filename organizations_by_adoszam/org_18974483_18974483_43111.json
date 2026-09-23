@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "18974483",
+  "scraped_at": "2026-09-22T22:10:35.768626",
+  "organization_id": "43111",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Add a Mancsod Egyesület",
+      "rövid_név": "CivilM Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9021 Győr, Arany János utca 28-32.",
+      "x_koordináta": "47.686605",
+      "y_koordináta": "17.634124",
+      "adószám": "18974483-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2003-09-10",
+      "statisztikai_számjel": "18974483-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A mentett és gazdás állatok, különösen kutyák rehabilitációja és oktatása. - A társadalom felelős állattartásra való nevelése. - Közös fellépés az állatok védelme érdekében. - Közös fellépés a környezet védelme érdekében. - Segítségnyújtás nehéz helyzetben lévő állattartóknak. - Állatvédelmi és környezetvédelmi ismeretek széles körben történő terjesztése népszerűsítése. - Egy a mai kor elvárásainak megfelelő állatmenhely, rehabilitációs és kiképzőközpont létrehozása, működtetése, és az ehhez szükséges források biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0002361",
+      "régi_nyilvántartási_száma": "2361/2003",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csillag",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 486 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 827 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 471 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Civilek a környezetért és művészetért egyesület"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CIVILEK A KÖRNYEZETÉRT ÉS A MŰVÉSZETÉRT EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

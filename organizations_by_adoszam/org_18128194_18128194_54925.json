@@ -1,0 +1,164 @@
+{
+  "search_adoszam": "18128194",
+  "scraped_at": "2026-09-22T21:42:39.931681",
+  "organization_id": "54925",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Emberekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1105 Budapest, Román utca 6.",
+      "x_koordináta": "47.474739",
+      "y_koordináta": "19.0323819",
+      "adószám": "18128194-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-10-09",
+      "statisztikai_számjel": "18128194-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység",
+      "céljának_leírása": "A fiatal és felnőtt állampolgárok egészséges életre való nevelése, egészségének megőrzése, szellemi és erkölcsi fejlődésének elősegítése, egyéni és társadalmi szinten jelentkező szociális és egészségügyi problémák feltárása, megoldása, ennek kapcsán az egyén ismereteinek bővítése, azok elmélyítését szolgáló törekvések segítése, melynek során céljának megvalósítása érdekében az alapítvány szükség szerint együttműködik társadalmi és egyházi szervezetekkel. A kultúra széleskörű terjesztése, kulturális programok, sport- és szabadidős tevékenységek, rendezvények szervezése; Gyermek- és ifjúságvédelmi programok szervezése, gyermekek és fiatalok iskolán kívüli nevelésének, művelődésének szervezése, támogatása, gyermekek létbiztonságának megteremtése, egészséges fejlődésének elősegítése. Az alapítvány rendeltetésével és céljaival összefüggő előadások, programok szervezésévhez, tartásához, kiadványok, információ-hordozók előállításához, forgalmazásához, oktatók szakmai munkája színvonalának emeléséhez, a szükséges technikai eszközök megteremtéséhez, bővítéséhez, a társadalom perifériáján elhelyezkedő, hátrányos helyzetű, mentálisan sérült fiatal és felnőtt állampolgárok deviáns magatartási jegyeinek és asszimilációs problémáinak leküzdéséhez azok megoldásához, valamint a társadalom különböző rétegei helyzetének javítása érdekében végzett emberbaráti, karitatív tevékenység megvalósításához történő segítségnyújtás, ennek érdekében - lehetőség szerint - új munkahelyek létesítése, ill. már meglévők fenntartása, fejlesztése, a hátrányos helyzetű rétegek foglalkoztatásának elősegítése. Az alapítvány támogatja a céljaival összhangban működő szervezetek, illetve magánszemélyek ilyen, vagy hasonló jellegű tevékenységét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0010330",
+      "régi_nyilvántartási_száma": "10330/2007",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-09-05",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gruber",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "73 954 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "70 685 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "77 386 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "39 786 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "63 278 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "58 523 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "58 855 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "65 245 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "72 574 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "155 395 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 367 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "222 170 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberekért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

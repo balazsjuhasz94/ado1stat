@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19551724",
+  "scraped_at": "2026-09-22T22:26:15.463726",
+  "organization_id": "36786",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bácsalmási Küzdősport Egyesület",
+      "rövid_név": "B.K.E.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6430 Bácsalmás, Korona utca 21.",
+      "x_koordináta": "46.1197752",
+      "y_koordináta": "19.3426606",
+      "adószám": "19551724-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-11-27",
+      "statisztikai_számjel": "19551724-9499-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A Body-Contact Kyokusin Karate tömegsportszerű elterjesztése, népszerűsítése, bemutatók, versenyek, edzőtáborok rendezése., Az ifjúság közösségi és sportszellemű nevelése, oktatása., Fogyatékosok sportolási és versenyzési lehetőségeinek biztosítása., Az arra rászorulónak ingyenes sportolási és versenyzési lehetőség biztosítása., A sportág sportolóinak minősítése (kyu és dan ? rendszerben)., Sportversenyek rendezése, szervezése., Az Egyesület tagjainak magyar és nemzetközi versenyeken való részvételének biztosítása. Nemzetközi versenyek szervezése Magyarországon., Edzőtáborok szervezése., A sportág elméleti tudásanyagára felkészítő szemináriumok, tanfolyamok, edzői képzések és továbbképzések szervezése, azon való részvétel támogatása., Sportklub-hálózat létrehozása és a klubok működésének felügyelete.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0002914",
+      "régi_nyilvántartási_száma": "2914/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-12",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tettinger",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "228 913 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "266 847 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

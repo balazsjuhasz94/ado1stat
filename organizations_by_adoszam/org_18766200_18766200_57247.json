@@ -1,0 +1,121 @@
+{
+  "search_adoszam": "18766200",
+  "scraped_at": "2026-09-22T22:03:19.535385",
+  "organization_id": "57247",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Reich Károly Iskola Alapítványa",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8636 Balatonszemes, Gárdonyi G. utca 1.",
+      "x_koordináta": "46.8059475",
+      "y_koordináta": "17.7791332",
+      "adószám": "18766200-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-01-01",
+      "statisztikai_számjel": "18766200-9499-569-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "A balatonszemesi Reich Károly Általános és Zeneiskola /8636.Balatonszemes,Gárdonyi G.út 1./ oktatási, kultúrális, nevelési tevékenységének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0001773",
+      "régi_nyilvántartási_száma": "1773/1997",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11743040-20058926",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Istvánné Nyári",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "133 801 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "97 847 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 323 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "165 053 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "203 821 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "160 780 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 721 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "203 092 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "REICH KÁROLY ISKOLA ALAPÍTVÁNYA"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "REICH KÁROLY ISKOLA ALAPÍTVÁNYA"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "REICH KÁROLY ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "REICH KÁROLY ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "REICH KÁROLY ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

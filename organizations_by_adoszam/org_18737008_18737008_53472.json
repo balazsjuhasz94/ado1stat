@@ -1,0 +1,114 @@
+{
+  "search_adoszam": "18737008",
+  "scraped_at": "2026-09-22T22:02:21.292076",
+  "organization_id": "53472",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tradicionális Pránanadi Pécs Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7629 Pécs, Szabolcsi út 11/2.",
+      "x_koordináta": "46.1051695",
+      "y_koordináta": "18.2681209",
+      "adószám": "18737008-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-03",
+      "statisztikai_számjel": "18737008-8210-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A pránanadi (univerzális életerő csatorna) technikának széles körű megismertetése és terjesztése. A természetes életmóddal kapcsolatos oktatási, nevelési tevékenység, önfejlesztő módszerek, technikák széles körű megismertetése és terjesztése, különös tekintettel a meditációs technikákra; az önismereti természeti törvényekkel összhangban álló gondolkodásmód, magatartásmód felismeréséhez és gyakorlatához való segítségnyújtás. Az alapítvány célja megismertetni az embereket a természetes gyógymódokkal és kezelési lehetőségeket biztosítani a gyógyulni vágyók számára, valamint a természetes gyógymódok oktatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001810",
+      "régi_nyilvántartási_száma": "1810/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-12-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kopa",
+        "Képviselő keresztneve": "Éva Ágnes",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "119 905 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "223 407 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 520 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "201 915 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "217 156 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 680 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "260 465 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tradicionális Pránanadi Pécs Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tradicionális Pránanadi Pécs Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tradicionális Pránanadi Pécs Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tradicionális Pránanadi Pécs Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

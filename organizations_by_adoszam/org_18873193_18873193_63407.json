@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "18873193",
+  "scraped_at": "2026-09-22T22:06:54.359706",
+  "organization_id": "63407",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Emőd Város Fúvószenekara Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3432 Emőd, Kossuth tér 1.",
+      "x_koordináta": "48.010729",
+      "y_koordináta": "20.8302214",
+      "adószám": "18873193-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-01-26",
+      "statisztikai_számjel": "18873193-8552-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az Egyesület alapvető célja a magyarországi, nemzetközi és világi fúvószenei kultúra ápolása, a fúvószene népszerűsítése, ezzel az ifjúság társadalmi és kulturális identitásának, zenei műveltségének erősítése. Ennek érdekében felkarol minden olyan célkitűzést, tevékenységet és kezdeményezést, amely a fúvószene ügyéhez kapcsolódik. Az Egyesület a fúvószene művészet stílusos megszólaltatásával részt vesz Emőd város kulturális életében, valamint képviseli a fúvószenei kultúrát és Emőd városát az országban és külföldön egyaránt. E tevékenységet a tagok önkéntességére alapuló, immár 25 éve működő zenekarként végzi.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065676",
+      "régi_nyilvántartási_száma": "65676/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vályi-Nagy",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-01-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "113 112 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "109 047 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 252 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 591 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "325 521 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "292 180 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emőd Város Fúvószenekara Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emőd Város Fúvószenekara Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emőd Város Fúvószenekara Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

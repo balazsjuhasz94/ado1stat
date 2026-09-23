@@ -1,0 +1,28 @@
+{
+  "search_adoszam": "18507667",
+  "scraped_at": "2026-09-22T21:53:48.211093",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BEAC Atlétika 1898. Szakosztály",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1111 BUDAPEST VAK BOTTYÁN UTCA 3. IV.EMELET.em. 6.a.",
+      "adószám": "18507667",
+      "x_koordináta": "47.4794347",
+      "y_koordináta": "19.055623"
+    },
+    "fonadatok": {
+      "céljának_leírása": ""
+    }
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "421 179 Ft"
+      }
+    ]
+  },
+  "error": null
+}

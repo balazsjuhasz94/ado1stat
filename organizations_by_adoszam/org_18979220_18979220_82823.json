@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18979220",
+  "scraped_at": "2026-09-22T22:10:52.024604",
+  "organization_id": "82823",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MAJOS ÉRTÉKEIÉRT EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7187 Bonyhád-Majos, V. utca 99.",
+      "x_koordináta": "46.3003614",
+      "y_koordináta": "18.4909582",
+      "adószám": "18979220-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-04-03",
+      "statisztikai_számjel": "18979220-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Bonyhád város település fejlesztésének és működésének elősegítése, támogatása, különös tekintettel Majos település részre. A település sokszínű és gazdag kulturális értékeinek megőrzése és ápolása, részvétel a környék természet- és környezetvédelmi feladatainak ellátásában, ismeretterjesztő előadások, a szabadidős programok szervezése, karitatív tevékenység a rászoruló családok javára, határon kívüli kapcsolatok kiépítése, kulturális és sportrendezvények támogatása, fejlesztése, egészségmegőrzés, szociális tevékenység, pályázati források hatékony lehívása és felhasználása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002153",
+      "régi_nyilvántartási_száma": "2153/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "144",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "601 840 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "114",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "514 409 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "58 560 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

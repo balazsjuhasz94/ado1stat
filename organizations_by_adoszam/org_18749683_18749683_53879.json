@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18749683",
+  "scraped_at": "2026-09-22T22:02:51.039050",
+  "organization_id": "53879",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Látrányi Önkéntes Életmentő és Tűzoltó Egyesület",
+      "rövid_név": "Látrányi ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8681 Látrány, Rákóczi utca 91.",
+      "x_koordináta": "46.741118",
+      "y_koordináta": "17.749958",
+      "adószám": "18749683-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-05-10",
+      "statisztikai_számjel": "18749683-8425-529-14"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "A jogszabályokban meghatározott tűzvédelmi feladatok helyi megvalósításának társadalmi elősegítése, és ennek ellátására önként jelentkezők szervezése, egyesítése, tagjainak közösségi életre történő nevelése, szervezett keretek között – tagjai tűzvédelmi szakismeretének rendszeres növelése, a helyi tűzmegelőzési, tűzoltási és műszaki mentési tevékenység biztosítása, utánpótlás nevelése, oktatása, tűzesetek, káresetek körülményeinek felderítésében való közreműködés, nemzetközi és hazai kapcsolatok kialakítása, ápolása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-02-0004274",
+      "régi_nyilvántartási_száma": "4274/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-03-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Turi",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 866 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "111 453 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "165 196 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 451 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "244 984 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Látrányi Önkéntes Életmentő és Tűzoltó Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Látrányi Önkéntes Életmentő és Tűzoltó Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

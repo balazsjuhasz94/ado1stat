@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "19353629",
+  "scraped_at": "2026-09-22T22:21:25.639543",
+  "organization_id": "369798",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Andante Sport, Oktatási és Kulturális Egyesület",
+      "rövid_név": "Andante Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8420 Zirc, Damjanich János utca 10.",
+      "adószám": "19353629-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-07",
+      "statisztikai_számjel": "19353629-9499-529-19",
+      "x_koordináta": "47.2492201",
+      "y_koordináta": "17.8584007"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az Egyesület célja olyan szemlélet kialakítása, melyben az egészséges és környezettudatos életmód, a sport, a kultúra és a tudásbővítés értéket képvisel a felnövekvő generáció számára. Célunk továbbá, hogy a zirci és a környékbeli lakosok számára olyan mintát adjunk a szabadidő minőségi eltöltésére, mellyel segítjük a családi, és emberi kapcsolatok erősödését.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0004075",
+      "régi_nyilvántartási_száma": "4075/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-01",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dobosné Vetzl",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Detre",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Barcsai",
+        "Képviselő keresztneve": "Beatrix",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csepin",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

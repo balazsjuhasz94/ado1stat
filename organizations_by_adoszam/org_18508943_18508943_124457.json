@@ -1,0 +1,121 @@
+{
+  "search_adoszam": "18508943",
+  "scraped_at": "2026-09-22T21:53:51.857975",
+  "organization_id": "124457",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nemzeti Maximumért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1012 Budapest, Márvány utca 17. V. emelet",
+      "x_koordináta": "47.6275059",
+      "y_koordináta": "19.1480422",
+      "adószám": "18508943-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-08-01",
+      "statisztikai_számjel": "18508943-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "ösztönözni és támogatni a magyar és egyetemes keresztény kultúrával és művelődéssel kapcsolatos tevékenységeket, a hagyományőrzést.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0010437",
+      "régi_nyilvántartási_száma": "10437/2007",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2017-02-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Stefka",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "János",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Huth",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Mézes",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "36 599 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "105 372 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "24 627 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "33 728 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "25 875 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Oikosz Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Oikosz Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Oikosz Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Oikosz Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

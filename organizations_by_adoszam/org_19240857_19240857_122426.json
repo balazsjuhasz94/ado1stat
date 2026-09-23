@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "19240857",
+  "scraped_at": "2026-09-22T22:15:47.454542",
+  "organization_id": "122426",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mosolyvár Bölcsödéért Alapítvány",
+      "rövid_név": "Mosolyvár Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2092 Budakeszi, Konth Miklós utca 2.",
+      "x_koordináta": "47.5166323",
+      "y_koordináta": "18.9256855",
+      "adószám": "19240857-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-22",
+      "statisztikai_számjel": "19240857-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítók az Alapítvány útján kívánják támogatni a Bölcsőde tevékenységét azzal, hogy önálló jogi személyiséggel rendelkező közérdekű szervezetet hoznak létre, amely tartós közérdekű céljai megvalósítása során a bölcsődei ellátásban részesülő gyermekek életkorának és szellemi fejlettségének megfelelő, a Bölcsőde költségvetése által nem fedezett szabadidős, nevelési és oktatási (együttesen: gyermek) programokat szervez, illetve az alapítványi vagyon, továbbá az általa befogadott adományok felhasználásával eszközöket szerez be az alapellátást meghaladó szintű működés elősegítésére, továbbá elősegíti a Bölcsődében folyó pedagógiai tevékenység fejlesztését. Az Alapítvány tevékenysége folytatása során kapcsolatot kíván tartani a megfelelő intézményi (szakmai, önkormányzati, állami, stb.) szakemberekkel, és velük közösen, (szakmai) iránymutatásaik figyelembe vételével kíván cselekedni.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004108",
+      "régi_nyilvántartási_száma": "4108/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-11-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11742348-21456523",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Benkő",
+        "Képviselő keresztneve": "Gáborbné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Veres",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bánné Kubancsik",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Illyés",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vágné Vranyecz",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 155 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

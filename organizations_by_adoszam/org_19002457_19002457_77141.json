@@ -1,0 +1,382 @@
+{
+  "search_adoszam": "19002457",
+  "scraped_at": "2026-09-22T22:11:22.263975",
+  "organization_id": "77141",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tudományos Ismeretterjesztő Társulat",
+      "rövid_név": "TIT",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1037 Budapest, Szépvölgyi út 31.",
+      "x_koordináta": "47.4924745",
+      "y_koordináta": "19.0641542",
+      "adószám": "19002457-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1988-01-01",
+      "statisztikai_számjel": "19002457-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Tagegyesületei segítségével változatos ismeretátadási formákkal és módszerekkel kielégítse a természet- és társadalomtudományok, valamint a mindennapi kultúrához tartozó ismeretek iránt érdeklődők igényeit; segítse hatékonyan a hazai tehetségnevelést, teremtsen új tehetségfeltáró és tehetséggondozó formákat; nyújtson segítséget a magyar nyelvi kultúra ápolásában és az idegen nyelvek minél szélesebb körű elsajátításában; kapcsolódjék be az egyre nagyobb jelentőségre szert tevő szakmai át- és továbbképzésbe; írásos és élőszavas formákkal tegye lehetővé a tudományok művelői és az iránta érdeklődők tájékozódását, elmélyült ismeretszerzést, és teremtsen részükre intézményes formákat az önművelésre, az értelmiségi szerep betöltésére, a közéletben való részvételre. A Társulat különös gondot fordítson arra, hogy lapjai (Élet és Tudomány, Természet Világa, Valóság) gazdagítsák a tudományos közművelődést.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0001079",
+      "régi_nyilvántartási_száma": "1079/1989",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-12-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-23",
+      "alkalmazottak_száma": "9",
+      "a_nyilvántartott_adatok_verziószáma": "35",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Piróth",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szakály",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1813",
+        "Leírás": "Nyomdai előkészítő tevékenység"
+      },
+      {
+        "Kód": "1814",
+        "Leírás": "Könyvkötés, kapcsolódó szolgáltatás"
+      },
+      {
+        "Kód": "1820",
+        "Leírás": "Egyéb sokszorosítás"
+      },
+      {
+        "Kód": "4649",
+        "Leírás": "Egyéb háztartási cikk nagykereskedelme m.n.s."
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5812",
+        "Leírás": "Címtárak, levelezőjegyzékek kiadása"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5821",
+        "Leírás": "Számítógépes játék kiadása"
+      },
+      {
+        "Kód": "5829",
+        "Leírás": "Egyéb szoftverkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5913",
+        "Leírás": "Film-, video- és televízióprogram terjesztése"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "6832",
+        "Leírás": "Ingatlankezelés"
+      },
+      {
+        "Kód": "6920",
+        "Leírás": "Számviteli, könyvvizsgálói, adószakértői tevékenység"
+      },
+      {
+        "Kód": "7010",
+        "Leírás": "Üzletvezetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7430",
+        "Leírás": "Fordítás, tolmácsolás"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      },
+      {
+        "Kód": "7722",
+        "Leírás": "Videokazetta, lemez kölcsönzése"
+      },
+      {
+        "Kód": "7733",
+        "Leírás": "Irodagép kölcsönzése (beleértve: számítógép)"
+      },
+      {
+        "Kód": "7740",
+        "Leírás": "Immateriális javak kölcsönzése"
+      },
+      {
+        "Kód": "7820",
+        "Leírás": "Munkaerőkölcsönzés"
+      },
+      {
+        "Kód": "8110",
+        "Leírás": "Építményüzemeltetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8220",
+        "Leírás": "Telefoninformáció"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "100",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "600 415 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "75",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "435 721 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "92",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "548 460 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "54",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 418 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 977 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "195 955 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "46",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "258 074 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "157 729 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "132 683 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "152 762 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "342 228 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 264 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tudományos Ismeretterjesztő Társulat"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

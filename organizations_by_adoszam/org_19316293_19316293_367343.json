@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19316293",
+  "scraped_at": "2026-09-22T22:18:30.410047",
+  "organization_id": "367343",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csillagszemű Márk Mosolyáért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8372 Cserszegtomaj, Sümegi út 127",
+      "adószám": "19316293-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-22",
+      "statisztikai_számjel": "19316293-9699-569-20",
+      "x_koordináta": "46.801027",
+      "y_koordináta": "17.2299442"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Tamás Márk (Anyja neve: Andorkó Vera, Születési helye, ideje: Budapest, 2018.04.11.) és kis barátai fejlesztése és rehabilitációja",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001241",
+      "régi_nyilvántartási_száma": "1241/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11600006-00000000-96556450",
+      "számlavezető_pénzintézet_neve": "Erste Bank Hungary Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hoffman",
+        "Képviselő keresztneve": "Klaudia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "21 799 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

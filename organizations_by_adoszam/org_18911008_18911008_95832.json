@@ -1,0 +1,117 @@
+{
+  "search_adoszam": "18911008",
+  "scraped_at": "2026-09-22T22:08:15.924204",
+  "organization_id": "95832",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gewiss Training Sportegyesület",
+      "rövid_név": "Gewiss Training SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4031 Debrecen, István út 149.",
+      "x_koordináta": "47.5235288",
+      "y_koordináta": "21.6164131",
+      "adószám": "18911008-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-08-23",
+      "statisztikai_számjel": "18911008-9312-521-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Tagjai számára biztosítja a szabadidő egészséges és kulturális eltöltését, az ifjúság fizikai teljesítőképességének, edzettségének, igazolt versenyzők bel- és külföldi versenyeztetésének feltételeit.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004835",
+      "régi_nyilvántartási_száma": "4835/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-01",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zilai",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "Zoltán",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sóvári",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Timár",
+        "Képviselő keresztneve": "Virág",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-05-13",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zilai",
+        "Képviselő keresztneve": "Seron",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zilai",
+        "Képviselő keresztneve": "Zétény",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "251 406 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "142 043 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "161 047 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "138 052 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gewiss Training Sportegyesüéet"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

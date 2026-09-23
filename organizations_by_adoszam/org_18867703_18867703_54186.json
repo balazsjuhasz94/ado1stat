@@ -1,0 +1,72 @@
+{
+  "search_adoszam": "18867703",
+  "scraped_at": "2026-09-22T22:06:36.225438",
+  "organization_id": "54186",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Madocsai Nyugdíjasklub",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7026 Madocsa, Bölcskei utca 6.",
+      "x_koordináta": "46.689752",
+      "y_koordináta": "18.957196",
+      "adószám": "18867703-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-01-30",
+      "statisztikai_számjel": "18867703-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Alacsony nyugdíjjal rendelkezők helyzetének javítása, helyi és megyei önkormányzati, társadalombiztosítási és más nyugdíjas, valamint civil szervezetekkel való kapcsolattartás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0001724",
+      "régi_nyilvántartási_száma": "1724/2007",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-07-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tarczal",
+        "Képviselő keresztneve": "Jánosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-13",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "105 596 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 650 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 042 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

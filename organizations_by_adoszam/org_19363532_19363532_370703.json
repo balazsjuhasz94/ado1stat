@@ -1,0 +1,71 @@
+{
+  "search_adoszam": "19363532",
+  "scraped_at": "2026-09-22T22:23:19.862834",
+  "organization_id": "370703",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hajdúdorogi Diáksport Egyesület",
+      "rövid_név": "Hajdúdorog DSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4087 Hajdúdorog, Kötő utca 1.",
+      "adószám": "19363532-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-07-06",
+      "statisztikai_számjel": "19363532-9312-521-09",
+      "x_koordináta": "47.8469865",
+      "y_koordináta": "21.5167137"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egészséges életmód és életvitel részeként a sportolási igények létrejöttének elősegítése sportolási lehetőség biztosításával. Az egyesület tagjai számára oktatás és nevelés megvalósulásának támogatása és a közösség-fejlesztési igények kialakításának elősegítése. Az egyesület működési területén figyelmet fordít az oktatási intézmények tanulóinak testnevelési és sporttevékenységire és támogatja azok fejlesztését. A hagyományos női csapatsport fellendülésének támogatása. Az egyesület tagjai versenyeztetésének elősegítése. Az egyesület elősorban az általános labdás sportok népszerűsítésére törekszik. A sportegyesület céljainak megvalósítása érdekében együttműködik állami és társadalmi intézményeivel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005306",
+      "régi_nyilvántartási_száma": "5306/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-04",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Virág",
+        "Képviselő keresztneve": "Loránd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pataki",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Süle",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

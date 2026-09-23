@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19226264",
+  "scraped_at": "2026-09-22T22:15:19.373241",
+  "organization_id": "115351",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Aranyház Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2921 Komárom, Kossuth L. utca 15.",
+      "x_koordináta": "47.730661",
+      "y_koordináta": "18.168863",
+      "adószám": "19226264-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-12-20",
+      "statisztikai_számjel": "19226264-8412-529-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az autizmussal élők, illetve az értelmileg sérült felnőttek, a spektrumzavar Magyarországon nagyságrendileg minden 15. magyar családot érintheti. Szociális tevékenység, illetve hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése érdekében segítség nyújtása az autista és értelmileg sérült felnőttek számára mindennapi életben való helytálláshoz, eligazodáshoz, elhelyezésükre szolgáló lakóotthon létrehozásához szükséges anyagiak előteremtése, illetve ennek megléte esetén lakóotthon létrehozása, annak működtetése, a lakóotthon lakói, valamint a munkaerőpiacon hátrányos helyzetű rétegek képzésének, foglakoztatásának elősegítése, illetve rehabilitációs foglalkoztatása, munkahelyteremtés megszervezése, társadalmi integrációjuk elősegítése. Az egyesület a célok megvalósulása érdekében biztosítja a szervezet demokratikus, önkormányzati elven alapuló működését, elősegíti a tagok jogainak érvényesülését és az emberi és állampolgári jogok védelmét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0002191",
+      "régi_nyilvántartási_száma": "2191/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-03-31",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-06-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-08-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Apostol",
+        "Képviselő keresztneve": "Gáborné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Barkó",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "186 455 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 983 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "151 213 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "183 714 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CSUDIJÓ Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

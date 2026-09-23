@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18083598",
+  "scraped_at": "2026-09-22T21:41:34.701525",
+  "organization_id": "37167",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jövő Magyar Sportolói Sportegyesület",
+      "rövid_név": "JMSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1165 Budapest, Blaha Lujza utca 12. 3. ajtó",
+      "x_koordináta": "47.572966",
+      "y_koordináta": "19.085358",
+      "adószám": "18083598-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-08-26",
+      "statisztikai_számjel": "18083598-9319-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "a.) tagjai részére a rendszeres testedzés és sportolási lehetőség biztosítása, b.) a társadalmi öntevékenység és közösségi élet kibontakoztatása, c.) az egyesület által szervezett és a tagjai által végzett sporttevékenységek további népszerűsítése, d.) az egyesület versenysportolói eredményességének növelése, e.) képességfejlesztés, az ifjúság nevelése, oktatás, f.) sportkapcsolatok létesítése és fejlesztése, g.) tehetséggondozás, utánpótlás-nevelés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0007264",
+      "régi_nyilvántartási_száma": "7264/1996",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-24",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zsolnai",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "148 694 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 491 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

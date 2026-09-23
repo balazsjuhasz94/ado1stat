@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "18155473",
+  "scraped_at": "2026-09-22T21:43:19.662620",
+  "organization_id": "60781",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pál Apostol Templomépítő Egyesület",
+      "rövid_név": "PATE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1086 Budapest, Baross utca 127. félemelet",
+      "x_koordináta": "47.4810218",
+      "y_koordináta": "19.250869",
+      "adószám": "18155473-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-10-02",
+      "statisztikai_számjel": "18155473-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Egyesület népszerűsíti és segít gyakorlatba átültetni Ferenc pápa, LAUDATO Si‘ kezdetű enciklikájának, a közös otthon gondozásáról szóló tanítását. Ezért, aktívan elősegíteni a közösségek, személyek teremtésvédelmi elköteleződését, és támogatni a média eszközeivel a teremtett világ megóvásáért tevékenykedni szándékozókat a magyar társadalomban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0007376",
+      "régi_nyilvántartási_száma": "7376/1996",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jakab",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

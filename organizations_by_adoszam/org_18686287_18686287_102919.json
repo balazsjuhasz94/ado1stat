@@ -1,0 +1,49 @@
+{
+  "search_adoszam": "18686287",
+  "scraped_at": "2026-09-22T22:00:25.928626",
+  "organization_id": "102919",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Úri Községi Sportkör",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2244 Úri, Sport utca 1.",
+      "x_koordináta": "47.409541",
+      "y_koordináta": "19.524515",
+      "adószám": "18686287-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-02-08",
+      "statisztikai_számjel": "18686287-9319-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0000372",
+      "régi_nyilvántartási_száma": "372/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-09",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schmidt",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

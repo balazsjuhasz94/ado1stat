@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19365534",
+  "scraped_at": "2026-09-22T22:23:37.678735",
+  "organization_id": "370849",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "NM Izmok Gyógyulásáért Alapítvány",
+      "rövid_név": "NM Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7304 Mánfa, Fábián Béla utca 46.",
+      "adószám": "19365534-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-08-15",
+      "statisztikai_számjel": "19365534-8899-569-02",
+      "x_koordináta": "46.1573472",
+      "y_koordináta": "18.2431699"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Nemes Marcell (születési hely és idő: Pécs, 2019. december 21., anyja neve: Gyémánt Marianna) 7304 Mánfa, Fábián Béla utca 46. szám alatti lakos Duchenne-féle izomdisztrófia (továbbiakban DMD) betegsége kezelésének és gyógyításának támogatása, életkörülményeinek, életminőségének javítása, gondozása, ápolása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001966",
+      "régi_nyilvántartási_száma": "1966/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyémánt",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

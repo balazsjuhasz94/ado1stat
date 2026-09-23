@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19351012",
+  "scraped_at": "2026-09-22T22:21:08.141473",
+  "organization_id": "369585",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gádorosi Motoros Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5932 Gádoros, Nagy utca 76.",
+      "adószám": "19351012-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-21",
+      "statisztikai_számjel": "19351012-9499-529-04",
+      "x_koordináta": "46.6730888",
+      "y_koordináta": "20.6023583"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Motoros túrák, találkozók szervezése, a motoros életforma megismertetése, segítségnyújtás a közlekedési ismeretek elsajátításához, gyakorlati tudás megszerzéséhez. Más, hasonló cél egyesületek és klubok, egyéb szervezetek támogatása Magyarországon és külföldön. Az egyesület továbbá célul tűzi ki olyan rendezvények megszervezését és lebonyolítását, amelyek során a résztvevők megismerhetik a motoros életformát, elsajátíthatják a gyakorlati közlekedési ismereteket és a motorral kapcsolatos egyéb gyakorlati tudásra tehetnek szert. Az egyesület céljai megvalósítása érdekében együttműködik minden állami, társadalmi és gazdálkodó szervezettel, más egyesülettel és szövetséggel, amelyek segítik az egyesület eredményes működését és céljainak megvalósítását. Határon túli kapcsolatok kialakítása és ápolása. Fiatal motorosok nevelése és oktatása a közlekedési szabályok betartására, a közrend és közbiztonság megőrzésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003645",
+      "régi_nyilvántartási_száma": "3645/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gelegonya",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "elnök",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 472 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

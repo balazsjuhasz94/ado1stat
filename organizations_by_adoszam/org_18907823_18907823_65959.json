@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18907823",
+  "scraped_at": "2026-09-22T22:08:11.878977",
+  "organization_id": "65959",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Újszilvási Önkéntes Tűzoltók Egyesülete",
+      "rövid_név": "Újszilvási ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2768 Újszilvás, Szent István utca 6.",
+      "x_koordináta": "47.264715",
+      "y_koordináta": "19.912941",
+      "adószám": "18907823-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-07-12",
+      "statisztikai_számjel": "18907823-8425-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Székhely szerinti település tűzvédelmének biztosítása, tűzoltási, műszaki mentési tevékenység végzése. Az egyesület - részt vesz a településen keletkező tűzesetek oltásában, - tűzesetek, műszaki mentések megelőzésében, felszámolásában, - segíti a gyermekek óvodai, iskolai tűzvédelmi képzését, - végzi a lakosság tűzvédelmi felvilágosítását, - közreműködik a tűzvédelmi kiadmányok megjelentetésében, - biztosítja a tűzvédelmi hagyományőrzést, - megőrzi és ápolja az előd egyesület emlékeit, zászlaját, - hazai és nemzetközi kapcsolatokat ápol.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007277",
+      "régi_nyilvántartási_száma": "7277/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-11-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vágány",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 494 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 533 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "164 351 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "253 691 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 965 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÚJSZILVÁSI ÖNKÉNTES TŰZOLTÓK EGYESÜLETE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ÚJSZILVÁSI ÖNKÉNTES TŰZOLTÓK EGYESÜLETE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

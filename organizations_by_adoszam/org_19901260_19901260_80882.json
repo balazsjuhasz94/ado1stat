@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19901260",
+  "scraped_at": "2026-09-22T22:28:02.352418",
+  "organization_id": "80882",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pápa és Vidéke Horgászegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8500 Pápa, Celli út 2.",
+      "x_koordináta": "47.3283435",
+      "y_koordináta": "17.4613758",
+      "adószám": "19901260-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19901260-9319-529-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A horgászsport fejlesztése, népszerűsítése; tagjai részére kedvező horgászati lehetőség biztosítása, a társadalmi együttélés és a horgász-erkölcs szabályainak tiszteletben tartása, a természet szeretetére való nevelés; horgászok képzése és vizsgáztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0000018",
+      "régi_nyilvántartási_száma": "18/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-24"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "119 376 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pápa és Vidéke Horgászegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

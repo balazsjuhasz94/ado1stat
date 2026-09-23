@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19298197",
+  "scraped_at": "2026-09-22T22:17:45.093104",
+  "organization_id": "365908",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Egymásért Gemma Sportegyesület",
+      "rövid_név": "Egymásért Gemma SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6724 Szeged, Bakay Nándor utca 50.",
+      "adószám": "19298197-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-03-23",
+      "statisztikai_számjel": "19298197-9312-521-06",
+      "x_koordináta": "46.2639605",
+      "y_koordináta": "20.1348953"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A civil szervezet célja: A sportról szóló 2004.évi I. törvény preambulumában foglaltak alapulvételével, a Gemma Fejlesztő Nevelés-oktatást Végző Iskola, Általános Iskola és Készségfejlesztő Iskola (székhelye: 6724 Szeged, Bakay Nándor u. 50.) nevelő-oktató munkájával összhangban, az egyesület rendszeres helyi, intézményen belüli, intézmények közötti és szakszövetségek által kiírt játék, versengési- és versenylehetőségek tervezése és szervezése. Az egyesület célja a diákok rendszeres sportolásának biztosítása, az ilyen igények felkeltése, feltérképezési, a sport programok szervezése, lebonyolítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003507",
+      "régi_nyilvántartási_száma": "3507/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-03-10",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-04-23"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hurgulyné Horváth",
+        "Képviselő keresztneve": "Brigitta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-03-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "306 198 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "230 335 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

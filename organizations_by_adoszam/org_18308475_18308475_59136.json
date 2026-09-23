@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "18308475",
+  "scraped_at": "2026-09-22T21:47:11.215225",
+  "organization_id": "59136",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "„Együtt a Gyermekekért” Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7838 Vajszló, Iskola utca 1.",
+      "x_koordináta": "45.8610038",
+      "y_koordináta": "17.9846882",
+      "adószám": "18308475-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-01-01",
+      "statisztikai_számjel": "18308475-9499-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "az iskolán kívüli nevelési és kulturális tevékenység támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0000844",
+      "régi_nyilvántartási_száma": "844/1995",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabóné",
+        "Képviselő keresztneve": "Illés",
+        "Képviselő titulusa": "Aliz",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabóné",
+        "Képviselő keresztneve": "Illés",
+        "Képviselő titulusa": "Aliz",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Péterné",
+        "Képviselő keresztneve": "Böde",
+        "Képviselő titulusa": "Éva Zsuzsnna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sipos",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 534 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYÜTT A GYERMEKEKÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "EGYÜTT A GYERMEKEKÉRT ALAPÍTVÁNY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,97 @@
+{
+  "search_adoszam": "19318989",
+  "scraped_at": "2026-09-22T22:18:40.159697",
+  "organization_id": "367581",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "DOLINAVÖLGYE MIKROTÉRSÉGI ÖNKÉNTES TŰZOLTÓ Egyesület",
+      "rövid_név": "DOLINAVÖLGYE MÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2730 Albertirsa, Erkel Ferenc utca 33.",
+      "adószám": "19318989-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-15",
+      "statisztikai_számjel": "19318989-8425-529-13",
+      "x_koordináta": "47.2507042",
+      "y_koordináta": "19.6293937"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az egyesület célja Albertirsa, Dánszentmiklós, Ceglédbercel és Mikebuda települések tűz és katasztrófavédelmének biztosítása, tűzoltási, kárelhárítási szaktevékenység végzése, valamint a tűzoltó hagyományok őrzése és utánpótlás nevelés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008132",
+      "régi_nyilvántartási_száma": "8132/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Krecsák",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "Csaba",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zsíros",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-24",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Holló",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-08-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-08-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

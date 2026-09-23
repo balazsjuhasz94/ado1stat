@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19371821",
+  "scraped_at": "2026-09-22T22:24:44.154456",
+  "organization_id": "371400",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tegyünk EGYÜTT GYARMATÉRT Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9126 Gyarmat, Magyar utca 14.",
+      "adószám": "19371821-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-11-21",
+      "statisztikai_számjel": "19371821-9499-569-08",
+      "x_koordináta": "47.451275",
+      "y_koordináta": "17.484053"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány alapvetően közösségformáló, kulturális céllal alakul meg. Az alapítvány célja, hogy találkozási és együttműködési lehetőséget teremtsen a település lakói számára. Fontos cél tehát a kulturális élet fellendítése, a Gyarmat községre jellemző kultúra ápolása. Az alapítvány célja továbbá Gyarmat község általános fejlődésének elősegítése, értékeinek megóvása és gyarapítása, illetve minden olyan kezdeményezés támogatása, amely a Gyarmaton élő gyermekek személyiségének fejlődését, fejlesztését, képességeik, készségeik kibontakozását elősegíti.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051518",
+      "régi_nyilvántartási_száma": "51518/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bedecs-Farner",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

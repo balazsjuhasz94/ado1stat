@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19358796",
+  "scraped_at": "2026-09-22T22:22:30.602670",
+  "organization_id": "370275",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tóth Nikolett Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1067 Budapest, Hunyadi tér 3. 2/3.",
+      "adószám": "19358796-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-04-25",
+      "statisztikai_számjel": "19358796-9499-569-01",
+      "x_koordináta": "47.5074307",
+      "y_koordináta": "19.063177"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Tóth Nikolett megváltozott életkörülményeinek fenntartása, javítása, felépülésének elősegítése. A Jókai utcai házomlásban súlyos koponya – és gerincsérüléseket szenvedett Tóth Nikolett, az Operettszínház balerinájának mint az alapítvány kedvezményezettjének a testi, lelki és szellemi felépüléséhez szükséges és megfelelő szintű hazai, magyarországi vagy külföldön történő gyógyíttatásához (kezelések, műtétek), rehabilitációjához, gondozásához, az életminősége javításához szükséges anyagi háttér megteremtése, beleértve a Nikolett felépülésével kapcsolatos rehabilitációs-, gyógyászati segédeszközök, gyógyszerek, kényelmi eszközök, felszerelések, terápiák finanszírozását, továbbá mindezekhez kapcsolódóan a szállás/lakhatás, az utazás, a szakemberek, egyéni foglalkozások, a tanulás, a mozgást és közlekedést elősegítő eszközök, járművek és egyéb költségek fedezetének biztosítását. A kedvezményezett Tóth Nikolett esetleges halála esetén hasonló sorsú balerinák rehabilitációjának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013460",
+      "régi_nyilvántartási_száma": "13460/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Radványi",
+        "Képviselő keresztneve": "Lilla",
+        "Képviselő titulusa": "Réka",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Petrőcz",
+        "Képviselő keresztneve": "Cintia",
+        "Képviselő titulusa": "Vanessza",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pesel",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "Tiffany",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

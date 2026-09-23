@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18809574",
+  "scraped_at": "2026-09-22T22:04:36.819021",
+  "organization_id": "75156",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nyírbogáti Polgárőrség Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4361 Nyírbogát, Hunyadi út 7.",
+      "x_koordináta": "47.801672",
+      "y_koordináta": "22.055148",
+      "adószám": "18809574-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2003-02-18",
+      "statisztikai_számjel": "18809574-9499-526-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "céljának_leírása": "Az egyesület ellátja a helyi közrend és közbiztonság védelmét, valamint a bűnmegelőzésben való közreműködés érdekében közterületi járőr szolgálatot, figyelő szolgálatot, a közúti baleset helyszínén, valamint óvoda, általános iskola közvetlen közelében jelzőőri tevékenységet. Közreműködik a katasztrófákra történő felkészülés, katasztrófák elleni védekezés és helyreállítás, újjáépítés feladataiban, a polgári védelmi szervezetek tevékenységében, a környezet veszélyeztetésének. károsításának megelőzésében és elhárításában, következményeinek felszámolásában, baleset megelőzési, áldozatvédelmi, közlekedés biztonsági, állat- környezet és természetvédelmi tevékenység támogatásában. A lakosság és az önkormányzatok közötti kapcsolat erősítésében, az otthonában élő fogyatékos személyek védelmében. A polgárok és javaik védelmében, az állami- és önkormányzati vagyon megóvásában, közterületen a közbiztonság, bűnmegelőzési, valamint bűnüldözési célból elhelyezett képfelvevő által rögzített felvételek megfigyelésében, rendezvények helyszínének biztosításában. Az önálló, valamint közös feladat vagy szolgálat ellátás útján együttműködő szervek szakmai tevékenyséégnek segítésében. Részt vesz a bűnmegelőzési és közbiztonsági, valamint baleset-megelőzési bizottság munkájában a rendőrségről szóló törvény alapján. Közreműködik a polgárőr feladataival összefüggő oktatási-kulturális ismeretterjesztő tevékenységben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0002159",
+      "régi_nyilvántartási_száma": "2159/2002",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-07-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2026-08-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Jaczina",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-07-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "126 745 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

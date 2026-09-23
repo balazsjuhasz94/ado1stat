@@ -1,0 +1,119 @@
+{
+  "search_adoszam": "18321287",
+  "scraped_at": "2026-09-22T21:47:33.944337",
+  "organization_id": "56368",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Oldtimer Club Pécs",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7623 Pécs, Garay utca 31.",
+      "x_koordináta": "46.073334",
+      "y_koordináta": "18.2158",
+      "adószám": "18321287-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2002-05-14",
+      "statisztikai_számjel": "18321287-9499-529-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "a veteránautózás és motorozás iránti érdeklődés felkeltése, valamint azok számának növelése, akik ezt szervezett körülmények között kívánják végezni. Az egyesület elsősorban Pécs város és környéke veterán jármű tulajdonosait szeretné összefogni, azonban tagja lehet a jelen alapszabályt elfogadó, az egyesület céljai érdekében tevékenyen résztvevő más személy is. Az egyesület célja, hogy segítse a szabadidő kellemes és hasznos eltöltését, sportra, barátkozásra, szakmai tapasztalacserére és művelődésre egyaránt adó sport versenyeken való részvételt elősegítse és anyagilag támogassa. Múzeális járművek és alkatrészek felkutatása, gyűjtése, restaurálása, megóvása és bemutatása. Szponzorok, támogatók felkutatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0002113",
+      "régi_nyilvántartási_száma": "2113/2002",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-03-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mott",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-08-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "31 590 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "85",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "266 310 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "64",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "244 221 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "197 452 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "224 623 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 191 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "262 161 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 520 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "OLDTIMER CLUB PÉCS"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Oldtimer Club Pécs"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Oldtimer Club Pécs"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Oldtimer Club Pécs"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "OLDTIMER CLUB PÉCS",
+        "Év": "2021"
+      }
+    ]
+  },
+  "error": null
+}

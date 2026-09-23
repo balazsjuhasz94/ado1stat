@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19249193",
+  "scraped_at": "2026-09-22T22:16:13.965135",
+  "organization_id": "124802",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pusztamonostorért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5125 Pusztamonostor, Szabadság út 25.",
+      "x_koordináta": "47.5572409",
+      "y_koordináta": "19.789705",
+      "adószám": "19249193-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-22",
+      "statisztikai_számjel": "19249193-9499-569-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Helyi közösségek és civil szervezetek támogatása, Múlt értékeinek megőrzése (helytörténeti kiállítások szervezése, gyűjtési feladatok), Sport, kulturális programok támogatása a belépők, nevezési díjak, útiköltség kifizetése, kiállítások szervezése, Közösségépítő programok támogatása, Előadói díjak támogatása, Kiadványok, promóciós anyagok elkészítése, Önkormányzati tulajdonban lévő épületek felújítása (építőanyag, munkadíjak), Műszaki, biztonsági és audiótechnikai berendezések beszerzése, környezet szebbé tétele (fásítás, parkosítás, járdák, parkolók kialakítása), bútorok, eszközök beszerzése, bálok, táborok, rendezvények lebonyolítása, vendéglátás, díjak, testvértelepülésekkel kapcsolatápolás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-01-0001253",
+      "régi_nyilvántartási_száma": "1253/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-03-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kakas",
+        "Képviselő keresztneve": "Tünde",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kardos",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lajkóné Vincze",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "120 495 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "210 320 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "135 300 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

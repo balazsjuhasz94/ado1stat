@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18610556",
+  "scraped_at": "2026-09-22T21:57:39.862230",
+  "organization_id": "106597",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Futball Club Esztergom",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2500 Esztergom, Budai Nagy Antal utca 24.",
+      "x_koordináta": "47.7946767",
+      "y_koordináta": "18.7419877",
+      "adószám": "18610556-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2000-03-04",
+      "statisztikai_számjel": "18610556-9312-521-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A football esztergomi hagyományainak felélesztése, a sportág népszerűsítése, a klub felnőtt és utánpótlás csapatainak a nemzeti bajnokságban való indítása, a tehetséges fiatalok felkutatása és a kibontakozásukhoz szükséges feltételek biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0001229",
+      "régi_nyilvántartási_száma": "1229/1999",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-07-24",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-31"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Blázsik",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-07-24",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "94 522 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "39 408 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 623 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "157 638 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "226 838 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Futball Club Esztergom"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Futball Club Esztergom"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

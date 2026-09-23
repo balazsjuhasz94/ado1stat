@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19347040",
+  "scraped_at": "2026-09-22T22:20:38.319032",
+  "organization_id": "368997",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Paksi Jézus Szíve Plébánia Alapítvány",
+      "rövid_név": "Paksi Jézus Szíve Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7030 Paks, Szent István tér 16.",
+      "adószám": "19347040-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-01",
+      "statisztikai_számjel": "19347040-9491-569-17",
+      "x_koordináta": "46.6258367",
+      "y_koordináta": "18.8296335"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "A Paksi Egyházközség tulajdonában lévő valamennyi ingatlan és eszköz állagmegóvásának, karbantartásának és felújításának elősegítése, továbbá a Magyar Katolikus Egyház tulajdonát képező, de Paks Város közigazgatási területén található ingatlanok állagmegóvásának, karbantartásának és felújításának elősegítése, különös tekintettel a temetőkre, kriptákra, templomokra a plébániai hivatal épületére, egyházi tulajdonú oktatási és nevelési épületére, amely vonatkozik ezen ingatlanok tartozékaira, berendezési és felszerelési tárgyaira is. Szociális tevékenység a rászorulók segítése, valamint a helyi közösségek és az egyházközség lelki programjainak támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-01-0000203",
+      "régi_nyilvántartási_száma": "203/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ulbert",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9491",
+        "Leírás": "Egyházi tevékenység"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

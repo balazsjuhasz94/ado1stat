@@ -1,0 +1,50 @@
+{
+  "search_adoszam": "18120945",
+  "scraped_at": "2026-09-22T21:42:17.785839",
+  "organization_id": "34658",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hidegkúti Tenisz, Foci Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1028 Budapest, Kővári utca 1-7.",
+      "x_koordináta": "47.5574374",
+      "y_koordináta": "18.9676013",
+      "adószám": "18120945-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-02-02",
+      "statisztikai_számjel": "18120945-9319-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A Budapest II. kerület lakóinakrekreációja, mozgásigényük kielégítése tenisz, valamint futball események és versenyek rendezése révén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0011814",
+      "régi_nyilvántartási_száma": "11814/2005",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-22",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csordás",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-09-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

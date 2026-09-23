@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "18126006",
+  "scraped_at": "2026-09-22T21:42:25.762632",
+  "organization_id": "91073",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "56 Lángja Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9700 Szombathely, Rohonci utca 48. IV.emelet/12.",
+      "x_koordináta": "47.2377951",
+      "y_koordináta": "16.6064521",
+      "adószám": "18126006-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-08-25",
+      "statisztikai_számjel": "18126006-9121-569-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Egy 1956-os emlékmű megtervezése, felállítása és védelme, történelmi témájú könyvek kiadása, előadások tartása, kulturális tevékenység.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0010165",
+      "régi_nyilvántartási_száma": "10165/2006",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2018-10-31",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-09-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10300002-10313658-49020015",
+      "számlavezető_pénzintézet_neve": "MKB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Liebmann",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "14 407 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 237 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 980 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "8 424 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 033 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "56 Lángja Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "56 Lángja Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "19368850",
+  "scraped_at": "2026-09-22T22:24:12.850576",
+  "organization_id": "371132",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Rákkutatás és Molekuláris Patológia Alapítvány",
+      "rövid_név": "Rákkutatók Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1085 Budapest, József körút 69. földszint/1.",
+      "adószám": "19368850-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-10-05",
+      "statisztikai_számjel": "19368850-7210-569-01",
+      "x_koordináta": "47.4912867",
+      "y_koordináta": "19.0689151"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kutatási tevékenység (pl. természettudomány, társadalomtudomány)",
+      "céljának_leírása": "A hagyományos szövettani és korszerű molekuláris patológiai és diagnosztikai eljárások, valamint a rákkutatás hazai fejlesztésének elősegítése; a korszerű, gyors és a legújabb eredményeket felmutató diagnosztika és kutatási eljárások mindennapi betegellátásba való bevezetésének elősegítése; a gyakorlati eredmények megismertetése a szakemberekkel és a laikus közönséggel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013532",
+      "régi_nyilvántartási_száma": "13532/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-08",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bödör",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Matolcsy",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fintha",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

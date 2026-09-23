@@ -1,0 +1,90 @@
+{
+  "search_adoszam": "19373067",
+  "scraped_at": "2026-09-22T22:25:01.631586",
+  "organization_id": "371508",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Elmondhatom Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1027 Budapest, Jurányi utca 1-3.",
+      "adószám": "19373067-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-12-04",
+      "statisztikai_számjel": "19373067-9499-569-01",
+      "x_koordináta": "47.5106288",
+      "y_koordináta": "19.0368384"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Gyermekkori szexuális, mentális és fizikai bántalmazást elszenvedő személyek gyógyulásának segítése. A társadalmi párbeszéd előmozdítása, a tudatosság és érzékenység növelése, illetve a társadalmi tabuk csökkentése a bántalmazással kapcsolatban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004432",
+      "régi_nyilvántartási_száma": "4432/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-10-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-06-08",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Magasi",
+        "Képviselő keresztneve": "Dalma",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jobbágy",
+        "Képviselő keresztneve": "Kata",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ivák",
+        "Képviselő keresztneve": "Bence",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

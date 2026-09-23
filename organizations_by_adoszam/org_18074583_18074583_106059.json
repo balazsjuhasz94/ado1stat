@@ -1,0 +1,115 @@
+{
+  "search_adoszam": "18074583",
+  "scraped_at": "2026-09-22T21:41:21.664088",
+  "organization_id": "106059",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nagycsaládosok Újpalotai Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1158 Budapest, Bezsilla Nándor utca 95.",
+      "x_koordináta": "47.5426719",
+      "y_koordináta": "19.1407751",
+      "adószám": "18074583-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-03",
+      "statisztikai_számjel": "18074583-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A nagycsaládosok és gyermeküket egyedül nevelő, önhibájukon kívül nehéz helyzetbe került családok, fiatalok, idősek, rászorulók felemelkedésének segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0006548",
+      "régi_nyilvántartási_száma": "6548/1995",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10700660-71668437-51100005",
+      "számlavezető_pénzintézet_neve": "CIB Bank Zrt"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Perczel",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "28 973 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "85 830 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "106 557 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 849 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "315 954 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 346 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 385 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagycsaládosok Újpalotai Egyesülete"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagycsaládosok Újpalotai Egyesülete"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagycsaládosok Újpalotai Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Nagycsaládosok Újpalotai Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

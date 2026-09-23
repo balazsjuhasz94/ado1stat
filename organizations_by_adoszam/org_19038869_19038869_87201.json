@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19038869",
+  "scraped_at": "2026-09-22T22:11:36.238879",
+  "organization_id": "87201",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szeretet Iskolája Egyesület",
+      "rövid_név": "Szeretet Isk. Egy.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7100 Szekszárd, Béla király tér 9.",
+      "x_koordináta": "46.3499485",
+      "y_koordináta": "18.6979598",
+      "adószám": "19038869-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-06-20",
+      "statisztikai_számjel": "19038869-9329-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A Szekszárdi Belvárosi Plébánia keretein belül aktív tevékenységet végző ifjúsági csoportok, kiemelten a 608-as számú Schola Caritatis cserkészcsapat nevelésének, programjainak és működésének támogatása, valamint ezen keresztül kulturális tevékenység, gyermek és ifjúságvédelem, hátrányos helyzetűek és nagycsaládosok részére szervezett speciális programok, környezetvédelem, az ökológiai gondolkodás szélesítésének segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002164",
+      "régi_nyilvántartási_száma": "2164/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szegedi",
+        "Képviselő keresztneve": "Domonkos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-04-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "123 465 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "165 376 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "190 458 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "199 640 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "253 178 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szeretet Iskolája Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szeretet Iskolája Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18812363",
+  "scraped_at": "2026-09-22T22:04:41.094404",
+  "organization_id": "89382",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ezüst-kor Egészségügyi Nyugdíjasok Egyesülete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Szent I. utca 68.",
+      "x_koordináta": "47.9508399",
+      "y_koordináta": "21.7272714",
+      "adószám": "18812363-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-09-03",
+      "statisztikai_számjel": "18812363-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szakmai, gazdasági érdekképviseleti tevékenység",
+      "céljának_leírása": "A kórház egykori szakdolgozónak közösségi életét megszervezni, működtetni. Különösen - mint idős emberek jogainak és érdekeinek a védelme és képviselete az egészségügy, kultúra, szociális szféra és társadalmi élet számos területén. Továbbá az alapszabály 2. pontjában foglaltak szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0002395",
+      "régi_nyilvántartási_száma": "2395/2004",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "Józsefné",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "51 578 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

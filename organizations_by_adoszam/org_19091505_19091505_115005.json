@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "19091505",
+  "scraped_at": "2026-09-22T22:12:23.691649",
+  "organization_id": "115005",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alfa Lövész Klub Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2400 Dunaújváros, Devecseri Gábor utca 4.",
+      "x_koordináta": "46.9637815",
+      "y_koordináta": "18.9381181",
+      "adószám": "19091505-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-06",
+      "statisztikai_számjel": "19091505-9319-521-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportlövészet népszerűsítése, sportlövészetet gyakorló sportolók, magánszemélyek sportolásának biztosítása, támogatása. Sportlövészethez szükséges gyakorlási feltételek biztosítása. Lőtér üzemeltetése. Fegyverek szakszerű őrzése, tárolása. Fegyveres szolgálatok, vadászok részére a gyakorlás lehetőségének biztosítása. Sportemberi közösség kialakítása, sportbaráti kapcsolatok kiépítése és ápolása, a szabadidő hasznos, tartalmas, egészséges eltöltése. Országos, nemzetközi, területi lövészsport versenyeken, rendezvényeken való részvétel, versenyek, rendezvények, edzőtáborok szervezése, támogatása. Szabadidő-sport, tömegsport rendezvények támogatása, népszerűsítése és azokon való rendszeres részvétel. A lövészsporthoz szükséges anyagi, technikai eszközök megteremtése és azok maximális kihasználása, az egyesület tagjainak versenyekre, edzőtáborokba való utazásának biztosítása. Fiatal tehetséges versenyzők felkutatása, kinevelése, támogatása, utánpótlás nevelés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-02-0002314",
+      "régi_nyilvántartási_száma": "2314/2007",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-20",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Uhrik",
+        "Képviselő keresztneve": "Ákos",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "77 344 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "51 622 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "83 499 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 008 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "208 616 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alfa Lövész Klub Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Alfa Lövész Klub Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

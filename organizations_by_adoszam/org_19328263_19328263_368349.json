@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19328263",
+  "scraped_at": "2026-09-22T22:19:27.987338",
+  "organization_id": "368349",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Simon Pál Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1152 Budapest, Juhos utca 28.",
+      "adószám": "19328263-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-04-12",
+      "statisztikai_számjel": "19328263-8710-569-01",
+      "x_koordináta": "47.5577582",
+      "y_koordináta": "19.1498445"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- A Bolla Árpád Evangélikus Szeretetotthon idős gondozásának támogatása, - tárgyi eszköz beszerzésének támogatása, - az Intézményben dolgozók tevékenységének motiválása céljából jutalmazás, - az Intézmény által szervezett kulturális közösségi programok támogatása, - az Intézmény épületegyüttesének, infrastruktúrájának karbantartási költségeihez történő hozzájárulás",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013287",
+      "régi_nyilvántartási_száma": "13287/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-06-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-09-03",
+      "bankszámlaszám": "11715007 - 21530760 - 00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Herkely",
+        "Képviselő keresztneve": "Jánosné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnárné Salavári",
+        "Képviselő keresztneve": "Katinka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Baráthné dr. Tóth",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "Judit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

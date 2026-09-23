@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "19100294",
+  "scraped_at": "2026-09-22T22:12:29.543582",
+  "organization_id": "120419",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "LÉCZ MOTORSPORT EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1152 Budapest, Illyés Gyula utca 34. I/2.",
+      "x_koordináta": "47.411163",
+      "y_koordináta": "19.0604931",
+      "adószám": "19100294-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-11-27",
+      "statisztikai_számjel": "19100294-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Motorsport szervezése, közösségi összejövetelek, versenyek szervezése, versenyeken történő részvétel, a sportkapcsolatok, ill. egyéb kulturális kapcsolatok létesítése és fejlesztése, szigorúan a jogszabályi előírásokat betartva a játék, a társaság élményéért, a közös szabadidejének értékes eltöltéséért, Magyarországon és Európában és Európán kívül. -Tagjai és a motorsport iránt érdeklődő emberek sport és kulturális tevékenységének biztosítása, sport és hobby tevékenység terjesztése, népszerűsítése, tanfolyamok szervezése, továbbá, hogy közös érdekeik védelméről gondoskodjék. - Tagjai részére a rendszeres sportolás, a kulturális tevékenységek lehetőségének biztosítása - Társadalmi öntevékenység és a közösségi élet kibontakoztatása, - Az egyesülettel kapcsolatban lévő oktatási, nevelési intézmények tanulói részére a kulturális és sportolási lehetőségek megteremése, a lakosság szabadidősportjának, szabadidő értékes eltöltésének elősegítése, - Az egyesület biztosítja a sportág jellege szerint biztonságos tevékenység folytatásához szükséges feltételeket.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017032",
+      "régi_nyilvántartási_száma": "17032/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-11",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lécz",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-27",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lovas",
+        "Képviselő keresztneve": "Kázmér",
+        "Képviselő titulusa": "Attila",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "254 881 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 897 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "56",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "338 435 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "322 149 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "255 128 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "LÉCZ MOTORSPORT EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Lécz Motorsport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

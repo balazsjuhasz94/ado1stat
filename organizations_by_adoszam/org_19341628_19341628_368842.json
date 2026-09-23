@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19341628",
+  "scraped_at": "2026-09-22T22:20:14.138219",
+  "organization_id": "368842",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sündörgők Állatmentő és Állatvédő Egyesület",
+      "rövid_név": "Sündörgők Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1239 Budapest, Millennium utca 46.",
+      "adószám": "19341628-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-12",
+      "statisztikai_számjel": "19341628-9499-529-01",
+      "x_koordináta": "47.3773182",
+      "y_koordináta": "19.1365536"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A társadalom, a helyi közösség és az egyén közös érdekeinek kielégítésére irányuló állatvédelmi, természetvédelmi és környezetvédelmi tevékenységek ellátása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017894",
+      "régi_nyilvántartási_száma": "17894/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Oszfolkné Molnár",
+        "Képviselő keresztneve": "Ildikó",
+        "Képviselő titulusa": "Anna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,215 @@
+{
+  "search_adoszam": "18969513",
+  "scraped_at": "2026-09-22T22:10:23.273812",
+  "organization_id": "41237",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ZAZEE Kulturális Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Kossuth út 47-51.",
+      "x_koordináta": "46.838693",
+      "y_koordináta": "16.845559",
+      "adószám": "18969513-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-02-10",
+      "statisztikai_számjel": "18969513-9499-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Amatőr könnyűzenei előadók, zenekarok támogatása. Az egyesület támogatja azon zenészeket, zenekarokat, akik nem hivatásszerűen zenélnek, élő hangszeres, nem kommersz könnyűzenét játszanak (műfajtól függetlenül) legalább 50 %-ban saját számokat adnak elő és nem állnak kiadóval szerződésben. Az egyesület tevékenysége révén segíti a zenekarokat, hogy ismertté, elismertté váljanak,zenéjük eljusson a közönséghez. A fiatal korosztályon zenehallgatási kultúrájának fejlesztése. A zenészek, zenekarok tevékenységének támogatása révén közvetett cél szélesíteni azt a zenei palettát, melyből a fiatal megtalálja a stílusának megfelelő előadót. Cél, hogy a fiatalok ismerjék fel az értékes zenei produkciókat és a közösségben történő zenehallgatás révén a fiatalok megtalálják a számukra megfelelő kortárscsoportot. Az egyesület olyan zenei klubot, műhelyt kíván működtetni, ami nyitott a fiatal zenészek, zenehallgatók számára, ami befogad más művészeti ágakhoz kapcsolódó kortárs műveket, produkciókat, valamint a fent megfogalmazott célokért működik. Az egyesület támogatja a tehetséges zenészek, zenekarok zenei oktatását, továbbképzését és maga is szervez képzéseket. Az egyesület partneri kapcsolatok kiépítésére törekszik a határon túli magyar és egyéb külföldi zenészekkel, zenekarokkal, illetve hasonló célokra szerveződő kulturális célú szervezetekkel. Az egyesület támogatja a kortárs művészek, művészeti csoportok tevékenységét, a könnyűzenén túl az irodalom, a képzőművészet, a színház- és filmművészet, valamint egyéb művészeti ágak képviselőit. Az egyesület elsősorban rendezvények szervezésével, nyomtatott (havilap, kiadvány) és elektronikus (webportál) kiadványok megjelentetésével, gondozásával kívánja elérni, hogy a kortárs művészek a ?kultúrára éhes? közönség számára bemutatkozhassanak. Az egyesület kapcsolatot kíván létesíteni, fenntartani további kulturális területen működő szervezetekkel a jövőbeni hatékony együttműködés érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0001998",
+      "régi_nyilvántartási_száma": "1998/2005",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-10-17",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2014-07-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Wettstein",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1820",
+        "Leírás": "Egyéb sokszorosítás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      },
+      {
+        "Kód": "7722",
+        "Leírás": "Videokazetta, lemez kölcsönzése"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "31 441 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "52 417 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "96 632 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "71 777 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "40 963 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "126 381 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "84 922 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "174 850 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 893 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "156 007 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "254 685 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 446 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE KULTURÁLIS EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZAZEE Kulturális Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

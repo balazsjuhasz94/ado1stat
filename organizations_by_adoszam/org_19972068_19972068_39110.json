@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19972068",
+  "scraped_at": "2026-09-22T22:28:12.355306",
+  "organization_id": "39110",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Falusi Sportegyesület Csólyospálos",
+      "rövid_név": "CSPFSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6135 Csólyospálos, Kossuth L. utca 62.",
+      "x_koordináta": "46.4177766",
+      "y_koordináta": "19.8402085",
+      "adószám": "19972068-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1982-06-01",
+      "statisztikai_számjel": "19972068-9319-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportegyesület célja a rendszeres sportolás (versenyzés), testedzés, felüdülés biztosítása, az ilyen igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység, közösségi élet kibontakoztatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0000476",
+      "régi_nyilvántartási_száma": "476/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-01",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ábrahám-Furus",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ábrahám-Furus",
+        "Képviselő keresztneve": "Gergő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-02-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

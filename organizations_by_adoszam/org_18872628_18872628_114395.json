@@ -1,0 +1,94 @@
+{
+  "search_adoszam": "18872628",
+  "scraped_at": "2026-09-22T22:06:52.394702",
+  "organization_id": "114395",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pandúr Lövész-Klub Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9173 Győrladamér, Petőfi Sándor utca 31/ a.",
+      "x_koordináta": "47.7553408",
+      "y_koordináta": "17.5569255",
+      "adószám": "18872628-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-02-02",
+      "statisztikai_számjel": "18872628-9312-521-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület alapítói olyan rendőrök, sportlövők akik korábban már folytattak eredményes sporttevékenységet. Kiváló eredményeket értek el a sportlövészetben, és akik tudásukat szeretnék a fiatalság, valamint az érdeklődők részére továbbadni. A rendszerváltozás után megszűnt az MHSZ, így a nagy hagyományokkal rendelkező lövészsport emberi és anyagi bázisai elapadtak, a lőtereket megszüntették, a lövészklubokat felszámolták. Lövészklubunkkal szeretnénk a lövész hagyományokat tovább ápolni, a magyar lövészsport számára utánpótlást nevelni. Célunk a fiatalság nevelése, egy egyetemes európai fegyverkezési-tartási kultúra átadása a fiatalságnak. A lövészet segítségével azokat a készségeket fejleszteni, ami az egyének jó tulajdonságait gyarapítja a szabadidő hasznos eltöltése mellett. A fegyver és lőtérhasználatnak szigorú kötöttségei vannak. Az egyéni teljesítmény mellett a közösségi szellem, az egymás iránti felelősség vállalás sem elhanyagolható, ami nagy kincs a mai világban.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0062707",
+      "régi_nyilvántartási_száma": "62707/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-03",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lakatos",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "152 473 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "170 341 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "184 257 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "303 191 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "283 066 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "311 074 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pandúr Lövész-Klub Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pandúr Lövész-Klub Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Pandúr Lövész-Klub Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

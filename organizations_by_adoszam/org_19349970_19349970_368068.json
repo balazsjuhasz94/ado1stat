@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "19349970",
+  "scraped_at": "2026-09-22T22:21:02.234041",
+  "organization_id": "368068",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Család Gyermekeiért ALAPÍTVÁNY",
+      "rövid_név": "Szent Család ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác, Bauer Mihály utca 18-1.",
+      "adószám": "19349970-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-08",
+      "statisztikai_számjel": "19349970-9499-569-13",
+      "x_koordináta": "47.7958804",
+      "y_koordináta": "19.1380012"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "a.) A Váci Szent Család Katolikus Óvoda feltételeinek, körülményeinek gazdagítása, javítása b.) Az óvodai nevelés, oktatás, képességfejlesztés, az ismeretterjesztés segítése c.) Élmény-, tevékenység-gazdag és egészséges környezet biztosítása az óvodába járó gyermekek számára d.) A gyermekek játékeszközeinek, játék lehetőségeinek bővítése",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004272",
+      "régi_nyilvántartási_száma": "4272/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Illés",
+        "Képviselő keresztneve": "Szabina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

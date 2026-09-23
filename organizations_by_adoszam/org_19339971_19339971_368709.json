@@ -1,0 +1,81 @@
+{
+  "search_adoszam": "19339971",
+  "scraped_at": "2026-09-22T22:20:03.797851",
+  "organization_id": "368709",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Örkényi Fúvószenekari Egyesület",
+      "rövid_név": "Örkényi Fúvószenekari Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2377 Örkény, Nagykőrösi utca 50.",
+      "adószám": "19339971-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-06-20",
+      "statisztikai_számjel": "19339971-9020-529-13",
+      "x_koordináta": "47.1288582",
+      "y_koordináta": "19.4286865"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Közösségi, kulturális hagyományok értékek ápolása, a lakosság életmódja javítását szolgáló kulturális célok megvalósításának támogatása. Művészeti intézmények/lakossági művészeti kezdeményezések, önszerveződések támogatása, a művészeti értékek létrehozásának, megőrzésének segítése. Kulturális szolgáltatás nyújtása, a kulturális örökség helyi védelme, a helyi közművelődési tevékenység támogatása. Örkény és a környező települések zenei életének fellendítése, az itt élő és zenélni vágyó emberek összefogása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008222",
+      "régi_nyilvántartási_száma": "8222/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-02-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fülöp",
+        "Képviselő keresztneve": "Levente",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-16",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Katona",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "186 600 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

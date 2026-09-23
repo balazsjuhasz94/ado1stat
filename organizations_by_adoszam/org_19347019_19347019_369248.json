@@ -1,0 +1,60 @@
+{
+  "search_adoszam": "19347019",
+  "scraped_at": "2026-09-22T22:20:36.331206",
+  "organization_id": "369248",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kékgolyó a Daganatos Betegekért Alapítvány",
+      "rövid_név": "Kékgolyó Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1122 Budapest, Ráth György utca 7-9.",
+      "adószám": "19347019-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-14",
+      "statisztikai_számjel": "19347019-8610-569-01",
+      "x_koordináta": "47.5043418",
+      "y_koordináta": "19.0162924"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az Országos Onkológiai Intézet egészségmegőrző, betegségmegelőző, egészségfejlesztő, gyógyító, egészségügyi rehabilitációs, kutatási, oktatási, szakmai és tudományos tevékenységének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013361",
+      "régi_nyilvántartási_száma": "13361/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-03",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-21",
+      "bankszámlaszám": "11712004 - 22476469 – 00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Patócs",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "Balázs",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

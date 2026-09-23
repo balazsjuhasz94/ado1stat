@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19288435",
+  "scraped_at": "2026-09-22T22:17:19.739846",
+  "organization_id": "365201",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kolontár Jövőért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8468 Kolontár, Kossuth utca 4.",
+      "adószám": "19288435-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-02",
+      "statisztikai_számjel": "19288435-9499-529-19",
+      "x_koordináta": "47.064063",
+      "y_koordináta": "17.4956425"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Kolontár község területén kulturális tevékenység; kulturális örökség megóvása; műemlékvédelem; nevelés és oktatás, képességfejlesztés, ismeretterjesztés; környezetvédelem; a magyarországi nemzeti és etnikai kisebbségekkel, valamint a határon túli magyarsággal kapcsolatos tevékenység; hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003946",
+      "régi_nyilvántartási_száma": "3946/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buzás Sándor",
+        "Képviselő keresztneve": "Kálmánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Holczerné Boncz",
+        "Képviselő keresztneve": "Titanilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Baloghné Oszkó",
+        "Képviselő keresztneve": "Marianna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 145 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

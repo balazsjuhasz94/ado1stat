@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19348584",
+  "scraped_at": "2026-09-22T22:20:52.371934",
+  "organization_id": "369360",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Aranydió Óvodáért\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9126 Gyarmat, Óvoda utca 7.",
+      "adószám": "19348584-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-11-15",
+      "statisztikai_számjel": "19348584-9499-569-08",
+      "x_koordináta": "47.451275",
+      "y_koordináta": "17.484053"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány célja minden olyan kezdeményezés támogatása, amely a Gyarmati Aranydió Óvodába járó gyermekek személyiségének fejlődését, fejlesztését, képességeik, készségeik kibontakozását elősegíti. Az óvodai nevelés programját szolgáló új eljárások kidolgozásának gyakorlati megvalósítása és az óvodai nevelés színvonalának emelése. Az óvodai környezet és az eszközellátottság folyamatos fejlesztése, a Gyarmati Aranydió Óvoda mindenkori pedagógiai programjával összefüggő, a gyermekek nevelési feltételeit javító, segítő eszközök megteremtése. Az egészséges életmód terjesztése, népszerűsítése, az óvodai sporttevékenységek, mozgásfejlesztés előmozdítása, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051499",
+      "régi_nyilvántartási_száma": "51499/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "211 809 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

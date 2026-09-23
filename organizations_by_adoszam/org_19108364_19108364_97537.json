@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19108364",
+  "scraped_at": "2026-09-22T22:12:43.368873",
+  "organization_id": "97537",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Alapítvány a meddőség megelőzéséért és a jövő nemzedék egészségéért",
+      "rövid_név": "AMM",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1125 Budapest, Rőzse utca 1/B 2.em./6.",
+      "x_koordináta": "47.5069292",
+      "y_koordináta": "19.0020588",
+      "adószám": "19108364-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-01-29",
+      "statisztikai_számjel": "19108364-8412-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja, hogy elősegítse Magyarországon, tágabban a Kárpát-medencében a fogamzások számát, a népszaporulat növekedését. Ennek érdekében az Alapítvány a társadalom anyagi segítséget felhasználva olyan egészségügyi, oktatási és tanácsadási tevékenységeket támogathat, amelyek segítik a nem-funkcionális meddőség kialakulásának megelőzését, valamint leküzdését. Támogathatja továbbá azokat az oktatási, nevelési és tanácsadási tevékenységeket, amelyek által az egészséges fogamzás, várandósság és szülés eredményeként minél egészségesebb utódok jöjjenek a világra.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012730",
+      "régi_nyilvántartási_száma": "12730/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-12-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ősapay",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 506 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "354 825 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 565 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19314662",
+  "scraped_at": "2026-09-22T22:18:20.231408",
+  "organization_id": "367202",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Margit Cserkészei Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6729 Szeged, Szigony utca 38.",
+      "adószám": "19314662-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-03",
+      "statisztikai_számjel": "19314662-9499-529-06",
+      "x_koordináta": "46.2287101",
+      "y_koordináta": "20.0927724"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az 1507. számú Árpád-házi Szent Margit Cserkészcsapat és más ifjúsági szervezetek támogatása, fejlesztése és programjaik lebonyolításában segédkezés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003534",
+      "régi_nyilvántartási_száma": "3534/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Várnagy",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "Judit",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "241 866 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

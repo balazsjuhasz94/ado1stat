@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19292287",
+  "scraped_at": "2026-09-22T22:17:29.519957",
+  "organization_id": "365481",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Angyali-szigeti Civilek Egyesülete",
+      "rövid_név": "Angyali Civilek",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2300 Ráckeve, Angyali sziget 33.",
+      "adószám": "19292287-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-01-12",
+      "statisztikai_számjel": "19292287-9499-529-13",
+      "x_koordináta": "47.1651406",
+      "y_koordináta": "18.9310398"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Településfejlesztési és lakásügyi tevékenység (pl. helyi és regionális településfejlesztés, kommunális és közlekedésfejlesztés, közösségfejlesztés, ingatlantulajdonosok szervezetei, lakásellátás javítása)",
+      "céljának_leírása": "Ráckeve, Angyali-sziget fejlesztése különös tekintettel a közösségépítésre, infrastrukturális fejlesztésre,l környezettudatosság növelésére, valamint a kulturális oktatásra, sporttevékenységre és a külső kapcsolatok kiépítésére.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007941",
+      "régi_nyilvántartási_száma": "7941/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "Péter",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "252 655 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19253756",
+  "scraped_at": "2026-09-22T22:16:29.736418",
+  "organization_id": "301468",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dél-Pesti Önkéntes Tűzoltó Egyesület és Bűnmegelőzési Polgárőrség",
+      "rövid_név": "Dél-Pest ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1202 Budapest, Lázár utca 14.",
+      "adószám": "19253756-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-12",
+      "statisztikai_számjel": "19253756-8425-529-01",
+      "x_koordináta": "47.4342324",
+      "y_koordináta": "19.1366462"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "céljának_leírása": "„Elsődleges célja: önkéntes tűzoltó egyesületként a jogszabályokban meghatározott önkéntes tűzoltás és műszaki mentés; önkéntes mentőszervezetként a katasztrófák és vészhelyzetek hatásainak kivédése, felszámolása, a katasztrófavédelmi feladatok ellátása, valamint emberi élet mentése; polgárőrségként a helyi közrend és közbiztonság védelme, valamint a bűnmegelőzésben, az államhatár védelmében, és az illegális migráció megakadályozásában történő közreműködés. Az elsődleges cél mellett (kiegészítő jelleggel) szerepet kíván vállalni: önkéntes tűzoltó egyesületként a tűzmegelőzésben, a katasztrófák elleni védekezésben, tagjainak közösségi életre történő nevelésében, valamint tagjai tűzvédelmi szakmai ismereteinek bővítésében; önkéntes mentőszervezetként a polgári védelmi tevékenység támogatásában, megerősítésében, népszerűsítésében; továbbá polgárőrségként a bűnmegelőzésben, a rendvédelmi és rendészeti szervekkel együttműködve a közrend és a közbiztonság fenntartásában, valamint az állampolgárok szubjektív biztonságérzetének fokozásában.”",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017443",
+      "régi_nyilvántartási_száma": "17443/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-03-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Horváth",
+        "Képviselő keresztneve": "Krisztián",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Forrás",
+        "Képviselő keresztneve": "Alex",
+        "Képviselő titulusa": "Artemon",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tamási",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "Gergő",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "247 239 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 725 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "300 494 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "search_adoszam": "15403313",
+  "scraped_at": "2026-09-22T21:39:36.268016",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MÓRICZ ZSIGMOND MEGYEI ÉS VÁROSI KÖNYVTÁR",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 NYÍREGYHÁZA SZABADSÁG TÉR 14.",
+      "adószám": "15403313",
+      "x_koordináta": "47.9349648",
+      "y_koordináta": "21.6882744"
+    },
+    "fonadatok": {
+      "céljának_leírása": ""
+    }
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 652 Ft"
+      }
+    ]
+  },
+  "error": null
+}

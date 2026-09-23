@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19342533",
+  "scraped_at": "2026-09-22T22:20:16.098161",
+  "organization_id": "368901",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "BETHESDA Keresztény Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6120 Kiskunmajsa, Lehel utca 6.",
+      "adószám": "19342533-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-07-28",
+      "statisztikai_számjel": "19342533-9499-529-03",
+      "x_koordináta": "46.4762976",
+      "y_koordináta": "19.7140639"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célja a keresztény evangelizációs küldetés tudatos elkötelezettségű vállalása, annak teljesítésére való folyamatos törekvés az élet minden területén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003976",
+      "régi_nyilvántartási_száma": "3976/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kerepes",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "122 138 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

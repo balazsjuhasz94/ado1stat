@@ -1,0 +1,60 @@
+{
+  "search_adoszam": "19356598",
+  "scraped_at": "2026-09-22T22:22:06.973162",
+  "organization_id": "370065",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Az Intenzíven a Gyógyulásért és a Gyógyításért Alapítvány",
+      "rövid_név": "Intenzíven Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1076 Budapest, Péterfy Sándor utca 18-20.",
+      "adószám": "19356598-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-03-21",
+      "statisztikai_számjel": "19356598-8610-569-01",
+      "x_koordináta": "47.5026951",
+      "y_koordináta": "19.0834747"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "A Péterfy Sándor utcai Kórház Központi Intenzív Osztályán kezelt betegek magas szakmai színvonalú ellátásának biztosítása mellett az osztályon kezelt fekvőbetegek kényelmének és komfortérzetének javítását szolgáló eszközök beszerzése, valamint az ápolásukat, kezelésüket végző minden dolgozó szakmai fejlődésének támogatása. A fekvőbeteg-ellátás körülményeinek javítása, komfortosabbá és kellemesebbé tétele, a betegeket kiszolgáló ápolási és gyógyászati segédeszközök korszerűsítése és bővítése. A fekvőbeteg-ellátást végző orvosok, ápolók asszisztensek és gyógytornászok elméleti és gyakorlati továbbképzésének a támogatása, az ismeretek bővítésének elősegítése, a szakellátás, a gyógyítás és ápolás technikai fejlesztése, tudományos konferenciákon való részvétel támogatása, szakmai tapasztalatok gyarapítása, betegek ellátását végző orvosok és ápolók, valamint gyógytornászok munkakörülmények javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013443",
+      "régi_nyilvántartási_száma": "13443/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11707110-21469776",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Húri",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "Bernadett",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18714588",
+  "scraped_at": "2026-09-22T22:01:23.034439",
+  "organization_id": "61673",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Via Viridis-Zöld Út Ifjúsági és Környezetvédelmi Egyesület",
+      "rövid_név": "Via Viridis Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2095 Pilisszántó, Béke utca 17.",
+      "x_koordináta": "47.4969408",
+      "y_koordináta": "19.0663067",
+      "adószám": "18714588-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-02-21",
+      "statisztikai_számjel": "18714588-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A globalizálódó világunk jelenségeinek megismerése, ismertetése. A világ egységének és sokféleségének természeti, gazdasági, társadalmi és kulturális értékeinek megőrzése, ez irányú tudás bővítése, a felelősségtudat felébresztésével egy élhetőbb társadalmi- és természeti környezet kialakítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0004764",
+      "régi_nyilvántartási_száma": "4764/2006",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-08",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Priksz",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-02-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "45 713 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "35 384 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "24 057 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "180 691 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "256 948 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Via Viridis-Zöld Út Ifjúsági és Környzetvédelmi Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Via Viridis-Zöld Út Ifjúsági és Környezetvédelmi Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

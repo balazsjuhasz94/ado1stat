@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18254651",
+  "scraped_at": "2026-09-22T21:45:42.883398",
+  "organization_id": "112256",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Babamentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1201 Budapest, Királyhágó 84.",
+      "x_koordináta": "47.4242455",
+      "y_koordináta": "19.1219828",
+      "adószám": "18254651-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-08",
+      "statisztikai_számjel": "18254651-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A magzati megbetegedések megelőzésének elősegítése, rákos újszülöttek kezelésének támogatása, lombikbébi programban résztvevők vitamin és gyógyszertámogatása, a tartósan lélegeztető gépen lévő újszülött gyermekek kórházból való hazakerülésének elősegítése, gyógyászati segédeszközök, légzésfigyelő készülékek beszerzése, illetve ezen eszközök térítésmentes kölcsönzése a rászoruló újszülöttek részére, gyógyszeres kezelések finanszírozása, külföldi vizsgálatok, gyógykezelések lehetővé tétele a beteg újszülött gyermekek számára, szociális támogatás, a tartósan lélegeztetett újszülöttek ápolóinak, szüleiknek szakmai továbbképzése, a rákos betegséggel kapcsolatos kutatások támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0009578",
+      "régi_nyilvántartási_száma": "9578/2005",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2005-05-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Markstein",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

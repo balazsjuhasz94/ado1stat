@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19344494",
+  "scraped_at": "2026-09-22T22:20:18.215397",
+  "organization_id": "368902",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tiszaszigeti Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "TÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6756 Tiszasziget, Szent Antal tér 10.",
+      "adószám": "19344494-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-08-30",
+      "statisztikai_számjel": "19344494-9499-529-06",
+      "x_koordináta": "46.1711008",
+      "y_koordináta": "20.142914"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az egyesület célja jogszabályban meghatározott tűzvédelmi feladatok helyi megvalósításának társadalmi segítése, így különösen az önkéntes tűzoltó egyesületekről szó ló 2008. évi XXXIII. törvény 1. §-ával összhangban az, hogy a tűz elleni védekezésről, a műszaki mentésről és tűzoltóságról szóló 1996. évi XXXI. törvényben (a továbbiakban: Ttv.) meghatározott tűzmegelőzési, valamint tűzoltási és műszaki mentési feladatok ellátásában közreműködőként részt vegyen.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003586",
+      "régi_nyilvántartási_száma": "3586/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-06-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "András",
+        "Képviselő keresztneve": "Nimród",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "András",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Papdi",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

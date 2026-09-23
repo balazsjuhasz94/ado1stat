@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18605916",
+  "scraped_at": "2026-09-22T21:57:19.638344",
+  "organization_id": "90572",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PSYCHE Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2800 Tatabánya, Síkvölgyi út 63.",
+      "x_koordináta": "47.5560511",
+      "y_koordináta": "18.382377",
+      "adószám": "18605916-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-11-01",
+      "statisztikai_számjel": "18605916-9499-569-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Az alap- és szakellátásban részesülő pszichiátriai betegek és értelmi fogyatékos személyek számára sport, közösségi, kulturális és tervezett szabadidős programokban való egyenjogú részvétel elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-01-0000612",
+      "régi_nyilvántartási_száma": "612/1996",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-09-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Busai",
+        "Képviselő keresztneve": "Zsolt Istvánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Zsilinszki",
+        "Képviselő keresztneve": "Zoltlánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Richterné Kriston",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "83 352 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "249 408 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "261 055 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 191 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Psyche Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

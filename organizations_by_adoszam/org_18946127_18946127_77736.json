@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "18946127",
+  "scraped_at": "2026-09-22T22:09:32.746178",
+  "organization_id": "77736",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pannon Technik Sport Egyesület",
+      "rövid_név": "Pannon Technik SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7625 Pécs, Hegyalja utca 33.",
+      "x_koordináta": "46.0792741",
+      "y_koordináta": "18.2480943",
+      "adószám": "18946127-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-14",
+      "statisztikai_számjel": "18946127-9312-521-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Tagjai részére az autósport gyakorlásának egyesületi keretek között történő lehetővé tétele, az egyesületi tagok magyar és nemzetközi futamokon való részvételével lehetőségének megteremtése, a versenyzés lehetőségének megteremtése, a versenyzés anyagi, technikai, szakmai és személyi feltételeinek biztosítása. A testedzés és sportolási lehetőség biztosítása, a minőségi sporteseményeken való részvétel lehetőségének megteremtése, részvétel feltételeinek biztosítása, autósport személyi utánpótlásról való gondoskodás, fiatal tehetségek felkutatása. Az autósport utánpótlásának nevelése, oktatása, versenyeztetése. Jótékonysági összejövetelek megszervezése az egyesület által elfogadott versenyek, családi autósport napok, szabadidős sportesemények, gyermekprogramok szervezése. Rally-autók üzemeltetése, fejlesztése, versenyeztetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003755",
+      "régi_nyilvántartási_száma": "3755/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-15",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-15",
+      "bankszámlaszám": "50800111-15592619-00000000",
+      "számlavezető_pénzintézet_neve": "Takarékbank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Harth",
+        "Képviselő keresztneve": "Máté",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-09-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "46 311 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 132 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

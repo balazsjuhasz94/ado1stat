@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "19295723",
+  "scraped_at": "2026-09-22T22:17:33.389080",
+  "organization_id": "365791",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "CÍVISEK SZENNYESPUSZTÁN Hagyományőrző Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4371 Nyírlugos, Acsádi utca 66.",
+      "adószám": "19295723-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-02-17",
+      "statisztikai_számjel": "19295723-9499-529-15",
+      "x_koordináta": "47.6841715",
+      "y_koordináta": "22.0333277"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület célja a magyar kulturális örökség, a népi hagyományok őrzése, megóvása, felelevenítése és ápolása, a magyar néptánc és népzenei kultúra, népi iparművészet művelése és széles körben történő megismertetése, ennek során hagyományőrző ünnepek, rendezvények szervezésével a népi hagyományok megőrzése, továbbvitele a következő generációk életében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005122",
+      "régi_nyilvántartási_száma": "5122/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ladányi",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "360 806 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "293 507 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

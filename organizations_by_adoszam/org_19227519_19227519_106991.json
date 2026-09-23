@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "19227519",
+  "scraped_at": "2026-09-22T22:15:21.394007",
+  "organization_id": "106991",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Önkéntes Tűzoltó Egyesület Kőtelek",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5062 Kőtelek, Szabadság út 1.",
+      "x_koordináta": "47.331082",
+      "y_koordináta": "20.443408",
+      "adószám": "19227519-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1988-01-01",
+      "statisztikai_számjel": "19227519-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység",
+      "céljának_leírása": "A működési területén az élet- és vagyonbiztonságot, a környezetet veszélyeztető tűzesetek megelőzése.A tűzeseteknél és egyéb káreseményeknél a hivatásos tűzoltók elhárítási, oltási munkájának hatékony, szakszerű segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0000379",
+      "régi_nyilvántartási_száma": "379/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-05-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Visnyei",
+        "Képviselő keresztneve": "Zoltánné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lovász",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-01-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "146 169 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "166 362 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "211 873 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "262 396 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "NAGYKÖZSÉGI ÖNKÉNTES TÜZOLTO E"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

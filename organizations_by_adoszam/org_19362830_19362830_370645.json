@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19362830",
+  "scraped_at": "2026-09-22T22:23:11.776972",
+  "organization_id": "370645",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Livi Lépteiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2400 Dunaújváros, Thököly Imre utca 31.",
+      "adószám": "19362830-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-06-26",
+      "statisztikai_számjel": "19362830-9499-569-07",
+      "x_koordináta": "46.9595429",
+      "y_koordináta": "18.9191377"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapító leánya, a 2014-ben született Balog Lívia, Myelitis Transversa okozta paraplegia miatt tartós betegséggel küzd. Betegsége folytán az alsó végtagjai mozgásukban erősen korlátozottá váltak, Lívia a törzsizomfejlesztés és alsó végtagok fejlesztése céljából rendszeres és tartós rehabilitációra szorul. Diagnózisok: G9580 A gerincvelő egyéb meghatározott betegségei, G8220 Paraplegia k.m.n. Az Alapítvány célja Lívia gyógykezelésének, rehabilitációjának és fejlesztésének elősegítése, valamint az ahhoz szükséges anyagi és tárgyi feltételek biztosítása. Lívia számára nyújtandó gyógykezelések, rehabilitáció (pl. robotterápia, mozgásterápia, hidroterápia, lovasterápia, masszázs, külföldi gyógykezelés, akadálymentesítés, gyógyászati segédeszközök, útiköltség) és mindezek eredményeként Lívia esélyegyenlőségének, önálló életvitelének és társadalmi életben való aktív részvételének biztosítása, valamint az egészséges életmód és szabadidősport gyakorlásának, feltételeinek megteremtése az esélyegyenlőség jegyében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001218",
+      "régi_nyilvántartási_száma": "1218/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Turcsányi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Konrád",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Balog",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

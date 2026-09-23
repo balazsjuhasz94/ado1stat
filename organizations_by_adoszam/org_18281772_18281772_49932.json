@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "18281772",
+  "scraped_at": "2026-09-22T21:46:38.254985",
+  "organization_id": "49932",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Földes Ferenc Gimnázium Öregdiák Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3525 Miskolc, Kelemen Didák utca 5.",
+      "x_koordináta": "48.1060869",
+      "y_koordináta": "20.7854367",
+      "adószám": "18281772-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2025-08-08",
+      "adószám_törlésének_dátuma": "2024-01-16",
+      "statisztikai_számjel": "18281772-7220-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A Földes Ferenc Gimnázium (3525 Miskolc, Hősök tere 7.) oktatási és nevelési elvei mentén a mindenkori tanári kar munkájának és továbbképzésének, valamint a diákok tanulmányainak, továbbtanulásának, tanulmányi versenyeken való részvételének, nyelvtanulásának segítése, támogatása az alapítvány céljára rendelt anyagi és természetbeni eszközeivel. Az alapítvány célul tűzi ki továbbá a tehetséggondozást, versenyképes tudás megszerzését országos és nemzetközi szinten, valamint a diákság felkészítését a minőségi felsőoktatásra. Az alapítvány közhasznú tevékenysége: tudományos tevékenység, kutatás, nevelés és oktatás, képességfejlesztés, ismeretterjesztés, kulturális tevékenység, kulturális örökség megóvása, környezetvédelem, gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet, sport, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével, euroatlanti integráció elősegítése. Az alapítvány cél szerinti besorolása: tudományos tevékenység, kutatás, nevelés és oktatás, képességfejlesztés, ismeretterjesztés, kulturális tevékenység, kulturális örökség megóvása, környezetvédelem, gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet, sport, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével, euroatlanti integráció elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064254",
+      "régi_nyilvántartási_száma": "64254/2011",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vass",
+        "Képviselő keresztneve": "Iván",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

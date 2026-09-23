@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19370356",
+  "scraped_at": "2026-09-22T22:24:30.359516",
+  "organization_id": "371276",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hattól Nyolcig Filmklub Egyesület",
+      "rövid_név": "Hattól Nyolcig",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8500 Pápa, Szent László utca 10. 1. emelet/3. ajtó",
+      "adószám": "19370356-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-10-30",
+      "statisztikai_számjel": "19370356-9499-529-19",
+      "x_koordináta": "47.3391468",
+      "y_koordináta": "17.4696359"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Hattól Nyolcig Filmklub Egyesület kulturális tevékenységet folytat, ezen belül értékmegőrző és -teremtő feladattal van jelen a helyi kulturális palettán. Az egyesület célja a klasszikus és kortárs, hazai és egyetemes filmművészeti értékek őrzése, megismertetése és népszerűsítése. Kulturális missziójának alapvetése, hogy lokális szinten ellensúlyozza a világméretű trendet: a tömegfilmek térnyerését, és teszi ezt a mélyebb tartalmat hordozó, gondolatébresztő szerzői és közönségfilmek népszerűsítésével, felszínen tartásával. A társadalom érdekeivel összhangban - beleértve a helyi ifjúsági és iskolás korosztály bevonását - az egyesület küldetése a filmnyelvet értő generációk kinevelése, valamint a tágabb értelemben vett közösség kulturális tartalomfogyasztásának fejlesztése, a film, mint művészeti alkotásnépszerűsítésén keresztül. Tevékenységeinek eredményeként a térségben élők szellemi jóllétének, ezáltal életminőségének javítása is cél, mert alapítói hisznek abban, hogy a tudatos, közös értékeken alapuló kultúrafogyasztás hozzájárul a társadalom egészének szellemi és kulturális fejlődéséhez. Az egyesület célja, hogy növelje a filmművészet kedvelőinek táborát, valamint tevékenységével a közös élmény- és értékreferenciákon keresztül teremtse meg a közös kulturális alapokon nyugvó közösségét. Az egyesület fontosnak tartja, hogy a magyar és egyetemes filmkultúra megismerése széles rétegek számára elérhető legyen. Szorosan együttműködik városi civil szervezetekkel, oktatási intézményekkel, a hátránnyal érintett közönség képviselőivel, azért, hogy a marginális helyzetű csoportok is hozzáférjenek a filmes kultúrához, valamint támogassa ezen közönségréteg filmesztétikai nevelését is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0004120",
+      "régi_nyilvántartási_száma": "4120/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Cseh",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-19",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Cseh-Müller",
+        "Képviselő keresztneve": "Orsolya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5913",
+        "Leírás": "Film-, video- és televízióprogram terjesztése"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      },
+      {
+        "Kód": "7740",
+        "Leírás": "Immateriális javak kölcsönzése"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

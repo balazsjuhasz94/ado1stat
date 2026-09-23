@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19338224",
+  "scraped_at": "2026-09-22T22:19:49.812556",
+  "organization_id": "368564",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tetovált Angyalok az Öreg Kutyákért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5430 Tiszaföldvár, Kurázsi I. út 81.",
+      "adószám": "19338224-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-23",
+      "statisztikai_számjel": "19338224-9499-569-16",
+      "x_koordináta": "46.9721866",
+      "y_koordináta": "20.2776612"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A 10 évnél idősebb és/vagy viselkedési problémával küzdő kutyák mentése és rehabilitációja, valamint a felelős állattartással kapcsolatos információk eljuttatása a lehető legtöbb emberhez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001195",
+      "régi_nyilvántartási_száma": "1195/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-01-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Buczkóné Fehér",
+        "Képviselő keresztneve": "Rita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dékány",
+        "Képviselő keresztneve": "Patrícia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pénzes",
+        "Képviselő keresztneve": "Lilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

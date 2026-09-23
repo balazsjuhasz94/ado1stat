@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19352635",
+  "scraped_at": "2026-09-22T22:21:17.894113",
+  "organization_id": "369709",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Segíts Somának Talpra Állni Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4552 Napkor, Orosi utca 26.",
+      "adószám": "19352635-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-01-17",
+      "statisztikai_számjel": "19352635-9499-569-15",
+      "x_koordináta": "47.9346987",
+      "y_koordináta": "21.8727293"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány elsődleges célja SMA1-es betegsége született Jármi Soma (született: Budapest 08, 2021.06.30., anyja neve: Juráncsik Anita, állandó lakcíme: 1135 Budapest, Reiter Ferenc utca 79-81. II. emelet 05.) ápolása, gondozása, egészséges testi és lelki fejlődésének biztosítása, továbbá: - gyógykezelésének, rehabilitációjának támogatása, beleértve a gyermek és kisérője utazással, szállással és étkezéssel kapcsolatos költségeinek finanszírozása - egyéb egészségmegőrző tevékenységek, konzultációk, műtétet, kezelések támogatása belföldön és külföldön, - orvosi eszközök, gyógyászati segédeszközök, fejlesztőeszközök, gyógyulást segítő étrendhez tartozó termékek beszerzése, - a kedvezményezett életkörülményeihez igazodóan a közös lakás átalakítása, a kedvezményezett mozgatásához és a mozgásához szükséges módon és mértékben, akadálymentesítés, - akadálymentesített ingatlan építése, vásárlása, - közlekedés biztosítása érdekében speciális autóbeszerzés és üzemeltetése, - pályázatok, támogatások benyújtása felkutatása, - társadalmilag hasznos tevékenység támogatása, - egyéb szociális célú célok megvalósítása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002647",
+      "régi_nyilvántartási_száma": "2647/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-09",
+      "bankszámlaszám": "10300002-13424245-00014909",
+      "számlavezető_pénzintézet_neve": "MKB Bank Nyrt Nyíregyházi Fiók"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lekli-Támba",
+        "Képviselő keresztneve": "Réka",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

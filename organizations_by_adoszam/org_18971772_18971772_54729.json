@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "18971772",
+  "scraped_at": "2026-09-22T22:10:29.424944",
+  "organization_id": "54729",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dimenzio Tánc Sport Egyesület",
+      "rövid_név": "DIMENZIO TSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9023 Győr, Téglavető utca 27.",
+      "x_koordináta": "47.6800021",
+      "y_koordináta": "17.6529401",
+      "adószám": "18971772-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-10-11",
+      "statisztikai_számjel": "18971772-9319-521-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület, mint nevében is jelzi, célként tűzi ki a táncsport oktatását, e sportág jellege szerint, továbbá a hivatalos versenyszabályzatban meghatározott biztonságos sporttevékenység folytatásához szükséges feltételek biztosítását a sporttevékenységet folytató hivatásos és amatőr sportolók, egyesületi tagok számára. Célja az eredményes sporttevékenységhez szükséges felkészülési és versenyzési lehetőség biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0002126",
+      "régi_nyilvántartási_száma": "2126/2001",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-01",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Futó",
+        "Képviselő keresztneve": "Károly",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "90 702 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "185 921 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "141 675 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "258 910 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Dimenzió Tánc Sport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

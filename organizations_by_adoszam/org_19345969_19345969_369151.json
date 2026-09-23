@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19345969",
+  "scraped_at": "2026-09-22T22:20:26.274186",
+  "organization_id": "369151",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Országos Koraszülött és Gyermek Jólét Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6753 Szeged, Beszterce utca 47.",
+      "adószám": "19345969-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-21",
+      "statisztikai_számjel": "19345969-8412-569-06",
+      "x_koordináta": "46.26362",
+      "y_koordináta": "20.2447562"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Rászoruló és beteg gyermekek szabadidős programjainak biztosítása, A rászoruló és beteg gyermekek étkeztetésének megszervezés, Rászoruló gyermekek részére programok szervezése, Rászoruló gyermekek szociális ellátáshoz kapcsolódó feladataiban való részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001787",
+      "régi_nyilvántartási_száma": "1787/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-31",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-06",
+      "bankszámlaszám": "10300002-13335268-00014903",
+      "számlavezető_pénzintézet_neve": "MKB Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Antoni",
+        "Képviselő keresztneve": "Dusan",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

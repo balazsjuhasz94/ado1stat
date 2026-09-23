@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19289704",
+  "scraped_at": "2026-09-22T22:17:23.703647",
+  "organization_id": "365275",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mégis Remény Egyesület",
+      "rövid_név": "MRE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5630 Békés, Petőfi utca 56.",
+      "adószám": "19289704-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-10",
+      "statisztikai_számjel": "19289704-9499-529-04",
+      "x_koordináta": "46.7798897",
+      "y_koordináta": "21.132891"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület célja, hogy segítse a keresztények társadalmi szerepvállalását mindazoknak, akik Jézus Krisztus evangéliumának hirdetésével és megélésével Jézus elkötelezett tanítványaként akarnak élni - a társadalmi élet bármely területén, különös tekintettel a cigánymissziók működésében – a szociális – egészségügyi, oktatási, kulturális és a gazdasági élet különböző szektoraiban egyaránt. Célja továbbá, hogy segítse - hazai és határon túli, valamint vallási vallási és civil szervezeteket egyaránt – amelyek a roma népesség, cigányság és/vagy a hátrányos helyzetű lakosság felzárkózását, integrációját segítik elő. A saját tevékenységi területükön belül a fenti célok teljesítését felvállaló civil szerveztek, vallási egyesületek és egyéb szerveztek számára a működésükhöz szükséges tanácsadói tevékenységet, koordinációt, valamint az együttműködésekhez szervezeti keretet nyújt. Ezen célok különösen: a magyarországi és határ menti cigánymissziós céllal működő vallási és civil szerveztek határon belüli és határon túli együttműködésnek a szervezése, és támogatása, az ehhez szükséges alap és alkalmazott kutatások, helyzetfeltárások elvégzése, szervezetfejlesztés, stratégiai tervezés és tanácsadás, képzések, konferenciák szervezése, módszertani, szakmai segédanyagok, útmutatók összeállítása, terjesztése jogi tanácsadás, projektfejlesztés, tervezés és menedzselés, a külföldi (projekt) partnerek közötti együttműködések koordinálása és közvetítése, tartós együttműködések, hálózatosodás kialakításának elősegítése, menedzselése, a projekt munkákhoz szakértői unka biztosítása, nemzetközi színvonalú tanácsadói és szakértői hozzájárulás biztosítása, és a missziói területeken nyújtott szakértői munkapresztízsének elismertetése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017517",
+      "régi_nyilvántartási_száma": "17517/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-05-05",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Durkó",
+        "Képviselő keresztneve": "Szabolcs",
+        "Képviselő titulusa": "Dániel",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "274 809 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19253732",
+  "scraped_at": "2026-09-22T22:16:27.735541",
+  "organization_id": "301465",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tázlári Fiatalokért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6236 Tázlár, Kecskeméti utca 3.",
+      "adószám": "19253732-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-08-13",
+      "statisztikai_számjel": "19253732-9499-529-03",
+      "x_koordináta": "46.5468437",
+      "y_koordináta": "19.5121249"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "A különböző korcsoportok és a generációk között fennálló ellentétek enyhítése, párbeszéd megteremtése. Az ifjúsági, közösségi élet, a hitélet és a sportélet fellendítése. Helyi, települési értékek digitalizálása, feltérképezése, a helyi értékek gyűjtése, családfakutatás segítése, az értéktár bizottság munkájának segítése. Települési rendezvényeken aktív részvétel, fiatalok részére programok szervezése. Határon átnyúló hagyományőrző, ifjúsági kapcsolatok ápolása, a nyelvtanulás, nyelvvizsgák megszerzésének segítése, testedzés, preventív egészségmegőrzés lehetőségeinek biztosítása, egészséges életmód népszerűsítése és az ilyen igények felkeltése. Párbeszéd teremtése a helyi önkormányzat, a vállalkozók és a fiatalság között. Tázlár és testvértelepülése, Diósad fiataljai között aktív kapcsolat fenntartása, további kapcsolatok kialakításának segítése a környező európai országok fiataljaival együttműködve, határon átnyúló kapcsolattartás, tanulmányutak, zarándoklatok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0003840",
+      "régi_nyilvántartási_száma": "3840/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-21",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Bendegúz",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "144 895 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "52",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "296 293 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "155 325 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

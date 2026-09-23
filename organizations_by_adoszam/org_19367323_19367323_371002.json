@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19367323",
+  "scraped_at": "2026-09-22T22:24:01.130119",
+  "organization_id": "371002",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szigetközi Állatvédő Liga",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Nárcisz utca 2/ 1. A.",
+      "adószám": "19367323-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-09-18",
+      "statisztikai_számjel": "19367323-9499-569-08",
+      "x_koordináta": "47.8648678",
+      "y_koordináta": "17.2738805"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az alapítvány célja az ismeretterjesztés, a nevelés, oktatás módszerével az állatok védelme, az állatmenhelyek fenntartásának és fejlesztésének segítése, az állatvédelem és a felelős állattartás népszerűsítése. Az alapítvány ezen túlmenően segítséget kíván nyújtani a fiatalok állatvédelemmel összefüggő oktatásának és ismeretterjesztő programjainak a támogatásához, továbbá a szükséges élelem és adományok juttatásával a rászoruló állattartók számára a meglévő állataik fenntartásához, ellátáshoz.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051513",
+      "régi_nyilvántartási_száma": "51513/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-04-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-26",
+      "bankszámlaszám": "10300002-13526345-00014901",
+      "számlavezető_pénzintézet_neve": "MBH Bank"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Légrádi",
+        "Képviselő keresztneve": "Annamária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

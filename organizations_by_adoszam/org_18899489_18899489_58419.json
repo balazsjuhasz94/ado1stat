@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18899489",
+  "scraped_at": "2026-09-22T22:07:55.607527",
+  "organization_id": "58419",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Országos Gazdász Retail Egyesület",
+      "rövid_név": "OGRE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Hargitai utca 4/ A. fszt/3.",
+      "x_koordináta": "47.160391",
+      "y_koordináta": "18.4054654",
+      "adószám": "18899489-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2009-03-20",
+      "statisztikai_számjel": "18899489-9412-529-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Olyan szakmai szövetség létrehozása, amely az országos, térségi, megyei, városi és kisebb közösségek esetén is a kapcsolatépítés szellemi műhelye a gazdász képzés területén. Az egyesület összehangolja a kapcsolatépítésben résztvevő szereplők fejlesztési céljait, biztosítja együttműködésüket korcsoporttól függetlenül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200194",
+      "régi_nyilvántartási_száma": "200194/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-27",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "Károly",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-09-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [
+      {
+        "Folyamatban lévő eljárás típusa": "NAV végrehajtás",
+        "Folyamatban lévő eljárás kezdete": ""
+      }
+    ],
+    "teaor": [
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "8532",
+        "Leírás": "Szakmai középfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "19137786",
+  "scraped_at": "2026-09-22T22:13:16.960857",
+  "organization_id": "96499",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Esélyt a képességeknek Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2094 Nagykovácsi, Bajcsy-Zsilinszky utca 9.",
+      "x_koordináta": "47.5722968",
+      "y_koordináta": "18.8707619",
+      "adószám": "19137786-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-02-14",
+      "statisztikai_számjel": "19137786-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Jó képességű, szociális, családi vagy más okból támogatásra szoruló gyermekek segítése a bennük rejlő tehetségpotenciál kibontakoztatáa érdekében; Az esélyegyenlőség és a társadalmi mobilitás elősegítése, ezen belül különösen hátrányos roma származású gyermekek tehetségsegítése, integrációjuk elősegítése az egyéni boldoguláshoz szükséges értékek és készségek elsajátításával és a többségi társadalom befogadó készségének erősítése az integrációt szolgáló értékek kölcsönös megismerésével. A sokgyerekes családok segítése gyermekeik tehetséggondozásával, az őket érő hátrányok kompenzálásával.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004010",
+      "régi_nyilvántartási_száma": "4010/2018",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-01-11",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-12-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Krúdy",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Géza",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tobak",
+        "Képviselő keresztneve": "Myrtill",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 795 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 808 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "476 670 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "227 565 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Esélyt a képességeknek Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19351335",
+  "scraped_at": "2026-09-22T22:21:12.092232",
+  "organization_id": "369614",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Facsiga Alkotóház Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8785 Kallósd, Petőfi Sándor utca 8",
+      "adószám": "19351335-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-16",
+      "statisztikai_számjel": "19351335-9499-569-20",
+      "x_koordináta": "46.86845",
+      "y_koordináta": "17.05993"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja közösségi alkotótér létrehozása és fenntartása, amely teret és lehetőséget biztosít a fiataloknak és minden érdeklődőnek arra, hogy megismerjék a népművészetet, fejlesszék kézműves - iparművészeti képességeiket, fogékonnyá legyenek a vizuális és természeti értékek felismerésére. Célja továbbá a népművészet területén működő szervezetekkel és szakemberekkel való együttműködés kialakítása, a vidéki művészeti hagyományok ápolása, a természeti környezet megóvása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001261",
+      "régi_nyilvántartási_száma": "1261/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-12",
+      "bankszámlaszám": "11742348-21460973-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács Andrásné Serényi",
+        "Képviselő keresztneve": "Petra",
+        "Képviselő titulusa": "Zsuzsanna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

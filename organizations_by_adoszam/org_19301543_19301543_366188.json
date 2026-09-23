@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19301543",
+  "scraped_at": "2026-09-22T22:17:56.776245",
+  "organization_id": "366188",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Miklós Barátai Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Síp utca 14-16.",
+      "adószám": "19301543-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-29",
+      "statisztikai_számjel": "19301543-9499-569-15",
+      "x_koordináta": "47.9349648",
+      "y_koordináta": "21.6882744"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "- A Nyíregyházi Egyházmegye Egyesített Óvodában folyó nevelés-oktatás magas színvonalának megtartása, biztosítása, az óvoda működésének támogatása. - A már kialakult gyermekcentrikus, családias légkör biztosítása, az egészséges testi, lelki, szociális fejlődés és az ezekhez szükséges személyi és tárgyi feltételek megteremtése. - Az óvoda egyéni arculatának megfelelően a gyermekek részére szükséges - a fenntartó által juttatott összegen felül - berendezések, felszerelések, eszközök és egyéb tárgyak biztosítása. - A nevelés-oktatás magas színvonalú szakmai ellátásához szükséges továbbképzési formák megteremtése informatikai és egyéb eszközök, szakirodalom beszerzése világhálón való hozzáférésének biztosítása. - A gyermekek részére a tehetséggondozáshoz, felzárkóztatáshoz, prevencióhoz és integrációhoz szükséges személyi és tárgyi feltételek biztosítása. - A nevelői munkában a keresztény kultúra ápolásához, a magyarságtudat megalapozásához nélkülözhetetlen élmények biztosítása, nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002591",
+      "régi_nyilvántartási_száma": "2591/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tormáné Petrencsik",
+        "Képviselő keresztneve": "Rózsa",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "216 003 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "241 515 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

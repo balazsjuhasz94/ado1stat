@@ -1,0 +1,85 @@
+{
+  "search_adoszam": "18629059",
+  "scraped_at": "2026-09-22T21:58:16.973334",
+  "organization_id": "38041",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Konstantin Lovas Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2039 Pusztazámor, Felsőréti út 3.",
+      "x_koordináta": "47.410188",
+      "y_koordináta": "18.7703218",
+      "adószám": "18629059-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-03-30",
+      "statisztikai_számjel": "18629059-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Lovas sport szervezése, koordinálása, segítése. A lovas hagyományok felkutatása, a tradíciók megőrzése és megtartása. Hobbilovasok felkarolása, munkájuk segítése. A rendszeres testedzés népszerűsítése. A lovassport fellendítése, lovasversenyek, lovas események szervezése. Tagjai részére a rendszeres testedzés és sportolás lehetőségének biztosítása. Közösségi élet kibontakoztatása, építése, fenntartása. Sportkapcsolatok létesítése és fejlesztése. A lovassport segítségével a falu életminőségének javítása. Szakmai képzések, továbbképzések szervezése. Lótenyésztés, a tenyésztői munka segítése, koordinálása. A lovakkal való humánus bánásmód terjesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006700",
+      "régi_nyilvántartási_száma": "6700/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-04-25",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-22"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Domján",
+        "Képviselő keresztneve": "Martin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-04-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "45 727 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "62 852 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "152 203 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "134 668 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "174 481 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KONSTANTIN LOVAS SPORTEGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "KONSTANTIN LOVAS SPORTEGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

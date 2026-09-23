@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18940547",
+  "scraped_at": "2026-09-22T22:09:18.696520",
+  "organization_id": "74113",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szkíta Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1143 Budapest, Szobránc utca 3-5. fszt./2.",
+      "x_koordináta": "47.420637",
+      "y_koordináta": "19.217865",
+      "adószám": "18940547-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-09-20",
+      "statisztikai_számjel": "18940547-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A Sportegyesület tagok abból a célból alapították, hogy a szervezet keretet biztosítson elsősorban a verseny- és szabadidősport tevékenység megszervezésére, felkészítésére, a versenyzés szervezeti és szakmai biztosítására, a feltételek megteremtésére. A sportolás megkedveltetése, elterjesztése, a sportoló tagok számának növelése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0016647",
+      "régi_nyilvántartási_száma": "16647/2017",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-02-15",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-04",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Makai",
+        "Képviselő keresztneve": "Viktor",
+        "Képviselő titulusa": "Ákos",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "100 382 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "108 331 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "154 965 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "116 705 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "100 044 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szkíta Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Szkíta Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

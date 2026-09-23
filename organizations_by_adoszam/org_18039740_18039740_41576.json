@@ -1,0 +1,109 @@
+{
+  "search_adoszam": "18039740",
+  "scraped_at": "2026-09-22T21:40:38.453078",
+  "organization_id": "41576",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Élet-Út Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Bokréta utca 10. L.",
+      "x_koordináta": "47.9323304",
+      "y_koordináta": "21.6914707",
+      "adószám": "18039740-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2010-08-17",
+      "statisztikai_számjel": "18039740-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "környezetvédelem, vidékfejlesztés és egyéb az alapszabályban meghatározott",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0003173",
+      "régi_nyilvántartási_száma": "3173/2010",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lakatos",
+        "Képviselő keresztneve": "János",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gyüre",
+        "Képviselő keresztneve": "Zita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7810",
+        "Leírás": "Munkaközvetítés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "174 829 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "270 712 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

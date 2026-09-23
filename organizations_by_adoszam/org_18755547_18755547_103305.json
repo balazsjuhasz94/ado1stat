@@ -1,0 +1,126 @@
+{
+  "search_adoszam": "18755547",
+  "scraped_at": "2026-09-22T22:03:05.533116",
+  "organization_id": "103305",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Aztakeservit\" Értékőr Egyesület Dunaföldvár",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7020 Dunaföldvár, Templom utca 68.",
+      "x_koordináta": "46.8129901",
+      "y_koordináta": "18.9219169",
+      "adószám": "18755547-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-07-18",
+      "statisztikai_számjel": "18755547-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület célja a természethez kötődő szabadidős-, kulturális-, zene-, művészeti-, és sport tevékenység folytatása, a környezettudatosság erősítése, természeti értékek óvása, minél sokszínűbb bemutatása a közösség bevonásával, tömegbázis megteremtésével, országos nemzetközi kapcsolatok kiépítésével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002091",
+      "régi_nyilvántartási_száma": "2091/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-03-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-05",
+      "bankszámlaszám": "10400229-50526749-88771009",
+      "számlavezető_pénzintézet_neve": "K&amp;H Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ferenczi-Hauzer",
+        "Képviselő keresztneve": "Zsanett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "3811",
+        "Leírás": "Nem veszélyes hulladék gyűjtése"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "7721",
+        "Leírás": "Szabadidős, sporteszköz kölcsönzése"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "150 595 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 250 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "291 121 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "297 836 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 556 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "286 924 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Aztakeservit\" Értékőr Egyesület Dunaföldvár"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Aztakeservi\" Értékőr Egyesület Dunaföldvár"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Aztakeservit\" Értékőr Egyesület Dunaföldvár"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19289058",
+  "scraped_at": "2026-09-22T22:17:21.707071",
+  "organization_id": "365240",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ikervári Iskoláért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9756 Ikervár, Kossuth utca 2-4.",
+      "adószám": "19289058-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-12-04",
+      "statisztikai_számjel": "19289058-8569-529-18",
+      "x_koordináta": "47.2023314",
+      "y_koordináta": "16.8995744"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az egyesület célja azon szervezeti keretek létrehozása és fenntartása, melyek helyt adnak az ikervári Zichy Antónia Általános Iskola tanulóinak minél magasabb szintű testi, lelki és szellemi fejlődéséhez szükséges, valamint az iskola hírnevét méltóképpen növelő és erősítő civil kezdeményezéseknek.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200838",
+      "régi_nyilvántartási_száma": "200838/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kissné Tarr",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-06-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "42",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "403 350 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 027 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

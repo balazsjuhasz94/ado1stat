@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19389622",
+  "scraped_at": "2026-09-22T22:25:56.760368",
+  "organization_id": "370965",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "VÁCI BOR BARÁTOK KLUBJA",
+      "rövid_név": "VBKE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2600 Vác , Hannusz István utca 20.",
+      "adószám": "19389622-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2024-04-17",
+      "statisztikai_számjel": "19389622-9499-529-13",
+      "x_koordináta": "47.7958804",
+      "y_koordináta": "19.1380012"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "A Bor kulturális örökségének, értékének megóvása. A borkóstolással objektív szempontok alapján megteremteni a kóstolásra kijelölt tételeket és az arra érdemesnek találtakat elismerni az egyesületen belül és kívül, ezzel adva visszajelzést és köszönetet a termelőnek és ajánlást tenni a hozzánk hasonló bort élvező embereknek. A Vác körzetében lévő településein megvalósuló bor kulturális tevékenységének együttműködésének, összefogásának szervezése. A térség egykori borhoz kötődő emlékeinek felkutatása és azok esetleges megújítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008402",
+      "régi_nyilvántartási_száma": "8402/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-07-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vajda",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "Károly",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-07-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,54 @@
+{
+  "search_adoszam": "18901841",
+  "scraped_at": "2026-09-22T22:08:01.719713",
+  "organization_id": "83906",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ORION SPORTREPÜLŐ EGYESÜLET",
+      "rövid_név": "ORION SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2030 Érd, Vereckei utca 87.",
+      "x_koordináta": "47.4180727",
+      "y_koordináta": "18.875807",
+      "adószám": "18901841-2-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-04-25",
+      "statisztikai_számjel": "18901841-9312-521-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A repülő sportok és egyéb szabadidősportok gyakorlása, támogatása. Egészségmegőrzésre, egészséges életmódra, rendszeres testmozgásra történő nevelés. A repülő sportok és a repülő eszközök bemutatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0006097",
+      "régi_nyilvántartási_száma": "6097/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-07",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "10102543-27276100-01004006",
+      "számlavezető_pénzintézet_neve": "Budapest Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vári",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-27",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

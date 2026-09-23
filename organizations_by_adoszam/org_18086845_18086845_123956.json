@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "18086845",
+  "scraped_at": "2026-09-22T21:41:36.697000",
+  "organization_id": "123956",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mű-Hely Líceum Alapítvány",
+      "rövid_név": "MH Liceum Alapitvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1055 Budapest, Bihari János utca 18.",
+      "x_koordináta": "47.5101443",
+      "y_koordináta": "19.0538151",
+      "adószám": "18086845-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1997-08-07",
+      "statisztikai_számjel": "18086845-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az önhibájukon kívül, a szűkebb illetve tágabb környezeti hatások következtében veszélyeztetetté váló fiatalok, fiatal felnőttek számára esély biztosítása a polgári élet értékei megvalósítására, ennek érdekében általános iskola, szakiskola, szakközépiskola és művészeti oktatási feladatokat ellátó intézmény működtetése, ott a sajátos nevelési igényű, hátrányos helyzetű, valamint halmozott (tanulási magatartási, mentális stb.) problémákkal küzdő diákok általános és középfokú oktatása, speciális fejlesztése, gondozása, művészeti alapkészségek fejlesztése, művészeti, szakmai tanulmányok folytatására felkészítés, iskolarendszerű, és iskolarendszeren kívüli szakképzés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0007210",
+      "régi_nyilvántartási_száma": "7210/1998",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2015-09-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-05-05",
+      "alkalmazottak_száma": "5",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Braun",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 766 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "36 805 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mű-HELY LÍceum Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

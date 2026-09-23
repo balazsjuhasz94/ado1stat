@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19354462",
+  "scraped_at": "2026-09-22T22:21:33.487043",
+  "organization_id": "369871",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csemetekert Közösség Alapítvány",
+      "rövid_név": "Csemetekert Közösség",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2081 Piliscsaba, Bajcsy-Zsilinszky út 44",
+      "adószám": "19354462-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-20",
+      "statisztikai_számjel": "19354462-8569-569-13",
+      "x_koordináta": "47.6283625",
+      "y_koordináta": "18.8354022"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Magyarországon élő hátrányos helyzetű emberek integrációjának elősegítése, a nemzetiségi, nemi vagy egyéb csoport hovatartozásuk miatt veszélyeztetett emberek érdekképviselete.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004357",
+      "régi_nyilvántartási_száma": "4357/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-07-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-05-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-08",
+      "bankszámlaszám": "11707110-21469635",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kézdy-Brózik",
+        "Képviselő keresztneve": "Vera",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fábián",
+        "Képviselő keresztneve": "Sára",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

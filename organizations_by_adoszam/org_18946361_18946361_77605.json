@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "18946361",
+  "scraped_at": "2026-09-22T22:09:34.728820",
+  "organization_id": "77605",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kosd Jövőjéért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2612 Kosd, Szent István utca 2.",
+      "x_koordináta": "47.801501",
+      "y_koordináta": "19.1801217",
+      "adószám": "18946361-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-12-18",
+      "statisztikai_számjel": "18946361-9499-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Kosd Község fejlődésének előmozdítása, önálló arculatának kialakítása, tárgyi és szellemi értékeinek, hagyományainak megőrzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003923",
+      "régi_nyilvántartási_száma": "3923/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-08-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-08-31",
+      "bankszámlaszám": "11742094-26989729-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóthné Kovács",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "Ágnes",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 960 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

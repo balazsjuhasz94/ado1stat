@@ -1,0 +1,143 @@
+{
+  "search_adoszam": "18623802",
+  "scraped_at": "2026-09-22T21:58:07.253423",
+  "organization_id": "97023",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Örökerdő Környezet-, Természetvédelmi, Szociális és Ismeretterjesztő Alapítvány Közhasznú Szervezet",
+      "rövid_név": "Örökerdő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2025 Visegrád, Sziget utca 6.",
+      "x_koordináta": "47.7794574",
+      "y_koordináta": "18.9690279",
+      "adószám": "18623802-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-12-10",
+      "statisztikai_számjel": "18623802-8899-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Az erdészeti szakemberek és családtagjainak szociális biztonságának megőrzése, annak javítása, ezzel összhangban korszerűbb képzési-, pihenési-, üdülési és szabadidő töltési lehetőségek biztosítása, valamint a munkaerőpiacon hátrányos helyzetű rétegek képzésének, foglalkoztatásának elősegítése, továbbá támogatása minden olyan kezdeményezésnek, tevékenységnek és programnak, mely a természet és az emberi környezt védelmét és a környezeti kultúra fejlesztését szolgálja.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0003646",
+      "régi_nyilvántartási_száma": "3646/2014",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-01-24",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-10-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kálmán",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Márton",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 176 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "107 998 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "160 413 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "120 916 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "187 689 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "193 433 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 808 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 405 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Örökerdő Környezet- Természetvédelmi Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Örökerdő Környezet- Természetvédelmi Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Örökerdő Környezet- Természetvédelmi Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Örökerdő Környezet- Természetvédelmi Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Örökerdő Környezet- Természetvédelmi Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

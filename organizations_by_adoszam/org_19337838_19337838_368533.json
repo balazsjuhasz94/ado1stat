@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19337838",
+  "scraped_at": "2026-09-22T22:19:47.889594",
+  "organization_id": "368533",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Baritanya Természet- és Környezetvédelmi Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3264 Kisnána, Béke utca 16.",
+      "adószám": "19337838-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-16",
+      "statisztikai_számjel": "19337838-9499-529-10",
+      "x_koordináta": "47.856261",
+      "y_koordináta": "20.1390449"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Összefogni, irányitani, segíteni a Baritanya programjaiba bekapcsolódó személyeket, öntevékeny, önkéntes csoportokat, melyek természetvédelmi, állatvédelmi, állat-megfigyelési, környezetvédelmi területeken, saját maguk által, vagy az Egyesület által meghatározott programokat végeznek. Ismeretterjesztésen, oktatáson, szemléletformáláson keresztül elősegíteni az óvodán, iskolán kívüli környezettudatos, környezeti nevelés szélesebb körű elterjedését, elterjesztését, hangsúlyozni a fenntartható fejlődés fontosságát a természettel harmonikus emberi élet, társadalom kialakítása érdekében. Közösségi tevékenységeken keresztül cselekvésre késztetni, a szabadidő kellemes, hasznos eltöltése érdekében. Gyermek- és ifjúságvédelmi, hagyományőrző, természetvédelmi, állatvédelmi környezetvédelmi, kutatási tevékenységek támogatása, ezekben való aktív részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0003045",
+      "régi_nyilvántartási_száma": "3045/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-07",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tari",
+        "Képviselő keresztneve": "Tünde",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-05-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 807 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -20,6 +20,7 @@ Az alábbi táblázatban az elmúlt években felajánlott összegek láthatók.
 | 2023 |      1 819 715   |    15 328 536 312 Ft     |
 | 2024 |      1 768 453   |    17 292 750 656 Ft     |
 | 2025 |      1 828 931   |    20 273 260 339 Ft     |
+| 2026 |      1 802 747   |    21 402 688 919 Ft     |
 
 Hogy el tudjuk helyezni, ezek a számok mit jelentenek, a következő adatok lehetnek mérvadók:
 
@@ -39,15 +40,15 @@ Hogy el tudjuk helyezni, ezek a számok mit jelentenek, a következő adatok leh
 - Abból, hogy a forintarányos felajánlás jóval magasabb az emberarányosnál, az következik, hogy a **magasabb jövedelmű emberek nagyobb arányban ajánlják fel** adójuk 1%-át. 
 
 
-## 2025-ös összeg szervezetenkénti eloszlása
+## 2026-os összeg szervezetenkénti eloszlása
 
-2025-ben összesen **20,3 mrd Ft-ot** ajánlottak fel, összesen több mint **37 ezer szervezetnek**.
+2026-ban összesen **21,4 mrd Ft-ot** ajánlottak fel, összesen több mint **31 ezer szervezetnek**.
 
 A felajánlások összegei nagyon nem egyenletesen oszlanak el a szervezetek között:
-- az első **100** legtöbb felajánlást kapó szervezet a teljes összeg **34%-át** kapta (7,0 mrd Ft)
-- az első **1 000** szervezet az összeg **59%-át** (11,9 mrd Ft)
-- az első **5 000** szervezet az összeg **79%-át** (15,9 mrd Ft)
-- az első **10 000** szervezet az összeg **88%-át** (17,9 mrd Ft)
+- az első **100** legtöbb felajánlást kapó szervezet a teljes összeg **36%-át** kapta (7,6 mrd Ft)
+- az első **1 000** szervezet az összeg **60%-át** (12,8 mrd Ft)
+- az első **5 000** szervezet az összeg **79%-át** (16,9 mrd Ft)
+- az első **10 000** szervezet az összeg **89%-át** (19,0 mrd Ft)
 
 A **10 000 legtöbb felajánlást kapó szervezetet** választottam végül ki. Ez lefedi a teljes felajánlott összeg zömét, másrészt ennél több adatot nem nagyon lehetne vizualizálni.
 

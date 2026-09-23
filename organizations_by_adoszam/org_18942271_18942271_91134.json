@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18942271",
+  "scraped_at": "2026-09-22T22:09:24.822584",
+  "organization_id": "91134",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Miskolci Road Cycling Club Egyesület",
+      "rövid_név": "MRCCE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3528 Miskolc, Lahner György utca 27.",
+      "x_koordináta": "48.1026654",
+      "y_koordináta": "20.7353206",
+      "adószám": "18942271-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-10-24",
+      "statisztikai_számjel": "18942271-9312-521-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület elsődleges célja a kerékpáros tömegsport népszerűsítése, valamint, hogy a Miskolcon és a város agglomerációjában lakók körében népszerűsítse a környezetkímélő kerékpáros közlekedést, képviselje a kerékpárosok érdekeit önkormányzati és állami szinten, valamint társadalmi munkájával és szakmai tanácsadásaival elősegítse a biztonságos kerékpározás feltételeinek kialakítását.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065754",
+      "régi_nyilvántartási_száma": "65754/2017",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-23",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Somogyi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Ottó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-08-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "244 889 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "166 891 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "189 122 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 687 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "162 424 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Miskolci Road Cycling Club Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Miskolci Road Cycling Club Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19347181",
+  "scraped_at": "2026-09-22T22:20:42.287277",
+  "organization_id": "369259",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csupaszív Kutyamenedék Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2314 Halásztelek, Gárdonyi Géza utca 61.",
+      "adószám": "19347181-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-18",
+      "statisztikai_számjel": "19347181-9499-569-13",
+      "x_koordináta": "47.3685028",
+      "y_koordináta": "18.9819766"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Kutyamentés, gyógyítás, mentett kutyák oktatása, fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004330",
+      "régi_nyilvántartási_száma": "4330/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gnyalin",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19360577",
+  "scraped_at": "2026-09-22T22:22:36.580027",
+  "organization_id": "370433",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Záporka Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1147 Budapest, Jávorka Ádám utca 20. 1. emelet/6. ajtó",
+      "adószám": "19360577-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-05-19",
+      "statisztikai_számjel": "19360577-9499-569-01",
+      "x_koordináta": "47.5267411",
+      "y_koordináta": "19.1145938"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Óbudai Nagy László Magyar-Angol Két Tanítási Nyelvű Általános Iskola 1032 Budapest, III. kerület, Zápor utca 90. szám alatti intézményének oktatási-nevelési tevékenységének támogatása az alábbi területeken: a. az intézmény oktatási és tanulási környezetének, tárgyi feltételeinek és eszközállományának fejlesztése, támogatása; b. az intézmény tanulói számára szervezett iskolai tehetségfejlesztő és tehetséggondozó nevelőoktató tevékenység támogatása; c. az intézmény tanulóinak tanulmányi versenyekre történő felkészítésének és azokon való részvételének elősegítése; d. házi versenyek, valamint más tanulmányi és sport versenyek helyezettjeinek díjazása; e. a korszerű tananyaghoz (e-tananyaghoz), informatikai eszközökhöz való hozzáférés bővítésének támogatása; f. kiemelkedő teljesítményeket nyújtó diákok és pedagógusok elismerése; g. a rászoruló tanulók szolidaritási elven alapuló támogatása, a hátrányos helyzetű tanulók társadalmi esélyegyenlőségének elősegítése, ezt segítő pályázatok kiírása és lebonyolítása; h. pedagógusok továbbképzésének támogatása; i. a tanórán kívüli szabadidős és sporttevékenységekhez szükséges tárgyi feltételek biztosításának elősegítése; j. belföldi és külföldi tanulmányi ösztöndíjak nyújtása, illetve ezekhez való anyagi hozzájárulás; k. jótékonysági célú rendezvények szervezése, lebonyolítása az alapítványi célok támogatása érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013472",
+      "régi_nyilvántartási_száma": "13472/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-06-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-19"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Király",
+        "Képviselő keresztneve": "Tímea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bornemisza",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kállay",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

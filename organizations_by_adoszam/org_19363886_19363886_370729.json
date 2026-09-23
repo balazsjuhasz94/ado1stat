@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "19363886",
+  "scraped_at": "2026-09-22T22:23:25.817109",
+  "organization_id": "370729",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "WudiSuli Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2092 Budakeszi, Fő utca 72.",
+      "adószám": "19363886-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-07-06",
+      "statisztikai_számjel": "19363886-9499-569-13",
+      "x_koordináta": "47.5089508",
+      "y_koordináta": "18.9025189"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A Budakeszi Német Nemzetiségi Általános Iskola (alapítva: 2020. július 1., törzskönyvi nyilvántartási szám: 844899) anyagi és erkölcsi segítése, támogatása, amelynek fókuszában az Iskola diákjai és az oktató, nevelő tevékenységben résztvevő személyek részére a nevelés és oktatás, az ismeretterjesztés, képességfejlesztés, a kulturális tevékenység, illetve a szabadidős programok szervezése áll.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004387",
+      "régi_nyilvántartási_száma": "4387/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács-Végh",
+        "Képviselő keresztneve": "Luca",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Kinga",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gölcz",
+        "Képviselő keresztneve": "Mira",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Cserép",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

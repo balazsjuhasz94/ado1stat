@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "19313197",
+  "scraped_at": "2026-09-22T22:18:14.439558",
+  "organization_id": "367086",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pápa és Térsége Mentésügyéért Alapítvány",
+      "rövid_név": "PTM Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8448 Ajka, Péller Pál utca 17.",
+      "adószám": "19313197-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-10-11",
+      "statisztikai_számjel": "19313197-9499-569-19",
+      "x_koordináta": "47.1372277",
+      "y_koordináta": "17.5488483"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "1. A pápai mentőállomás tárgyi feltételeinek javítása; 2. A mentésben részt vevők és a város gazdálkodó szervezetei közötti, a szükség esetén felmerülő mentési munkák megkönnyítését, késedelemnélküliségét biztosító együttműködés kialakítása és fenntartása; 3. A rendszeres szakmai konzultációs és tapasztalatcsere elősegítése; 4. A mentéssel kapcsolatos ismeretterjesztés; 5. A mentők munkájának elismerése, támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001883",
+      "régi_nyilvántartási_száma": "1883/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11748045-24820039",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csonka",
+        "Képviselő keresztneve": "Bence",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Antal",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kütsán",
+        "Képviselő keresztneve": "Tivadar",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

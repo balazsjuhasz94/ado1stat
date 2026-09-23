@@ -1,0 +1,103 @@
+{
+  "search_adoszam": "19316138",
+  "scraped_at": "2026-09-22T22:18:28.456066",
+  "organization_id": "367323",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fehér Kövek Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1089 Budapest, Elnök utca 1.",
+      "adószám": "19316138-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-11-23",
+      "statisztikai_számjel": "19316138-9499-569-01",
+      "x_koordináta": "47.4825819",
+      "y_koordináta": "19.0934478"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Vallási tevékenység (pl. hitéleti tevékenység)",
+      "céljának_leírása": "a) a bibliai kereszténység alapvető hitelveinek és gyakorlatának az emberekkel történő megismertetése oktatási, nevelési és ismeretterjesztési módszerekkel. Az ifjúság bibliai értékrendszerének formálása, tartalmas jövőkép átadása, döntéseik támogatása a különös tekintettel a bűnmegelőzésre, függőség ellenes programokra, ifjúságvédelemre. Bel- és külföldi missziós tevékenységek és programok támogatása. Lelkipásztorok, misszionáriusok, keresztény tanárok, tanítók szolgálatának támogatása. Hátrányos helyzetűek (pl. állami gondozottak, szellemi, illetve testi fogyatékosság) hitéleti növekedésének, oktatásának, nevelésének támogatása. Egyéb bibliai alapú oktatás támogatása, feltételeinek megteremtése és fenntartása. Keresztény, illetve kereszténységet tárgyaló témájú internetes tartalmak készítésének, megjelenésének támogatása. Keresztény értékek kreatív megjelenésének támogatása a jelenleg elérhető nyilvános médiumokban, valamint újonnan kialakuló kommunikációs és megjelenítői csatornákon. Együttműködés külföldi, és belföldi, hasonló célú alapítványokkal, intézményekkel, állami szervekkel a létesítő okiratban feltüntetett céljainak megvalósítása céljából.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013216",
+      "régi_nyilvántartási_száma": "13216/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-01",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pap",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szentpéteri",
+        "Képviselő keresztneve": "Gizella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Majoros",
+        "Képviselő keresztneve": "Kende",
+        "Képviselő titulusa": "Csaba",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Majoros",
+        "Képviselő keresztneve": "Adél",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Csabay",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "Miklós",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 721 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

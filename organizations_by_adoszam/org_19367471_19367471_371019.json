@@ -1,0 +1,59 @@
+{
+  "search_adoszam": "19367471",
+  "scraped_at": "2026-09-22T22:24:03.036666",
+  "organization_id": "371019",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Létépítők Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2400 Dunaújváros, Esze Tamás utca 19. fsz./1.",
+      "adószám": "19367471-1-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-09-19",
+      "statisztikai_számjel": "19367471-9499-569-07",
+      "x_koordináta": "46.9595429",
+      "y_koordináta": "18.9191377"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Kelemen-Nagy Annamária és Kelemen Gábor mozgáskorlátozottak támogatása, életminőségük javítása, ezen belül különösen, de nem kizárólagosan: egészségügyi ellátási költségeinek viselése, akadálymentesítés támogatása, esetleges kórházi ápolásuk támogatása, gyógyászati segédeszközök támogatása, gépjármű átalakítás támogatása, a mindennapi életet segítő eszközök támogatása, lakás akadálymentesítésének támogatása, rehabilitációs foglalkozások, terápiák költségeinek fedezése, egészségügyi ellátáshoz, rehabilitációs foglalkozásokhoz kapcsolódóan a kedvezményezettek és kísérőik tekintetében felmerülő utazási, szállítás, étkezési és egyéb költségek biztosítása. Az alapítvány célja továbbá a mozgáskorlátozottak esélyegyenlőségének elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "07-01-0001221",
+      "régi_nyilvántartási_száma": "1221/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-25",
+      "bankszámlaszám": "11736037-23697252-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csathó",
+        "Képviselő keresztneve": "Lilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

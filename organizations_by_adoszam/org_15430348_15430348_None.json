@@ -1,0 +1,28 @@
+{
+  "search_adoszam": "15430348",
+  "scraped_at": "2026-09-22T21:39:37.947347",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "VESZPRÉMI PETŐFI SZÍNHÁZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8200 VESZPRÉM ÓVÁRI FERENC UTCA 2.",
+      "adószám": "15430348",
+      "x_koordináta": "47.1288136",
+      "y_koordináta": "17.9072738"
+    },
+    "fonadatok": {
+      "céljának_leírása": ""
+    }
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "308 030 Ft"
+      }
+    ]
+  },
+  "error": null
+}

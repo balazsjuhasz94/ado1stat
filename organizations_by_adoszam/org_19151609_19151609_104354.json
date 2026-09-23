@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "19151609",
+  "scraped_at": "2026-09-22T22:13:41.367911",
+  "organization_id": "104354",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Shockmagazin.hu Kulturális Közhasznú Egyesület",
+      "rövid_név": "Shockmagazin.hu Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1103 Budapest, Petrőczy utca 44. 4. ajtó",
+      "x_koordináta": "47.4811599",
+      "y_koordináta": "19.0519916",
+      "adószám": "19151609-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-16",
+      "statisztikai_számjel": "19151609-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A magyar könnyűzenei élet sokszínűségét, magas színvonalát támogassa, az információk közvetítésével az embereket tájékoztassa, egyben a magyar könnyűzenei élet szervezőit segítse. Rendezvények, koncertek támogatásával, azokról készült beszámolókkal a magyar könnyűzenei élet résztvevőit támogassa, illetve hozzásegítse a magyarokat a kultúra megismeréséhez, a kulturális események körében való jártasság és tájékozottság megszerzéséhez. Felhívja a figyelmet a minőségi értéket hordozó kulturális rendezvényekre, illetve termékekre.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017149",
+      "régi_nyilvántartási_száma": "17149/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-06-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Draveczki Ury",
+        "Képviselő keresztneve": "Ádám",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-07-16",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

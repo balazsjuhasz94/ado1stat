@@ -1,0 +1,108 @@
+{
+  "search_adoszam": "18849855",
+  "scraped_at": "2026-09-22T22:05:59.247727",
+  "organization_id": "118728",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "KASZIÁN EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9444 Fertőszentmiklós, Kolozsvári utca 39.",
+      "x_koordináta": "47.5750193",
+      "y_koordináta": "16.8812835",
+      "adószám": "18849855-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-22",
+      "statisztikai_számjel": "18849855-8552-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A gyermekek, a nők és a családok hasznos szabadidő és hobbi tevékenységeinek elősegítése. Az erdélyi népi kultúra értékeinek megőrzése, ápolása, az erdélyi hagyományok népszerűsítése magyarországi és erdélyi megvalósítási területen különös tekintettel Kászon vidékére. Gyermek- és ifjúsági érdekképviselet, ifjúságvédelem, a hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése. Sport szeretetére való nevelés, oktatás, képességfejlesztés és ismeretterjesztés a családok körében. Az egyesület célja tovább a sport népszerűsítése és az utánpótlás nevelés elősegítése a Hungarofit módszer segítségével. Kulturális tevékenység az olvasás, a folyóirat szerkesztés és egyéb kiadványok érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0062897",
+      "régi_nyilvántartási_száma": "62897/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-01-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kászoni",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-12-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "1813",
+        "Leírás": "Nyomdai előkészítő tevékenység"
+      },
+      {
+        "Kód": "3240",
+        "Leírás": "Játékgyártás"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "5590",
+        "Leírás": "Egyéb szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "5813",
+        "Leírás": "Napilapkiadás"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "5912",
+        "Leírás": "Film-, videogyártás, televíziós műsorfelvétel utómunkálatai"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "22 944 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 250 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 436 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

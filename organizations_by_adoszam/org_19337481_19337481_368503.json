@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19337481",
+  "scraped_at": "2026-09-22T22:19:43.955627",
+  "organization_id": "368503",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Komplex Innovatív Kulturális Tér Egyesület",
+      "rövid_név": "KIKTér Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1063 Budapest, Szív utca 39/B. 1/6.",
+      "adószám": "19337481-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-10",
+      "statisztikai_számjel": "19337481-8552-529-01",
+      "x_koordináta": "47.5121196",
+      "y_koordináta": "19.0688637"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Komplex Innovatív Kulturális Tér Egyesület (a továbbiakban: Egyesület) és a vele partnerséget alkotó szervezetek és közösségek részére történő utánpótlás-nevelői, valamint művészet- és közösségszervező tevékenységének támogatása. Belföldi és nemzetközi produkciók létrehozásának támogatása. Művészeti és kulturális tevékenységek, művészeti és kulturális produkciók létrehozásának támogatása, a produkciókban résztvevő alkotók, művészek, szakemberek anyagi és szellemi támogatása, az utánpótlás-képzést lehetővé tevő színistúdió, táncstúdió, művészeti alkotói stúdió és további tréningek, képzések, közösségek létrehozásának és működésének támogatása, zenés, táncos és színművészeti területen, az alkotói és az utánpótlás-nevelői tevékenységhez szükséges tárgyi eszközök, színházi és filmes eszközök, berendezések beszerzésének anyagi támogatása, hazai és nemzetközi művészeti és kulturális szakmai programok, továbbképzések, tréningek, kurzusok, táborok, konferenciák, programsorozatok szervezése, a művészeti és kulturális nevelés és az egyéni és csoportos fejlesztés mellett elkötelezett tanárok, szakemberek és vezetők képzésének támogatása, a magyar klasszikus és alternatív színház, színjátszás és drámapedagógiai foglalkozások, műhelyek anyagi és szellemi támogatása, a magyar identitás, kultúra, művészet és nyelv, valamint a kulturális örökség megóvásának támogatása, a helyi identitás és kultúra támogatása, a hátrányos helyzetűek, a tanuláshoz, az alkotáshoz, a művészethez és a kultúrához való hozzáférésükben akadályozottak támogatása, mobilitásuk elősegítése, hazai, határontúli és nemzetközi művészeti-kulturális kapcsolati háló létrehozása, más művészeti-kulturális közösségekkel való alkotói, utánpótlás-nevelői, művészet- és közösségszervezői tevékenység összehangolása, az utazás és az együttműködésből fakadó további kiadások anyagi támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008203",
+      "régi_nyilvántartási_száma": "8203/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-10-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gunyecz",
+        "Képviselő keresztneve": "Anna",
+        "Képviselő titulusa": "Piroska",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "153 526 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "19286804",
+  "scraped_at": "2026-09-22T22:17:13.942036",
+  "organization_id": "365050",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Juhar Gyermekeiért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Juhar utca 23",
+      "adószám": "19286804-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-11-13",
+      "statisztikai_számjel": "19286804-9499-569-03",
+      "x_koordináta": "46.9096235",
+      "y_koordináta": "19.6815426"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Kecskeméti EGYMI Juhar utcai tagintézményébe (6000 Kecskemét, Juhar u. 23.) járó sajátos nevelési igényű gyermekek/tanulók életminőségének javítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002633",
+      "régi_nyilvántartási_száma": "2633/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vörös",
+        "Képviselő keresztneve": "Veronika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sándor",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "288 045 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19302276",
+  "scraped_at": "2026-09-22T22:18:00.736038",
+  "organization_id": "366238",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tanuljunk Együtt Hagyományőrző és Tehetséggondozó Kulturális Egyesület",
+      "rövid_név": "TEHET Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8315 Gyenesdiás, Kossuth Lajos utca 18.",
+      "adószám": "19302276-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-29",
+      "statisztikai_számjel": "19302276-9499-529-20",
+      "x_koordináta": "46.7748623",
+      "y_koordináta": "17.2915311"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesület célja a Zala, Vas és Veszprém vármegyei régi hagyományok ápolása, megőrzése, a magyar kultúra és hagyomány kutatása, megőrzése. Gasztronómiai receptek eredetének kutatása, megőrzése és modernizálása mai alapanyagokkal és technológiákkal. A mai gasztronómia beillesztése a kulturális hagyományokba. Tehetséges fiatalok felkarolása, támogatása, ismereteik bővítése. Gasztronómiai rendezvények és kulturális bemutatók, kiállítások szervezése, lebonyolítása, együttműködés más, hasonló tevékenységet végző civil szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0003075",
+      "régi_nyilvántartási_száma": "3075/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Somogyi",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-02-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "270 032 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

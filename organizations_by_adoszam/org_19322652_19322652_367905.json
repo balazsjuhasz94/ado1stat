@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19322652",
+  "scraped_at": "2026-09-22T22:19:02.149551",
+  "organization_id": "367905",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kiskedvencek Állatjólétéért Védelméért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4341 Nyírvasvári, Vasvári Pál utca 5.",
+      "adószám": "19322652-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-28",
+      "statisztikai_számjel": "19322652-9499-569-15",
+      "x_koordináta": "47.8136939",
+      "y_koordináta": "22.2061714"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Alapítvány a civil önszerveződés lehetőségeivel és erejével szeretne hozzájárulni ahhoz, hogy hazánkban is elterjedjen az a kultúra, ami az embereknek az állatok tartásával kapcsolatos felelősségét tudatosítja. Az Alapítvány célja az állatokkal való méltó bánásmód elterjesztése és fontosságának tudatosítása a társadalom minél szélesebb körében, az egymást követő nemzedékekben, valamint az állattartókban annak tudatosítása, hogy kötelesek a jó gazda gondosságával eljárni, az állat fajának, fajtájának és élettani szükségleteinek megfelelő életfeltételekről gondoskodni. Az Alapítvány célja továbbá az elhagyott, gazdátlan, kóborló, sérült vagy egyéb módon rászoruló állatok védelmezése, befogadása, állatorvosok segítségével egészségügyi ellátása, ideiglenes elszállásolása, megfelelő élelmezése és megfelelő gazdához juttatásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002619",
+      "régi_nyilvántartási_száma": "2619/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vita",
+        "Képviselő keresztneve": "Beatrix",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "7500",
+        "Leírás": "Állat-egészségügyi ellátás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

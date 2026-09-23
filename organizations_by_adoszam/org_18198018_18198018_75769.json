@@ -1,0 +1,96 @@
+{
+  "search_adoszam": "18198018",
+  "scraped_at": "2026-09-22T21:44:12.160960",
+  "organization_id": "75769",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Babos Síklub Sportegyesület",
+      "rövid_név": "Babos Síklub SE.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1165 Budapest, Mészáros József utca 9.",
+      "x_koordináta": "47.509829",
+      "y_koordináta": "19.19389",
+      "adószám": "18198018-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-11-17",
+      "statisztikai_számjel": "18198018-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "a sportegyesülettel kapcsolatban lévő oktatási, nevelési intézmények tanulói részére sportolási, testedzési lehetőségek biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0013145",
+      "régi_nyilvántartási_száma": "13145/2008",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-08-13",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-30",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Babos",
+        "Képviselő keresztneve": "Sándor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "153 569 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "113 365 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "185 775 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "174 378 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 047 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Babos Síklub Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Babos Síklub Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Babos Síklub Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19354929",
+  "scraped_at": "2026-09-22T22:21:43.445245",
+  "organization_id": "369918",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mihalyovszky Alapítvány a Dóczy Gimnázium diákjaiért és tanáraiért",
+      "rövid_név": "Mihalyovszky Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4024 Debrecen, Kossuth utca 35.",
+      "adószám": "19354929-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-28",
+      "statisztikai_számjel": "19354929-9499-569-09",
+      "x_koordináta": "47.5266229",
+      "y_koordináta": "21.631218"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Debreceni Református Kollégium Dóczy Gimnáziumának nehéz anyagi helyzetben lévő, árva, félárva, tartós és súlyos betegséggel együtt élő tanulói, oktatói, pedagógusai támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002315",
+      "régi_nyilvántartási_száma": "2315/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-05-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Czapp",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Antal",
+        "Képviselő keresztneve": "Klára",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,69 @@
+{
+  "search_adoszam": "19309307",
+  "scraped_at": "2026-09-22T22:18:12.478815",
+  "organization_id": "366745",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Közösen a Természetért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1039 Budapest, Királyok útja 184. 2/7.",
+      "adószám": "19309307-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-08-04",
+      "statisztikai_számjel": "19309307-9499-569-01",
+      "x_koordináta": "47.5922074",
+      "y_koordináta": "19.0606529"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "Az alapítvány célja természeti értékeink védelme, az ember és a természet közötti harmonikus kapcsolat kialakítása. A biológiai sokféleség kutatása és ismertetése. A biodiverzitás fontosságára való figyelemfelhívás, visszaállításban való közreműködés. A közösségi adatgyűjtés gyakorlása és népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013165",
+      "régi_nyilvántartási_száma": "13165/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-09-26",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-29",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Károlyi",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 227 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "259 533 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

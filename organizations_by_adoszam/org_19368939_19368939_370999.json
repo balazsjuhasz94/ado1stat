@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19368939",
+  "scraped_at": "2026-09-22T22:24:14.788469",
+  "organization_id": "370999",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Dr. Molnár Ákos Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1025 Budapest, Szeréna út 19.",
+      "adószám": "19368939-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-10-05",
+      "statisztikai_számjel": "19368939-9499-569-01",
+      "x_koordináta": "47.5333537",
+      "y_koordináta": "19.0061652"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Néhai Dr. Molnár Ákos gyermekei nevelésének és taníttatásának támogatása. Személyi sérülés károsultaknak anyagi támogatás nyújtása a felépülésükhöz, az életszínvonaluk megtartásához, valamint a kártérítési igényük érvényesítéséhez. Fiatalon elhunyt, családos ügyvédek, ügyvédjelöltek családjának támogatása. Kártérítéssel foglalkozó ügyvédjelöltek anyagi támogatása, illetve ebben a jogterületben szakmailag elmélyülni kívánó joghallgatók szakmai segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013526",
+      "régi_nyilvántartási_száma": "13526/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Pintér",
+        "Képviselő keresztneve": "Józsefné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "19299143",
+  "scraped_at": "2026-09-22T22:17:49.028404",
+  "organization_id": "365995",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PANYOLA 1796 Egyesület",
+      "rövid_név": "PANYOLA 1796",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4913 Panyola, Veszprémi utca 73.",
+      "adószám": "19299143-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-01",
+      "statisztikai_számjel": "19299143-9499-529-15",
+      "x_koordináta": "48.0598878",
+      "y_koordináta": "22.4020782"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "- alkotó közösségek és műhelyek hagyományőrző és hagyományalkotó tevékenységének segítése és fejlesztése, érintett művészeti ágak: képzőművészet, zene, irodalom, fotó, film, színház, design, - a hasonló tevékenységet folytató közösségek, táncegyüttesek, klubok, civil szerveződések, intézmények programjainak támogatása, - művészeti tevékenységek csoportos ápolása, fenntartása, alkotói folyamatok segítése, ösztönzése, - nevelés, oktatás, képességfejlesztés, ismeretterjesztés, környezetvédelem, természetvédelmi tudatformálás helyi természeti adottságok, flóra és fauna védelme, közismertté tétele, népszerűsítése, - táboroztatás, tánctáborok szervezése, tanösvények kialakítása, kerékpáros és kenus túrák szervezése, Szatmár-Bereg Örökségtúrák, - szociális tevékenység, családsegítés, mentális rehabilitációs tevékenységek, pszichológiai szaktanácsadás, előadások, konzultációk szervezése, - turisztikai, gasztronómiai, gasztrokulturális programok szervezése, a gasztronómia mint kulturális érték erősítése, hazai és helyi natúr élelmiszerek termékvédelme, - kiadvány szerkesztés: könyv, folyóirat, magazin, egyéb nyomdai kiadványok szerkesztése és kiadása, online tartalom készítés, - mezőgazdasági generációváltás segítése, - Szatmár-Bereg néprajzi, népművészeti és kulturális értékeinek hazai és nemzetközi bemutatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004217",
+      "régi_nyilvántartási_száma": "4217/2021",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-09-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-04-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-04-24"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mórucz",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-04-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 193 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

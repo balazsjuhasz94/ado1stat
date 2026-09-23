@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19304560",
+  "scraped_at": "2026-09-22T22:18:04.638478",
+  "organization_id": "366408",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Céljainkért Együtt Tollaslabda Sportegyesület",
+      "rövid_név": "CET SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2730 Albertirsa, Szent István utca 21.",
+      "adószám": "19304560-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-06-01",
+      "statisztikai_számjel": "19304560-9312-521-13",
+      "x_koordináta": "47.2507042",
+      "y_koordináta": "19.6293937"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A tollaslabda sportág hazai és nemzetközi népszerűsítése, a tollaslabdázás feltételeinek megteremtése, rendszeres edzési lehetőség biztosítása, versenyzők nevelése, utánpótlás nevelés, fiatal tehetségek felkutatása, a versenysport segítése, a lakosság szabadidősportjának mindennapossá tétele, a szabadidő kulturált eltöltésének elősegítése, egészséges életmódra nevelés, a sportegyesülettel kapcsolatban lévő oktatási és nevelési intézmények tanulói részére sportolási és testedzési lehetőségek megteremtése, a tollaslabda sportág szakmai értékeinek ápolása. A sportág iránt érdeklődő fiatalok körében a tollaslabda népszerűsítése, a sportszerűségre nevelés. Az egyesület célja továbbá a szabadidős programok és versenyszerű tevékenységek szervezése, hazai és nemzetközi sportkapcsolatok kiépítése és fenntartása, aktív részvétel a dopping elleni küzdelemben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008029",
+      "régi_nyilvántartási_száma": "8029/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-05-01",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Orosz",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-04-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "283 971 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "239 908 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

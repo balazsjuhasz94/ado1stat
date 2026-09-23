@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19362414",
+  "scraped_at": "2026-09-22T22:22:59.864291",
+  "organization_id": "370406",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "SZTE Szívsebészetért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Szögi József utca 15.",
+      "adószám": "19362414-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-06-14",
+      "statisztikai_számjel": "19362414-8230-569-06",
+      "x_koordináta": "46.2329377",
+      "y_koordináta": "20.1689154"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány azzal a céllal jön létre, hogy támogassa a szegedi szívsebészeti osztály fejlesztését, elősegítse a szegedi szívsebészeti osztályon dolgozó orvosok és szakdolgozók szakmai előmenetelét. Célja, a szívsebészeti osztályon folyó betegellátás szakmai színvonalának emelése, modern eszközök beszerzésével, és új, innovatív eljárások alkalmazhatóságának megteremtésével. Az alapítvány célja továbbá, hogy a szívsebészeti osztályon dolgozó orvosok és szakdolgozók munkahelyi körülményeit pihenő, étkező és szociális helyiségek felszerelésével javítsa, az osztályon dolgozó orvosok és szakdolgozók részére, rekreációs, szabadidős programokat szervezzen.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-01-0001804",
+      "régi_nyilvántartási_száma": "1804/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "11735005-26081144",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bari",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hegedűs",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Gecse",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

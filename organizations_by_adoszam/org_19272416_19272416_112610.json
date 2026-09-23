@@ -1,0 +1,98 @@
+{
+  "search_adoszam": "19272416",
+  "scraped_at": "2026-09-22T22:16:48.330554",
+  "organization_id": "112610",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zalai Táncegyüttes Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8900 Zalaegerszeg, Keresztury Dezső tér 1.",
+      "x_koordináta": "46.837685",
+      "y_koordináta": "16.829312",
+      "adószám": "19272416-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1990-05-02",
+      "statisztikai_számjel": "19272416-9020-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "A néptánc, a népzenei hagyományok, a népszokások (a kulturális örökség megóvása) az alapfokú művészeti oktatás, néptánc együttesek és csoportok működtetése, oktatása és művek színpadi bemutatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0000451",
+      "régi_nyilvántartási_száma": "451/1990",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-18"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kósa-Kemes",
+        "Képviselő keresztneve": "Laura",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Böjte",
+        "Képviselő keresztneve": "Sándor Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "10 008 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "49 994 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 120 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "ZALAI TÁNCEGYÜTTES EGYESÜLET"
+      }
+    ],
+    "kizarasok": [
+      {
+        "Név": "ZALAI TÁNCEGYÜTTES EGYESÜLET",
+        "Év": "2025"
+      }
+    ]
+  },
+  "error": null
+}

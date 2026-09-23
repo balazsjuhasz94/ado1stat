@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "18324008",
+  "scraped_at": "2026-09-22T21:47:40.103073",
+  "organization_id": "70341",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Állatvédők Országos Szervezete Egyesülete",
+      "rövid_név": "MÁOSZ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Futár utca 43.",
+      "x_koordináta": "47.494988",
+      "y_koordináta": "19.0025939",
+      "adószám": "18324008-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-06-21",
+      "statisztikai_számjel": "18324008-9499-529-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Az elővilág érdekeinek védelme, az ember és a többi élőlény együttélésének javítása; szemléletformálás, a környezettudatos életmód kialakítása és elterjesztése, a természet, ezen belül különösen az állatok ismeretének elterjesztése, megóvása az állattartási kultúra szintjének emelése az oktatás, nevelés és ismeretterjesztés eszközeivel; az állat-, természet- és környezetvédelemmel kapcsolatos egységes jogi szabályozás és jogi védelem kialakításának és hatályosulásának elősegítése; a krízishelyzetbe lévő vagy sebesült, beteg, gazdátlan, megkínzott balesetet szenvedett állatok mentése, gyógyítása, ideiglenes elhelyezése és az új gazdákhoz juttatása, vadállatok esetében repatriálása; a kóbor állat populáció csökkentése; az állati és emberi élet és a vagyonbiztonság, a természet és épített környezetet veszélyeztető természeti és civilizációs katasztrófák megelőzésében és károsító hatásai elleni védekezésben való együttműködés az illetékes állami és önkormányzati szervekkel; a természetes és épített környezet védelme; a hazai állatvédő mozgalom fejlesztése, érdekérvényesítő képességének növelése, hazai és nemzetközi kapcsolatrendszerének bővítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0002305",
+      "régi_nyilvántartási_száma": "2305/2003",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-03-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "34",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "11732002-23574780-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Sebőkné Tőzsér",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-03-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "182 474 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

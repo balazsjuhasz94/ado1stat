@@ -1,0 +1,64 @@
+{
+  "search_adoszam": "18117194",
+  "scraped_at": "2026-09-22T21:42:13.719003",
+  "organization_id": "46436",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PRO SPIRITUSZ ALAPÍTVÁNY",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1028 Budapest, Községház utca 10.",
+      "x_koordináta": "47.562097",
+      "y_koordináta": "18.9614345",
+      "adószám": "18117194-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-04-11",
+      "statisztikai_számjel": "18117194-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység",
+      "céljának_leírása": "A fiatalok szabadidős tevékenységének szervezése, együttműködésben különféle szakmai, társadalmi szervezetekkel. Célja a fiatalok bevonása a különféle kulturális, tudományos, természetvédelmi, műemlékvédelmi, sport projektek lebonyolításába. Az alapítvány fontos feladatának tekinti a különféle szociálisan, vagy egyéb szempontokból hátrányos helyzetű fiatalok számára nyújtott támogatást, az alapítvány által szervezett, illetve egyéb rendezvényeken, tanfolyamokon való részvétel biztosítását",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0009481",
+      "régi_nyilvántartási_száma": "9481/2005",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2005-03-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentváry",
+        "Képviselő keresztneve": "Lukács",
+        "Képviselő titulusa": "Gábor",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "",
+        "Képviselő képviseleti terjedelme": "",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "114 504 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

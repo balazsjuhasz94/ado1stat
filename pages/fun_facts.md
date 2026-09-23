@@ -2,21 +2,21 @@
  
 ## A sajtó térnyerése
 
-Az elmúlt években egészen hirtelen emelkedett a sajtót támogató felajánlások összege, 2022-ben a felajánlások 1,0% volt az egészből, az 2025-ben már 7,2%. 
+Az elmúlt években egészen hirtelen emelkedett a sajtót támogató felajánlások összege, 2022-ben a felajánlások 1,1%-a volt az egészből, 2026-ban már 7,9%. 
 
 A növekedés főként a Partizán, és a Telex megjelenésének köszönhető, 
 de nem kizárólagosan, további nagy növekedést ért el a Független Újságírók Alapítványa (Direkt36)
 illetve a Polgárvilág Alapítvány (Válasz Online).   
 
-A sajtó mellett a *demokrácia és átláhatóság* kategória is nagyot nőtt az elmúlt évben, ami nem is teljesen elkülöníthető a másik kategóriától.
+A sajtó mellett a *demokrácia és átláhatóság* kategória is nagyot nőtt az elmúlt években, ami nem is teljesen elkülöníthető a másik kategóriától.
 
 ![A sajtó kategória trendje](/imgs/sajtó.png)
 
 
 ## Kutya dominancia
 
-Az egy legmegdöbbentőbb számomra a kutyák és egyéb állatok támogatásának dominanciája, több mint 2,7 milliárd Ft-ot kaptak kutyákkal foglalkozó szervezetek, ami még a nagyon feljövő sajtók támogatásának is több, mint duplája. 
-Hozzátartozik az igazsághoz, hogy több olyan általános állatvédő szervezet volt, amik kutyák mellett, lehet, hogy cicákkal is foglalkoznak, és ezeket, ha nem volt egyértelmű, akkor a kutyákhoz soroltattam. 
+Az egy legmegdöbbentőbb számomra a kutyák és egyéb állatok támogatásának dominanciája, több mint 3,4 milliárd Ft-ot kaptak állatvédelemmel foglalkozó szervezetek, ami még a nagyon feljövő sajtók támogatásának is több, mint duplája. 
+Hozzátartozik az igazsághoz, hogy több olyan általános állatvédő szervezet volt, amik kutyák mellett, lehet, hogy cicákkal is foglalkoznak -- ezeket külön "egyéb állatvédelem" kategóriába soroltam, nem a konkrét fajok (kutyák, macskák) alá. 
 
 
 ## Cuki állatok
@@ -26,12 +26,12 @@ Kedvenc kategóriám a kutyák, macskák, és madarakon túli egyéb állatokkal
 
 | Szervezet neve   | Felajánlók száma |  
 |------|-----------------:|-------------------------:|
-| Első Nyúlmentő Alapítvány |    3 715     |  
-| Magyar Tengerimalac-védő Közhasznú Egyesület |    1 419     |   
-| Rókales Alapítvány |   1 452     |   
-| Sünbarát Alapítvány |   500      |    
-| Malacvédő Alapítvány |   275    |   
-| Magyar Vadászgörény Klub |     124  |   
+| Első Nyúlmentő Alapítvány |    3 370     |  
+| Rókales Alapítvány |   2 667     |   
+| Dharma Ló Menedék Alapítvány |    698     |  
+| Sünbarát Alapítvány |   443      |    
+| Szentendrei Kisállatkert Alapítvány |   417    |   
+| Fehér Holló Vadmentő Alapítvány |     386  |   
 
 
 
@@ -45,11 +45,11 @@ Ezen a képen a gimnáziumokat támogató szervezetek vannak a kutyákat támoga
 
 ## Vietnámi szegénység vagy fifika
 
-Az Összeg vs Jövedelem ábrán van néhány kiugróan magas átlagkeresettel rendelkező szervezet, viszont van egy a másik irányban is. A Magyarországi Vietnámiak Egyesületét majdnem 1000 ember válaszotta, ám az egy főre jutó felajánlásuk nem éri el az országos átlag felét sem (42%-a), ami ennyi ember mellett nagyon kirívóan alacsony.
+Az Összeg vs Jövedelem ábrán van néhány kiugróan magas átlagkeresettel rendelkező szervezet, viszont van egy a másik irányban is. A Magyarországi Vietnamiak Egyesületét 714 ember választotta, ám az egy főre jutó felajánlásuk nem éri el az országos átlag felét sem (41%-a), ami ennyi ember mellett nagyon kirívóan alacsony.
 
 Emellett további két kisebb Vietnámi szervezetnél is ugyanez látható:
-- Vietnami Buddhista Kulturális Központ (209 fő, 215 000 Ft átlag bruttó)
-- Magyar Vietnámi Kapcsolatokért Alapítvány (129 fő, 207 000 Ft átlag bruttó)
+- Vietnami Buddhista Kulturális Központ (311 fő, 306 000 Ft átlag bruttó)
+- Magyar Vietnámi Kapcsolatért Alapítvány (386 fő, 274 000 Ft átlag bruttó)
 
 ![Vietnam](/imgs/vietnam.png)
 
@@ -60,7 +60,7 @@ Emellett további két kisebb Vietnámi szervezetnél is ugyanez látható:
 Csányi Sándor valószínűleg saját alapítványának ajánlotta adóját. 
 (Amivel persze semmi gond nincs, inkább csak az a vicces, hogy ilyesmi következtetéseket is le lehet vonni az adatból.)
 
-A további 160 felajánlót átlagos bruttó bérrel számolva meg is becsülhetjük Csányi Sándor tavalyi jövedelmét, de nem tesszük, lényeg, hogy sok, ami az alapítványnak jó!
+A további 154 felajánlót átlagos bruttó bérrel számolva meg is becsülhetjük Csányi Sándor tavalyi jövedelmét, de nem tesszük, lényeg, hogy sok, ami az alapítványnak jó!
 
 ![Csányi Alapítvány](/imgs/csanyi.png)
 

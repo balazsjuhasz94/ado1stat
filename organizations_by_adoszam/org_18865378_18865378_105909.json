@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "18865378",
+  "scraped_at": "2026-09-22T22:06:34.227633",
+  "organization_id": "105909",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Cikádor Főnix Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7140 Bátaszék, Baross utca 11",
+      "x_koordináta": "46.185622",
+      "y_koordináta": "18.724483",
+      "adószám": "18865378-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-07-06",
+      "statisztikai_számjel": "18865378-9499-529-17"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "Az egyesület célja hagyományőrzés, ifjúságnevelés. Tűzvédelmi, tűzmegelőzési, katasztrófavédelmi és polgárvédelmi feladatok megismertetése és gyakorlati alkalmazása. Speciális mentési, elsősegélynyújtási, rendvédelmi, polgárőrségi, tűzoltási, honvédelmi feladatok megismertetése, gyakorlása és jogszabályi kereteken belül ennek ellátása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0001521",
+      "régi_nyilvántartási_száma": "1521/2005",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11",
+      "bankszámlaszám": "71900072-10001655",
+      "számlavezető_pénzintézet_neve": "Hungária Takarék Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Storcz",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-09",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Rumbach",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "Bálint",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "35 972 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "154 559 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "153 177 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "192 940 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 729 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Védőnők a Gyermekekért Egyesület"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Védőnők a Gyermekekért Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Cikádor Főnix Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

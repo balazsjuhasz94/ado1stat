@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "18218202",
+  "scraped_at": "2026-09-22T21:44:57.100547",
+  "organization_id": "37304",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "PELSO TÁRSASÁG \"Nyugat-Balaton\"",
+      "rövid_név": "PELSO TÁRSASÁG",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8360 Keszthely, Kossuth Lajos utca 45",
+      "x_koordináta": "46.773596",
+      "y_koordináta": "17.2650124",
+      "adószám": "18218202-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2011-07-14",
+      "statisztikai_számjel": "18218202-9499-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Keszthely, Hévíz és a Balaton térség kulturális és társadalmi életének fellendítése, segítése, kapcsolatainak fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002493",
+      "régi_nyilvántartási_száma": "2493/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "HORVÁTH",
+        "Képviselő keresztneve": "IMRE",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-03",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "237 425 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

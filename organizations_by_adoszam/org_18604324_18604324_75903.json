@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18604324",
+  "scraped_at": "2026-09-22T21:57:15.558289",
+  "organization_id": "75903",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tatabánya Kézilabda Club",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2800 Tatabánya, Köztársaság út 1/ A.",
+      "x_koordináta": "47.5568983",
+      "y_koordináta": "18.4189619",
+      "adószám": "18604324-2-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-08-28",
+      "statisztikai_számjel": "18604324-9319-521-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0000919",
+      "régi_nyilvántartási_száma": "919/1995",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-02-03",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-01",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Marosi",
+        "Képviselő keresztneve": "László Csaba",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "91 665 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "383 448 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "306 496 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 027 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tatabánya Kézilabda Club"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

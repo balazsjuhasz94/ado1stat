@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19087708",
+  "scraped_at": "2026-09-22T22:12:17.794313",
+  "organization_id": "89638",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Néra és a Falka Állatvédelmi Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3378 Mezőszemere, Május 1 út 21.",
+      "x_koordináta": "47.7149151",
+      "y_koordináta": "20.4749533",
+      "adószám": "19087708-1-10",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2018-10-08",
+      "statisztikai_számjel": "19087708-9499-529-10"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az utcán élő gazdátlan és a gyepmesteri telepeken élő állatok kihozatala, gazdához juttatása. Az állatok védelme, az ifjúság részére állatvédelmi ismeretek oktatása. Gazdátlan állatok ideiglenes örökbefogadásának támogatása. A gazdátlan és segítségre szoruló állatok problémájának megyei szintű megoldása. Örökbefogadó napok szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "10-02-0002851",
+      "régi_nyilvántartási_száma": "2851/2018",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Schlachtovszki",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "Miklós",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "269 647 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "379 778 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "58",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "474 275 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 169 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Néra és a Falka Állatvédelmi Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,74 @@
+{
+  "search_adoszam": "19241504",
+  "scraped_at": "2026-09-22T22:15:51.489343",
+  "organization_id": "116837",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bakonyi Denevérvédelmi Alapítvány",
+      "rövid_név": "BDA",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8457 Bakonypölöske, Petőfi Sándor utca 52.",
+      "x_koordináta": "47.2118629",
+      "y_koordináta": "17.4892079",
+      "adószám": "19241504-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-04-21",
+      "statisztikai_számjel": "19241504-9499-569-19"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "A Bakonyi Denevérvédelmi Alapítvány célja a védett denevérfajokkal kapcsolatos természet- és környezetvédelmi problémák kezelése. (Az alapítvány további céljait az alapító okirat 6. pontja tartalmazza.)",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001844",
+      "régi_nyilvántartási_száma": "1844/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-02-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mészáros",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "91 843 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "214 710 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 187 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

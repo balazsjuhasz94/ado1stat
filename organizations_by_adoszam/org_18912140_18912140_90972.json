@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18912140",
+  "scraped_at": "2026-09-22T22:08:20.188834",
+  "organization_id": "90972",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tegyünk együtt! Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3915 Tarcal, Árpád utca 1.",
+      "x_koordináta": "48.129098",
+      "y_koordináta": "21.342648",
+      "adószám": "18912140-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2017-08-31",
+      "statisztikai_számjel": "18912140-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja: - Tarcal és térsége tanulóinak oktatása, nevelése - az alapítvány tevékenységének kiterjesztése és végzése a tárgyi régióban - kül- és belföldi munkakapcsolatok és ösztöndíjak megszervezése, lebonyolítása - kül-, és belföldi tanulmányi, művészeti, sportversenyeken való való részvétel, - az oktatás és nevelés területén való felzárkóztatás, tehetséggondozás, az eredmények propagálása, és a fenti célok megvalósulásának és továbbfejlesztések anyagi eszközökkel való támogatása, - oktatási intézményekkel való együttműködés, mely az alábbi tevékenységeket végzi: alapfokú oktatás, általános, középfokú oktatás, szakmai középfokú oktatás, máshová nem sorolható felnőtt- és egyéb oktatás, - szakképesítés megszerzésére felkészítő iskolarendszerű felnőttoktatás, szakképesítés megszerzésére felkészítő iskolarendszerű felnőttoktatás, határon túli nemzetiségek számára művészeti-, sport, nyelvi oktatás, tanfolyamszervezés, a magyarság megtartása és az anyagországgal való kapcsolattartás biztosítása,- közművelődési tevékenység,- idegenforgalmi propaganda tevékenység a térség megismertetése érdekében, - kulturális propaganda tevékenység a térség kultúrájának terjesztése érdekében, - kiállítások, koncertek, bemutatók, rendezvények, műsorok szervezése, kiadványok kiadása, - tanulmányutak szervezése, - a fenti körben pályázatok írása, a fenti célok elérése érdekében, - hátrányos helyzetű és határon túli gyermekek üdültetése, ezzel kapcsolatos táborszervezés, ennek körében turistaház fenntartása, turisztikai programok szervezése, - gyermek és ifjúsági célok megvalósítása, - turisztikai tevékenység, turizmusfejlesztés, szálláshelyek létesítése és fenntartása az alapítvány céljainak megvalósítása érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064494",
+      "régi_nyilvántartási_száma": "64494/2017",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "55800013-11017873-00000000",
+      "számlavezető_pénzintézet_neve": "Szerencs és Környéke Takarékszövetkezet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hunkó",
+        "Képviselő keresztneve": "Emese",
+        "Képviselő titulusa": "Klára",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Melinda",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Iglainé Hunkó",
+        "Képviselő keresztneve": "Tünde",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

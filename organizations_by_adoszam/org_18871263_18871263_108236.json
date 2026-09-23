@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "18871263",
+  "scraped_at": "2026-09-22T22:06:46.342077",
+  "organization_id": "108236",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tarisznya Táborok Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3186 Litke, Borbás Vince út 49.",
+      "x_koordináta": "47.4992519",
+      "y_koordináta": "19.0220117",
+      "adószám": "18871263-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-12-30",
+      "statisztikai_számjel": "18871263-8559-569-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a nemzeti köznevelésről szóló 2011. évi CXC. törvény 4.§ 1. p) pontja alapján a fejlesztő-nevelés oktatás. Az alapítvány célja a fiatalok különböző tanulmányterületek iránti érdeklődésének felkeltése, ismereteik gyarapítása, illetve önismereti és szociális képességeik fejlesztése. Az alapítvány célja elősegíteni, hogy különböző hátterű fiatalok megismerjék egymást, illetve közöttük, pozitív kapcsolatok alakuljanak ki.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012349",
+      "régi_nyilvántartási_száma": "12349/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2019-09-06",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-02-22",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Oláh",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Demszky",
+        "Képviselő keresztneve": "Dorottya",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "158 195 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "161 349 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 748 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "346 283 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "322 456 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 445 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tarisznya Táborok Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tarisznya Táborok Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Tarisznya Táborok Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

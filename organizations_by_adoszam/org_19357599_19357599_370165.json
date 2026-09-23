@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19357599",
+  "scraped_at": "2026-09-22T22:22:16.753770",
+  "organization_id": "370165",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Álmom egy gazdi\" Állatmentő Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5121 Jászjákóhalma, Kossuth Lajos út 15.",
+      "adószám": "19357599-2-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-04-05",
+      "statisztikai_számjel": "19357599-9499-569-16",
+      "x_koordináta": "47.5090614",
+      "y_koordináta": "20.0341214"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az állatvédelem kultúra széles körben való terjesztése minden eszközzel. Az orvosi ellátásra szoruló állatok kezeltetése, fertőző betegségek elleni védekezés és ivartalanítás. Az állatbarátok érdekképviselete, óvodák, iskolák részére állatvédelem oktatások szervezés, felvilágosító munka végzése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-01-0001290",
+      "régi_nyilvántartási_száma": "1290/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-06-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rusvai-Csőke",
+        "Képviselő keresztneve": "Elvira",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

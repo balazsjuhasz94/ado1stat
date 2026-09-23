@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19355353",
+  "scraped_at": "2026-09-22T22:21:49.387236",
+  "organization_id": "369678",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hasnyálmirigyrákos Betegekért Országos Egyesület",
+      "rövid_név": "HBOE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1126 Budapest, Beethoven utca 6. fszt./3.",
+      "adószám": "19355353-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-03-02",
+      "statisztikai_számjel": "19355353-8412-529-01",
+      "x_koordináta": "47.4958734",
+      "y_koordináta": "19.0133085"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Információs platform létrehozása, hatékony érdemi segítségnyújtás kialakítása hasnyálmirigyrákos betegek és hozzátartozóik részére. A korai felismerhetőség elősegítése országos szinten hatékony eszközökkel (különösen a több generáción keresztül érintett személyeknél).",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017967",
+      "régi_nyilvántartási_száma": "17967/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-11-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-21",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Salánkiné Oravecz",
+        "Képviselő keresztneve": "Gyöngyi",
+        "Képviselő titulusa": "Magdolna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-21",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tapolczai",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19356512",
+  "scraped_at": "2026-09-22T22:22:04.928654",
+  "organization_id": "370052",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Összefogás a Gyerekekért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8500 Pápa, Vajda Péter lakótelep 29. 4. emelet/16. ajtó",
+      "adószám": "19356512-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-03-22",
+      "statisztikai_számjel": "19356512-9499-569-19",
+      "x_koordináta": "47.3391468",
+      "y_koordináta": "17.4696359"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az Alapítvány fő célja a gyerekek, fiatalok segítése. Ebbe a csoportba tartoznak a hátrányos helyzetű, rászoruló, beteg, fogyatékos, egészségkárosult, szociális intézményekben nevelkedő, speciális intézményekben élő gyerekek, fiatalok. Az Alapítvány segíteni kívánja azokat az egyéneket, családokat, közösségeket, intézményeket, ahol a fenti csoportba tartozó gyerekek, fiatalok nevelkednek, gyógyulnak, illetve pénzügyi és egyéb okok miatt a felnevelésük és taníttatásuk nehézségekbe ütközik. Az Alapítvány általi segítség lehet pénzbeli, tárgyi, szervezésbeli és minden olyan tevékenység, ami a gyerekek, fiatalok testi, lelki, szellemi egészségét szolgálja. A segítség kiterjedhet az iskolai tanulmányok támogatására is. Az Alapítvány elsősorban Magyarországon tervezi végezni a tevékenységét, de hatóköre kiterjed a határon túli magyarság segítésére is.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-01-0001911",
+      "régi_nyilvántartási_száma": "1911/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-29"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Radó",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

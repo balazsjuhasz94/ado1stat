@@ -1,0 +1,80 @@
+{
+  "search_adoszam": "18393079",
+  "scraped_at": "2026-09-22T21:49:49.114497",
+  "organization_id": "106917",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "GRÁCIA MAZSORETT EGYÜTTES",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5700 Gyula, Béke sugárút 35.",
+      "x_koordináta": "46.6482473",
+      "y_koordináta": "21.2716786",
+      "adószám": "18393079-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2007-12-07",
+      "statisztikai_számjel": "18393079-9499-529-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység",
+      "céljának_leírása": "A mazsorett és a twirling megismertetése, koreográfiák színpadra állítása, tanítása, a tánc több írányzatának megismertetése, a fúvószene népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0002674",
+      "régi_nyilvántartási_száma": "2674/2007",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-08",
+      "bankszámlaszám": "11733003-21134209",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rábai",
+        "Képviselő keresztneve": "Szilvia",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-03-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "6 524 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "250 999 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 024 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": [
+      {
+        "Név": "BKSCSABAI MAZSORETT EGYESLET",
+        "Év": "2016"
+      }
+    ]
+  },
+  "error": null
+}

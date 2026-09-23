@@ -1,0 +1,131 @@
+{
+  "search_adoszam": "18737864",
+  "scraped_at": "2026-09-22T22:02:29.072427",
+  "organization_id": "80370",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pannon Trauma Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7627 Pécs, Rigóderalja utca 2/B",
+      "x_koordináta": "46.075465",
+      "y_koordináta": "18.205165",
+      "adószám": "18737864-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-12",
+      "statisztikai_számjel": "18737864-8696-569-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Gyermekek és felnőtt mozgásszervi betegek, baleseti sérültek, amatőr és professzionális sportolókat érintő egészségmegőrző tevékenység, gyógyászati tevékenység, kutatás, oktatás, nevelés finanszírozása, gyermek, ifjúsági és felnőtt projektek széleskörű támogatása, egészségügyi felügyelete, mozgásszervi betegeket érintő egészségügyi rehabilitáció fejlesztése, finanszírozása, mozgásszervi betegségek prevencióját célzó feladatok támogatása, szervezése és megvalósítása a magyar lakosság körében, külföldi mozgásszervi betegek ellátásának segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001809",
+      "régi_nyilvántartási_száma": "1809/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-01-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bukovecz",
+        "Képviselő keresztneve": "Tibor",
+        "Képviselő titulusa": "János",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4646",
+        "Leírás": "Gyógyszer, gyógyászati termék nagykereskedelme"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7430",
+        "Leírás": "Fordítás, tolmácsolás"
+      },
+      {
+        "Kód": "7820",
+        "Leírás": "Munkaerőkölcsönzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "3",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "50 442 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18292222",
+  "scraped_at": "2026-09-22T21:46:54.586218",
+  "organization_id": "42582",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tűzoltó Egyesület Jászfényszaru",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5126 Jászfényszaru, Petőfi Sándor út 14.",
+      "x_koordináta": "47.5712487",
+      "y_koordináta": "19.7241101",
+      "adószám": "18292222-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-04-19",
+      "statisztikai_számjel": "18292222-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "Az egyesület célja a jogszabályokban meghatározott tűzvédelmi feladatok, közigazgatási területen belüli megvalósításának társadalmi elősegítése és ennek ellátására önként jelentkezők egyesítése. Szervezett keretek között tagjai tűzvédelmi szakismeretének rendszeres növelése a közigazgatási területen belüli tűzmegelőzési és tűzoltási tevékenység biztosítására.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0000065",
+      "régi_nyilvántartási_száma": "65/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tóth",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lázár",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ézsiás",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "K_EGYEB",
+        "Képviselő megbízás időtartama": "2029-05-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "18733781",
+  "scraped_at": "2026-09-22T22:02:17.352742",
+  "organization_id": "51323",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Hazámat Szolgáltam\" Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4400 Nyíregyháza, Dózsa György utca 9.",
+      "x_koordináta": "47.9561484",
+      "y_koordináta": "21.7237328",
+      "adószám": "18733781-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-12-19",
+      "statisztikai_számjel": "18733781-8899-569-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "- A haza és közrend védelmében aktívan tevékenykedők információval való ellátása, segítségnyújtás baleset vagy egészségkárosodás esetén, mind ügyintézési, mind anyagi szolgáltatás nyújtásával. - A haza és közrend védelmében korábban tevékenyen részt vevő (inaktív természetes személyek) egzisztenciális, szociális ügyeiben történő segítségnyújtás, rászorultság esetén anyagi támogatás nyújtásával. - A haza és közrend védelmi feladatok ellátása során fizikálisan, mentálisan sérült természetes személyek gyógyításának, rehabilitációjának támogatása. - A haza és közrend védelme ellátás során elhunyt természetes személyek családtagjainak erkölcsi, anyagi támogatása. - A haza és közrend védelmét, valamint közfeladatot ellátó természetes személyek veszélyközösségének megszervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002463",
+      "régi_nyilvántartási_száma": "2463/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-27"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dombrády",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

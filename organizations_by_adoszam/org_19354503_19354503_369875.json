@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19354503",
+  "scraped_at": "2026-09-22T22:21:35.442782",
+  "organization_id": "369875",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Halley Mentettkéi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4552 Napkor, Jósika Miklós utca 2.",
+      "adószám": "19354503-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-21",
+      "statisztikai_számjel": "19354503-9499-569-15",
+      "x_koordináta": "47.9346987",
+      "y_koordináta": "21.8727293"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az utcán élő vagy oda kerülő, esetleg gazdás rászoruló, veszélyben lévő beteg macskák (esetenként kutyák) utcáról való kiemelése, orvoshoz juttatása, egészségügyi ellátása, gyógyíttatása, ideiglenes gazdákhoz való elhelyezése, gazdásítása. A bent ragadó cicák (melyek nem kerülnek gazdákhoz) folyamatos ellátásáról való gondoskodás. A macskák (esetenként kutyák) ivartalanítása a fölösleges szaporulat megelőzése érdekében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-01-0002649",
+      "régi_nyilvántartási_száma": "2649/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-09-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Soltész",
+        "Képviselő keresztneve": "Heléna",
+        "Képviselő titulusa": "Zsuzsanna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

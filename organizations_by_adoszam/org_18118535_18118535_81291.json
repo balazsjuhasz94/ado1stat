@@ -1,0 +1,106 @@
+{
+  "search_adoszam": "18118535",
+  "scraped_at": "2026-09-22T21:42:15.774964",
+  "organization_id": "81291",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gastro Update Közhasznú Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8000 Székesfehérvár, Budai út 316.",
+      "x_koordináta": "47.195878",
+      "y_koordináta": "18.462597",
+      "adószám": "18118535-2-07",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-07-19",
+      "statisztikai_számjel": "18118535-7220-569-07"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Foglalkoztatási csoportokat összefogó tevékenység",
+      "céljának_leírása": "A magyar gasztroenterológia interdiszciplináris fejlődésének elősegítése, a gasztroenterológiával foglalkozó szakemberek folyamatos szakmai továbbképzése. A gasztroenterológia területén a nemzetközi tapasztalatok, kutatások és eredmények folyamatos figyelemmel kísérése, valamint a legújabb szakmai ismeretek gyors elérhetőségének megteremtése a magyar szakemberek számára, ezen új ismeretek értékelése és a gyakorlat számára történő adaptálása. A gasztroenterológia, a sebészet, az endoszkópia, a belgyógyászat, az onkológia, a radiológia, a pathológia, a prognosztika, a genetika, a háziorvosi gyakorlat, az endokrinológia, az anestheziológia, a pszichológia, valamint az egészségügyi szervezéstan hazai és nemzetközi szakemberei együttműködésének a megteremtése. Elősegíteni az előbbi szakterületek képviselőnek a tapasztalat- és véleménycseréjét. Szakterületeken átívelő irányelvek, komplex diagnosztikus és kezelési ajánlások kidolgozása, illetve ezen tevékenység támogatása és koordinálása valamint ennek érdekében az egyes szakterületek szakembereinek rendszeres vagy eseti jelleggel szakértői tevékenységgel történő megbízása. Nemzetközi kapcsolatos kiépítése, a magyar szakemberek hozzásegítése a nemzetközi konferenciákon, kongresszusokon, továbbképző tanfolyamokon és kísérleti programokban történő részvételéhez. Hazai és nemzetközi konferenciák, ülések, megbeszélések és egyeztetések szervezése, rendezése és támogatása. A hazai és nemzetközi konferenciák, tudományos rendezvények és egyeztetések eredményeinek, illetve az elfogadott irányelveknek széles körben történő elterjesztésének az elősegítése, ennek érdekében írott és elektronikus információhordozók (könyv, folyóirat, hírlevél, CD, DVD, film, hanganyag stb.) előállítása és megjelentetése. Fiatal szakemberek fejlődésének elősegítése, képzésének támogatása, az alapítvány által szervezett vagy támogatott tudományos rendezvényeken és konferenciákon való részvételük biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0009605",
+      "régi_nyilvántartási_száma": "9605/2005",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2020-09-25",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-09-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szalai",
+        "Képviselő keresztneve": "Milán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 056 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "166 901 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 378 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "321 781 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "348 830 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "247 010 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gastro Update Alapítvány"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gastro Update Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gastro Update Közhasznú Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Gastro Update Közhasznú Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

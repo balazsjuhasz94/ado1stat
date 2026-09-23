@@ -1,0 +1,123 @@
+{
+  "search_adoszam": "18752403",
+  "scraped_at": "2026-09-22T22:02:59.334742",
+  "organization_id": "31973",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sorsod Borsod - Teljes Foglalkoztatottságért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3600 Ózd, Bercsényi M. utca 82.",
+      "x_koordináta": "48.2461631",
+      "y_koordináta": "20.2919343",
+      "adószám": "18752403-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-06-18",
+      "statisztikai_számjel": "18752403-9499-569-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Gazdaságfejlesztési és munkaügyi tevékenység (pl. vállalkozások és szakmák támogatása, idegenforgalom fejlesztése, munkanélküliség kezelése, szociális foglalkoztatás)",
+      "céljának_leírása": "A hátrányos helyzetű munkanélküli személyek számára segítség nyújtása az elhelyezkedésben, illetve munkaviszony létesítésében. A munkanélküli személyek részére képzések szervezése annak érdekében, hogy a munkaerő piacon el tudjanak helyezkedni. Átképzések szervezése azon személyek részére, akik saját végzettségüknek megfelelő munkát nem találnak. A Borsod megyében élő munkavállalók és fiatalok elvándorlásának megállítása. Az idegen nyelvek elsajátításának elősegítése, feltételeinek megteremtése. Családok integrációjának elősegítése. Önsegítő közösség létrehozása. Közösségi szociális munka.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-01-0064438",
+      "régi_nyilvántartási_száma": "64438/2016",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-04-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyurgyák",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "Gyula",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "0150",
+        "Leírás": "Vegyes gazdálkodás"
+      },
+      {
+        "Kód": "7810",
+        "Leírás": "Munkaközvetítés"
+      },
+      {
+        "Kód": "7820",
+        "Leírás": "Munkaerőkölcsönzés"
+      },
+      {
+        "Kód": "8510",
+        "Leírás": "Iskolai előkészítő oktatás"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 584 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 237 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "48 611 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 407 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sorsod Borsod - Teljes Foglalkztatottságért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Sorsod Borsod - Teljes Foglalkoztatottságért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

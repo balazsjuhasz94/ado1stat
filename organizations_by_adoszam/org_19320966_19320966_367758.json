@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19320966",
+  "scraped_at": "2026-09-22T22:18:54.260017",
+  "organization_id": "367758",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tiszántúli Mentőkutyás és Önkéntes Tűzoltó Egyesület",
+      "rövid_név": "TIME_ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3516 Miskolc, Deák Ferenc utca 43",
+      "adószám": "19320966-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-01-06",
+      "statisztikai_számjel": "19320966-9499-529-05",
+      "x_koordináta": "48.0507441",
+      "y_koordináta": "20.8039612"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Egyesület célja a mentés, katasztrófa-elhárítás, személyfelkutatás. Az Egyesület célja az általános kutyavezető képzések elősegítése és támogatása, szervezése, a segítőkutyák és más szolgálati kutyák képzésének, tréningben tartásának, vizsgáztatásának elősegítése és támogatása. Az Egyesület célja a felelős állattartás népszerűsítése. Az Egyesület célja az önkéntes munka népszerűsítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0066111",
+      "régi_nyilvántartási_száma": "66111/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-04"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Farkas",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "István",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

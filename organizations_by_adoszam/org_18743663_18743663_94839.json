@@ -1,0 +1,99 @@
+{
+  "search_adoszam": "18743663",
+  "scraped_at": "2026-09-22T22:02:40.966544",
+  "organization_id": "94839",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A MÉLYSZEGÉNYSÉGBEN ÉLŐ GYERMEKEKÉRT OKTATÁSI- KULTURÁLIS- ÉS SPORT EGYESÜLET",
+      "rövid_név": "A MÉLYSZEGÉNYSÉGBEN ÉLŐ GYERMEKEKÉRT EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3133 Magyargéc, Rákóczi út 81.",
+      "x_koordináta": "48.0840949",
+      "y_koordináta": "19.6013312",
+      "adószám": "18743663-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-02-20",
+      "statisztikai_számjel": "18743663-9499-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az egyesületi oktatási kulturális és sport tevékenységgel, képességek fejlesztésével, egészség- és környezetvédelmi ismeretterjesztéssel, a mélyszegénységben élő, halmozottan hátrányos helyzetű fiatalok – különösen a roma nemzetiségű fiatalok – életminőségének, életesélyeinek javítása, különös tekintettel a gyermekszegénység újratermelődésének megakadályozására.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0001980",
+      "régi_nyilvántartási_száma": "1980/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-05-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rácz",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "151 023 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "106 183 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "234 772 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 162 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "MSZÉGY"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

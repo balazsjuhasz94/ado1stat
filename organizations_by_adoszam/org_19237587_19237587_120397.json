@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "19237587",
+  "scraped_at": "2026-09-22T22:15:39.427740",
+  "organization_id": "120397",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tokorcsért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9561 Tokorcs, Szabadság utca 15.",
+      "x_koordináta": "47.2685277",
+      "y_koordináta": "17.09766",
+      "adószám": "19237587-1-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-03-10",
+      "statisztikai_számjel": "19237587-9499-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A helyi közösségikeretek megteremtésével a helyi társadalmi életben a kultúra, sport, hagyományőrzés, örökségvédelem és környezetvédelemmel kapcsolatos ismeretek bővítése. Információ nyújtásával, tájékoztatással, gazdasági és egyéb ötletek, lehetőségek feltárásával, programok szervezésével mindezek népszerűsítése. a helyi közösségi élet új színtereinek létrehozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0200802",
+      "régi_nyilvántartási_száma": "200802/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-01-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-05"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fodor",
+        "Képviselő keresztneve": "Beatrix",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-01-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "270 538 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

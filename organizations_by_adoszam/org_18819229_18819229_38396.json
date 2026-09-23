@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "18819229",
+  "scraped_at": "2026-09-22T22:04:59.445496",
+  "organization_id": "38396",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Vidék Szépségéért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4800 Vásárosnamény, Árpád utca 26.",
+      "x_koordináta": "48.1318889",
+      "y_koordináta": "22.3046636",
+      "adószám": "18819229-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-11-21",
+      "statisztikai_számjel": "18819229-9499-529-15"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Falusi környezetet szerető és igénylő családok, fiatalok egyéni és csoportos turisztikai, kulturális, zenei, egészségmegőrző, képességfejlesztő, szabadidős programjának szervezése. Falusi turisztikai szolgáltatások, szabadidős programok biztosítása. Gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet. Továbbá az egyesület alapszabályának II. pontjában foglaltak szerint.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0002926",
+      "régi_nyilvántartási_száma": "2926/2008",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2015-11-16",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "7 218 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "51 754 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

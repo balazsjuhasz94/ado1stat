@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19351036",
+  "scraped_at": "2026-09-22T22:21:10.059377",
+  "organization_id": "369581",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Patakpart Iskoláért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2011 Budakalász, Klisovác utca 15.",
+      "adószám": "19351036-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-12-19",
+      "statisztikai_számjel": "19351036-8520-569-13",
+      "x_koordináta": "47.6205766",
+      "y_koordináta": "19.0395462"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány támogatja a Patakpart Általános Iskola működését, elősegíti annak további fejlődését, illetve az Iskola Pedagógiai programjában foglalt célkitűzések elérését. Ennek érdekében az Alapítvány célja különösen az Iskola működésének támogatása, az Iskola tanulóinak támogatása, és az Iskola dolgozóinak támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004345",
+      "régi_nyilvántartási_száma": "4345/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bokányi",
+        "Képviselő keresztneve": "Zsuzsanna",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2025-11-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

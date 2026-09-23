@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19154169",
+  "scraped_at": "2026-09-22T22:13:49.495814",
+  "organization_id": "111546",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MAGÉLET Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1082 Budapest, Baross utca 88. 6. emelet/1. ajtó",
+      "x_koordináta": "47.479403",
+      "y_koordináta": "19.085253",
+      "adószám": "19154169-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-05-23",
+      "statisztikai_számjel": "19154169-9499-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Segítséget nyújtson az egészséges életmóddal, egészségmegőrzéssel, növényi táplálkozással, jógával, meditációval, tudatos gondolkodással, stresszkezeléssel kapcsolatos elméleti ismeretek megszerzéséhez és a gyakorlati megvalósításához. Az egészség megőrzésére vonatkozó tudományos ismeretek és tudásanyag emberek és közösség számára történő közvetítése és azon módszerek ismertetése és terjesztése, amelyek lehetőséget adnak az embereknek az egészségük fokozottabb kézbentartására és tökéletesítésére, illetve tájékoztatást és felvilágosítást adjon az egészségfejlesztés iránt érdeklődő személyek részére az egészséges életmódot szolgáló élelmiszerekről, ételtársításokról, ételkészítési módokról. Képessé tegye az embereket és a belőlük formálódott közösségeket az egészségük fokozottabb kézbentartására és tökéletesítésére, illetve, hogy a teljes fizikai, szellemi és szociális jólét állapotának elérése érdekében az egyént, vagy csoportot hozzásegítse ahhoz, hogy megfogalmazza és megvalósítsa a vágyait, kielégítse a szükségleteit, és a környezetével változzék, vagy alkalmazkodjon hozzá.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0012777",
+      "régi_nyilvántartási_száma": "12777/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-12-08",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szentgyörgyi",
+        "Képviselő keresztneve": "Barbara",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "11 115 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 668 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

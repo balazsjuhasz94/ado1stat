@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "18361441",
+  "scraped_at": "2026-09-22T21:48:35.003371",
+  "organization_id": "35266",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nemesnádudvari Polgárőr Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6345 Nemesnádudvar, Szentháromság tér 1.",
+      "x_koordináta": "46.3421118",
+      "y_koordináta": "19.0535723",
+      "adószám": "18361441-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2001-09-06",
+      "statisztikai_számjel": "18361441-9499-526-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Közbiztonság-védelmi tevékenység (pl. polgárőrszervezetek, vagyonvédelem közlekedés-biztonság, bűnözők társadalmi rehabilitációja)",
+      "céljának_leírása": "A helyi közrend és közbiztonság védelme a bűnmegelőzésben való közreműködés az állampolgárok személyi biztonságának védelme az állami önkormányzati és állampolgári vagyonvédelem elősegítése a lakossági biztonságérzet növelése a lakosság és a bűnüldöző szervek közötti bizalom és együttműködés elősegítése. Rendkívüli vészhelyzetek esetében a védekezésben a károk megelőzésben és elhárításában a helyreállítás és az újjáépítés feladataiban való részvétel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0002036",
+      "régi_nyilvántartási_száma": "2036/2001",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2012-05-25",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Mozolai",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Jánosi",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-05",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lócsai",
+        "Képviselő keresztneve": "Beáta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

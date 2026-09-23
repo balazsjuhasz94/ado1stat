@@ -1,0 +1,374 @@
+{
+  "search_adoszam": "18256457",
+  "scraped_at": "2026-09-22T21:45:52.951581",
+  "organization_id": "86306",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Fuego Kulturális Művészeti, Tánc és Sport Egyesület",
+      "rövid_név": "Fuego KMTSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1146 Budapest, Kerepesi út 26.",
+      "x_koordináta": "47.5004887",
+      "y_koordináta": "19.1089506",
+      "adószám": "18256457-2-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2006-01-18",
+      "statisztikai_számjel": "18256457-8552-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az egyesület alaptevékenysége a kultúra, a művészetek, az egészséges életmód és gondolkodás, a környezettudatos életmód és a sport minél szélesebb társadalmi körben történő terjesztése, kulturális és előadóművészeti rendezvények, előadóművészeti alkotások, valamint mozgáskultúrát fejlesztő képzések, tánc, sport és életmód tanácsadó rendezvények létrehozása és szervezése által. Az egyesület további fő célkitűzése az egyesület 2007-től működő táncegyüttesének, a Fuego Táncegyüttesnek (külföldön Fuego Dance Company Budapest), az egyesület kulturális kreatív stábjának, ill. az egyesület színházi műsorok lebonyolítására és befogadására képes játszóhelyének a fenntartása és működtetése. Az egyesület célja továbbá élvonalbeli táncosokkal és koreográfusokkal karöltve a Magyarországon kevésbé ismert tánc stílusok népszerűsítése és versenyszerű képzése. E körben az egyesület kifejezett célja a versenyzői és a professzionális táncos-, tánctanár- és koreográfus-képzés, illetőleg a táncművészet és a hozzá kapcsolódó egészséges életmód lakossági szintű terjesztése. Az egyesület célja még szakmai utánpótlás képzési rendszer létrehozása a fiatalkorú versenyző táncosok és leendő koreográfusok továbbképzése érdekében. Az egyesület további célja az információ-technológia művészi felhasználásának népszerűsítése és képzése, az emberi mozdulatok és gesztusok számítógépes elemzésének oktatása és az erre alkalmas eszközök és módszerek fejlesztése, ill. a művészi és nevelő célú kreatív kép- és hang-alkotások, filmek, videóklipek készítése. Az egyesület célkitűzései között szerepel még a mozgás, a tánc, az egészséges táplálkozás és a mentálhigiénia egészségmegőrző és terápiás hatásainak kutatása, ill. más szervezetek ilyen jellegű egészségügyi és szociális kutatásainak lebonyolításához kapcsolódó segítségnyújtás.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0011677",
+      "régi_nyilvántartási_száma": "11677/2005",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2017-06-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-09-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "17",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10",
+      "bankszámlaszám": "10300002 - 10491701 - 49020017",
+      "számlavezető_pénzintézet_neve": "MKB Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gazdag",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "Ilona",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szőnyi",
+        "Képviselő keresztneve": "Levente",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tóth-Laki",
+        "Képviselő keresztneve": "Dóra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Ágnes",
+        "Képviselő titulusa": "Bernadett",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szőnyi",
+        "Képviselő keresztneve": "Emese",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-09-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "1085",
+        "Leírás": "Készétel gyártása"
+      },
+      {
+        "Kód": "4321",
+        "Leírás": "Villanyszerelés"
+      },
+      {
+        "Kód": "4611",
+        "Leírás": "Mezőgazdasági termék ügynöki nagykereskedelme"
+      },
+      {
+        "Kód": "4613",
+        "Leírás": "Fa-, építési anyag ügynöki nagykereskedelme"
+      },
+      {
+        "Kód": "4615",
+        "Leírás": "Bútor, háztartási áru, fémáru ügynöki nagykereskedelme"
+      },
+      {
+        "Kód": "4617",
+        "Leírás": "Élelmiszer, ital, dohányáru ügynöki nagykereskedelme"
+      },
+      {
+        "Kód": "4618",
+        "Leírás": "Egyéb termék ügynöki nagykereskedelme"
+      },
+      {
+        "Kód": "4619",
+        "Leírás": "Vegyes termékkörű ügynöki nagykereskedelem"
+      },
+      {
+        "Kód": "4631",
+        "Leírás": "Zöldség-, gyümölcs-nagykereskedelem"
+      },
+      {
+        "Kód": "4636",
+        "Leírás": "Cukor, édesség nagykereskedelme"
+      },
+      {
+        "Kód": "4637",
+        "Leírás": "Kávé-, tea-, kakaó-, fűszer-nagykereskedelem"
+      },
+      {
+        "Kód": "4639",
+        "Leírás": "Élelmiszer, ital, dohányáru vegyes nagykereskedelme"
+      },
+      {
+        "Kód": "4644",
+        "Leírás": "Porcelán-, üvegáru-, tisztítószer-nagykereskedelem"
+      },
+      {
+        "Kód": "4647",
+        "Leírás": "Bútor, szőnyeg, világítóberendezés nagykereskedelme"
+      },
+      {
+        "Kód": "4649",
+        "Leírás": "Egyéb háztartási cikk nagykereskedelme m.n.s."
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4662",
+        "Leírás": "Szerszámgép-nagykereskedelem"
+      },
+      {
+        "Kód": "4664",
+        "Leírás": "Textilipari gép, varró-, kötőgép nagykereskedelme"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "4690",
+        "Leírás": "Vegyestermékkörű nagykereskedelem"
+      },
+      {
+        "Kód": "5510",
+        "Leírás": "Szállodai szolgáltatás"
+      },
+      {
+        "Kód": "5520",
+        "Leírás": "Üdülési, egyéb átmeneti szálláshely-szolgáltatás"
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "5621",
+        "Leírás": "Rendezvényi étkeztetés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5630",
+        "Leírás": "Italszolgáltatás"
+      },
+      {
+        "Kód": "5829",
+        "Leírás": "Egyéb szoftverkiadás"
+      },
+      {
+        "Kód": "5911",
+        "Leírás": "Film-, video-, televízióműsor-gyártás"
+      },
+      {
+        "Kód": "6020",
+        "Leírás": "Televízióműsor összeállítása, szolgáltatása"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7112",
+        "Leírás": "Mérnöki tevékenység, műszaki tanácsadás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "7312",
+        "Leírás": "Médiareklám"
+      },
+      {
+        "Kód": "7320",
+        "Leírás": "Piac-, közvélemény-kutatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7733",
+        "Leírás": "Irodagép kölcsönzése (beleértve: számítógép)"
+      },
+      {
+        "Kód": "8520",
+        "Leírás": "Alapfokú oktatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "603 438 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "267 839 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "111",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "780 618 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "112",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "886 659 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "68",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "628 775 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "59",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "595 275 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "363 763 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 774 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fuego Kulturális, Művészeti, Tánc és Sport Egyesület"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fuego Kulturális, Művészeti, Tánc és Sport Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fuego Kulturális, Művészeti, Tánc és Sport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fuego Kulturális Muvészeti, Tánc és Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Fuego Kulturális Művészeti, Tánc és Sport Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

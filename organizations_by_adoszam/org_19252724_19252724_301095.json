@@ -1,0 +1,73 @@
+{
+  "search_adoszam": "19252724",
+  "scraped_at": "2026-09-22T22:16:24.091254",
+  "organization_id": "301095",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mozgó Diák Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Lánchíd utca 18.",
+      "adószám": "19252724-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-07-22",
+      "statisztikai_számjel": "19252724-9499-569-03",
+      "x_koordináta": "46.9096235",
+      "y_koordináta": "19.6815426"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az élet, az egészség védelme, az emberi személyiség tiszteletben tartása, szociális gondok enyhítése, a betegségek legyőzése, az épített és a természeti környezet védelme, tehetséggondozás, a gyermekek és az ifjúság védelme, környezettudatos cselekvés ösztönzése, a gyermek- és ifjúsági szabadidős és sport tevékenység támogatása. Családi közösségek védelme, szociális, oktatási, hagyományőrzési, kulturális, közművelődési, sport és egészségügyi igényeinek kielégítésében való közreműködés. Fenntartható életmód és környezettudatosság terén történő módszertani és közösségfejlesztési tevékenységek, oktatás, képzés biztosítása, hazai és határon túli testvériskolákkal történő kapcsolat kialakítása, tapasztalatcsere, tudásbázis áramlás, környezeti fenntarthatóság tudatosítása, népszerűsítése a közvetlen és közvetett célcsoport számára, hátrányos helyzetű fiatalok integrációját segítő programok biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002629",
+      "régi_nyilvántartási_száma": "2629/2020",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gáspárné Ocskai",
+        "Képviselő keresztneve": "Márta",
+        "Képviselő titulusa": "Noémi",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "44",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "268 844 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "265 161 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "281 093 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

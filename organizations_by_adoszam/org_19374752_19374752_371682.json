@@ -1,0 +1,75 @@
+{
+  "search_adoszam": "19374752",
+  "scraped_at": "2026-09-22T22:25:30.950825",
+  "organization_id": "371682",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Nagy BOL-DOG Tanya Egyesület",
+      "rövid_név": "NBTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5200 Törökszentmiklós, Földvárhalom dűlő 22.",
+      "adószám": "19374752-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-12-19",
+      "statisztikai_számjel": "19374752-9499-529-16",
+      "x_koordináta": "47.179034",
+      "y_koordináta": "20.4430418"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az egyesület célja, hogy a menhelyről befogadott, valamint a családokban élő kutyák szocializációját, képzését elősegítse. Pszichésen vagy fizikailag hátrányos helyzetű emberek egészségi állapotának, életminőségének javítása segítő kutyák alkalmazásával. Erre a célra speciálisan alkalmas kutyák nevelése, kiképzése, tartása és rászorultakhoz való eljuttatása. Kutyás sportok népszerűsítése, családi programok szervezése, természetjárás útján elősegíteni az egészséges életmód kialakítását. A környezet- és természetvédelemmel kapcsolatos ismeretszerzés és ismeretátadás. A tudatos minőségi élet egyéni és társadalmi szinten történő fontosságának népszerűsítése, a mindenkori mozgásformák gyakorlása. A testi, lelki és szellemi jólétet elősegítő terápiák bemutatása, alkalmazásának elősegítése, a gondolkodásmód átformálása az egyéni életút során az egészségmegőrzés érdekében. Öngyógyító technikák bemutatása és alkalmazása. A szellemi-lelki-testi harmónia megteremtése, elősegítése annak érdekében, hogy a pár- és családi kapcsolatokban a bizalom, az együttérzés, az együttműködés nagyobb hangsúlyt kapjon, hogy a rájuk nehezedő stressz tudatosan csökkenthető legyen.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002963",
+      "régi_nyilvántartási_száma": "2963/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-12-15",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Dékány",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Mihály",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-12-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

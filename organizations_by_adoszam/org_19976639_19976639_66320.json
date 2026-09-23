@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19976639",
+  "scraped_at": "2026-09-22T22:28:18.238789",
+  "organization_id": "66320",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kondorosi Testedző Egyesület",
+      "rövid_név": "KOTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5553 Kondoros, Szabadság utca 2.",
+      "x_koordináta": "46.758227",
+      "y_koordináta": "20.788349",
+      "adószám": "19976639-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1982-06-30",
+      "statisztikai_számjel": "19976639-9312-521-04"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "céljának_leírása": "Rendszeres sportolás, versenyzés, testedzés, felüdülés biztosítása, az ilyen igények felkeltése, tagjainak nevelése, a társadalmi öntevékenység és a közösségi élet kibontakoztatása. Működési területén elősegíti az oktatási intézmények tanulóinak, továbbá a lakosság testnevelési és sporttevékenységét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0000155",
+      "régi_nyilvántartási_száma": "155/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-01-29",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2025-03-14",
+      "bankszámlaszám": "53700072-15705691-00000000",
+      "számlavezető_pénzintézet_neve": "Kondorosi Takarékszövet"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Korcsog",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-09",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "181 861 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 261 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

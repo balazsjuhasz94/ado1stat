@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19318996",
+  "scraped_at": "2026-09-22T22:18:42.187004",
+  "organization_id": "367582",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lajtai László Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7623 Pécs, Nagyvárad utca 33.",
+      "adószám": "19318996-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-17",
+      "statisztikai_számjel": "19318996-9499-569-02",
+      "x_koordináta": "46.0681836",
+      "y_koordináta": "18.2162208"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Lajtai László (1931-2001) tanár, iskola alapító munkásságának és szellemi hagyatékának megőrzése, ápolása, az ennek keretében tevékenykedő pedagógusok díjazása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001940",
+      "régi_nyilvántartási_száma": "1940/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lajtai",
+        "Képviselő keresztneve": "Zita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "207 073 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "208 729 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

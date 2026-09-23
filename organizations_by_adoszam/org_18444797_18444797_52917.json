@@ -1,0 +1,112 @@
+{
+  "search_adoszam": "18444797",
+  "scraped_at": "2026-09-22T21:51:30.811581",
+  "organization_id": "52917",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Komlóskai Önkéntes Tűzoltó, Táj- és Környezetvédő és Foglalkoztatást Elősegítő Egyesület",
+      "rövid_név": "Komlóskai ÖTTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3937 Komlóska, Rákóczi utca 27.",
+      "x_koordináta": "48.341566",
+      "y_koordináta": "21.462599",
+      "adószám": "18444797-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2004-04-16",
+      "statisztikai_számjel": "18444797-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "Működési területén tevékenységet végezni, elsősorban az ott élő lakosság szervezett összefogásával, együttműködve és bevonva a célját pártoló állami, társadalmi és gazdasági szerveket.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0003502",
+      "régi_nyilvántartási_száma": "3502/2003",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-12-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szűcs",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-14",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Matiszné Hoffer",
+        "Képviselő keresztneve": "Alexandra",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-12-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "216 308 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "65",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "223 698 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "231 160 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "307 079 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "262 802 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "284 473 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Komlóskai Önkéntes Tűzoltó, Táj és Körny.védő és Fogl. elősegítő Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Komlóskai Önkéntes Tűzoltó, Táj és Körny.védő és Fogl. elősegítő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Komlóskai ÖTTE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

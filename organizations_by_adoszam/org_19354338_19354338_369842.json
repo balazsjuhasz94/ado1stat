@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19354338",
+  "scraped_at": "2026-09-22T22:21:31.500657",
+  "organization_id": "369842",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Old Man's Egyesület",
+      "rövid_név": "Old Man's",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1084 Budapest, Tavaszmező utca 7-13.",
+      "adószám": "19354338-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-17",
+      "statisztikai_számjel": "19354338-9499-529-01",
+      "x_koordináta": "47.492658",
+      "y_koordináta": "19.0752466"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "1. Az Óbudai Egyetem Hotel@BMF Diákotthon, azaz a Kukac Koli egykori lakóinak és barátaik számára alumni szervezetként való működése. Az egyesület vállalja a kialakult kollégiumi hagyományok és értékek megőrzését, továbbvitelének támogatását, ezért részt vállal a kollégiumi rendezvényeken, szükség szerint támogatja és segíti azok szervezését, ezzel erősítve a közösségi kötelékeket. 2. Az egyesület küldetése a személyes kapcsolatok, barátság, közösség értékeinek képviselete, ezek az offline térbe történő mozdítása. Kiemelt célunk az egyesülettel értékközösséget vállaló, elsősorban vidéki régiókból származó fiatalok számára egy olyan befogadó, nyitott közösség építése, ahol lehetőségük nyílik a kapcsolatépítésre, saját személyük és képességeik fejlesztésére. 3. Célunk a tudás és tapasztalatmegosztás, az érdeklődő fiatalok támogatása mind a munkaerőpiaci elhelyezkedés során, mind egyéni, illetve szakmai fejlődési útjukon. Ezen cél elérése érdekében a tagság saját tapasztalata és szakmai életútjára alapozva nyílt workshopokat, mentorálást szervez. 4. Az egyesület saját közösségének építése és a belső kötelékek ápolása és elmélyítése céljából saját rendezvényeket szervez. A rendezvények egyaránt támaszkodnak az egyesületi és kollégiumi hagyományokra, ugyanakkor figyelembe veszik a tagok új igényeit is. 5. Együttesen támogatjuk a tagok mindazon ötleteinek megvalósítását, melyek bármilyen módon az egyesület céljait, a tagság vagy a nagyobb nyílt közösség érdekeit, vagy ezen okiratban foglalt értékek megőrzését, erősítését szolgálják. 6. Kiemelt célok között szerepel egy józsefvárosi, a kollégium közelében fekvő közösségi hely kialakítása és fenntartása, mely teret adhat az egyesület eseményeinek, workshopoknak és kollégiumi találkozóknak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0005274",
+      "régi_nyilvántartási_száma": "5274/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2026-04-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gál",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Félegyházi",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-02-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

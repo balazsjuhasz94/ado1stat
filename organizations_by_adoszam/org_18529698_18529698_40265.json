@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "18529698",
+  "scraped_at": "2026-09-22T21:54:36.650386",
+  "organization_id": "40265",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bázis Lövész Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9362 Himod, Hrsz. 0130/1.",
+      "x_koordináta": "47.593736",
+      "y_koordináta": "17.0367031",
+      "adószám": "18529698-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1995-01-27",
+      "statisztikai_számjel": "18529698-9319-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A lövészet megismertetése, megszerettetése, továbbá a lövészet elméleti és gyakorlati művelése, feltételeinek megteremtése az érdeklődő polgárok számára.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0001381",
+      "régi_nyilvántartási_száma": "1381/1995",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-02-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-13"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Árpád",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "160 499 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "292 018 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "331 890 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "272 395 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "\"Bázis\" Lövész Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

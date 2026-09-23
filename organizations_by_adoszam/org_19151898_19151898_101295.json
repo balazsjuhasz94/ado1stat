@@ -1,0 +1,88 @@
+{
+  "search_adoszam": "19151898",
+  "scraped_at": "2026-09-22T22:13:43.418571",
+  "organization_id": "101295",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Sajóecsegért Kulturális, Ismeretterjesztő és Hagyományőrző Egyesület",
+      "rövid_név": "Sajóecsegért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3793 Sajóecseg, Széchenyi utca 27.",
+      "x_koordináta": "48.1914609",
+      "y_koordináta": "20.7771389",
+      "adószám": "19151898-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-04-16",
+      "statisztikai_számjel": "19151898-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Programjaival és a település lakóinak összefogásával elősegítse a község összetartozás-érzésének elmélyítését, összetartó erejének növelését, kezdeményezze a közösségi életben történő részvételt és együttműködést, valamint a közösség aktivitásának erősödését. Segítse a falu minden korosztályának – óvodás-, iskoláskorú gyermekek, fiatalok, dolgozó felnőttek, nyugdíjasok, idősök – testi, szellemi, szociális és kulturális igényeinek feltárását és az erre épülő tevékenység megszervezését, megvalósítását. Minél szélesebb körű, korosztályokat átfogó cselekvési terv kezdeményezése, előkészítése, kivitelezése a generációk közötti kapcsolatok kiépítésének és fenntartásának előmozdítása érdekében. Együttműködés a helyi szervezetekkel, intézményekkel (Önkormányzat, Polgárőrség, katolikus és református Egyház) az általuk tervezett helyi rendezvények szervezésében, lebonyolításában, Kapcsolattartás elősegítése a szomszédos településekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065866",
+      "régi_nyilvántartási_száma": "65866/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szilágyi",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-23",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fülöp",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Lévay",
+        "Képviselő keresztneve": "Erika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 496 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "243 264 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

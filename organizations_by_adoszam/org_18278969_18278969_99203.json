@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "18278969",
+  "scraped_at": "2026-09-22T21:46:28.114210",
+  "organization_id": "99203",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "STAFÉTA Diáksport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9023 Győr, Szabolcska utca 26.",
+      "x_koordináta": "47.678292",
+      "y_koordináta": "17.651876",
+      "adószám": "18278969-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2012-02-13",
+      "statisztikai_számjel": "18278969-8551-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A sportegyesület célja a sportról szóló 2004. évi I. törvény preambulumában foglaltak alapulvételével a Speciális Szakiskola nevelő-oktató munkájával összhangban, az egyesület rendszeres helyi, intézményen belüli, intézmények közötti és szakszövetségek által kiírt játék, turisztikai-, versengési- és versenylehetőségek tervezése és szervezése érdekében, figyelemmel arra is, hogy az intézmény a Közoktatási törvény (1993. évi LXXIX.tv.) alapján köteles biztosítani az iskolai sportkör működését, illetve iskolai sportkör feladatait ? az iskolával kötött megállapodás alapján ? az iskolában működő diáksport egyesület is elláthatja. Az egyesület célja a rendszeres sportolás, testedzés, versenyzés biztosítása, sportkapcsolatok létesítése és fenntartása, a sportra való nevelés, a társadalmi öntevékenység és a közösségi élet alakítása, különösen tervezni, szervezni és összehangolni a tanulók tanórán kívüli nevelését, sportolását. Fentebb meghatározott cél elérése érdekében a sportegyesület az 1997. évi CLVI. törvény 26. § c) 14. pontjában megjelölt sport közhasznú tevékenységet folytat. Közhasznú szolgáltatásaiból tagjain kívül bárki más is részesülhet.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0062467",
+      "régi_nyilvántartási_száma": "62467/2011",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-03-01",
+      "alkalmazottak_száma": "3",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szünstein",
+        "Képviselő keresztneve": "Mónika",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "23",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 954 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 310 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "326 376 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "201 599 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "STAFÉTA DIÁKSPORT EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

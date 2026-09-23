@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "18596124",
+  "scraped_at": "2026-09-22T21:56:50.568997",
+  "organization_id": "103475",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Svábhegyi Hagyományőrző Egyesület",
+      "rövid_név": "Hagyományőrző Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1125 Budapest, Diana utca 4.",
+      "x_koordináta": "47.5018782",
+      "y_koordináta": "18.9938349",
+      "adószám": "18596124-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-05-29",
+      "statisztikai_számjel": "18596124-9499-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "a svábhegyi és a magyarországi németek népi és keresztény kultúrájának, nyelvének, szokásainak felkutatása, megőrzése, gondozása, fejlesztése és bemutatása, valamint karitatív tevékenységek elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015503",
+      "régi_nyilvántartási_száma": "15503/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kövesdiné Martin",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "Anna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "205 064 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19358143",
+  "scraped_at": "2026-09-22T22:22:22.830404",
+  "organization_id": "370211",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lovas Zoltán Salakmotorozásáért Alapítvány",
+      "rövid_név": "Lovas SM Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4078 Debrecen, Haláp tanya 355.",
+      "adószám": "19358143-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-04-13",
+      "statisztikai_számjel": "19358143-9319-569-09",
+      "x_koordináta": "47.527041",
+      "y_koordináta": "21.8257701"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "céljának_leírása": "Ifjabb Lovas Zoltán sz. Lovas Zoltán (született: 2008. október 03.; anyja neve: Pinczés Anikó) 4030 Debrecen, Kosárfonó utca 34. sz. alatti lakos salakmotoros versenyzői karrierjének támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0002319",
+      "régi_nyilvántartási_száma": "2319/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-06",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Daragó",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9319",
+        "Leírás": "Egyéb sporttevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

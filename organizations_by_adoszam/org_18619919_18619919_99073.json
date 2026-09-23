@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18619919",
+  "scraped_at": "2026-09-22T21:58:00.740316",
+  "organization_id": "99073",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "NOVA HVYLJA Magyarországi Ukrán Fiatalok és Családok Egyesülete",
+      "rövid_név": "NOVA HVYLJA Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2377 Örkény, Hunyadi utca 9.",
+      "x_koordináta": "47.5236322",
+      "y_koordináta": "19.0714719",
+      "adószám": "18619919-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-07-21",
+      "statisztikai_számjel": "18619919-9499-528-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Az Egyesület nemzetiségi szervezet, amelynek célja a Magyarországon élő ukrán nemzetiségi állampolgárok képviselete a kollektív és egyéni nemzetiségi jogok terén, a magyar-ukrán kapcsolat és együttműködés elősegítése, valamint a magyarországi ukrán nemzetiség kulturális örökségének, hagyományainak, nyelvének megőrzése, ápolása, nemzetiségi oktatás-nevelés szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015502",
+      "régi_nyilvántartási_száma": "15502/2013",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-02-23",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "23",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bernáth",
+        "Képviselő keresztneve": "Viktória",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "183 071 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "220 454 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 092 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

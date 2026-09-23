@@ -1,0 +1,121 @@
+{
+  "search_adoszam": "18399082",
+  "scraped_at": "2026-09-22T21:50:07.416600",
+  "organization_id": "81599",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kanizsa Salsa Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8800 Nagykanizsa, Fő út 17",
+      "x_koordináta": "46.4552845",
+      "y_koordináta": "16.9943107",
+      "adószám": "18399082-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-04-05",
+      "statisztikai_számjel": "18399082-8552-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység",
+      "céljának_leírása": "A kubai salsa, a bachata, a kizomba és az ezekkel rokon táncok népszerűsítése; táncgyakorlás és -oktatás feltételeinek megteremtése; a tánc, mint közösségi, kulturális, egészségmegőrző tevékenység népszerűsítése; a tagok számára sporttevékenységek gyakorlásának biztosítása; az egészséges életmóddal kapcsolatos tevékenységek előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002630",
+      "régi_nyilvántartási_száma": "2630/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-11",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-15"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Borsos",
+        "Képviselő keresztneve": "Gellért",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "128 734 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "88 001 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "129 600 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "79 744 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "175 315 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "250 678 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "275 711 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kanizsa Salsa Egyesület"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kanizsa Salsa Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kanizsa Salsa Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Kanizsa Salsa Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,95 @@
+{
+  "search_adoszam": "18934061",
+  "scraped_at": "2026-09-22T22:08:54.585827",
+  "organization_id": "115095",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mosonmagyaróvári Kézilabda Club Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9200 Mosonmagyaróvár, Gorkij utca 1. fszt/2.",
+      "x_koordináta": "47.8793531",
+      "y_koordináta": "17.2648056",
+      "adószám": "18934061-2-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2002-09-18",
+      "statisztikai_számjel": "18934061-9312-521-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az alapszabály 2. pontja tartalmazza.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0002164",
+      "régi_nyilvántartási_száma": "2164/2002",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-06-30",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2026-09-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gáspár",
+        "Képviselő keresztneve": "Botond",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-29",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "48",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "407 168 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 300 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "118 886 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "180 451 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "30",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "453 277 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "225 579 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mosonmagyaróvári Kézilabda Club Sportegyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mosonmagyaróvári Kézilabda Club Sportegyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mosonmagyaróvári Kézilabda Club Sportgyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

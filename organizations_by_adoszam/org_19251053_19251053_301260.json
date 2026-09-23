@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19251053",
+  "scraped_at": "2026-09-22T22:16:22.083731",
+  "organization_id": "301260",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szentsimoni Sport Egyesület",
+      "rövid_név": "Szentsimoni SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3625 Ózd, Bornemissza út 2 A",
+      "adószám": "19251053-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-24",
+      "statisztikai_számjel": "19251053-9312-529-05",
+      "x_koordináta": "48.2307684",
+      "y_koordináta": "20.2218724"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Az egyesület célja a rendszeres sportolás, testedzés, és az egészséges életmód népszerűsítése és biztosítása, az ezek iránti igények felkeltése és megtartása, a szabadidő hasznos eltöltésének és az aktív mozgás mindennapivá válásának elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065953",
+      "régi_nyilvántartási_száma": "65953/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-05-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-06-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Féder",
+        "Képviselő keresztneve": "Gergőné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-15",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bellér",
+        "Képviselő keresztneve": "Gréta",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "9313",
+        "Leírás": "Testedzési szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "15 385 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "240 444 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "264 889 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

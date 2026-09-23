@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19354015",
+  "scraped_at": "2026-09-22T22:21:29.531078",
+  "organization_id": "369831",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Macska Menedék Egyesület",
+      "rövid_név": "Macska Menedék",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6721 Szeged, József Attila sugárút 16. földszint/3.",
+      "adószám": "19354015-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-10",
+      "statisztikai_számjel": "19354015-9699-529-06",
+      "x_koordináta": "46.2585002",
+      "y_koordináta": "20.1545897"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Szegeden és vonzáskörzetében - gazdátlan, kóbor, elhagyott macskák felkarolása, - számukra ideiglenes otthon biztosítása, - alaporvosi ellátás (ivartalanítás, tesztek, oltások) biztosítása, - számukra szerető család keresése, - családban való elhelyezésük segítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003609",
+      "régi_nyilvántartási_száma": "3609/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-01-15",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Martina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-01-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

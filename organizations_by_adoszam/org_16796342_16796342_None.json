@@ -1,0 +1,28 @@
+{
+  "search_adoszam": "16796342",
+  "scraped_at": "2026-09-22T21:39:42.951914",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "JÓKAI MÓR VÁROSI KÖNYVTÁR",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2117 ISASZEG DÓZSA GYÖRGY UTCA 2.",
+      "adószám": "16796342",
+      "x_koordináta": "47.5309118",
+      "y_koordináta": "19.3972155"
+    },
+    "fonadatok": {
+      "céljának_leírása": ""
+    }
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "306 107 Ft"
+      }
+    ]
+  },
+  "error": null
+}

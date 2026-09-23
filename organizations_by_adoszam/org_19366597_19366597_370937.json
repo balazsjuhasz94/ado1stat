@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19366597",
+  "scraped_at": "2026-09-22T22:23:51.391319",
+  "organization_id": "370937",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MezőMancsok Állatvédő Egyesület",
+      "rövid_név": "MezőMancsok Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5800 Mezőkovácsháza, Szabadság utca 70.",
+      "adószám": "19366597-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-09-06",
+      "statisztikai_számjel": "19366597-9499-529-04",
+      "x_koordináta": "46.4031626",
+      "y_koordináta": "20.9291801"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "Kóbor, segítségre szoruló állatok védelme, ideiglenes elhelyezése, haza juttatása, vagy gazdásítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-02-0003682",
+      "régi_nyilvántartási_száma": "3682/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-01-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-02-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Babcsán",
+        "Képviselő keresztneve": "Róbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-17",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Raczkó",
+        "Képviselő keresztneve": "Enikő",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-17",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Raczkó",
+        "Képviselő keresztneve": "Edit",
+        "Képviselő titulusa": "Katinka",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "18343335",
+  "scraped_at": "2026-09-22T21:48:07.742814",
+  "organization_id": "43584",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Hajós Football Club",
+      "rövid_név": "HAJÓS FC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6344 Hajós, Szigeti-fő utca 74/a.",
+      "x_koordináta": "46.3987499",
+      "y_koordináta": "19.1282251",
+      "adószám": "18343335-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1994-03-03",
+      "statisztikai_számjel": "18343335-9319-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A rendszeres sportolás, versenyeztetés, testedzés biztosítása, az ilyen igények felkeltése, a közösségi élet kibontakoztatása. A sportegyesület elősegíti az oktatási intézmények tanulóinak és a település lakóinak testnevelési-és sporttevékenységét. A sportegyesület céljainak megvalósításához együttműködik a települési és megyei önkormányzattal, szövetségekkel. A sportegyesület jogszabályokban meghatározott keretek között nemzetközi, testvér-települési tevékenységet folytathat. A sportegyesület a sporttal össze nem függő tevékenységet, valamint a sporttevékenységgel összefüggő kereskedelmi tevékenységet csak kiegészítő tevékenységként folytathat. A sportlétesítmények használata, működtetése a sportegyesület alaptevékenységének minősül.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0000376",
+      "régi_nyilvántartási_száma": "376/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-08-31",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-28"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Gyöngy",
+        "Képviselő keresztneve": "Előd",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "239 523 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

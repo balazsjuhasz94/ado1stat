@@ -1,0 +1,86 @@
+{
+  "search_adoszam": "18628319",
+  "scraped_at": "2026-09-22T21:58:15.022365",
+  "organization_id": "53619",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "\"Dél-dunántúli Zenebarátok\" Német Nemzetiségi Kulturális Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7773 Villány, Déryné utca 1.",
+      "x_koordináta": "45.864688",
+      "y_koordináta": "18.445309",
+      "adószám": "18628319-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-03-16",
+      "statisztikai_számjel": "18628319-9020-528-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A fúvószene és elsősorban a német nemzetiségi fúvószene megismertetése, a Dél-dunántúli régióban gyűjtött kevéssé ismert nemzetiségi és más zeneművek feljegyzése, rendezvények keretében történő eljátszása, az összegyűjtött zeneművek írásbeli- és hangrögzítése és ezáltal a megismertetésük, részvétel az iskoláskorú gyermekek zenei műveltségének a fejlesztésében, a régió zenei hagyományainak ápolása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0003477",
+      "régi_nyilvántartási_száma": "3477/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-05-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "11",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Németh",
+        "Képviselő keresztneve": "Balázs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-21",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fűri",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "Mátyás",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-21",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Baranyai",
+        "Képviselő keresztneve": "Bálint",
+        "Képviselő titulusa": "Martin",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-06-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5920",
+        "Leírás": "Hangfelvétel készítése, kiadása"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "227 518 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

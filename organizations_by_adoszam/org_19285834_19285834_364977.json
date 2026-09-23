@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "19285834",
+  "scraped_at": "2026-09-22T22:17:12.009582",
+  "organization_id": "364977",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "MINŐSÉGI ÉLETÉRT EGYESÜLET",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4900 Fehérgyarmat, Szolnoki utca 11.",
+      "adószám": "19285834-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-01",
+      "statisztikai_számjel": "19285834-9623-529-15",
+      "x_koordináta": "47.9953704",
+      "y_koordináta": "22.5145022"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "- tudatos minőségi élet egyéni és társadalmi szinten történő fontosságának népszerűsítése - egészséges táplálkozás ismereteinek elősegítése - mindenkori mozgásformák megszerettetése - testi, lelki, szellemi jólétet segítő terápiák bemutatása, alkalmazásának segítése - gondolkodásmód átformálása az egyéni életút során az egészségmegőrzéssel kapcsolatban - minőségi élet alappillére a környezet és a természetvédelem, mellyel kapcsolatban ismeretterjesztés, természetjárással, kirándulással egybekötött egészséges életmódra nevelés - természetben előforduló gyógyító anyagok és abból készült termékek népszerűsítése - öngyógyító technikák alkalmazása és bemutatása - környezetkímélő és környezettudatos élet elsajátítása, energetikailag megújuló módszerek bemutatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004149",
+      "régi_nyilvántartási_száma": "4149/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-06-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simonné Lázár",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "5530",
+        "Leírás": "Kempingszolgáltatás"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "8551",
+        "Leírás": "Sport, szabadidős képzés"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "328 171 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "254 685 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "280 810 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

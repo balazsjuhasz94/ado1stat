@@ -1,0 +1,61 @@
+{
+  "search_adoszam": "19364887",
+  "scraped_at": "2026-09-22T22:23:27.762345",
+  "organization_id": "370583",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bíró Zoltán Emlékalapítvány a Bányászat Jövőjéért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8887 Bázakerettye, Nagyhegy utca 654",
+      "adószám": "19364887-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-07-27",
+      "statisztikai_számjel": "19364887-9499-569-20",
+      "x_koordináta": "46.5242749",
+      "y_koordináta": "16.7285316"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az alapítvány célja a nevelés és oktatás, a képességfejlesztés és az ismeretterjesztés támogatása, továbbá család- és ifjúságvédelmi, környezet- és műemlékvédelmi tevékenység ellátása, továbbá a kulturális örökség megóvása. Az alapítvány célja továbbá a hátrányos helyzetű diákok társadalmi esélyegyenlőségének elősegítése, az ifjúság nevelésének, oktatásának támogatása, a hátrányos helyzetű csoportok, különösen bányászok, bányászati dolgozók és családtagjaik támogatása, szociális körülményeiknek javítása. Az alapítvány célja továbbá a kulturális és a sporttevékenység, ideértve: kulturális és sport programok szervezése, lebonyolítása, emléknapok, megemlékezések, egyéb események szervezése és támogatása. Az alapítvány a céljai elérése érdekében fejleszteni, segíteni kívánja, illetőleg közreműködik: - az időskorúak gondozásában, - a családok segítésében és egyéb szociális tevékenységben, - az ifjúság nevelésében, oktatásában, képességeinek fejlesztésében, ismereteinek bővítésében, szakképzésben - a környezet- és műemlékvédelemben - az emberi és polgári jogok védelmében, - a sportélet előmozdításában, fejlesztésében, - a közterületek gondozásában, fenntartásában, - a foglalkoztatás elősegítésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001267",
+      "régi_nyilvántartási_száma": "1267/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Csatlós",
+        "Képviselő keresztneve": "Csilla",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

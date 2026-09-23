@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "18548987",
+  "scraped_at": "2026-09-22T21:55:19.443717",
+  "organization_id": "66538",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Közgyűjteményi Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4181 Nádudvar, Kossuth tér 5.",
+      "x_koordináta": "47.4280479",
+      "y_koordináta": "21.163097",
+      "adószám": "18548987-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-05-02",
+      "statisztikai_számjel": "18548987-9499-569-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "Nádudvar és térségét alkotó környező kistájak (Hortobágy, Hajdúság, Sárrét, Nagykunság) egyedi értékeinek, kulturális, népművészeti és táji örökségének védelme, fenntartása és fenntartható fejlesztése, a nádudvari közgyűjtemény állandó elhelyezésének biztosítása, állandó és időszaki kiállítások szervezése, a gyűjtemény fenntartása, fejlesztése, továbbgyarapítása és mindezekkel együtt Nádudvar közösségi életének dinamizálása, közösségi színhelyek kialakítása, helyi identitást erősítő programok lebonyolítása, továbbá a népi gasztronómiával kapcsolatosan hagyományos, tájjellegű és helyi ételek készítése, kóstoltatása, az ízviláguk érdeklődőkkel történő megismertetése és ilyen ételek értékesítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-01-0000637",
+      "régi_nyilvántartási_száma": "637/1994",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-02-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ludmanné Papp",
+        "Képviselő keresztneve": "Ilona",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "242 430 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "204 604 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

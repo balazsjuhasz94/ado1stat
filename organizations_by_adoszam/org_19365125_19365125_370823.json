@@ -1,0 +1,57 @@
+{
+  "search_adoszam": "19365125",
+  "scraped_at": "2026-09-22T22:23:35.749171",
+  "organization_id": "370823",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Csonkás Óvoda Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2112 Veresegyház, Hétvezér út 6.",
+      "adószám": "19365125-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-07-31",
+      "statisztikai_számjel": "19365125-9499-569-13",
+      "x_koordináta": "47.6516619",
+      "y_koordináta": "19.2932744"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az óvodás korú gyermek nevelése, oktatása, képességfejlesztése érdekében végzett tevékenység. ismeretterjesztés, gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet, a tevékenységhez kapcsolódóan végzett környezetvédelem, sporttevékenység- a munkaviszonyban és a polgári jogi jogviszony keretében, megbízás alapján folytatott sporttevékenység kivételével -, kiránydulások szervezése, pedagógusok képzettségének fejlesztése. A célok megvalósítását segítő eszközök felkutatása, támogatások igénybevétele és nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004392",
+      "régi_nyilvántartási_száma": "4392/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-05-24",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2026-08-25"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Balázs",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-05-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

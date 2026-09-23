@@ -49,6 +49,7 @@ data/organization_categories_ALL_5000.csv
 data/organization_categories_adoszam_500.csv
 data/oktatas_reclassified.csv
 data/oktatas_reclassification_log.jsonl
+data/allatvedelem_reclassification_log.jsonl
 data/scraping_errors_with_names.csv
 data/civil_organizations_data.json
 data/civil_organizations_by_adoszam.json
@@ -77,3 +78,10 @@ scripts/visualization/timeseries_app_dash.py
 data/*.yaml
 data/city_geocode_cache.json
 data/*.log
+data/adoszam_new_2026.txt
+data/dropped_orgs_2026.txt
+data/scrape_output_new_2026.json
+
+# kormany.hu state-funding snapshot (raw download, not yet wired into the pipeline)
+data/kormany_atlathato_civil_szervezetek.json
+data/kormany_atlathato_poi_articles.json

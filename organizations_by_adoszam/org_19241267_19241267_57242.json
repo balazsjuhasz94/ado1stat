@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19241267",
+  "scraped_at": "2026-09-22T22:15:49.488896",
+  "organization_id": "57242",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kápolnáért Kulturális és Sportegyesület",
+      "rövid_név": "KKSE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9671 Sitke, József Attila utca 1.",
+      "x_koordináta": "47.237541",
+      "y_koordináta": "17.018285",
+      "adószám": "19241267-2-18",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1988-07-01",
+      "statisztikai_számjel": "19241267-9020-529-18"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "A társadalmi szervezet célja a kissitkei kálvária kápolna felújítása. A felújításhoz, majd a működéshez szükséges anyagi feltételek folyamatos biztosítása, rendszeres sportolás és testgyakorlás útján az egészsége és harmonikus fejlődés segítése, gondoskodás az egyesület tagjainak rendszeres testedzéséről és sportolásáról, az oktatási intézmények szabadidős sporttevékenysége feltételeinek biztosítása. Az egyesület céljainak megvalósítása érdekében együttműködik állami, társadalmi és egyházi szervezetekkel az önkormányzattal és intézményeivel, valamint civil szervezetekkel .",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "18-02-0000264",
+      "régi_nyilvántartási_száma": "264/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-19",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-12-08"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kovács",
+        "Képviselő keresztneve": "Ferenc",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-04",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pénzes",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-11-04",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

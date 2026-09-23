@@ -1,0 +1,82 @@
+{
+  "search_adoszam": "19301969",
+  "scraped_at": "2026-09-22T22:17:58.773086",
+  "organization_id": "366131",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tolnai-Turán Hagyományőrző Köböre és Sportegyesület",
+      "rövid_név": "TTHKS",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7100 Szekszárd, - hrsz. 9798",
+      "adószám": "19301969-1-17",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-04-30",
+      "statisztikai_számjel": "19301969-9312-521-17",
+      "x_koordináta": "46.3468945",
+      "y_koordináta": "18.7051347"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "A sportegyesület alapcélja a tagjai, valamint a küzdősportok és harcművészetek iránt érdeklődók számára biztosítani a szabadidő kulturált eltöltését, kikapcsolódást, felüdülést, a kulturális és sportolási igényeik kielégítését. A sportegyesület további célja a hagyományőrző sportok művelése, fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "17-02-0002249",
+      "régi_nyilvántartási_száma": "2249/2021",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-10-28",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Füleki",
+        "Képviselő keresztneve": "Norbert",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-28",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bagó",
+        "Képviselő keresztneve": "Krisztofer",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-10-28",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "113 696 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 183 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

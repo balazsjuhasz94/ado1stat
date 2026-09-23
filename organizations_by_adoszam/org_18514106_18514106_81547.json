@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18514106",
+  "scraped_at": "2026-09-22T21:54:01.988334",
+  "organization_id": "81547",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Örömfelhő Buddhista Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2014 Csobánka, Táncsics Mihály utca 13.",
+      "x_koordináta": "47.59607",
+      "y_koordináta": "19.0549895",
+      "adószám": "18514106-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2013-11-05",
+      "statisztikai_számjel": "18514106-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális tevékenység",
+      "céljának_leírása": "-A Buddhizmus teljes tanításának hiteles megőrzése, rendszeres gyakorlása és hozzáférhetővé tétele érdeklődők számára - különösképp a tibeti Kagyüpa hagyományban gyakorolt módokon. -A Buddhizmus átfogó támogatása -Széleskörű karitatív tevékenység, együttműködve más hasonló tevékenységet végző egyházakkal, intézményekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015202",
+      "régi_nyilvántartási_száma": "15202/2013",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Simon",
+        "Képviselő keresztneve": "Dániel",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-11-11",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Sike",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-17",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Fábián",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "Ferenc",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2027-11-11",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

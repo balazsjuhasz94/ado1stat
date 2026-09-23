@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "18651388",
+  "scraped_at": "2026-09-22T21:59:16.382995",
+  "organization_id": "121714",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Katasztrófavédelem Kutató - Mentőcsoport Önkéntes Tűzoltó Egyesület Balástya",
+      "rövid_név": "KKMÖTE Balástya",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6764 Balástya, Arany János utca 1.",
+      "x_koordináta": "46.422381",
+      "y_koordináta": "20.005441",
+      "adószám": "18651388-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-05-14",
+      "statisztikai_számjel": "18651388-8425-529-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Polgári védelmi, tűzoltási tevékenység (pl. tűzoltószervezetek, katasztrófa-elhárítás)",
+      "céljának_leírása": "A közrend, közbiztonság, közlekedés illetve az ipari és természeti értékek védelme, Balástya község területén, illetve vonzáskörzetében végzett tűzmegelőzés, önkéntes tűzoltás, műszaki mentés, speciális mentés, illetve katasztrófa elhárítási feladatok ellátása. Az Egyesülethez csatlakozók célja, hogy speciális felkészültségük és ismereteik felhasználásával a közösség számára hasznos tevékenységet folytassanak a katasztrófavédelem területén, így különösen tűz megelőzés, önkéntes tűzoltás, műszaki mentés, speciális mentés és polgári védelem területén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003109",
+      "régi_nyilvántartási_száma": "3109/2015",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-06-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-12-18",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szemerédi",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-12-18",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8425",
+        "Leírás": "Tűzvédelem"
+      },
+      {
+        "Kód": "8424",
+        "Leírás": "Közbiztonság, közrend"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "12 852 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

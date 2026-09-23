@@ -1,0 +1,104 @@
+{
+  "search_adoszam": "18196360",
+  "scraped_at": "2026-09-22T21:44:08.102102",
+  "organization_id": "55159",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Magyar Színházért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1077 Budapest, Hevesi Sándor tér 4. Pesti Magyar Színház",
+      "x_koordináta": "47.5035755",
+      "y_koordináta": "19.0726579",
+      "adószám": "18196360-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2008-04-29",
+      "statisztikai_számjel": "18196360-9039-569-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "A Magyar Színház - Ifjúsági- és Családi Színház társulatához tartozó, nehéz anyagi, szociális helyzetbe kerülő, volt és jelen művészeinek támogatása. A Magyar Színház- Ifjúsági- és Családi Színház megújulásához vezető támogatói rendszer(mecenatúra) kialakítása, koordinálása, pályázati lehetőségek felkutatása, és pályázati, valamint támogatói források rendelkezésre állása esetén a színház megújulásának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0010515",
+      "régi_nyilvántartási_száma": "10515/2007",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2016-06-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-03-09",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Zoltán",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "5 117 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 282 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 143 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "32 415 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PRO SOLIDARITAS 2007 Alapítvány"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PRO SOLIDARITAS 2007 Alapítvány"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PRO SOLIDARITAS 2007, A MAGYAR SZÍNHÁZ MŰVÉSZEIÉRT ALAPÍTVÁNY"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PRO SOLIDARITAS 2007 Alapítvány"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PRO SOLIDARITAS 2007 Alapítvány"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "PRO SOLIDARITAS 2007 Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

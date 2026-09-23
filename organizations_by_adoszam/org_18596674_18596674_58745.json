@@ -1,0 +1,118 @@
+{
+  "search_adoszam": "18596674",
+  "scraped_at": "2026-09-22T21:56:55.213118",
+  "organization_id": "58745",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Emberi Méltóság Központ",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2045 Törökbálint, Szent István utca 29.",
+      "x_koordináta": "47.6377008",
+      "y_koordináta": "18.3124491",
+      "adószám": "18596674-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-05-29",
+      "statisztikai_számjel": "18596674-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Jogvédő tevékenység",
+      "céljának_leírása": "Az Emberi Méltóság Központ célja, hogy elősegítse az ember életének védelmét a fogantatástól kezdve egészen a természetes halálig, kiálljon minden ember méltóság, alapvető emberi jogai mellett, megerősítse a nőt és a férfit természetes identitásában, bemutassa a házasságban rejlő erőforrásokat, felmutassa az egy nő és az egy férfi házasságán alapuló családnak, mint a társadalom alapsejtjének értékét, segítse a nőt az anyaság, a férfit az apaság hivatásának felvállalásában és megélésében.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0015344",
+      "régi_nyilvántartási_száma": "15344/2013",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-02-18",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-12-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-17"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Eberlein",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5913",
+        "Leírás": "Film-, video- és televízióprogram terjesztése"
+      },
+      {
+        "Kód": "5914",
+        "Leírás": "Filmvetítés"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "48 564 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "218 342 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "81",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "534 010 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "55",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "173 888 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "374 984 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "112 289 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "5",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "95 026 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberi Méltóság Központ"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberi Méltóság Központ"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberi Méltóság Központ"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Emberi Méltóság Központ"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

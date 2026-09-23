@@ -1,0 +1,93 @@
+{
+  "search_adoszam": "18677038",
+  "scraped_at": "2026-09-22T22:00:01.380580",
+  "organization_id": "103804",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "LEÁNYFALU VÖRÖSKŐ ÖNKÉNTES TŰZOLTÓ EGYESÜLET",
+      "rövid_név": "LEÁNYFALU ÖTE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2016 Leányfalu, Petőfi sétány 4.",
+      "x_koordináta": "47.719738",
+      "y_koordináta": "19.0868453",
+      "adószám": "18677038-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2025-09-22",
+      "statisztikai_számjel": "18677038-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység",
+      "céljának_leírása": "A magyar tűzoltási kutúra társadalmi gyökereinek, tárgyi és kulturális emlékeinek, társadalomszervező hatásainak Magyarországon belüli, illetve külhonbéli kutatása, a helyi-, a regionális-, és az országok közötti társadalmi erőforrások feltárása, a kapcsolódó gazdasági, társadalmi és civil szerveződések együttműködésének fejlesztése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0002189",
+      "régi_nyilvántartási_száma": "2189/1997",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-02-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "21",
+      "a_verzió_bejegyzésének_dátuma": "2026-05-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Hámori",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-03-17",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "35",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "269 568 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "357 839 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "50",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "472 236 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "943 052 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "88",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "1 166 119 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vöröskő Önkéntes Tűzoltó, Műszaki-mentő, és Vízimentő Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vöröskő Önkéntes Tűzoltó, Műszaki-mentő, és Vízimentő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

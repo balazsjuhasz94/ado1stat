@@ -1,0 +1,92 @@
+{
+  "search_adoszam": "18739055",
+  "scraped_at": "2026-09-22T22:02:34.898153",
+  "organization_id": "88088",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Jávorkásokért Egyesület",
+      "rövid_név": "Jávorkásokért Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2890 Tata, Új út 19.",
+      "x_koordináta": "47.648726",
+      "y_koordináta": "18.308864",
+      "adószám": "18739055-1-11",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-09-25",
+      "statisztikai_számjel": "18739055-9499-529-11"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Támogatni a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakképző Iskola és Kollégium azon diákjait, aki: - tanulmányi átlaga az előző tanévben legalább a 4,5-öt elérik, - szociálisan rászorulnak és tanulmányi átlaguk az előző tanévben legalább a 3,5-öt elérik. Támogatni a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakképző Iskola és Kollégium azon oktatóit és nevelőit, akik az egyesület elnökségének megítélése szerint tevékenységükkel kiemelkedő módon vesznek részt a diákok képzésében, versenyekre történő felkészítésében, kiemelkedő részt vállalnak a diákok nevelésében, mindent megtesznek annak érdekében, hogy az iskola és kollégium hírnevét öregbítsék. Támogatni olyan eseményeket, rendezvényeket, valamint azokon történő részvételeket, amelyek az intézményben tanuló diákok, dolgozók szakmai előmenetelét segíti, így a teljesség igénye nélkül: továbbképzések, kiállítások, bemutatók, kulturális- és sportrendezvények, nyelvtanulás, cserediák lehetőségek, külföldi kapcsolatok.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "11-02-0001990",
+      "régi_nyilvántartási_száma": "1990/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Baloghné Jenei",
+        "Képviselő keresztneve": "Krisztina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-06-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "26",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "186 450 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "202 476 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "53",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "419 744 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "25",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "205 075 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "229 641 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jávorkásokért Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Jávorkásokért Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,119 @@
+{
+  "search_adoszam": "19389749",
+  "scraped_at": "2026-09-22T22:25:58.685506",
+  "organization_id": "371653",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szent Anna Alapítvány a Fiatalokért",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1181 Budapest, Kossuth Lajos utca 94/a.",
+      "adószám": "19389749-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2024-03-27",
+      "statisztikai_számjel": "19389749-8531-569-01",
+      "x_koordináta": "47.4395916",
+      "y_koordináta": "19.170992"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az Alapítvány célja, hogy a Szent Anna Görögkatolikus Gimnázium és Technikum (a továbbiakban: „Iskola”) nevelési-oktatási, egészségfejlesztési és szakmai képzési tevékenységeinek támogatása önállóan, valamint más jogi és magánszemélyekkel együttműködésben, valamint ennek érdekében adománygyűjtés. Az Alapítvány ennek keretében mind e tevékenységek nyújtásában résztvevő, mind az azokból részesülő személyeket támogathatja bármilyen formában. A támogatás juttatásának nem feltétele, hogy a kedvezményezett az Iskolával tanulói, oktatói vagy más jogviszonyban álljon.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013576",
+      "régi_nyilvántartási_száma": "13576/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-08-28",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-26",
+      "bankszámlaszám": "16200223-10183735-00000000",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Marcsinák",
+        "Képviselő keresztneve": "Judit",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Pocsai-Kolláth",
+        "Képviselő keresztneve": "Mária",
+        "Képviselő titulusa": "Magdolna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Vénusz",
+        "Képviselő keresztneve": "Edina",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "Máté",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szilágyi",
+        "Képviselő keresztneve": "Szabolcs",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8531",
+        "Leírás": "Általános középfokú oktatás"
+      },
+      {
+        "Kód": "7912",
+        "Leírás": "Utazásszervezés"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

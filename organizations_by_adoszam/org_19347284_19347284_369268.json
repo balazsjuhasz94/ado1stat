@@ -1,0 +1,78 @@
+{
+  "search_adoszam": "19347284",
+  "scraped_at": "2026-09-22T22:20:44.327084",
+  "organization_id": "369268",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Biztonságos szülés. A szülészet nőgyógyászat fejlesztéséért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6400 Kiskunhalas, Szász Károly utca 2. fszt./2.",
+      "adószám": "19347284-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-10-20",
+      "statisztikai_számjel": "19347284-8610-569-03",
+      "x_koordináta": "46.4316764",
+      "y_koordináta": "19.4666469"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Az alapítvány célja a Kiskunhalasi Semmelweis Kórház Szülészeti és Nőgyógyászati Osztályának fejlesztése, melyben benne foglaltatik az ellátásban használt eszközök beszerzése, és felújítása, a szülészeti-, és nőgyógyászati vizsgálóhelységek, valamint a közösségi helységek felújítása, az ellátásban résztvevők szakmai fejlődésének elősegítése ösztöndíjjal támogatott tanfolyamok, és szakmai továbbképzések útján.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002677",
+      "régi_nyilvántartási_száma": "2677/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-01-21",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-11-10",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2026-01-21"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Badó",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "János",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8622",
+        "Leírás": "Szakorvosi járóbeteg-ellátás"
+      },
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

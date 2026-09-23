@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18593736",
+  "scraped_at": "2026-09-22T21:56:41.719677",
+  "organization_id": "61998",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Veterántraktor Kulturális és Hagyományőrző Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4220 Hajdúböszörmény, Zsembery major 0174/37.",
+      "x_koordináta": "47.6703933",
+      "y_koordináta": "21.5040578",
+      "adószám": "18593736-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2014-04-16",
+      "statisztikai_számjel": "18593736-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb",
+      "céljának_leírása": "A veterán traktorozás hagyományainak ápolása. Veterán Traktor Kulturális és Hagyományőrző múzeum létrehozása, idegenforgalmi hasznosításának előkészítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0004425",
+      "régi_nyilvántartási_száma": "4425/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-10-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "13",
+      "a_verzió_bejegyzésének_dátuma": "2025-11-07"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Botos",
+        "Képviselő keresztneve": "Antal",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2027-04-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Molnár",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-04-10",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Balogh",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2027-04-10",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

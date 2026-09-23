@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18353626",
+  "scraped_at": "2026-09-22T21:48:20.449061",
+  "organization_id": "60750",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Utánpótlás Futball Club",
+      "rövid_név": "U.F.C.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6000 Kecskemét, Ferenczi Ida utca 11/ a",
+      "x_koordináta": "46.9182341",
+      "y_koordináta": "19.6694811",
+      "adószám": "18353626-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1998-02-06",
+      "statisztikai_számjel": "18353626-9319-521-03"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az egyesület célja az utánpótlás korosztály-képzésének és versenyeztetésének biztosítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-02-0001158",
+      "régi_nyilvántartási_száma": "1158/1995",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-10-07",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-10"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Torbavecz",
+        "Képviselő keresztneve": "József",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2026-10-07",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "218 553 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "288 648 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

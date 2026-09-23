@@ -1,0 +1,91 @@
+{
+  "search_adoszam": "19323402",
+  "scraped_at": "2026-09-22T22:19:09.948321",
+  "organization_id": "367960",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Teljes élet Down-szindrómával Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6500 Baja, Budai Nagy Antal utca 78.",
+      "adószám": "19323402-1-03",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-02-09",
+      "statisztikai_számjel": "19323402-9499-569-03",
+      "x_koordináta": "46.1858175",
+      "y_koordináta": "18.9619988"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A Down-szindrómával élő emberek önállóbb életvitelének elősegítése. b./ A Down-szindrómás gyermekeket nevelő szülők támogatása, a kezdetben kilátástalannak tűnő helyzeten való átsegítése. c./ A Down-szindrómával érintett családok támogatása, összefogása, tapasztalataik cseréjének és boldogulásuk elősegítése. d./ A Down-szindrómával érintett gyermekek életének könnyebbé és vidámabbá tétele fejlesztéssel, szórakoztató tevékenységek és élmények biztosításával. e./ A Down-szindrómával érintett emberek minél önálóbb életvitelének megalapozása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "03-01-0002658",
+      "régi_nyilvántartási_száma": "2658/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-09-01"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rózsahegyi",
+        "Képviselő keresztneve": "Zsoltné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-20",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ercsényiné Prikidánovics",
+        "Képviselő keresztneve": "Anikó",
+        "Képviselő titulusa": "Lujza",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-07-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8710",
+        "Leírás": "Bentlakásos, nem kórházi ápolás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8810",
+        "Leírás": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

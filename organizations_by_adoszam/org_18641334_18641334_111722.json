@@ -1,0 +1,168 @@
+{
+  "search_adoszam": "18641334",
+  "scraped_at": "2026-09-22T21:58:34.719700",
+  "organization_id": "111722",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete",
+      "rövid_név": "VGYNME",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3100 Salgótarján, Bartók Béla út 10.",
+      "x_koordináta": "48.1023974",
+      "y_koordináta": "19.8030963",
+      "adószám": "18641334-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2005-04-18",
+      "statisztikai_számjel": "18641334-9499-529-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység",
+      "céljának_leírása": "Az egyesület célja: a) valamennyi emberi jog és alapvető szabadság teljes és egyenlő gyakorlásának elősegítése, védelme és biztosítása minden vak, aliglátó és gyengénlátó (a továbbiakban: látássérült) személy számára, és velük született méltóság tiszteletben tartásának előmozdítása; b) a látássérült személyekre vonatkozó jogszabályok végrehajtásának megyei szintű elősegítése, az Egyesület tagjainak társadalmi összefogása, érdekvédelmük ellátása, habilitációjuk és rehabilitációjuk előmozdítása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "12-02-0001349",
+      "régi_nyilvántartási_száma": "1349/2004",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-07-04",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2016-10-14",
+      "alkalmazottak_száma": "5",
+      "a_nyilvántartott_adatok_verziószáma": "19",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Földi",
+        "Képviselő keresztneve": "Gyula",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-04-25",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "152 109 Ft"
+      },
+      {
+        "Év": "2015",
+        "Érvényesen rendelkező magánszemélyek száma": "51",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "163 083 Ft"
+      },
+      {
+        "Év": "2016",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "111 504 Ft"
+      },
+      {
+        "Év": "2017",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "115 969 Ft"
+      },
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "159 908 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "75 432 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "177 177 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "34",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "180 401 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "144 172 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "257 932 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "38",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "310 519 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "240 539 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2014",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2015",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2016",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülte"
+      },
+      {
+        "ÉV": "2017",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengémlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2018",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2019",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Vakok és Gyengénlátók Nógrád Megyei Egyesülete"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

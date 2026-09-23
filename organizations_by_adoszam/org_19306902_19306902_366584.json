@@ -1,0 +1,63 @@
+{
+  "search_adoszam": "19306902",
+  "scraped_at": "2026-09-22T22:18:10.490163",
+  "organization_id": "366584",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Megoldás a Biztonságra Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7761 Kozármisleny, Viola utca 11/2.",
+      "adószám": "19306902-1-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-07-01",
+      "statisztikai_számjel": "19306902-9499-569-02",
+      "x_koordináta": "46.0478232",
+      "y_koordináta": "18.2857045"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "A társadalmunkban előforduló hátrányos helyzetű, kirekesztett, különösen a szegénységgel küzdő és/vagy függőségekben szenvedő gyermekek, fiatalok, fiatal felnőttek és családok helyzetének javítása, társadalmi beilleszkedésének segítése, mentálhigiénés állapotának javítása, részükre karitatív szolgáltatás biztosítása. Célunk továbbá egy környezettudatosabb, fenntarthatóbb, szolidárisabb és befogadóbb társadalom létrehozása. Alapítványunk szociális tevékenységét a hátrányos helyzetű, fogyatékkal élő, tört és csonka családok, mélyszegénységben élők, hajléktalanok, árvák, tartós munkanélküliek és a roma származású emberek közt is végzi.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-01-0001931",
+      "régi_nyilvántartási_száma": "1931/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2021-06-12",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "5",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-12"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vidák",
+        "Képviselő keresztneve": "Gábor",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "14",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "148 967 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

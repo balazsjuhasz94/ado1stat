@@ -1,0 +1,28 @@
+{
+  "search_adoszam": "18063026",
+  "scraped_at": "2026-09-22T21:41:07.804333",
+  "organization_id": null,
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Magyar Jogász Egylet Fővárosi Szervezete",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1054 BUDAPEST SZEMERE UTCA 8.",
+      "adószám": "18063026",
+      "x_koordináta": "47.504558",
+      "y_koordináta": "19.0494039"
+    },
+    "fonadatok": {
+      "céljának_leírása": ""
+    }
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2026",
+        "Érvényesen rendelkező magánszemélyek száma": "18",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "327 343 Ft"
+      }
+    ]
+  },
+  "error": null
+}

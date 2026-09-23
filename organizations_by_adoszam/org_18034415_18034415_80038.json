@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18034415",
+  "scraped_at": "2026-09-22T21:40:32.404477",
+  "organization_id": "80038",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "City Squash Club SE.",
+      "rövid_név": "CSC SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1022 Budapest, Marcibányi tér 13.",
+      "x_koordináta": "47.512218",
+      "y_koordináta": "19.0223143",
+      "adószám": "18034415-2-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1992-06-22",
+      "statisztikai_számjel": "18034415-9312-521-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "- a tagság megszervezése a squash, az asztalitenisz és egyéb sportág művelésére és a Magyar Fallabda (Squash) Szövetséggel és a Magyar Országos Asztalitenisz szövetséggel való együttműködésre; - a squash, az asztalitenisz és egyéb verseny és tömegsport űzésének megteremtése és népszerűsítése a tagok számára más hazai, hasonló célú egyesületekkel együttműködve; - változatos squash-, asztalitenisz és egyéb sportprogramok szervezésével hozzájárulás a fiatalok egészséges mozgásban gazdag életmódjához; - a rendszeres, jó hangulatú squasholás, asztaliteniszezés és egyéb sport kikapcsolódás lehetőségének biztosítása, ezzel baráti társaságok egészséges életmódra való törekvésének elősegítése; - a magyarországi squash és asztalitenisz sportág színvonalának emelése és felzárkóztatása az európai squash és asztalitenisz elithez. A magyar squash és asztalitenisz utánpótlás úttörő módon történő fejlesztése, amely mind az egyéni képzésben, mind a strukturális fejlesztésben egyaránt megvalósul, oly módon, hogy kiemelt támogatást nyújt a sportágban már bizonyított utánpótláskorú játékosoknak.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0004765",
+      "régi_nyilvántartási_száma": "4765/1992",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-02-12",
+      "a_nyilvántartott_adatok_verziószáma": "20",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Böhm",
+        "Képviselő keresztneve": "Gabriella",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-04-20",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2018",
+        "Érvényesen rendelkező magánszemélyek száma": "8",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2019",
+        "Érvényesen rendelkező magánszemélyek száma": "6",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "2",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "70 338 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "0 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "188 197 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "368 352 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "173 153 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CITY SQUASH CLUB SE"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "CITY SQUASH CLUB SE"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

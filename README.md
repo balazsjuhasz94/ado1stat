@@ -6,9 +6,9 @@ Interactive dashboard analyzing Hungary's personal income tax 1% donation system
 
 ## What is this?
 
-In Hungary, every taxpayer can donate 1% of their personal income tax to a registered civil organization. In 2025, **1.83 million people** donated a total of **20.3 billion HUF** (~50 million EUR) to over 37,000 organizations.
+In Hungary, every taxpayer can donate 1% of their personal income tax to a registered civil organization. In 2026, **1.80 million people** donated a total of **21.4 billion HUF** (~53 million EUR) to over 31,000 organizations.
 
-This project visualizes the top 10,000 recipient organizations (covering 88% of all donations) through interactive charts:
+This project visualizes the top 10,000 recipient organizations (covering 89% of all donations) through interactive charts:
 
 - **Map** - Geographic distribution of organizations across Hungary
 - **Sunburst chart** - Hierarchical category breakdown (click to drill down)

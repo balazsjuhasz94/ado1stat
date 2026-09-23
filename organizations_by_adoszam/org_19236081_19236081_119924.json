@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19236081",
+  "scraped_at": "2026-09-22T22:15:35.469003",
+  "organization_id": "119924",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Önvédelem, Álló- és Földharc Sport Klub",
+      "rövid_név": "Önvédelem SK",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "6726 Szeged, Fő fasor 182.",
+      "x_koordináta": "46.2390425",
+      "y_koordináta": "20.1897569",
+      "adószám": "19236081-1-06",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-02-19",
+      "statisztikai_számjel": "19236081-9312-521-06"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Önvédelmi és küzdő sportok (amatőr) – szabadidősport tevékenység biztosítása. Egyéb, szabadidősport tevékenység szervezése és bonyolítása. A sport, különösen az önvédelmi sportok népszerűsítése. Szabadidősport keretében versenyek szervezése, bonyolítása. Közösségformálás, személyiségfejlesztés. Egészség megőrzés, egészséges életmódra nevelés. Testi vagy szellemi fogyatékkal élők, hátrányos testi szellemi vagy szociális helyzetűek egészségesebb életmódra nevelése, a sporton keresztül testi, mentális helyzetük javítása. Határon túli magyarság, a fiatal korúak hazai sportkapcsolatainak segítése, önvédelmi képzése, testi szellemi fejlődésének elősegítése. Iskolai, óvodai önvédelmi oktatásban való részvétel, képzés, tanácsadás. Technikailag jól képzett sportolók- és az utánpótlás nevelése. Az amatőr önvédelmi és küzdő sportok középiskolai és felsőoktatási testnevelésként történő elfogadtatása. Csapatépítés, közösségi szellem kialakítása. Az Egyesület céljának megvalósítása érdekében tapasztalataik átadása előadásokat, szakmai továbbképzéseket szervez. A hazai és a nemzetközi sportkapcsolatok fejlesztésében való részvétel. Kapcsolatokat alakít ki és ápol más sportegyesületekkel, szervezetekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "06-02-0003438",
+      "régi_nyilvántartási_száma": "3438/2019",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-05-30",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-06"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Czeglédy",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-07-12",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szili-Török",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "2030-07-12",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "10",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "143 136 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "181 157 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "209 910 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

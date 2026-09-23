@@ -1,0 +1,58 @@
+{
+  "search_adoszam": "19360618",
+  "scraped_at": "2026-09-22T22:22:38.555144",
+  "organization_id": "370437",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Noémi Jövője, a mozgássérült gyermekekért Alapítvány",
+      "rövid_név": "Noémi Jövője Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7400 Kaposvár, Nyár utca 134 /B.",
+      "adószám": "19360618-1-14",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-05-18",
+      "statisztikai_számjel": "19360618-9499-569-14",
+      "x_koordináta": "46.3629988",
+      "y_koordináta": "17.8129799"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Szociális tevékenység (pl. családvédelem, egészségkárosultak támogatása, idősek támogatása, ellátása, önsegélyezés, rászorultak támogatása, humanitárius szervezetek)",
+      "céljának_leírása": "Az alapítvány fő célja elsődlegesen a koraszülött, születéskori agykárosodást szenvedett, Cerebral Paresis következtében Tetraplegia Spastica-val elő, mozgássérült Hegedüs Noémi (született Kaposvár, 2017. július 20., anyja neve: Horváth Szabina) kedvezményezett fejlesztése, ápolása, gondozása, tartása, szállítása, életkörülményeinek, életminőségének javítása, egészségügyi és rehabilitációs költségeinek viselése, iskolai tanulmányainak ösztöndíjjal való támogatása. Másodsorban - az erre szolgáló további anyagi erőforrások rendelkezésre állása esetén - a Magyarországon mozgáskorlátozottsággal élő gyermekek OEP által nem finanszírozott külföldi gyógykezeléshez segítségnyújtás, rehabilitációs lehetőségeinek elősegítése, életkörülményeinek javítása, önállóságának támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "14-01-0003479",
+      "régi_nyilvántartási_száma": "3479/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-04-27",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Szőkéné Hegedüs",
+        "Képviselő keresztneve": "Andrea",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

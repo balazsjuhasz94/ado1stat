@@ -1,0 +1,66 @@
+{
+  "search_adoszam": "19362524",
+  "scraped_at": "2026-09-22T22:23:03.805481",
+  "organization_id": "370620",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "„Kezedet Fogom” Mihályi Nyugdíjas Klub Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9342 Mihályi, Hunyadi utca 3.",
+      "adószám": "19362524-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-06-23",
+      "statisztikai_számjel": "19362524-9499-529-08",
+      "x_koordináta": "47.5117965",
+      "y_koordináta": "17.1020525"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "- Mihályi községben élő idős, nyugdíjas lakosság összefogása, informálása. segítése, részükre történő programok szervezése. - Célja, hogy a helyi idős, szenior korosztály számára biztosítani tudja a hagyományok ápolását, a kulturális és szabadidős tevékenységeket, a korosztály közösségformáló programjainak, eseményeinek, alkalmainak megszervezését, lebonyolítását, támogatását. - A helyi nyugdíjasok összetartozás tudatának erősítése, kulturális, szabadidős, művészeti és tudatos egészség megőrzési és fejlesztési tevékenységek kapcsán.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0063405",
+      "régi_nyilvántartási_száma": "63405/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-05-01",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Huszár",
+        "Képviselő keresztneve": "Katalin",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-01",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Ódor",
+        "Képviselő keresztneve": "Sándorné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-05-01",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

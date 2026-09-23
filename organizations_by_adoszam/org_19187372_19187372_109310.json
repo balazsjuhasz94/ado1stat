@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19187372",
+  "scraped_at": "2026-09-22T22:14:26.229419",
+  "organization_id": "109310",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tudás Horizontja Alapítvány",
+      "rövid_név": "Földlakók Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2051 Biatorbágy, Sasbérc út 1/B 10",
+      "x_koordináta": "47.5617898",
+      "y_koordináta": "18.811819",
+      "adószám": "19187372-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-10-02",
+      "statisztikai_számjel": "19187372-8559-569-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Tanulóközösségek létrehozása, működtetése, támogatása, megismertetése, népszerűsítése; Programok és továbbképzések szervezése és lebonyolítása felnőttek és gyermekek számára; Egészség- és környezettudatos életmód, valamint az állatvédelem széleskörű megismertetése; Magyar és külföldi tanulóközösségekkel történő kapcsolattartás, együttműködés.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004048",
+      "régi_nyilvántartási_száma": "4048/2019",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-04-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-20"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Péterfi",
+        "Képviselő keresztneve": "Zsolt",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "49",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "662 783 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "196 784 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

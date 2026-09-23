@@ -1,0 +1,67 @@
+{
+  "search_adoszam": "19367000",
+  "scraped_at": "2026-09-22T22:23:57.246936",
+  "organization_id": "370970",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Balatoni KaPoCS Egyesület",
+      "rövid_név": "CSPK Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8229 Csopak, Sóstódombi utca 13.",
+      "adószám": "19367000-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-09-12",
+      "statisztikai_számjel": "19367000-9499-529-19",
+      "x_koordináta": "46.9796854",
+      "y_koordináta": "17.9231412"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az Egyesület céljai összhangban Magyarország Alaptörvényével, kiemelten annak a XX. cikkében megjelentetett az egyén testi és lelki egészséghez való jogával, mely jogi érvényesülését az Alaptörvény a környezet védelmének biztosításával segíti elő, a következők: a) Csopak község művi, természeti, hangulati és anyagi értékeinek védelme, a község fejlődésének elősegítése, az állandó és üdülő lakók közösségi összefogása. b) Csopak község településszerkezeti, műemléki, tájképi, tájvédelmi, település-fejlesztési, vízügyi, környezetvédelmi, és természeti értékeinek megóvása, az épített emberi környezet védelmének és színvonalas fejlesztésének elősegítése, beleértve, de nem kizárólag Csopak község következő településképi egységein érintett ingatlanok tulajdonosi közérdekeinek a képviseletét: Csopak Szőlőhegy és Kiskertek; Csopak Történelmi Falu; Csopak Üdülőövezet. c) Csopak település múltjának, jelenének, jövőjének, sorsának figyelemmel kísérése, segítségnyújtás a környezeti, gazdasági és társadalmi fejlődésének és fenntarthatóságnak megfelelő fejlesztési megoldások előmozdítása érdekében. d) Csopak településfejlesztő erőinek az összefogása a településkép szépítése, a lakosság életkörülményeinek fejlesztése, a szabadidő kulturáltabb kihasználása érdekében. e) Csopakon lokálpatrióta közösségfejlesztés, közösségszervezés. f) Széles körű helyi összefogásra ösztönzés, közösségépítés. g) Természet- és környezetvédelem Csopak teljes közigazgatási területén.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0004112",
+      "régi_nyilvántartási_száma": "4112/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-01-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vargáné Óvári",
+        "Képviselő keresztneve": "Bernadett",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-01-08",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Weöres",
+        "Képviselő keresztneve": "Botond",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "K_EGYEB",
+        "Képviselő megbízás időtartama": "2031-01-08",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

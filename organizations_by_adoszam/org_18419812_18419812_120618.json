@@ -1,0 +1,100 @@
+{
+  "search_adoszam": "18419812",
+  "scraped_at": "2026-09-22T21:50:29.367657",
+  "organization_id": "120618",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Mályi Sport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3434 Mályi, Fő utca 93.",
+      "x_koordináta": "48.0111869",
+      "y_koordináta": "20.8255254",
+      "adószám": "18419812-2-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1996-01-22",
+      "statisztikai_számjel": "18419812-9312-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "- megteremtse és a lehetőségekhez képest folyamatosan biztosítsa a versenyszerű sport művelésének feltételeit - biztosítani különböző korosztályú csapatainak a szakszövetségek által kiírt és szervezett bajnokságokban való indulás lehetőségét.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0002043",
+      "régi_nyilvántartási_száma": "2043/1996",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-03-20",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-30"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Ronyecz",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-03-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "67",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "233 878 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "39",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "254 222 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "197 340 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 566 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "33",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "271 445 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "248 431 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mályi Sport Egyesület"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mályi Sport Egyesület"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mályi Sport Egyesült"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

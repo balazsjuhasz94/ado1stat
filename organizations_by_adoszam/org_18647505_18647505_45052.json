@@ -1,0 +1,87 @@
+{
+  "search_adoszam": "18647505",
+  "scraped_at": "2026-09-22T21:59:01.328117",
+  "organization_id": "45052",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Harangzugi Horgász és Turisztikai Horgászegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5440 Kunszentmárton, Mátyás király utca 28.",
+      "x_koordináta": "46.8372859",
+      "y_koordináta": "20.2847968",
+      "adószám": "18647505-1-16",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-05-22",
+      "statisztikai_számjel": "18647505-9499-529-16"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "a horgászsport és a horgászturizmus fejlesztése, népszerűsítése a térség bemutatásával kapcsolatos kiadványok megjelentetésével és terjesztésével, tagjai részére kedvező horgászati lehetőségek biztosítása,a horgászoknak a társadalmi együttélés és a horgászerkölcs szabályainak tiszteletben tartása, a természet szeretetére és védelmére való nevelése, a víz és a halak védelme, természetes ívóhelyek kialakítása és védelme, a harangzugi Holt-Körös horgászati és kezelői jogának megszerzése és fenntartása a horgászturizmus fejlesztése mellett, a Harangzug és élő környezetének folyamatos karbantartásának biztosítása, a harangzugi Holt-Körös vízminőségének javításának elősegítése annak érdekében, hogy a sporthorgászok kulturált szabadidő eltöltése biztosított legyen.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "16-02-0002583",
+      "régi_nyilvántartási_száma": "2583/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-06-17",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "10",
+      "a_verzió_bejegyzésének_dátuma": "2025-10-16"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Katona",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-08-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-08-22",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Varga",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "K_BANKSZAMLA",
+        "Képviselő megbízás időtartama": "2030-08-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "113 475 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "27",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "285 401 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "19366023",
+  "scraped_at": "2026-09-22T22:23:39.622537",
+  "organization_id": "370893",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Szülői Hang Alapítvány",
+      "rövid_név": "Szülői Hang",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2097 Pilisborosjenő, Apor Vilmos utca 10.",
+      "adószám": "19366023-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-08-30",
+      "statisztikai_számjel": "19366023-9499-569-13",
+      "x_koordináta": "47.6082483",
+      "y_koordináta": "18.9821715"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A szülői érdekek védelme különös tekintettel a közoktatásra. A gyermekek jogait és érdekeit veszélyeztető problémák képviselete a kormányzat, a közvélemény és más érintett szervezetek felé. A pedagógusok és a szülők közötti együttműködés erősítése. Annak elősegítése, hogy országunk tiszteletben tartsa az ENSZ gyermekjogi egyezményében foglaltakat, és társadalmunk az EU Alapjogi Chartájának szellemében működjön. A demokrácia, az állampolgári tudatosság és felelősségvállalás, a demokratikus oktatás és nevelés erősítése. Az alternatívák tudatosítása az oktatásban és gyermeknevelésben. A szülők és a társadalom tájékoztatása, edukálása és támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-01-0004396",
+      "régi_nyilvántartási_száma": "4396/2023",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2025-07-29",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-21",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "8",
+      "a_verzió_bejegyzésének_dátuma": "2025-07-29",
+      "bankszámlaszám": "162001371855946800000000",
+      "számlavezető_pénzintézet_neve": "MagNet Magyar Közösségi Bank Zrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Miklós",
+        "Képviselő keresztneve": "György",
+        "Képviselő titulusa": "András",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5819",
+        "Leírás": "Egyéb kiadói tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8899",
+        "Leírás": "M.n.s. egyéb szociális ellátás bentlakás nélkül"
+      },
+      {
+        "Kód": "9412",
+        "Leírás": "Szakmai érdekképviselet"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8230",
+        "Leírás": "Konferencia, kereskedelmi bemutató szervezése"
+      },
+      {
+        "Kód": "9329",
+        "Leírás": "M.n.s. egyéb szórakoztatás, szabadidős tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

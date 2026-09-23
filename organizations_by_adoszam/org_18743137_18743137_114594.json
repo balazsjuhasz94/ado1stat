@@ -1,0 +1,114 @@
+{
+  "search_adoszam": "18743137",
+  "scraped_at": "2026-09-22T22:02:38.965395",
+  "organization_id": "114594",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Molnári Közösségfejlesztő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8863 Molnári, Zrínyi M. utca 18.",
+      "x_koordináta": "46.384191",
+      "y_koordináta": "16.831952",
+      "adószám": "18743137-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-03-01",
+      "statisztikai_számjel": "18743137-9499-529-20"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Nevelés, oktatás, képességfejlesztés, ismeretterjesztés, közösségfejlesztés. Kulturális közművelődési tevékenység végzése, falunapok, kulturális-szabadidős, sport programok szervezése, művészeti csoportok működtetése. Sporttevékenység, gyermek- és ifjúsági tevékenység végzése, közösségi tér biztosítása. Egészségmegőrzés, szociális-idősügyi tevékenység, családsegítés, adománygyűjtés, jótékonysági rendezvények szervezése. Tehetséggondozás, önkéntesség elterjesztése, nemzetiségi - horvát, német, roma - feladatok ellátása, környezetvédelem.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-02-0002811",
+      "régi_nyilvántartási_száma": "2811/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2019-11-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-04-14"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lengyel",
+        "Képviselő keresztneve": "Attiláné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-11-23",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "1820",
+        "Leírás": "Egyéb sokszorosítás"
+      },
+      {
+        "Kód": "6920",
+        "Leírás": "Számviteli, könyvvizsgálói, adószakértői tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "76 603 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "115 441 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "138 543 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "238 847 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Molnári Közösségfejlesztő Egyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

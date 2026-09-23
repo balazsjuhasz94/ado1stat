@@ -1,0 +1,84 @@
+{
+  "search_adoszam": "19250234",
+  "scraped_at": "2026-09-22T22:16:20.067981",
+  "organization_id": "301197",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "A Coaching Mindenkié Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1096 Budapest, Haller utca 60. II.lph. IV./15.",
+      "adószám": "19250234-1-43",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-06-12",
+      "statisztikai_számjel": "19250234-9499-529-01",
+      "x_koordináta": "47.4783243",
+      "y_koordináta": "19.0796201"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "A coaching szemlélet népszerűsítése különböző programokon, rendezvényeken, fórumokon, és ennek keretében a coaching módszertan használatával támogatni az embereket, szervezeteket, közösségeket. A coaching interdiszciplináris kapcsolatainak fejlesztése, nemes kezdeményezések indítása a coaching szemlélet népszerűsítése érdekében. Felhívni a figyelmet társadalmi szinten azokra a humán értékekre, amelyek a digitalizált világban is megkülönböztetik az embert a robottól.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017415",
+      "régi_nyilvántartási_száma": "17415/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2023-08-28",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2020-03-04",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-02"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Zákányi",
+        "Képviselő keresztneve": "Eszter",
+        "Képviselő titulusa": "Zsuzsanna",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-12-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "7220",
+        "Leírás": "Társadalomtudományi, humán kutatás, fejlesztés"
+      },
+      {
+        "Kód": "8412",
+        "Leírás": "Egészségügy, oktatás, kultúra, egyéb szociális szolgáltatás (kivéve: társadalombiztosítás) igazgatása"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "21",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "254 672 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "15",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "223 800 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

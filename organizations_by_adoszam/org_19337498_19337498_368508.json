@@ -1,0 +1,56 @@
+{
+  "search_adoszam": "19337498",
+  "scraped_at": "2026-09-22T22:19:45.935916",
+  "organization_id": "368508",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Kemencei Tulipános láda Hagyományőrző Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2638 Kemence, Fő út 163.",
+      "adószám": "19337498-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-05-10",
+      "statisztikai_számjel": "19337498-9499-529-13",
+      "x_koordináta": "47.9996257",
+      "y_koordináta": "18.9134799"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A kemencei hagyományok őrzése, kutatása, terjesztése. Kulturális rendezvények szervezése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0008204",
+      "régi_nyilvántartási_száma": "8204/2022",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-01-26",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Abrudánné dr. Csáki",
+        "Képviselő keresztneve": "Éva",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-01-26",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

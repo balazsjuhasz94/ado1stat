@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "19370521",
+  "scraped_at": "2026-09-22T22:24:32.370934",
+  "organization_id": "371284",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Gyerekfalva Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4502 Vasmegyer, Bem apó utca 55",
+      "adószám": "19370521-1-15",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-11-02",
+      "statisztikai_számjel": "19370521-8559-529-15",
+      "x_koordináta": "48.1173797",
+      "y_koordináta": "21.8256115"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Az ifjúság, a gyermekek - élethelyzetének javítása, - különösen a hátrányos helyzetű / nemzeti kisebbséghez, etnikumhoz, kistelepüléseken, nagycsaládban, vagy fogyatékkal élő / gyermekek és fiatalok esetében - a sport az egészséges életmód népszerűsítése - test, lelki, szellemi fejlődésének segítése - honismeretének, helyismeretének, hazaszeretetének elmélyítése, - problémamegoldó, érdekérvényesítő képességének erősítése, - egyéni és közösségi aktivitásának támogatása, önszerveződő képességének erősítés, - a továbbtanulásra, a munkavállalásra, a családi életre, természeti és társadalmi környezetének felelős állampolgári létre való felkésztés segítése. -működési területen gyermek és ifjúsági közösségek , illetve az érdekükben működőifjúságsegítő intézmények, szervezetek és szakemberek szakmai munkájának támogatása; kapcsolatainak, együttműködésének fejlesztése, elmélyítése; szakmai és anyagi támogatása",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "15-02-0004409",
+      "régi_nyilvántartási_száma": "4409/2023",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-10-02",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Daróczy",
+        "Képviselő keresztneve": "Nóra",
+        "Képviselő titulusa": "Sára",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-10-02",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

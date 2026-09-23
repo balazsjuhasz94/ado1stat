@@ -1,0 +1,107 @@
+{
+  "search_adoszam": "19354709",
+  "scraped_at": "2026-09-22T22:21:37.487059",
+  "organization_id": "369895",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Medikus Zenekar Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1085 Budapest, Üllői út 26.",
+      "adószám": "19354709-1-42",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2023-02-23",
+      "statisztikai_számjel": "19354709-9499-569-01",
+      "x_koordináta": "47.4912867",
+      "y_koordináta": "19.0689151"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "Az alapítvány célja elsősorban a Semmelweis Egyetem Medikus Zenekarának anyagi és erkölcsi támogatása, ezzel összefüggésben az egyetemi ifjúság zenei nevelésének elősegítése, továbbá zenei ismeretterjesztés, zenei kulturális örökség megóvása, ennek keretében a zenekarral együttműködő, de azon kívülálló művészek, egyéb közreműködők és a zenei események anyagi és erkölcsi támogatása, a legmagasabb szintű zenei produkciók létrehozása érdekében. Az Alapítvány ösztöndíjat tart fenn a Semmelweis Egyetem kiváló zenekari munkát végző hallgatói számára. Az Alapítvány céljának tekinti továbbá a Semmelweis Egyetem elismertségének és népszerűségének növelését széles társadalmi körben.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-01-0013426",
+      "régi_nyilvántartási_száma": "13426/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-04-08",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "7",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kellermayer",
+        "Képviselő keresztneve": "Miklós",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Freund",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Tulassay",
+        "Képviselő keresztneve": "Tivadar",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Szabó",
+        "Képviselő keresztneve": "Attila",
+        "Képviselő titulusa": "József",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Dubóczky",
+        "Képviselő keresztneve": "Gergely",
+        "Képviselő titulusa": "Attila",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Hermann",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

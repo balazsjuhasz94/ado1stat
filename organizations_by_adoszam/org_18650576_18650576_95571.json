@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18650576",
+  "scraped_at": "2026-09-22T21:59:12.339553",
+  "organization_id": "95571",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Tündérmajor Állatvédő Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "3534 Miskolc, Csortos Gyula utca 2. 1/7.",
+      "x_koordináta": "48.102843",
+      "y_koordináta": "20.7546329",
+      "adószám": "18650576-1-05",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-12",
+      "adószám_törlésének_dátuma": "2022-07-05",
+      "statisztikai_számjel": "18650576-9499-529-05"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Környezetvédelmi tevékenység (pl. természetvédelem, talajvédelem, éghajlatvédelem, szennyezés megelőzés, zöldfelület védelem)",
+      "céljának_leírása": "- az állatok, elsősorban a kutyák, a macskák, és esetenként egyéb háziállatok fokozott védelme, élet-körülményeik javítása, és szerető gazdiknál történő elhelyezése, - az állatvédelmi kultúra fejlesztése, - a megfontolt állattartásra nevelés, - a felelős állattartás népszerűsítése elsősorban a gyermekek körében, - az emberekben, különösen a gyermekekben pozitív érzelmi viszony kialakítása a természet értékei, az állatok iránt.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "05-02-0065328",
+      "régi_nyilvántartási_száma": "65328/2014",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2025-07-10",
+      "alkalmazottak_száma": "2",
+      "a_nyilvántartott_adatok_verziószáma": "14",
+      "a_verzió_bejegyzésének_dátuma": "2025-08-26"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Lengyel",
+        "Képviselő keresztneve": "Anita",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2027-08-21",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "70",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "353 744 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "57",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "305 383 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "47",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "164 121 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "32",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "204 541 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "167 129 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "22",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "213 556 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÜNDÉRMAJOR ÁLLATVÉDŐ EGYESÜLET"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÜNDÉRMAJOR ÁLLATVÉDŐ EGYESÜLET"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "TÜNDÉRMAJOR ÁLLATVÉDŐ EGYESÜLET"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

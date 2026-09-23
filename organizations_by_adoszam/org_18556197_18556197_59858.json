@@ -1,0 +1,76 @@
+{
+  "search_adoszam": "18556197",
+  "scraped_at": "2026-09-22T21:55:29.337914",
+  "organization_id": "59858",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Salida Tánc Sport Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "4220 Hajdúböszörmény, Csiha Antal utca 8.",
+      "x_koordináta": "47.6644386",
+      "y_koordináta": "21.5378022",
+      "adószám": "18556197-1-09",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1999-02-23",
+      "statisztikai_számjel": "18556197-9499-529-09"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "A tánc, mint a szabadidő kellemes és hasznos eltöltésének űzése, a sport hagyományainak ápolása, továbbfejlesztése, ismeretek beszerzése, rendszerezése, egymással és a tagokon kívüli személyekkel történő megismertetése, népszerűsítése, ezáltal az egészségmegőrzés, kulturális ismeretterjesztés elősegítése.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "09-02-0001965",
+      "régi_nyilvántartási_száma": "1965/1999",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-04-16",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "15",
+      "a_verzió_bejegyzésének_dátuma": "2026-03-03"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Tályai",
+        "Képviselő keresztneve": "András",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-02-05",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "43",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 790 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "36",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "158 932 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "41",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "263 934 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

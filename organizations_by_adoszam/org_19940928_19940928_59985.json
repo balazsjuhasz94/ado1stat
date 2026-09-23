@@ -1,0 +1,77 @@
+{
+  "search_adoszam": "19940928",
+  "scraped_at": "2026-09-22T22:28:08.409172",
+  "organization_id": "59985",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Lendület Speciális Sportegyesület.",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "7623 Pécs, József Attila utca 14.",
+      "x_koordináta": "46.0858304",
+      "y_koordináta": "18.2246481",
+      "adószám": "19940928-2-02",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "1979-01-01",
+      "statisztikai_számjel": "19940928-9312-521-02"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység",
+      "céljának_leírása": "Az Egyesület célja az értelmi sérült, mozgássérült és sajátos nevelési igényű emberek rendszeres sportolási lehetőségének biztosítása, a fizikai és lelki rehabilitáció elősegítése. Az egyesület elősegíti az értelmi sérültek, mozgássérültek, sajátos nevelési igényű személyek társadalomba való beilleszkedését, társadalom általi elfogadottságukat, elsősorban sporttevékenység szervezésén, folytatásán keresztül. Az Egyesület célja nagyobb társadalmi nyilvánosságot nyerni az érintettek sport és ehhez kapcsolódó egyéb tevékenysége számára, továbbá sportrendezvények által erősíteni az értelmi sérült, mozgássérült és sajátos nevelési igényű személyek és hozzátartozóik kapcsolatát. Az Egyesület hazai és – a jogszabályokban meghatározott körben – nemzetközi sportkapcsolatokat létesít és tart fenn.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "02-02-0000177",
+      "régi_nyilvántartási_száma": "177/1989",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2014-06-01",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-06-15",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Bársony",
+        "Képviselő keresztneve": "Barnabásné",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-06-15",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2013",
+        "Érvényesen rendelkező magánszemélyek száma": "7",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "26 133 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "1",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "3 773 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "12",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "125 917 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "258 095 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2013",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Mozgássérültek Lendület Sportegyesület"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

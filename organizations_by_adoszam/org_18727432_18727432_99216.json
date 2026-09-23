@@ -1,0 +1,101 @@
+{
+  "search_adoszam": "18727432",
+  "scraped_at": "2026-09-22T22:01:59.312820",
+  "organization_id": "99216",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Győri Sürgősségi Betegellátásért Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9141 Ikrény, Ady Endre utca 34. A. 5.",
+      "x_koordináta": "47.6571783",
+      "y_koordináta": "17.5353271",
+      "adószám": "18727432-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-10-22",
+      "statisztikai_számjel": "18727432-8610-569-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "Petz Aladár Megyei Oktató Kórház sürgősségi betegellátásának fejlesztése, kongresszusok, szakmai továbbképzések támogatása, tárgyi eszközök vásárlása, rekreációs programok szervezése, munkaruházat biztosítása a dolgozók részére, továbbá a célok megvalósítását segíti egyéb eszközök vásárlásához történő hozzájárulás, támogatók felkutatása, támogatások igénybevétele és nyújtása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-01-0051359",
+      "régi_nyilvántartási_száma": "51359/2015",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2018-12-13",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Rogus",
+        "Képviselő keresztneve": "Piroska",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "8610",
+        "Leírás": "Fekvőbeteg-ellátás"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2020",
+        "Érvényesen rendelkező magánszemélyek száma": "4",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "28 613 Ft"
+      },
+      {
+        "Év": "2021",
+        "Érvényesen rendelkező magánszemélyek száma": "31",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "216 772 Ft"
+      },
+      {
+        "Év": "2022",
+        "Érvényesen rendelkező magánszemélyek száma": "29",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "301 142 Ft"
+      },
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "37",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "356 795 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "335 315 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "16",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "123 323 Ft"
+      }
+    ],
+    "kozlemenyek": [
+      {
+        "ÉV": "2020",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Győri Sürgősségi Betegellátásért Alapítvány"
+      },
+      {
+        "ÉV": "2021",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Győri Sürgősségi Betegellátásért Alapítvány"
+      },
+      {
+        "ÉV": "2022",
+        "ÉRVÉNYES CIVIL KEDVEZMÉNYEZETT NEVE": "Győri Sürgősségi Betegellátásért Alapítvány"
+      }
+    ],
+    "kizarasok": []
+  },
+  "error": null
+}

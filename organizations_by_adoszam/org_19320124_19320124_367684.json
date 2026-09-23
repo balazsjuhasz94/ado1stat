@@ -1,0 +1,89 @@
+{
+  "search_adoszam": "19320124",
+  "scraped_at": "2026-09-22T22:18:50.130731",
+  "organization_id": "367684",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Balaton Térség Fejlesztésért Alapítvány",
+      "rövid_név": "Balaton Térség Alapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8314 Vonyarcvashegy, Helikon utca 22",
+      "adószám": "19320124-1-20",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2021-12-28",
+      "statisztikai_számjel": "19320124-9499-569-20",
+      "x_koordináta": "46.7593915",
+      "y_koordináta": "17.3165565"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Kulturális és információs, kommunikációs tevékenység (pl. helyi tömegkommunikáció, művészeti tevékenység, kulturális örökség megőrzése, közgyűjtemény, kiadás, épített környezett védelme, népművészet, hagyományőrzés, közművelődés, kisebbségi, nemzetiségi kultúra ápolása)",
+      "céljának_leírása": "A Balaton térségének, de kiemelten a balatoni kiemelt üdülőövezet fejlődésének elősegítése, turizmus, gasztrokultúra fejlesztése és gasztronómiai értékek megőrzése. Az alapítvány a turisztikai fejlesztés, fejlődés a borkultúra, a szőlőtermelés és borkészítés valamennyi területét támogatni kívánja, a meglévő érétkek és hagyományok őrzése és az új eljárások széles körben való ismertetése által.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "20-01-0001243",
+      "régi_nyilvántartási_száma": "1243/2021",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2024-11-12",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-30",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "6",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Fodor",
+        "Képviselő keresztneve": "Márk",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5811",
+        "Leírás": "Könyvkiadás"
+      },
+      {
+        "Kód": "7311",
+        "Leírás": "Reklámügynöki tevékenység"
+      },
+      {
+        "Kód": "8552",
+        "Leírás": "Kulturális képzés"
+      },
+      {
+        "Kód": "8559",
+        "Leírás": "M.n.s. egyéb oktatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "204 465 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

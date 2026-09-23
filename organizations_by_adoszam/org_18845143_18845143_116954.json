@@ -1,0 +1,68 @@
+{
+  "search_adoszam": "18845143",
+  "scraped_at": "2026-09-22T22:05:48.980040",
+  "organization_id": "116954",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Ronin Sportegyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2660 Balassagyarmat, Mikszáth Kálmán utca 8 3/7",
+      "x_koordináta": "48.0692425",
+      "y_koordináta": "19.2805842",
+      "adószám": "18845143-1-12",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2016-11-03",
+      "statisztikai_számjel": "18845143-9312-521-12"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Sporttevékenység (pl. fizikai, szellemi és technikai sport, diáksport, sportélet)a",
+      "céljának_leírása": "Tagjai részére a rendszeres testedzés, csapatépítés, testmozgás kereteinek biztosítása, tömegsport rendezvények, táborok és versenyek szervezése, azokon való részvétel biztosítása, a lakosság egészségi állapotának javítása ismeretterjesztő anyagok, cikkek publikálásával, előadások , képzések és tanácsadások segítségével.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007058",
+      "régi_nyilvántartási_száma": "7058/2016",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2024-09-10",
+      "a_nyilvántartott_adatok_verziószáma": "18",
+      "a_verzió_bejegyzésének_dátuma": "2026-06-29",
+      "bankszámlaszám": "11720001-21398469",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kopcsányi",
+        "Képviselő keresztneve": "Tamás",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2029-10-30",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": []
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2023",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "116 851 Ft"
+      },
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "20",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "208 442 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "24",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "277 481 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

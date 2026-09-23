@@ -1,0 +1,65 @@
+{
+  "search_adoszam": "19285229",
+  "scraped_at": "2026-09-22T22:17:10.069563",
+  "organization_id": "364920",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Bakony Rali Szabadidősport Egyesület",
+      "rövid_név": "Bakony Rali SE",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "8420 Zirc, Kossuth Lajos utca 51.",
+      "adószám": "19285229-1-19",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-10-26",
+      "statisztikai_számjel": "19285229-9312-521-19",
+      "x_koordináta": "47.2492201",
+      "y_koordináta": "17.8584007"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az ifjúság szabadidejének hasznos eltöltése, szabadidős-, extrém sportok, autó és motorsportok, és egyéb széria-, tuning-, túraversenyek népszerűsítése, és utánpótlások nevelése. Feladatának tartja a közlekedésbiztonságot, a biztonságos járműkezelés technikájának elsajátítását. Tagjai és a sportok iránt érdeklődők részére az ismeretterjesztést, képességfejlesztést, szabadidős-, extrém-, kerékpáros-, motoros és autós programok szervezését, sportrendezvények lebonyolítását és a versenyeken való részvétel biztosítását. Az egyesület olyan tagokat és versenyzőket kutat fel, akik megfelelő szinten képviselik az egyesületet a rendezvényeken és versenyeken. Képviseli tagjainak érdekeit. Az egyesület szolgáltatásaiból tagjain kívül más is részesülhet.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "19-02-0003939",
+      "régi_nyilvántartási_száma": "3939/2020",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-02-23",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2026-02-09"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kocsis",
+        "Képviselő keresztneve": "Imre",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-10-14",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "9312",
+        "Leírás": "Sportegyesületi tevékenység"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

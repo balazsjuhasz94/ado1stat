@@ -1,0 +1,83 @@
+{
+  "search_adoszam": "19345103",
+  "scraped_at": "2026-09-22T22:20:22.245447",
+  "organization_id": "369080",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Zsadány és Környéke Mentőalapítvány",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "5537 Zsadány, Béke utca 94.",
+      "adószám": "19345103-1-04",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2022-09-13",
+      "statisztikai_számjel": "19345103-9499-569-04",
+      "x_koordináta": "46.9202946",
+      "y_koordináta": "21.4660901"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Alapítvány, közalapítvány",
+      "szervezet_célja_szerinti_besorolás": "Egészségügyi tevékenység (pl. kórházi és járóbeteg-ellátás, mentális és szenvedélybetegségek kezelése, lelkisegély-nyújtás, közegészségügy)",
+      "céljának_leírása": "az alapítók szándéka szerint az alapítvány elsősorban a zsadányi mentőállomás munkáját hivatott támogatni és ennek keretében célja: a mentés technikai eszközök beszerzése fejlesztése; új, mentéssel kapcsolatos eszközök, eljárások, szakfelszerelések előállításának és rendszerbeállításának finanszírozása; a személyi állomány munkakörülményeinek javítása; az oktatás, továbbképzés és szakképzés támogatása; más alapítványokkal való együttműködés a mentés, katasztrófaelhárítás, balesetmegelőzés érdekében; a lakosság egészségügyi kultúrájának emelése, illetőleg az erre irányuló tevékenység támogatása; koraszülött-szállítás ellátási színvonalának emelése; a mentés, mint karitatív tevékenység népszerűsítése a lakosság körében; a lakosság széles rétegeit érintő események elsősegélynyújtó szolgálatának biztosítása, illetve az erre irányuló tevékenység támogatása.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "04-01-0002793",
+      "régi_nyilvántartási_száma": "2793/2022",
+      "alapítvány_típusa": "Alapítvány",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2022-08-14",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "4",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Kuti",
+        "Képviselő keresztneve": "István",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Bari",
+        "Képviselő keresztneve": "Bertalan",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      },
+      {
+        "Képviselő vezetkneve": "Kiss",
+        "Képviselő keresztneve": "László",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Együttes",
+        "Képviselő képviseleti terjedelme": "Különös",
+        "Képviselő megbízás időtartama": "",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "19",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "200 751 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

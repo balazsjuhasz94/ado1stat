@@ -1,0 +1,98 @@
+{
+  "search_adoszam": "19213592",
+  "scraped_at": "2026-09-22T22:15:00.662257",
+  "organization_id": "113409",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Pilis Szíve Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "2098 Pilisszentkereszt, Bükkös utca 33",
+      "x_koordináta": "47.715002",
+      "y_koordináta": "18.896837",
+      "adószám": "19213592-1-13",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2019-11-26",
+      "statisztikai_számjel": "19213592-9499-529-13"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Egyéb tevékenység",
+      "céljának_leírása": "1.1 A Pilis és a Visegrádi-hegység, ezen belül különösen Dobogó és természetvédelme elsődlegesen a meglévő természeti adottságok, másodlagosan az épített környezet értékeinek megóvása, gazdagítása, a környezeti értékek megőrzése érdekében. 1.2.A fenntartható fejlődés elősegítése, kiemelten a természet- és környezetvédelmi oktatás - képzés - ismeretterjesztés legújabb módszereinek alkalmazása. 1.3. Dobogókő térségben a közösségi élet kibontakoztatásának előmozdítása, továbbá annak támogatása, hogy a térség fejlődéséért elkötelezett polgárok és szervezetek hatékonyan tevékenykedhessenek környezetük értékeinek megvédésén és fejlesztésén. 1.4. Az egészséges társadalomnak és az esélyegyenlőségnek helyi és országos megteremtésében való részvétel. 1.5. Dobogókő belterületének és közvetlen környékének fenntartásában és fejlesztésében érintett természetes és jogi személyek együttműködésének, koordinációjának létrehozása, társadalmi, gazdasági, kulturális erejének növelése. 1.6. A dobogókői ingatlan-tulajdonosok érdekképviselete. 1.7. Dobogókő fenntartásához és fejlesztéséhez szükséges pénzügyi alapok és egyéb lehetőségek feltárása, bővítése, ezek lehető legcélszerűbb és leggazdaságosabb felhasználásának elősegítése. 1.8. Dobogókő és környéke idegenforgalmi vonzerejének növelése, a helyi turizmus segítése, együttműködés az ebben érintett természetes és jogi személyekkel.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "13-02-0007729",
+      "régi_nyilvántartási_száma": "7729/2019",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2022-12-14",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-07-09",
+      "alkalmazottak_száma": "1",
+      "a_nyilvántartott_adatok_verziószáma": "16",
+      "a_verzió_bejegyzésének_dátuma": "2026-09-14",
+      "bankszámlaszám": "11703006-25994593",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Nagy",
+        "Képviselő keresztneve": "Roland",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2030-05-31",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      },
+      {
+        "Kód": "5221",
+        "Leírás": "Szárazföldi szállítást kiegészítő szolgáltatás"
+      },
+      {
+        "Kód": "7990",
+        "Leírás": "Egyéb foglalás"
+      },
+      {
+        "Kód": "8130",
+        "Leírás": "Zöldterület-kezelés"
+      },
+      {
+        "Kód": "4312",
+        "Leírás": "Építési terület előkészítése"
+      },
+      {
+        "Kód": "3811",
+        "Leírás": "Nem veszélyes hulladék gyűjtése"
+      },
+      {
+        "Kód": "0240",
+        "Leírás": "Erdészeti szolgáltatás"
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "151 005 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "17",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "187 642 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

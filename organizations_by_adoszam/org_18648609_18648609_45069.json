@@ -1,0 +1,62 @@
+{
+  "search_adoszam": "18648609",
+  "scraped_at": "2026-09-22T21:59:08.457608",
+  "organization_id": "45069",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "ŐRVIDÉK KAPUJA Motoros Baráti Kör Egyesület",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "9241 Jánossomorja, Felsőlókert utca 22.",
+      "x_koordináta": "47.7860995",
+      "y_koordináta": "17.1289773",
+      "adószám": "18648609-1-08",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2015-05-28",
+      "statisztikai_számjel": "18648609-9499-529-08"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Szabadidős és hobbitevékenység (pl. természethez kötődő szabadidős tevékenység, öregdiákok, ifjúsági és nyugdíjas szervezetek, gyűjtőtevékenység, horgászat, vadászat)",
+      "céljának_leírása": "Az ŐRVIDÉK KAPUJA Motoros Baráti Kör Egyesület elsősorban a Jánossomorja és környéke motorosainak, a motorozni vágyóknak összefogásával a motoros kultúra, életforma társadalommal történő megismertetését, elfogadtatását tekinti legfőbb céljának. Az egyesület célja megvalósítása érdekében együttműködik minden civil szervezettel, gazdálkodó szervezettel, egyesülettel, szövetséggel, amelyek segítik az egyesület eredményes működését és céljainak megvalósítását. Az egyesület céljai megvalósításához szükséges anyagi feltételek megteremtése érdekében nonprofit, kiegészítő jelleggel gazdasági-vállalkozási tevékenységet végez.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "08-02-0062726",
+      "régi_nyilvántartási_száma": "62726/2015",
+      "közhasznú_fokozata": "Nem közhasznú",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2023-08-22",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "9",
+      "a_verzió_bejegyzésének_dátuma": "2025-01-11"
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Majthényi",
+        "Képviselő keresztneve": "Péter",
+        "Képviselő titulusa": "",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2028-08-22",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "28",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "297 759 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}

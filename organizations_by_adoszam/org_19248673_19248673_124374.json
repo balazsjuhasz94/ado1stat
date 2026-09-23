@@ -1,0 +1,79 @@
+{
+  "search_adoszam": "19248673",
+  "scraped_at": "2026-09-22T22:16:09.877067",
+  "organization_id": "124374",
+  "alapadatok": {
+    "azonosito_adatok": {
+      "teljes_név": "Budapest Investment Club Közhasznú Egyesület",
+      "rövid_név": "BIC",
+      "székhely_ország": "Magyarország",
+      "székhely_címe": "1043 Budapest, Tél utca 3-7. 8/2.",
+      "x_koordináta": "47.5303354",
+      "y_koordináta": "19.066983",
+      "adószám": "19248673-1-41",
+      "adószám_állapota": "Bejegyzett",
+      "adószám_kiadásának_dátuma": "2020-05-08",
+      "statisztikai_számjel": "19248673-8569-529-01"
+    },
+    "fonadatok": {
+      "szervezet_típusa": "Egyesület",
+      "szervezet_célja_szerinti_besorolás": "Oktatási tevékenység (pl. gyermek- és felnőttoktatás, ismeretterjesztés)",
+      "céljának_leírása": "Egy olyan találkozási fórum létesítése, melyben középiskolai diákok, egyetemi hallgatók, és az őket támogató személyek, akik a gazdaság, a tőkepiacok világa iránt érdeklődnek megfelelő keretek között, szakmai ismereteket tudjanak átadni egymásnak. Ezen közösség önfejlesztő, önképző módon, de a magyar és külföldi felsőoktatási intézményekkel együttműködve a pénzügyi tudatosság fejlesztésén munkálkodik.",
+      "állapot": "Nyilvántartásba vett",
+      "nyilvántartási_száma": "01-02-0017397",
+      "régi_nyilvántartási_száma": "17397/2020",
+      "közhasznú_fokozata": "Közhasznú",
+      "közhasznúsági_jogállás_jogerőre_emelkedésének_dátuma": "2026-07-16",
+      "alapító_okirat_legutóbbi_módosításának_dátuma": "2026-06-05",
+      "alkalmazottak_száma": "0",
+      "a_nyilvántartott_adatok_verziószáma": "12",
+      "a_verzió_bejegyzésének_dátuma": "2026-07-17",
+      "bankszámlaszám": "11713184-21455539-00000000",
+      "számlavezető_pénzintézet_neve": "OTP Bank Nyrt."
+    },
+    "kepviselok": [
+      {
+        "Képviselő vezetkneve": "Vas",
+        "Képviselő keresztneve": "Márk",
+        "Képviselő titulusa": "Csaba",
+        "Képviselő tagsági típusa": "06",
+        "Képviselő joggyakorlás módja": "Önálló",
+        "Képviselő képviseleti terjedelme": "Általános",
+        "Képviselő megbízás időtartama": "2031-02-19",
+        "Képviselő megbízás megszűnés": ""
+      }
+    ],
+    "eljarasok": [],
+    "teaor": [
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "",
+        "Leírás": ""
+      },
+      {
+        "Kód": "9499",
+        "Leírás": "M.n.s. egyéb közösségi, társadalmi tevékenység"
+      }
+    ]
+  },
+  "nav_1_percent": {
+    "kedvezmenyezett_adatok": [
+      {
+        "Év": "2024",
+        "Érvényesen rendelkező magánszemélyek száma": "9",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "78 211 Ft"
+      },
+      {
+        "Év": "2025",
+        "Érvényesen rendelkező magánszemélyek száma": "13",
+        "Az érvényes civil kedvezményezettet megillető szja 1% összege": "176 737 Ft"
+      }
+    ],
+    "kozlemenyek": [],
+    "kizarasok": []
+  },
+  "error": null
+}
